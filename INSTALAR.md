@@ -37,9 +37,11 @@ pero no borres el inglés.
 ❌ **No uses el botón "Traducir"** del FTB Quests Translator. Las misiones ya están
 traducidas y revisadas a mano; ese botón las pisaría con una traducción automática.
 
-## ¿Tu PC tiene poca RAM?
+## RAM
 
-La instancia viene configurada con 10 GB. Si tenés menos, cambialo en
+Viene con **8 GB**, que anda bien en una PC de 16 GB.
+
+Si tenés 32 GB y querés darle más, o si tenés 8 GB y necesitás bajarlo:
 `Editar instancia` → `Configuración` → `Memoria`.
 
 ## ¿Algo no anda?

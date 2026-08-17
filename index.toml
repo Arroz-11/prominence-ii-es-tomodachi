@@ -8342,6 +8342,234 @@ file = "resourcepacks/Prominence-II-ES/assets/prominent/lang/es_ve.json"
 hash = "c122ae74dd37d38822b8f50e3733f19e10382a1c2074eca83dd4b395c4efcc80"
 
 [[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/alm/hourglass/dialogue_alm_get_hourglass_1.ogg"
+hash = "79c0c909344cb0d90d68c73df46cb43e52430ee721d6e753bd9c8cf202a95906"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/alm/hourglass/dialogue_alm_get_hourglass_2.ogg"
+hash = "8b909ebd6c876a6700e9069d1edb82ced033ea72dc6ee232d33fb5a76e18abf2"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/alm/hourglass/dialogue_alm_get_hourglass_3.ogg"
+hash = "a025bccd430f14b8aa44986632d4fb167d5e237d306ad13d586d8e9369029626"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/alm/hourglass/dialogue_alm_get_hourglass_4.ogg"
+hash = "e08405f7622a099cc8e206d7fb8fcf8d7767833664bfc5b0dfe8221a6887507a"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/alm/hourglass/dialogue_alm_get_hourglass_5.ogg"
+hash = "c753b9a4c9e02d0fec5e7ad0dc995c7889a367e0cc2674b61717c26780334d77"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/alm/hourglass/dialogue_alm_get_hourglass_6.ogg"
+hash = "216c76dc8a237e729eff8f02f35859e897dccf3c131d73839b7b7a1f40abb893"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/gumas/gumas_1.ogg"
+hash = "9dc9474d728e5da20e5b1ce634029e8b0c54698801857b4b37191939d1d984ad"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/gumas/gumas_2.ogg"
+hash = "e6227ae2b70f3484ab7e1615696f16ee0b0a54e1b8ad5b6a5cbe8249d4e185d4"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/gumas/gumas_3.ogg"
+hash = "b75a78bf5666050a2a819ad9e141158aafeb0b566573fcc3834ae8171b83736a"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/gumas/gumas_4.ogg"
+hash = "f6b095a8bf13dac44dbf66c3382c6fef6929305368374f1d0b57d763a65eafa9"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/hastur/unspeakable_one/unspeakable_one_1.ogg"
+hash = "46d0afa8856944872463ae483cb3186c6d34351a9f137073c2061796bcc6ce9f"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/hastur/unspeakable_one/unspeakable_one_2.ogg"
+hash = "91afe12c1d11e433326d6978ecc66c033c5766c89e7c87147a1181a242be2141"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/hastur/unspeakable_one/unspeakable_one_3.ogg"
+hash = "1dd8632c725435159c6da0e359854471903a9cb9de081fb28670701f4b0d97b7"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/hastur/unspeakable_one/unspeakable_one_4.ogg"
+hash = "c3ccaf99d1dbbdaf40d1d753f677437b40ec84116486d8fcc1c851b6cdcbf0bb"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/hastur/unspeakable_one/unspeakable_one_5.ogg"
+hash = "c38becc4afee3bdfb12f9f121b5521907ac72d2e03ef97ce6a1be9f9c8fd2a9f"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/mirgaff/forge_preparations/dialogue_mirgaff_postforge_1.ogg"
+hash = "1ca057799f6a59c72117c3f9c30054df6e46cde94e68aa43db383d94b6bc18d8"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/mirgaff/forge_preparations/dialogue_mirgaff_postforge_2.ogg"
+hash = "c5e6a34530fe25e70f679cdc64ffcdea7fd213058c3b6a65c1574abee2e6a05b"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/mirgaff/forge_preparations/dialogue_mirgaff_postforge_3.ogg"
+hash = "b6d8b02b4d418a3e2513947c41ff936f78294b75d954ce96bcfdfffc08c5670d"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/mirgaff/forge_preparations/dialogue_mirgaff_postforge_4.ogg"
+hash = "15ad2860ca4019fddcef96acfdb6a7099e06daaa38a38d3ab786b3d058010359"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/mirgaff/pre_spider/dialogue_mirgaff_forge_1.ogg"
+hash = "d80c7991f946985c8594dd9895bdbe94f2b08cee968babe27e3d0597470919f8"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/mirgaff/pre_spider/dialogue_mirgaff_forge_2.ogg"
+hash = "04fdb9df0245b534990f3617d9e65a72498c5b98bb1e55125afd509790804f50"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/mirgaff/pre_spider/dialogue_mirgaff_forge_3.ogg"
+hash = "973b06ea5dc52e770d07a90f4a78627e22684df0656d9132b8fc6315a285896e"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/mirgaff/pre_spider/dialogue_mirgaff_forge_4.ogg"
+hash = "71aaa7db52734062e25abd882e59a0db8150b735d11646bb9f4d054613726394"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/mirgaff/pre_spider/dialogue_mirgaff_forge_5.ogg"
+hash = "70c384a6b3ee17943e8ec2ab4fe563444d718cf0412734b4800c75619f376a3d"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/mirgaff/pre_spider/dialogue_mirgaff_forge_6.ogg"
+hash = "82e176235e9c3ad3f71b6d8998bf982863383c448bf42dcfd61474d131993b26"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/mirgaff/pre_spider/dialogue_mirgaff_forge_7.ogg"
+hash = "1d20d16c41af078194eb7ebd12c22914bc3bf9b541bf2584510e888a7a6023e1"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/assault/dialogue_skellak_assault_1.ogg"
+hash = "504e61db2583b21293253f347be0730893bbbc7cf28053d41fcbed9bf4040ca1"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/assault/dialogue_skellak_assault_2.ogg"
+hash = "d28f4371d9c3671e8f0f38316a3d0969d94345e9ff4ccd503b95d0caacc6f916"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/assault/dialogue_skellak_assault_end_1.ogg"
+hash = "b9acdc3226c15b80db11559186f1817afa0ef225fc766d25ee7ca92e89794576"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/assault/dialogue_skellak_assault_end_2.ogg"
+hash = "152695fd1295f15cbd54ae94ec20fd240af18733b48c970874b628ce713bfe78"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/assault/dialogue_skellak_assault_end_3.ogg"
+hash = "7de3833e83c6c9db1750743d335db6b7d67e3724d1d687bd1d2731d19df2b90e"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/intro/skellak_intro_1.ogg"
+hash = "9da56ff46f6423eb84dc2ff0c9d263a00a8113afa35fd7db0812dd31e7f3d14c"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/intro/skellak_intro_2.ogg"
+hash = "37a8f89ac413f9d9b4748cc694a52e55ce433476af4b010dd4f849759d201eea"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/intro/skellak_intro_3.ogg"
+hash = "691896861a3cb924011ccda6634a557622c44294a2e1178d3efbe7674c907a55"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/intro/skellak_intro_4.ogg"
+hash = "888d56855b882d47d88bc6c298cac57a2707b360c20d5fdea100cb093d2cf8b2"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/intro/skellak_intro_5.ogg"
+hash = "24ea071dbadaa0ecfa06639b30579a98661011ab3d2cd45c0e555d38864e9367"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/intro/skellak_intro_6.ogg"
+hash = "e8c3c58cc1e892ef4d7efb2716f523c30d43679d2f6b763af82c4366ba2790fd"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/molten_core/skellak_molten_core_1.ogg"
+hash = "746235138154736a9671328f157c17c6254dd3aa0330126dd62d05df4ef36ff6"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/molten_core/skellak_molten_core_2.ogg"
+hash = "4bf974f0cad7e08ac7b5a1602f6b7e7f20556917225597536a23f3ca1e6e17b9"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/molten_core/skellak_molten_core_3.ogg"
+hash = "13002bd391ad59082134bae63dc5b09319bc6d5faa7dcc7997d1c54979fdb463"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/primordial_forge/meeting_mirgaff/dialogue_skellak_meeting_mirgaff_1.ogg"
+hash = "fc62a353d214b0f8fd5f3b5f74ecc3acdeb171a63f6bc4e3505b9802a8f10342"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/primordial_forge/meeting_mirgaff/dialogue_skellak_meeting_mirgaff_2.ogg"
+hash = "2ca7e8436eb88f25bedb8d602638a515785f1b20c997a8aae28d6b6014123611"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/worrying_reunion/dialogue_skellak_1_both_killed.ogg"
+hash = "44e6439a2191d35452a1b71b2408de340554b000ae4ad8ebc288acaa68e63977"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/worrying_reunion/dialogue_skellak_1_decaying_killed.ogg"
+hash = "ac387140aa5fbacab0c22cccd8d0fb4e37860d4ccd251881e4013927c57aec97"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/worrying_reunion/dialogue_skellak_1_lich_killed.ogg"
+hash = "ea899f9987d558752970bf4b127d4dd4effa07af7c6414b954ff0d1a0f53adcb"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/worrying_reunion/dialogue_skellak_2.ogg"
+hash = "7eb748c2436f7aa5471802c95e6137d4c050ba029d0bba678a98082f1b1cef21"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/worrying_reunion/dialogue_skellak_3.ogg"
+hash = "b28d4823f59ed0d65d30987aa92e38306f09c519ca2522bdf648d975eadfcbef"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/worrying_reunion/dialogue_skellak_4.ogg"
+hash = "4f900b8a03e5721e920215c4d0e1a69314f44fbe532cff7852c5f23f8f45ff01"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/skellak/worrying_reunion/dialogue_skellak_5.ogg"
+hash = "e94f93e3680c4e8180c46ee21c7a4039827797b5ca37276f7d20b077f667d961"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/tutorial/radin_1.ogg"
+hash = "0f5d3e23a48c56dd14d5af9ce6f42a69dfbcaef30067a177fba1fbbb0474ec1e"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/tutorial/radin_2.ogg"
+hash = "5fea6692e414fd8e7d9e9675e5d9cf8eb8599bb7676bbf2756b1fb4a33c12fe3"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/tutorial/radin_3.ogg"
+hash = "8451d0ce1e814334300ac3aea4fbfa50188ecb791a89e0458f1846f4eb0c43e6"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/tutorial/radin_4.ogg"
+hash = "f790ba89be7785b1b7f50c9ddf9e32fd5291d9a9467793fd83619846cc15b84a"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/tutorial/radin_5.ogg"
+hash = "c3dda876bf49ab5e9180206d476800aa00be023f44ab399d7cb428470c4600f1"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/tutorial/radin_6.ogg"
+hash = "2f2de8d81383de90919bee8fab694dee15b16bfcdf618e845197aacb58ba0696"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/tutorial/radin_7.ogg"
+hash = "a07cf97a3982418c37e9bddca569bac131ecbd1211b4370bd0dab6030cfe5b1c"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/prominent/sounds/dialogue/tutorial/radin_8.ogg"
+hash = "00209f729151d36b9fd6b8713649a5739eb0e516639d66e2ffdc4eef2404b543"
+
+[[files]]
 file = "resourcepacks/Prominence-II-ES/assets/prominent/textures/text/dimensionalthreats.png"
 hash = "021854fb3c0c7cf4a5150b8a14efef0b87c3d1923e6ae6cda4efbae7f67b59cb"
 

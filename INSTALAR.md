@@ -4,7 +4,7 @@
 
 https://prismlauncher.org/download/
 
-Necesitás **Java 17**. Si no lo tenés: https://adoptium.net (elegí Temurin 17).
+Necesitás **Java 17 o 21**. Si no tenés ninguno: https://adoptium.net (Temurin 21).
 
 ## 2. Bajate este archivo
 
@@ -37,11 +37,12 @@ pero no borres el inglés.
 ❌ **No uses el botón "Traducir"** del FTB Quests Translator. Las misiones ya están
 traducidas y revisadas a mano; ese botón las pisaría con una traducción automática.
 
-## RAM
+## RAM y rendimiento
 
-Viene con **8 GB**, que anda bien en una PC de 16 GB.
+Viene con **8 GB** y las flags de Aikar ya puestas — no hace falta que toques nada
+de Java ni copies configuraciones.
 
-Si tenés 32 GB y querés darle más, o si tenés 8 GB y necesitás bajarlo:
+Si tenés 32 GB de RAM y querés darle más, o si tenés 8 GB y necesitás bajarlo:
 `Editar instancia` → `Configuración` → `Memoria`.
 
 ## ¿Algo no anda?

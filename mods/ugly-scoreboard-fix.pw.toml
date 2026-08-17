@@ -1,0 +1,13 @@
+name = "Ugly Scoreboard Fix"
+filename = "uglyscoreboardfix-2.10.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8bcFGNZj/versions/CR8UYJrz/uglyscoreboardfix-2.10.0.jar"
+hash-format = "sha512"
+hash = "89e84246f47ced5d6759937f617b60a24b1d5a464319b3a90f7d5cecf76efd56c9cba85172aac76faf7acd9828133599a9d856ebc86dfd74d9797b8a6429b419"
+
+[update]
+[update.modrinth]
+mod-id = "8bcFGNZj"
+version = "CR8UYJrz"

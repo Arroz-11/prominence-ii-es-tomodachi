@@ -173,7 +173,7 @@ _version = 4
 			#
 			# If enabled, a chat message will be displayed when DH has too many chunks 
 			# queued for updating.
-			showSlowWorldGenSettingWarnings = true
+			showSlowWorldGenSettingWarnings = false
 			#
 			# If enabled, a chat message will be displayed when DH has too many chunks 
 			# queued for updating.
@@ -181,15 +181,15 @@ _version = 4
 			#
 			# If enabled, a chat message will be displayed if Java doesn't have enough 
 			# memory allocated to run DH well.
-			showLowMemoryWarningOnStartup = true
+			showLowMemoryWarningOnStartup = false
 			#
 			# If enabled, a chat message will be displayed when a replay is started 
 			# giving some basic information about how DH will function.
-			showReplayWarningOnStartup = true
+			showReplayWarningOnStartup = false
 			#
 			# If enabled, a chat message will be displayed when a potentially problematic 
 			# mod is installed alongside DH.
-			showModCompatibilityWarningsOnStartup = true
+			showModCompatibilityWarningsOnStartup = false
 			#
 			# If enabled, a chat message will be displayed if vanilla MC's 
 			# render distance is higher than the recommended amount.
@@ -202,12 +202,12 @@ _version = 4
 			# If enabled, a message will be logged if the garbage 
 			# collector Java is currently using is known 
 			# to cause frame stuttering and/or other issues.
-			logGarbageCollectorWarning = true
+			logGarbageCollectorWarning = false
 			#
 			# If enabled, a chat message will be displayed if the garbage 
 			# collector Java is currently using is known 
 			# to cause frame stuttering and/or other issues.
-			showGarbageCollectorWarning = true
+			showGarbageCollectorWarning = false
 
 	[common.worldGenerator]
 		#
@@ -442,7 +442,7 @@ _version = 4
 		[client.advanced.graphics]
 			#
 			# Enable Screen Space Ambient Occlusion
-			enableSsao = true
+			enableSsao = false
 			#
 			# If true some vanilla graphics settings will be automatically changed 
 			# during DH setup to provide a better experience. 
@@ -522,7 +522,7 @@ _version = 4
 				#  overhangs or walls for floating objects. 
 				#  Tweaking the caveCullingHeight, can resolve some 
 				#  of those issues.
-				enableCaveCulling = false
+				enableCaveCulling = true
 				#
 				# At what Y value should cave culling start? 
 				# Lower this value if you get walls for areas with 0 light.
@@ -647,7 +647,7 @@ _version = 4
 				#
 				# Should DH fade out before reaching the far clip plane? 
 				# This is helpful to prevent DH clouds from cutting off in the distance.
-				dhFadeFarClipPlane = true
+				dhFadeFarClipPlane = false
 				#
 				# If true DH will try to use the camera position when 
 				# determining LOD quality drop-off. 
@@ -685,14 +685,14 @@ _version = 4
 				# 
 				# Lowest Quality: HEIGHT_MAP
 				# Highest Quality: PIXEL_ART
-				verticalQuality = "HIGH"
+				verticalQuality = "LOW"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
 				# 
 				# Note: this is a best effort number. 
 				# The actual render distance may be above or below this number 
 				# depending on your other graphic settings.
-				lodChunkRenderDistanceRadius = 125
+				lodChunkRenderDistanceRadius = 64
 				#
 				# How should the sides and bottom of grass block LODs render? 
 				# 
@@ -705,13 +705,13 @@ _version = 4
 				# 
 				# Higher settings will increase the distance between drops 
 				# but will increase memory and GPU usage.
-				horizontalQuality = "HIGH"
+				horizontalQuality = "LOW"
 				#
 				# How should LOD transparency be handled. 
 				# 
 				# COMPLETE: LODs will render transparent. 
 				# DISABLED: LODs will be opaque.
-				transparency = "COMPLETE"
+				transparency = "DISABLED"
 				#
 				# This is the same as vanilla Biome Blending settings for Lod area. 
 				#     Note: anything above '0' will slow down LOD loading time. 
@@ -719,14 +719,14 @@ _version = 4
 				#     '0' equals to Vanilla Biome Blending of '1x1' or 'OFF', 
 				#     '1' equals to Vanilla Biome Blending of '3x3', 
 				#     '2' equals to Vanilla Biome Blending of '5x5'...
-				lodBiomeBlending = 3
+				lodBiomeBlending = 1
 				#
 				# How should vanilla Minecraft fade into Distant Horizons LODs? 
 				# 
 				# NONE: Fastest, there will be a pronounced border between DH and MC rendering. 
 				# SINGLE_PASS: Fades after MC's transparent pass, opaque blocks underwater won't be faded. 
 				# DOUBLE_PASS: Slowest, fades after both MC's opaque and transparent passes, provides the smoothest transition.
-				vanillaFadeMode = "DOUBLE_PASS"
+				vanillaFadeMode = "SINGLE_PASS"
 
 			[client.advanced.graphics.fog]
 				#

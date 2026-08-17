@@ -4886,11 +4886,15 @@ hash = "a0588302c077e2fe9140669a30bfd7dcdd0f2a77af172e85b296deafbb26a600"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "468ac6018f77320a15cfec8a475cde02edbf3891aed0e54f6feae4aeaa8537d5"
+hash = "98037addb470ab9b1293dbabaa849a26bf5a879a05a94287b6d108ab32b9a5b4"
 
 [[files]]
 file = "config/yosbr/config/maplink/general.json5"
 hash = "8245b1a316998a0e44592125d9780917fd2da2c2559e3b794de1d4cc8c7e4e96"
+
+[[files]]
+file = "config/yosbr/config/uglyscoreboardfix.conf"
+hash = "3152a3c0545d09e95b5b03eed58a5865d13d90ca8d837b080e0b5f5d9c1eda77"
 
 [[files]]
 file = "config/yosbr/essential/config.toml"
@@ -6594,6 +6598,11 @@ file = "mods/common-networking-fabric-1.0.5-1.20.1.jar"
 hash = "64e8819c575f4df670de740013ea6cd7b184f6fd08606098b82ed3a70b78b605"
 
 [[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "531b98832584b7ad175dbf730dac5bca956b74bb9f240b93048d5858d2ae34cf"
+metafile = true
+
+[[files]]
 file = "mods/config-menus-forge.pw.toml"
 hash = "78740a1251a963c87733c086d9ee52f24e61e2e281b9d557e91037a4dfcf2e02"
 metafile = true
@@ -8166,6 +8175,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "92e656fc385c341b515bbcadd61cd5ab2ed81aeb509528e3966a7892ceeb27d1"
+metafile = true
+
+[[files]]
+file = "mods/ugly-scoreboard-fix.pw.toml"
+hash = "215e87be2b4d88a5542d91fb68b364615ede1c1770a1f40766828f118dac6658"
 metafile = true
 
 [[files]]

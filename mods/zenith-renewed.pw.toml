@@ -3,11 +3,11 @@ filename = "zenith_renewed-2.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6d6524da092a9bf81f08b921b21cca21a83ebfd7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/GTDFctVr/versions/T6bH9nd3/zenith_renewed-2.0.2.jar"
+hash-format = "sha512"
+hash = "8eb0a0b5ff184ea120b544e57a030a87fdbe0b018ed27e7246da2b3e7f5ca9e518bcbbadc93350435b0133c65e8c55784d928f2fffa15e33e1b7a5f71954a9fe"
 
 [update]
-[update.curseforge]
-file-id = 8187964
-project-id = 1514479
+[update.modrinth]
+mod-id = "GTDFctVr"
+version = "T6bH9nd3"

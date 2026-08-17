@@ -3,11 +3,11 @@ filename = "simply-swords-battle-standard-tweaks-1.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e7d4e44f319920ccf5f332870aa966d8fd807585"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/jZp8yNTq/versions/wJx1BqRQ/simply-swords-battle-standard-tweaks-1.3.0.jar"
+hash-format = "sha512"
+hash = "fc80cd79d9adc2b0d3f21caae11f71d03cc5cc347c1c03f0bd94105ea82c3f62c1c6717265bc0f8cce8de545535140fd3cb9c909697efaa9d1f4093b8c73732c"
 
 [update]
-[update.curseforge]
-file-id = 7748708
-project-id = 1468172
+[update.modrinth]
+mod-id = "jZp8yNTq"
+version = "wJx1BqRQ"

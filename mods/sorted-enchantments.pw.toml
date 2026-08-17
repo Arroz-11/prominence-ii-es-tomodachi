@@ -3,11 +3,11 @@ filename = "sorted_enchantments-2.0.0+1.19.3+fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e0cd809dc3bb7973f21325437f7e4e17ba04787d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/jmHEp0Dv/versions/NYJkzA3f/sorted_enchantments-2.0.0%2B1.19.3%2Bfabric.jar"
+hash-format = "sha512"
+hash = "89e514dcc8f2825582bbee4488d016ab13bafb2bdd89cbd5ba169a1f728ebbe883e507dcaa4c91438496cd74132b25d00ba393c408d16a99262026c5225b6d91"
 
 [update]
-[update.curseforge]
-file-id = 6965525
-project-id = 974256
+[update.modrinth]
+mod-id = "jmHEp0Dv"
+version = "NYJkzA3f"

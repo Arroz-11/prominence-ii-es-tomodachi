@@ -3,11 +3,11 @@ filename = "ad_astra-fabric-1.20.1-1.15.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "66ffb3d9e39ae5ab698a1528eab57ef0fdd1bfc4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/3ufwT9JF/versions/gZClwdxY/ad_astra-fabric-1.20.1-1.15.20.jar"
+hash-format = "sha512"
+hash = "5d5b5e8cc24cc5a255a701139bec1f4ab289f790d5e2935a5921f7748a5de2860a238900b3fcb6f27cc4fcf7754464be70ac412b3bc195256686378a99bd0b57"
 
 [update]
-[update.curseforge]
-file-id = 6262034
-project-id = 635042
+[update.modrinth]
+mod-id = "3ufwT9JF"
+version = "gZClwdxY"

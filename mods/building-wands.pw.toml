@@ -3,11 +3,11 @@ filename = "BuildingWands-fabric-MC1.20.1-3.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "40af1ab2ae6c89bac23f6b502bbb8ae3f820487b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XkisZUfp/versions/O6VsmOvM/BuildingWands-fabric-MC1.20.1-3.0.2.jar"
+hash-format = "sha512"
+hash = "33c86e1179f540f274f7b969e6a66c7255e790657cba88c2a171fdd667e271ec6c707e7f66c2241775173e6653c8a32cb3aeef7ed3e7416ebd8cd77943010980"
 
 [update]
-[update.curseforge]
-file-id = 7696857
-project-id = 363392
+[update.modrinth]
+mod-id = "XkisZUfp"
+version = "O6VsmOvM"

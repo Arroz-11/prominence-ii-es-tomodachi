@@ -3,11 +3,11 @@ filename = "dummmmmmy-1.20-2.0.12-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4d34137a8bd1d8f6dd95473b6d15b75c417c269e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/6VosBxNt/dummmmmmy-1.20-2.0.12-fabric.jar"
+hash-format = "sha512"
+hash = "5a31ebfb432b5354dd25777d4984fce06277fae0d82c757b399ef9d99b1d3a34b7c0e51ef6cdbc36d99c2ece6df3849bee683c7b58297795d15daeb03d75eea5"
 
 [update]
-[update.curseforge]
-file-id = 7963207
-project-id = 225738
+[update.modrinth]
+mod-id = "Adega8YN"
+version = "6VosBxNt"

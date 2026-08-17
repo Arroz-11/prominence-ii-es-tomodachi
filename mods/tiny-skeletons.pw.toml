@@ -3,11 +3,11 @@ filename = "TinySkeletons-v8.0.1-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f91764a744e282fc8656142eaaf13966e6add76c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/A2xcMSUn/versions/pPzF5vy3/TinySkeletons-v8.0.1-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "bc4cdcc0a62d3663a002d378b278791d9297e92d8c585608cea2e606f59febfc61284f711aeed5d210731c6b99150c7e40791ab32ab6984bbf14282a79625dda"
 
 [update]
-[update.curseforge]
-file-id = 4708827
-project-id = 548647
+[update.modrinth]
+mod-id = "A2xcMSUn"
+version = "pPzF5vy3"

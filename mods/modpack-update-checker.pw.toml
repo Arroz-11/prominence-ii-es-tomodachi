@@ -3,11 +3,11 @@ filename = "modpack-update-checker-1.20.1-fabric-0.15.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5acd6bafbdde41d3d6b025772b4eacce5a710e0f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rR4tY6Cw/versions/LVoowSbQ/modpack-update-checker-1.20.1-fabric-0.15.6.jar"
+hash-format = "sha512"
+hash = "7678c4c0f5aa90357ac36d1ce3cb6a1ecb7ae5db7d7a08d6b2e7fdce90a32bf6c69142441545b8f7823c165736e3446e307cc3a5c63eb091e49258c4b8df9523"
 
 [update]
-[update.curseforge]
-file-id = 6681425
-project-id = 847414
+[update.modrinth]
+mod-id = "rR4tY6Cw"
+version = "LVoowSbQ"

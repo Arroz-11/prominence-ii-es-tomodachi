@@ -1,0 +1,13 @@
+name = "kleeslabs-fabric-1.20"
+filename = "kleeslabs-fabric-1.20-15.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7uh75ruZ/versions/uvZ7fLIP/kleeslabs-fabric-1.20-15.0.4.jar"
+hash-format = "sha512"
+hash = "777e240ed6b96a8fb48468ce33556a2a7dc09ffafdccdf5cf43722e5f2c6520db4209a56fb46bca8a1f205fe4d634a4919fa4afca37f6a739e3850748881e406"
+
+[update]
+[update.modrinth]
+mod-id = "7uh75ruZ"
+version = "uvZ7fLIP"

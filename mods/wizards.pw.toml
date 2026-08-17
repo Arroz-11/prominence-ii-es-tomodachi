@@ -3,11 +3,11 @@ filename = "wizards-1.4.1+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f898ae53feaf42c0f14fb2b12ac52df84e215d8f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NkGaQMDA/versions/QPbAhJE1/wizards-1.4.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "b413f5fb382bf177ebf66ec55abd520c65aac4ac13cb1ea64f2fb120b311340231d8f87be27f99b86dfdf60663e5b2ad25f123ca79df2d2b567acbdccd223f04"
 
 [update]
-[update.curseforge]
-file-id = 6097310
-project-id = 734325
+[update.modrinth]
+mod-id = "NkGaQMDA"
+version = "QPbAhJE1"

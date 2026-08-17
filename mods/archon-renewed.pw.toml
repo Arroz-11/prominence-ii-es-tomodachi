@@ -3,11 +3,11 @@ filename = "Archon-1.1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f8f4f0762543dd900cced5c68f66ea19d4e74361"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/qAHEe69a/versions/2M6Fhhxf/Archon-1.1.5.jar"
+hash-format = "sha512"
+hash = "2c48ac54c1eadcdeb16730c991a0ca18e205dc5b56b93fb698df91361e76298fa64eacb2086f0d42dc52250f504490aac2648ffb3e4c20e09c03ee2d89692391"
 
 [update]
-[update.curseforge]
-file-id = 8171873
-project-id = 1503259
+[update.modrinth]
+mod-id = "qAHEe69a"
+version = "2M6Fhhxf"

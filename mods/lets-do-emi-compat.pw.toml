@@ -3,11 +3,11 @@ filename = "emi-letsdo-compat-1.8.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d75de241f5c84f25f25e76a61f19324682db16bc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/k6hi4lMv/versions/15mc7dlf/emi-letsdo-compat-1.8.1.jar"
+hash-format = "sha512"
+hash = "5522a59e11a1201d9a3c269813ab8083e9fdc926cc0f5f78f8ecea67ea474150260e731264ba5a870ec5c6e2742af83c6fb6850c8e004f739e86ac57bb2d9b29"
 
 [update]
-[update.curseforge]
-file-id = 7273869
-project-id = 1063821
+[update.modrinth]
+mod-id = "k6hi4lMv"
+version = "15mc7dlf"

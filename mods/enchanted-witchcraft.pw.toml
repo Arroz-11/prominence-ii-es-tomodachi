@@ -3,11 +3,11 @@ filename = "enchanted-fabric-1.20.1-3.1.14.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "206b980524abd5bf4fd0603cd03664f8fcc96508"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/HsbpdVo9/versions/JQc2jrQz/enchanted-fabric-1.20.1-3.1.14.jar"
+hash-format = "sha512"
+hash = "46075295057d438ac82e40fa55006a67add679484743b7b62db80d39a704c07663d79da2107ba6b01b4a8aa45c582377b3d4693744e5c72ece457494e748955c"
 
 [update]
-[update.curseforge]
-file-id = 8280422
-project-id = 560363
+[update.modrinth]
+mod-id = "HsbpdVo9"
+version = "JQc2jrQz"

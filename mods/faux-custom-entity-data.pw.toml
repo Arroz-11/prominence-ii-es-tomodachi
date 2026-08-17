@@ -3,11 +3,11 @@ filename = "FauxCustomEntityData-fabric-1.20.1-6.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5c9c840aeda651dd23395ef82a81ea1b8fa2d23a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/E7ZFR7qk/versions/11wR6r8x/FauxCustomEntityData-fabric-1.20.1-6.0.1.jar"
+hash-format = "sha512"
+hash = "db9599b6bbbf236ee48712052731cccae0b2431f959d047e51c94b4a4ce9ad48710da48ae699d06b275e9ebb74ddb5b5ccf7678efee9a1ecafc2a04456ed9105"
 
 [update]
-[update.curseforge]
-file-id = 4607750
-project-id = 575305
+[update.modrinth]
+mod-id = "E7ZFR7qk"
+version = "11wR6r8x"

@@ -3,11 +3,11 @@ filename = "simplyskills-1.7.2+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "34cf56aa27a6b238e1a4ef9d4d179902f7dd1b3f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/lyvwxqAy/versions/iW1p2lwn/simplyskills-1.7.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "3955d02260ee46978657dbc52a9c926b4e05fae83c1afa56c863d6b8f0d500b9da6117649747a13905c12601f11461e63ce89e5399b25a1d39d36fe4c77cb270"
 
 [update]
-[update.curseforge]
-file-id = 6282680
-project-id = 890301
+[update.modrinth]
+mod-id = "lyvwxqAy"
+version = "iW1p2lwn"

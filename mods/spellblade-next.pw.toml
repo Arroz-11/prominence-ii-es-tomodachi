@@ -3,11 +3,11 @@ filename = "spellbladenext-2.3.0+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e1624284d3b9678128d5b33b3b15d6170374ab34"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/VJkx9nDN/versions/720mYNSd/spellbladenext-2.3.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "8a8b9b280ac6bc763ce868f66dec496e11d14cb0669c28a86f04bab85388bacbca117dfda4817227a27f13cd7a6a24c9e9eff544d515467191bdfa8bcbe5637d"
 
 [update]
-[update.curseforge]
-file-id = 6038237
-project-id = 811662
+[update.modrinth]
+mod-id = "VJkx9nDN"
+version = "720mYNSd"

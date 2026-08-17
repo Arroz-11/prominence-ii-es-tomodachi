@@ -3,11 +3,11 @@ filename = "MoogsVoyagerStructures-1.20-5.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a908cc074434e7f62d067e04b92ff3139ef02e88"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/OQAgZMH1/versions/TIfNi62J/MoogsVoyagerStructures-1.20-5.0.6.jar"
+hash-format = "sha512"
+hash = "9a7766853f3acead7a6f8af9c83b9a96d448042769ea0508a74c0c989c03642e4ca73c69556526141ce2fcd51b35d12db70044509d0e7c1563578fbc006f6591"
 
 [update]
-[update.curseforge]
-file-id = 8029470
-project-id = 656977
+[update.modrinth]
+mod-id = "OQAgZMH1"
+version = "TIfNi62J"

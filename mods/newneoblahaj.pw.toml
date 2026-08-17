@@ -3,11 +3,11 @@ filename = "newblahaj-1.0.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "26b5d6fee710abcf0838e2a7f7dc42a7e25d6dfc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/PCLfY264/versions/PVhR5Z7k/newblahaj-1.0.9.jar"
+hash-format = "sha512"
+hash = "087e3168100efb493064e0220a1103ed81129cf9d27f2ed34d4933ab36c9adf1cf115dce21e9be1d8a40f599d105d9956b0095e3b9d7859a56349ebde08c622d"
 
 [update]
-[update.curseforge]
-file-id = 8219407
-project-id = 1541213
+[update.modrinth]
+mod-id = "PCLfY264"
+version = "PVhR5Z7k"

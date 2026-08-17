@@ -3,11 +3,11 @@ filename = "chatanimation-fabric-1.20.1-1.1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "25310f8bd85bd4e7e4f4c2332e2a32b24814ffc5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/DnNYdJsx/versions/KJiNFdpz/chatanimation-fabric-1.20.1-1.1.3.jar"
+hash-format = "sha512"
+hash = "13c1109abf69529bf284a57c23e0e20d0f33facf25f3c2aeb9d6aaabb65d8213d33742b2de51c48d2917bde45b87cbe420632b5e4bb0afe970c67613853bd8f7"
 
 [update]
-[update.curseforge]
-file-id = 7325650
-project-id = 892086
+[update.modrinth]
+mod-id = "DnNYdJsx"
+version = "KJiNFdpz"

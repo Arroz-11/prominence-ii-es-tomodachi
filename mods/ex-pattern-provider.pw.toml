@@ -3,11 +3,11 @@ filename = "ExtendedAE-1.20-1.0.2-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "712edf150e4dc26d4a00476e4bd0d66392ebe3c8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/JiOqfoFM/versions/Wmmw6SrO/ExtendedAE-1.20-1.0.2-fabric.jar"
+hash-format = "sha512"
+hash = "89c415a25d4b59e9df3241cdf03f4283ec86cebf39c8cc425e462e45342ebb0bb69737015621a801a3925d2b2e3338ea4f6a56c3dc47a08fa1ba78f8fba4123c"
 
 [update]
-[update.curseforge]
-file-id = 5407904
-project-id = 892005
+[update.modrinth]
+mod-id = "JiOqfoFM"
+version = "Wmmw6SrO"

@@ -3,11 +3,11 @@ filename = "BOMD-1.7.5-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6312dfbbc64f5621a3f5169ff6c53f567baee56b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/du3UfiLL/versions/yoCCX4Cc/BOMD-1.7.5-1.20.1.jar"
+hash-format = "sha512"
+hash = "4455247f1652cf097bdab445467d7ab1f1ae58c6b594de0ef5118fc908e32ca888110be4036dd941256d3a9574993f8b1122a4a6f90d195e2f142f16f31227a7"
 
 [update]
-[update.curseforge]
-file-id = 4993305
-project-id = 438365
+[update.modrinth]
+mod-id = "du3UfiLL"
+version = "yoCCX4Cc"

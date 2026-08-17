@@ -3,11 +3,11 @@ filename = "ItemLocks-Fabric-1.20.1-1.3.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d5bf052d33f2688c286677b953b5605753eb1ca7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/tJzrFuyy/versions/OgPIMTyQ/ItemLocks-Fabric-1.20.1-1.3.12.jar"
+hash-format = "sha512"
+hash = "b5c0ad9ccfc1d182a65677b10c67c0460ee7a0bd4d4d85dc80c81677d412618ef09521838f9c65b49a4c74d8efd47798452d0cf59c9d9d7ffbafd9d5467014fb"
 
 [update]
-[update.curseforge]
-file-id = 7278253
-project-id = 304487
+[update.modrinth]
+mod-id = "tJzrFuyy"
+version = "OgPIMTyQ"

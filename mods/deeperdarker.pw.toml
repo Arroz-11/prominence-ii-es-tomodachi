@@ -3,11 +3,11 @@ filename = "deeperdarker-fabric-1.20-1.3.3-plus-b.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3d98e4434b357edb898967ab6f0b6f1a47c26671"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fnAffV0n/versions/GeXcCDSS/deeperdarker-fabric-1.20-1.3.3-plus-b.jar"
+hash-format = "sha512"
+hash = "db0c127eb0256c3ac840c71039d45b19c3cf90c6b8a7f690ef0bd82d93f78afbb25da92c90c9e8b044b97c39d012381bb1e1fd2f4a25b6a6fb3a1cb46cb2842f"
 
 [update]
-[update.curseforge]
-file-id = 7796915
-project-id = 659011
+[update.modrinth]
+mod-id = "fnAffV0n"
+version = "GeXcCDSS"

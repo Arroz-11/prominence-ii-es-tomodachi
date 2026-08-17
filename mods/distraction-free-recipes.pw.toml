@@ -3,11 +3,11 @@ filename = "distraction_free_recipes-fabric-1.2.1-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1bef806e432adec90f514f61a4b46a36da6f1881"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/gbJLUhZP/versions/GdXrDwYH/distraction_free_recipes-fabric-1.2.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "7732f6cb17d44a9c1c1d3caca4eab39fe19bb791724e64c209f50b7bc56b91b364e5640df86e531ce498d43caec9da002962ddf5d7b962e2dfded19244391465"
 
 [update]
-[update.curseforge]
-file-id = 6110176
-project-id = 1167848
+[update.modrinth]
+mod-id = "gbJLUhZP"
+version = "GdXrDwYH"

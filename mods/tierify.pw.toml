@@ -3,11 +3,11 @@ filename = "Tierify-FABRIC-1.20.1-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d518fb9afefbd23acc9c0a41c5f7752cda5e7c55"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/k4TNt1mM/versions/7ear4nmy/Tierify-FABRIC-1.20.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "3151a273561fa761154f7d44de8915acafde7c8a5f6bae6c27af0920422e4ae81989afca1dda668483872624df29d3ae69a808ed82951f47b75bea50be6f0f70"
 
 [update]
-[update.curseforge]
-file-id = 5803071
-project-id = 974356
+[update.modrinth]
+mod-id = "k4TNt1mM"
+version = "7ear4nmy"

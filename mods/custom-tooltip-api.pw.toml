@@ -3,11 +3,11 @@ filename = "custom_tooltip_api-fabric-5.0.2+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e0e06e48a168f47bbd4812ea5c76560ff483bd0e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/RGKUGobH/versions/Tlem8dj7/custom_tooltip_api-fabric-5.0.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "7c05ad2c92d35b37bbdd09c3b8674a70c52c0ce90090b05d50fa97de5e84a26050ac303455bc7eebac497de76d76db073b4d4f6b9f179e28f793e84905ea274f"
 
 [update]
-[update.curseforge]
-file-id = 8484270
-project-id = 1508021
+[update.modrinth]
+mod-id = "RGKUGobH"
+version = "Tlem8dj7"

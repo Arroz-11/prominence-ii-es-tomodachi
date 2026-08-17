@@ -3,11 +3,11 @@ filename = "libz-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bdd66120c88a66de9c1ec997404ad5121b3f2f7f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/yUBXc3AH/versions/BEPAjfEE/libz-1.0.3.jar"
+hash-format = "sha512"
+hash = "7b352fcc2a1ef4e7075ceaee3f1015478f9e9fd1337fe28a0e8a9f11af20742a8eb83a0ea74ebcd4994f57979f655f15356746d9b1961e80a192df396e95f572"
 
 [update]
-[update.curseforge]
-file-id = 4873296
-project-id = 841617
+[update.modrinth]
+mod-id = "yUBXc3AH"
+version = "BEPAjfEE"

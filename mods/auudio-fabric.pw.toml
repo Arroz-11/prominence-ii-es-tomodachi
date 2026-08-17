@@ -3,11 +3,11 @@ filename = "auudio_fabric_1.0.3_MC_1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "eb1ade38a01784d74651257c77a433a71976cce4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/FCr31KmZ/versions/gxgmLNKM/auudio_fabric_1.0.3_MC_1.20.jar"
+hash-format = "sha512"
+hash = "eeed8f6c10e36951bf794e3158a72762a2c891e4e1801aac67d4fbb37717b0c9721ab392b03e8f31581bb3ccb90a62855ba49fa7e1744670532c7e196e9a5eb8"
 
 [update]
-[update.curseforge]
-file-id = 4581988
-project-id = 613072
+[update.modrinth]
+mod-id = "FCr31KmZ"
+version = "gxgmLNKM"

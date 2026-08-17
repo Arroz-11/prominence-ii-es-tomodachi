@@ -3,11 +3,11 @@ filename = "oxidized-1.8.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4a558272d318212a92bf81ceaa7bb78d865582aa"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wOZRkmgG/versions/dH4eImYJ/oxidized-1.8.2.jar"
+hash-format = "sha512"
+hash = "ce7b21a2c7779dcec878aa2fab71142c3c07fb7399bfb347048666e8803e31795316b2508c72b8e3ce8213a0cd81c2dfd852198ee480f5ca3ded0e1f08a7fc6b"
 
 [update]
-[update.curseforge]
-file-id = 4598127
-project-id = 506426
+[update.modrinth]
+mod-id = "wOZRkmgG"
+version = "dH4eImYJ"

@@ -3,11 +3,11 @@ filename = "no-report-button-fabric-1.5.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "11363303661a54cc14376e23cbc32c189dbae92a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/9WJeSpTH/versions/rq7A1SX4/no-report-button-fabric-1.5.0.jar"
+hash-format = "sha512"
+hash = "3d036ee476a17180db5a5940948747769f8c65a41b5a6022bc21f6af93da39e751e020fed7f313134428d292da71666328768a32d7fa75cc7679e0cb3298e112"
 
 [update]
-[update.curseforge]
-file-id = 4594976
-project-id = 658722
+[update.modrinth]
+mod-id = "9WJeSpTH"
+version = "rq7A1SX4"

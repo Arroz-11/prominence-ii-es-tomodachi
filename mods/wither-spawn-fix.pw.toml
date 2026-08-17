@@ -1,13 +1,13 @@
 name = "Wither Spawn Fix [Fabric/Forge/Neoforge]"
-filename = "wither_spawn_fix-MC1.20.1-1.0.0.jar"
+filename = "wither_spawn_fix-MC1.20.1-1.0.0(1).jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "91f6272c914b3b69f14080749a7f6b88ee6e9af7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/KseM6VIg/versions/xEFCYq5M/wither_spawn_fix-MC1.20.1-1.0.0%281%29.jar"
+hash-format = "sha512"
+hash = "79d9fea735e8d9e2d3a7d6eeae1852528ca0f1c2e1e4e4d9694b148af1c6c93e87e920e82c77ac7f4943052e14cc210d464009e897d5d078eb0e301c37fd673a"
 
 [update]
-[update.curseforge]
-file-id = 5489366
-project-id = 1054538
+[update.modrinth]
+mod-id = "KseM6VIg"
+version = "xEFCYq5M"

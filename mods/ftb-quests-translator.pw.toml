@@ -3,11 +3,11 @@ filename = "ftbquesttransl-1.20.1-fabric-1.4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d260c23d34803d75af351664392e023f7e842b51"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/WGYAFr0C/versions/FbvPVnJn/ftbquesttransl-1.20.1-fabric-1.4.0.jar"
+hash-format = "sha512"
+hash = "465d5933a979207459fdeee2e4f1b69374196e5b2463aaaa657895a9f30a1931645f8f1d73f2a65ca795fcbcad511064a2f973ad5894aedf064f326fce981834"
 
 [update]
-[update.curseforge]
-file-id = 7977177
-project-id = 1504552
+[update.modrinth]
+mod-id = "WGYAFr0C"
+version = "FbvPVnJn"

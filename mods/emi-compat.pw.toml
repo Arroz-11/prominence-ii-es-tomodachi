@@ -3,11 +3,11 @@ filename = "emicompat-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "45fd3a9fa9af5ffa69acd54256cc0c23481563eb"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/JCEMZgpO/versions/MQXfvXv4/emicompat-1.1.1.jar"
+hash-format = "sha512"
+hash = "aa70009627dd53de584b5c3deb64ea236be72009e986ba1295449c36f534120d4c250dda839a70918212486169cd34e24180afc2c75be6c2536fabecb0eff0f2"
 
 [update]
-[update.curseforge]
-file-id = 8185861
-project-id = 1514817
+[update.modrinth]
+mod-id = "JCEMZgpO"
+version = "MQXfvXv4"

@@ -3,11 +3,11 @@ filename = "mythicupgrades-4.2.0+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "20977e8848b8920e6559c2d5af588594bd593b04"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ERH7cFoy/versions/cD4zn9kb/mythicupgrades-4.2.0%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "f96aa17881ac624fa39e55d97d32db5f3da7b429297898a7192411aac9a5c28069d2b08f6549f138d25b4a000ec8fe1dab9323022f840b9e0e95cf9aab0ce15a"
 
 [update]
-[update.curseforge]
-file-id = 5700925
-project-id = 663567
+[update.modrinth]
+mod-id = "ERH7cFoy"
+version = "cD4zn9kb"

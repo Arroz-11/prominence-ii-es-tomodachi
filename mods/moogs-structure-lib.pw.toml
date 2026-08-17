@@ -3,11 +3,11 @@ filename = "moogs_structure_lib-1.1.0-1.20-1.20.4-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c103bae01ea0ae6a0a6965b7700958fc980aedee"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1oUDhxuy/versions/rxsrpzbh/moogs_structure_lib-1.1.0-1.20-1.20.4-fabric.jar"
+hash-format = "sha512"
+hash = "0cf42d7103f783b686bd0920d03792a849a5ff11241e8d70ac2ccb3423f4bc2d6ba4426bc13783d0f06f3fe50cba4132852cb1875247787b876517560852d9fb"
 
 [update]
-[update.curseforge]
-file-id = 7238547
-project-id = 1337167
+[update.modrinth]
+mod-id = "1oUDhxuy"
+version = "rxsrpzbh"

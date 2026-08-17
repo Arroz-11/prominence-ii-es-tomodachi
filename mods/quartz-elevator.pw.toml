@@ -3,11 +3,11 @@ filename = "quartz-elevator-2.2.7+1.20.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ef93268eb8caaebddaa4bcdc616c378a79636242"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/O9C0qdu8/versions/szdkhw2r/quartz-elevator-2.2.7%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "ef5f0ccdf893641b93aa7d2871325a3508c53332b685f4120a65de63943963b550678c72a42e1fe79ccf5af683257eaa53700e0e80d25aafb5468eb1527bcd57"
 
 [update]
-[update.curseforge]
-file-id = 5312088
-project-id = 442509
+[update.modrinth]
+mod-id = "O9C0qdu8"
+version = "szdkhw2r"

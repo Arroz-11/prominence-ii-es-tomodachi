@@ -3,11 +3,11 @@ filename = "bettercombat-fabric-1.9.0+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5a86bc3e543c764411bd20c56d1a33d7d73de26d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/OtwNg4r4/bettercombat-fabric-1.9.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "477b53b13620c003dbf3da4c8facf9e5df81b101c72137aaee01a16e53b7be0bedc354d1d6e2039c40fe82a53cc92a324995d418cd6b8d6301ad02f6ad110717"
 
 [update]
-[update.curseforge]
-file-id = 7287333
-project-id = 639842
+[update.modrinth]
+mod-id = "5sy6g3kz"
+version = "OtwNg4r4"

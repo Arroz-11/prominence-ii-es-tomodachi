@@ -3,11 +3,11 @@ filename = "shut-up-mcd-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "356297767da64864c71cc13ff6184dfa12856b45"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/VL4V3sqR/versions/YFaYYTrw/shut-up-mcd-1.2.0.jar"
+hash-format = "sha512"
+hash = "0373ded873bb95ac15b97a9be2943747934453ea03713a041e59fa92d4c9a5d1bfddc40bd082e0238c18508bd68d6d122af304c75ee6fa52e881442fff78e650"
 
 [update]
-[update.curseforge]
-file-id = 7849649
-project-id = 1494931
+[update.modrinth]
+mod-id = "VL4V3sqR"
+version = "YFaYYTrw"

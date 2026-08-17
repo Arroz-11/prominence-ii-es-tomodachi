@@ -3,11 +3,11 @@ filename = "ltxtbfix-1.20.1-fabric-1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3b3c2bd8d2520f2a073ae4445995cb6cb1dcb0c0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/QDRnCqG7/versions/fBO3iw2h/ltxtbfix-1.20.1-fabric-1.0.2.jar"
+hash-format = "sha512"
+hash = "3d9e511e7c6eac3031d4d47266fe4b1eb13246d9bbff377797a9ab70def303029a4e068a3ced14e592f1be9864afde8e4fce9ede1638a9ed19b9b9a479a2fc2f"
 
 [update]
-[update.curseforge]
-file-id = 7773429
-project-id = 1423123
+[update.modrinth]
+mod-id = "QDRnCqG7"
+version = "fBO3iw2h"

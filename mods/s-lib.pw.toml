@@ -3,11 +3,11 @@ filename = "s-lib-fabric-1.0.5+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "12246ed033ea04c1cca2b48364b18bf7ec86a902"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/VtMfe1Va/versions/JOt56NDs/s-lib-fabric-1.0.5%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ff5fc11570b0a239d3f4e38e917cb849c1802de7bba8cd27a31d3800959bb9f4faaa9340775b40c498b23d07406572088b4016ba74e249506b26011f03ee1661"
 
 [update]
-[update.curseforge]
-file-id = 8481687
-project-id = 1576101
+[update.modrinth]
+mod-id = "VtMfe1Va"
+version = "JOt56NDs"

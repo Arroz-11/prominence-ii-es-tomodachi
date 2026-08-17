@@ -3,11 +3,11 @@ filename = "despawntweaks-fabric-1.0.0-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "19627abbc7329f92a3e8a01f0d8085c82496139b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ahQrpeXp/versions/DaaZAwXC/despawntweaks-fabric-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "c15d77ee1bb5d848d181402b1a70856dad7ec254eec0798f202d69d41cd6ddba74ade0c64e048b54b04c51272b4d629016904af3a662dfdc418ad6e5fee099b5"
 
 [update]
-[update.curseforge]
-file-id = 6145372
-project-id = 1191080
+[update.modrinth]
+mod-id = "ahQrpeXp"
+version = "DaaZAwXC"

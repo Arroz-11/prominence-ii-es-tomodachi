@@ -1,0 +1,13 @@
+name = "common-networking-fabric-1.0.5"
+filename = "common-networking-fabric-1.0.5-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HIuqnQpi/versions/hQsMT8cT/common-networking-fabric-1.0.5-1.20.1.jar"
+hash-format = "sha512"
+hash = "529b02c3464617a70eb473c6422a0e4020776713c00c30d059cde857936217c37d0cb6f39bbc922ac84957308520d67adfc65389a4df687e552030121e44fb7b"
+
+[update]
+[update.modrinth]
+mod-id = "HIuqnQpi"
+version = "hQsMT8cT"

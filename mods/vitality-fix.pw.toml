@@ -3,11 +3,11 @@ filename = "vitalityfix-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "90f88ef6c03f0b55ddbfb2e29f7750a080d4f802"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/34Rul3eb/versions/3eYVXm1f/vitalityfix-1.0.0.jar"
+hash-format = "sha512"
+hash = "27252d258112ddade23f2ef8fe226745dfdbbacc0b7414a826983f2b964ce73b664a012db52b05b8832fb8c3d42b93148c3bda0a50bd3275a75adad6af05e1ef"
 
 [update]
-[update.curseforge]
-file-id = 7453471
-project-id = 1427769
+[update.modrinth]
+mod-id = "34Rul3eb"
+version = "3eYVXm1f"

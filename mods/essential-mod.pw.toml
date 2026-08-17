@@ -3,11 +3,11 @@ filename = "Essential_1-4-1-1_fabric_1-20-1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "506ccfa8de3a7744ca9adcf64e971a023f98e1bd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/btCD1TAt/Essential_1-4-1-1_fabric_1-20-1.jar"
+hash-format = "sha512"
+hash = "2ff3248e424dbac255fdf0d458b23bb985b5dbc203a557202138b2ded04b40a4f87222c7605046fae7e0dd4c39c054304cecc89d5a7699cc62a7103c902d12dd"
 
 [update]
-[update.curseforge]
-file-id = 8539839
-project-id = 546670
+[update.modrinth]
+mod-id = "k2ZPuTBm"
+version = "btCD1TAt"

@@ -3,11 +3,11 @@ filename = "puffish_attributes-0.8.2-1.20-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2f0bc1ab286f88f3f86b46a4e0466e59aa7a8ef1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/FCFcFw09/versions/GoArx0qR/puffish_attributes-0.8.2-1.20-fabric.jar"
+hash-format = "sha512"
+hash = "8c316841a1a8b1d3618d2e61769d9044a4d30f272a6e46b61ed96ab6aaf63db98b86078125fae15a025412fae7411af09db70971aca4f4d876dcb5721f2c63b4"
 
 [update]
-[update.curseforge]
-file-id = 7551332
-project-id = 991341
+[update.modrinth]
+mod-id = "FCFcFw09"
+version = "GoArx0qR"

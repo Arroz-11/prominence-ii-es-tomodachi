@@ -3,11 +3,11 @@ filename = "forcemaster-class-mod-1.2.6-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f6f069e151a23a3772d23fc42b229ee515bc116a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/K3yHebFL/versions/fQs02xLz/forcemaster-class-mod-1.2.6-1.20.1.jar"
+hash-format = "sha512"
+hash = "a6e39eda9c618db11c9b6b071021fb45c97d3121ef8ae63ba8627e36087aa30ca60fe367e38a82e6e04e0d7ace80bba4d266cf42674c5c4a01ea047efc0359f0"
 
 [update]
-[update.curseforge]
-file-id = 7908940
-project-id = 992388
+[update.modrinth]
+mod-id = "K3yHebFL"
+version = "fQs02xLz"

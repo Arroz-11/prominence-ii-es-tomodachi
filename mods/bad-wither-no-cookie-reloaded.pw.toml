@@ -3,11 +3,11 @@ filename = "bwncr-fabric-1.20.1-3.17.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1ac39c36d08d887b4d1fcd6faf1f570405323061"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/lL2MtE37/versions/Ekf2IOd0/bwncr-fabric-1.20.1-3.17.2.jar"
+hash-format = "sha512"
+hash = "ef4b732a6962f122fad2a5f53eb253fdce30d5a1a69e73a7ca5cba092759df73798fc60dcc2752126e5deae13b56e303e8f3243ae6caec266332b4687ee26c27"
 
 [update]
-[update.curseforge]
-file-id = 5969227
-project-id = 261251
+[update.modrinth]
+mod-id = "lL2MtE37"
+version = "Ekf2IOd0"

@@ -3,11 +3,11 @@ filename = "Powah-5.0.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8885884da9e4470520faed11347507e3195e642d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/KZO4S4DO/versions/6beFT60p/Powah-5.0.11.jar"
+hash-format = "sha512"
+hash = "34463adf1ae235d3e63abd171ead53280d6d1d9ce97a8b12e54f98e9401e7d7c8f5de3c92a0ef9d54158471cf8ed7f500b4ebe71636e698d8211803d1e47f23a"
 
 [update]
-[update.curseforge]
-file-id = 6828053
-project-id = 633483
+[update.modrinth]
+mod-id = "KZO4S4DO"
+version = "6beFT60p"

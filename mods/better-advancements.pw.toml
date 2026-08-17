@@ -3,11 +3,11 @@ filename = "BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "22964ac6041bd356e40658eb50425ae730f1b071"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/g2QPj5Kb/BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar"
+hash-format = "sha512"
+hash = "e3111771d6b16639757d562c1714ae1ee2cdb0e14a923c8be87ab87db2a2848dba9b0c40f5f83495140045d2aa5c8bc8e4a9273f1b1470fe71398267aa668816"
 
 [update]
-[update.curseforge]
-file-id = 6010301
-project-id = 272515
+[update.modrinth]
+mod-id = "Q2OqKxDG"
+version = "g2QPj5Kb"

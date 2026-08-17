@@ -3,11 +3,11 @@ filename = "animal_feeding_trough-1.1.0+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "48a06994464e0e9e1751676de15b2eecccfd8ad4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/bRFWnJ87/versions/WkJeqkhZ/animal_feeding_trough-1.1.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "88a51133662db318bf42a12a59de76b169bcf6eba7f5c429c3f8f782c69cb730e9263bc855d8d9ca085309c449cc3b468ea23fe016fb5b32805cf05554fac535"
 
 [update]
-[update.curseforge]
-file-id = 5305053
-project-id = 445838
+[update.modrinth]
+mod-id = "bRFWnJ87"
+version = "WkJeqkhZ"

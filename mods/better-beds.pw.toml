@@ -3,11 +3,11 @@ filename = "betterbeds-1.3.0-1.19.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "be8020ab06b679bb33f93a7e9ade8a783985eab0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/kKwy3HU9/versions/oA7DgMo2/betterbeds-1.3.0-1.19.3.jar"
+hash-format = "sha512"
+hash = "47c9237393b83c5eee2c82b48fefc82bf4ff932161e78fac0318f52cfc33615b19a0a7e5cacfecf2ef35d603da5af9c69bdaf365db4de1eb1aa90aae647d18f7"
 
 [update]
-[update.curseforge]
-file-id = 4369573
-project-id = 443782
+[update.modrinth]
+mod-id = "kKwy3HU9"
+version = "oA7DgMo2"

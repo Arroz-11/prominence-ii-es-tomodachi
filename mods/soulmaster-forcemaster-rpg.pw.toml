@@ -3,11 +3,11 @@ filename = "soulmaster-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "52323a0602776359061cd2733fd8b9237b16f0d6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Eb9MCw6F/versions/ez6ArDsx/soulmaster-1.0.3.jar"
+hash-format = "sha512"
+hash = "41f580aa7a930adfba0c41b27bee4065a2feaf3c28bc267fcbd9800ab7291963d9941c939e5681b3b920cd834ad66c831c58de7d14c7dabcc809021d4b7fa0b8"
 
 [update]
-[update.curseforge]
-file-id = 8003663
-project-id = 1510563
+[update.modrinth]
+mod-id = "Eb9MCw6F"
+version = "ez6ArDsx"

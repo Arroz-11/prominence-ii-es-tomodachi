@@ -3,11 +3,11 @@ filename = "applied-botanics-fabric-1.5.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "87a4bc95365d9473f09741db373d92493b3bed35"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/545hUrw9/versions/xyBemygB/applied-botanics-fabric-1.5.2.jar"
+hash-format = "sha512"
+hash = "c356bf7f4973e0018287a3179b29d299cba39064f6198bf04ba041a085d22a798531138cce5210450075dfd0f35609fe00e839439c9b8a356a9ce976e81d5799"
 
 [update]
-[update.curseforge]
-file-id = 7427982
-project-id = 610632
+[update.modrinth]
+mod-id = "545hUrw9"
+version = "xyBemygB"

@@ -3,11 +3,11 @@ filename = "Botania-1.20.1-453-FABRIC.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "706f98f2e695bd31adb5e382deec8654f05134c4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/CEQN4Awy/Botania-1.20.1-453-FABRIC.jar"
+hash-format = "sha512"
+hash = "d9eaa53030931285f1e2363b7757db9b9cc4b1856303cc62be15e983077f36203a0d674af9a2719d83996c06d50df88f6566d72b00d6dc7bcaccc57be64e9674"
 
 [update]
-[update.curseforge]
-file-id = 8138522
-project-id = 421839
+[update.modrinth]
+mod-id = "pfjLUfGv"
+version = "CEQN4Awy"

@@ -3,11 +3,11 @@ filename = "opac_fixes-1.1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a8a27c31ea34d5903d1733865e75dda7b9d764e0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/2lbmzYV3/versions/5f6tTWbQ/opac_fixes-1.1.3.jar"
+hash-format = "sha512"
+hash = "55bac33f75fae76c28e0ebe5967df9e78837675e3b19b6796b868a96bb2ff892209c5eff777a4bfb90299a6e400be45e9fa3574bb9d93a35626d63bd0740ced7"
 
 [update]
-[update.curseforge]
-file-id = 8259966
-project-id = 1484735
+[update.modrinth]
+mod-id = "2lbmzYV3"
+version = "5f6tTWbQ"

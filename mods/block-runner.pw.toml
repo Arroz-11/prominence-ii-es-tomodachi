@@ -3,11 +3,11 @@ filename = "BlockRunner-v8.0.4-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cd94847822a096d410d7544f92c7713d5201c022"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1VSGxqkt/versions/Bs0gyy0J/BlockRunner-v8.0.4-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "e15276c0bbf2a76bccd9fcd36d61102d3ea4c05450522a94610b4c0dc56c9605e92b3edeb51daf39d935cfa2da974b9eb2e88a3068a919767b6db86f0ec35ff7"
 
 [update]
-[update.curseforge]
-file-id = 5157021
-project-id = 442842
+[update.modrinth]
+mod-id = "1VSGxqkt"
+version = "Bs0gyy0J"

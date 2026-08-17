@@ -3,11 +3,11 @@ filename = "YeetusExperimentus-Fabric-2.3.1-build.6+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bc2e21c296832260f229bad759e803c5795f9cb4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/HaaH232J/versions/PL3wftcT/YeetusExperimentus-Fabric-2.3.1-build.6%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "c6b9a77222d85779974f3607b8244d5f980ba99dcdcc7b36c29a2eb2486f1c1b4195b338de3a16f328d5041fefd5f40ae671727e96a2db9476497d14582b3a76"
 
 [update]
-[update.curseforge]
-file-id = 4680831
-project-id = 635427
+[update.modrinth]
+mod-id = "HaaH232J"
+version = "PL3wftcT"

@@ -3,11 +3,11 @@ filename = "Prominent_OST-GLOBAL-MC1.20.1-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "49e96f6600199775147a0047c566d5851199c3cb"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/J9S0jXBm/versions/dxBTwEBg/Prominent_OST-GLOBAL-MC1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "23800a3023a6ad1ef9a6f32bc87a5b5aa34e3b0b35a9ff35a9e09aac833ba06b24f343176b802f311aaf227ea488b0a07b80b88254d0215d2497868b85822668"
 
 [update]
-[update.curseforge]
-file-id = 4888798
-project-id = 941248
+[update.modrinth]
+mod-id = "J9S0jXBm"
+version = "dxBTwEBg"

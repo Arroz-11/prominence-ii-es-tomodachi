@@ -3,11 +3,11 @@ filename = "YouShallNotSpawn-fabric-1.20.x-2.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6ae7a59c180302a3dfa83611dbdbea6305a28547"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/EjXcpmEA/versions/2CpnF7bC/YouShallNotSpawn-fabric-1.20.x-2.0.2.jar"
+hash-format = "sha512"
+hash = "a409e0040396da04a8ca2831dfe78dda05519ea8fc4d3ac7e076d04a2996e46d225ee1501cd7e5d10faf978a9a9eb2a92e12835f324825e30b2032735b8e8e48"
 
 [update]
-[update.curseforge]
-file-id = 5820957
-project-id = 628744
+[update.modrinth]
+mod-id = "EjXcpmEA"
+version = "2CpnF7bC"

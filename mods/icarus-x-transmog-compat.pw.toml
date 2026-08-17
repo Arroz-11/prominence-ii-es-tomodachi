@@ -3,11 +3,11 @@ filename = "icaruswings_transmog_compat-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5f3a4711e459c85f8977f6761c9aaa144848d64d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/zMdf1n8V/versions/gbBKCDQe/icaruswings_transmog_compat-1.0.1.jar"
+hash-format = "sha512"
+hash = "0fcade77c17b2491ff7ba5b1057f954409472985b454f90094a16f245da2f284df87ed7b0da08bf0efbd09fcf9ed765386e6689469fe8d56723d7555a086bc71"
 
 [update]
-[update.curseforge]
-file-id = 7924045
-project-id = 1459465
+[update.modrinth]
+mod-id = "zMdf1n8V"
+version = "gbBKCDQe"

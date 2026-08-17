@@ -1,13 +1,13 @@
 name = "Aquamirae [Fabric Edition]"
-filename = "Aquamirae 6.jar"
+filename = "Aquamirae-6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "13feb2c346d372b3bec57f1ad2e151d87f65e5d6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/k23mNPhZ/versions/ouUaC54p/Aquamirae-6.jar"
+hash-format = "sha512"
+hash = "c047063fb7b54cf107554992a9341470c622c178a89a1135c9204b347034bf9dfc757f09f1f96fcc20852868c0c11fb18ca7151ec0e2b87556f516011b0f59b1"
 
 [update]
-[update.curseforge]
-file-id = 4656204
-project-id = 891257
+[update.modrinth]
+mod-id = "k23mNPhZ"
+version = "ouUaC54p"

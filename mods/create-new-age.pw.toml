@@ -3,11 +3,11 @@ filename = "create-new-age-1.1.7f+fabric-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ed528252ce75b9e16d90578fb9dea72f3960519d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/FTeXqI9v/versions/ILLS3a8B/create-new-age-1.1.7f%2Bfabric-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "4fd664d779082efe35151e066d86fe44706927086252469e1152d7099bad2ce57094b5873e3b16294c68c0a7219e1f6a980108e7a48b43365e4b27fd97826450"
 
 [update]
-[update.curseforge]
-file-id = 7452739
-project-id = 905861
+[update.modrinth]
+mod-id = "FTeXqI9v"
+version = "ILLS3a8B"

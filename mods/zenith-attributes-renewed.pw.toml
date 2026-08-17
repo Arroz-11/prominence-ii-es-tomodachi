@@ -3,11 +3,11 @@ filename = "zenith_attributes_renewed-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ba89db16a5e6390941089072fc15b17811aa8e5e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Ewlys7Si/versions/5Y9Dz9Sf/zenith_attributes_renewed-1.0.3.jar"
+hash-format = "sha512"
+hash = "d29189798f229b232e554e4060e85aaf0a4d23981860d1548d6e1cd7298e2423a6bbadb78cc5dbfb01e21db0f9e41e391fb60dae9f9dcc23f16aca00bea1350c"
 
 [update]
-[update.curseforge]
-file-id = 7958920
-project-id = 1514461
+[update.modrinth]
+mod-id = "Ewlys7Si"
+version = "5Y9Dz9Sf"

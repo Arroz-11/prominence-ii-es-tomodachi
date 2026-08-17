@@ -3,11 +3,11 @@ filename = "Decorative Blocks-fabric-1.20.1-4.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5f2f0ed8fc1e032502bcb5ad5a8069d7a832caca"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Cq0m2EIu/versions/qOSiOXBm/Decorative%20Blocks-fabric-1.20.1-4.0.3.jar"
+hash-format = "sha512"
+hash = "47f2760ac30efbb1dff2a81d3e1bbd8203aa8cf2ce80c743758ae96344b1985569462e8da42ebd0a29bf687944a84d56c0713a2f4bb9803077477787165b3c14"
 
 [update]
-[update.curseforge]
-file-id = 4771799
-project-id = 892002
+[update.modrinth]
+mod-id = "Cq0m2EIu"
+version = "qOSiOXBm"

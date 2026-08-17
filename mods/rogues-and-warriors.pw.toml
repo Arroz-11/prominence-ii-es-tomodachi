@@ -3,11 +3,11 @@ filename = "rogues-1.2.0+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "de43a6cfb24127ecb47aeca18af5f201c47bc61b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/3MKqoGuP/versions/ONjutVUi/rogues-1.2.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "2c725d43f2d6e041f8d97c9eb94b8def45a93c815e7010a36cc385122d3c28225bdd98191abd613665d6d18a77e489c5806eda22ff354e6512221b5aa9b58f45"
 
 [update]
-[update.curseforge]
-file-id = 6097303
-project-id = 1048409
+[update.modrinth]
+mod-id = "3MKqoGuP"
+version = "ONjutVUi"

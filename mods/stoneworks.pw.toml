@@ -3,11 +3,11 @@ filename = "Stoneworks-v8.0.0-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "aa3cf672107f9707425ee9f80f15fbaeaf493f94"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/FzyTKtVF/versions/t4FwBQrZ/Stoneworks-v8.0.0-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "ee50b9a9c509dc6e6f36f35d4b917d89465900ecd999fac62784f9ef527e6bb4b3021558d4726c298ea2891b4edfac432e5821e728e6173bb953b5d261f0b6b5"
 
 [update]
-[update.curseforge]
-file-id = 4611948
-project-id = 852663
+[update.modrinth]
+mod-id = "FzyTKtVF"
+version = "t4FwBQrZ"

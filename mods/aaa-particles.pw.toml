@@ -3,11 +3,11 @@ filename = "aaa_particles-fabric-1.20.1-2.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "185f654502b1eb966f983de050dbc0594129b2ae"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/En8uHTOK/versions/KPUjU5NL/aaa_particles-fabric-1.20.1-2.2.3.jar"
+hash-format = "sha512"
+hash = "1bf88cf9e0b45d08917f0e9e027eca6d6a7f560133d8a3e301c93e7bba0f1111a13b9888be460a260785a918b5359a3a8dc246a3b17992a61ed0c1362bacb2e8"
 
 [update]
-[update.curseforge]
-file-id = 8402751
-project-id = 979809
+[update.modrinth]
+mod-id = "En8uHTOK"
+version = "KPUjU5NL"

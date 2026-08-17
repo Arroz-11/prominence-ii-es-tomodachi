@@ -3,11 +3,11 @@ filename = "konkrete_fabric_1.8.1_MC_1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "38d3201d95a08bdeb12a8cd3687c6d0b8f5e7f3d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/J81TRJWm/versions/RlBGFlWp/konkrete_fabric_1.8.1_MC_1.20.1.jar"
+hash-format = "sha512"
+hash = "ca65343bd3b063f3e0f68cc1d40da1969cf07ca038670f22a2bac91c2f34162f2c455ceb309680d57da13267ffc99fc7f8d40bb9451e93ff56ab2a688c0e3a45"
 
 [update]
-[update.curseforge]
-file-id = 5142502
-project-id = 416797
+[update.modrinth]
+mod-id = "J81TRJWm"
+version = "RlBGFlWp"

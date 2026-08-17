@@ -3,11 +3,11 @@ filename = "htp-citoptimizer-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e23f675042f691cb416717c9925f7da2c45a7427"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/YcTfIoOe/versions/XC7z2taD/htp-citoptimizer-1.0.0.jar"
+hash-format = "sha512"
+hash = "f6aa7eef095d32b424425b8a126757f46d87f9fe0be7e3db86e6b60fa324a968ba5f22f3fab501f809d23eaea177449803b38a83e0156e1cb7ea2fe203da3b3a"
 
 [update]
-[update.curseforge]
-file-id = 7698170
-project-id = 1475395
+[update.modrinth]
+mod-id = "YcTfIoOe"
+version = "XC7z2taD"

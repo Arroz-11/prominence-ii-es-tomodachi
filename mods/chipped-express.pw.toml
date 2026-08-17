@@ -3,11 +3,11 @@ filename = "ChippedExpress-universal-20x.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "47fd0dc3aff5b5069e657629646541c688383bc0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/dQIcJONI/versions/afYSWdXF/ChippedExpress-universal-20x.jar"
+hash-format = "sha512"
+hash = "38ff7853a9380119e0c8657726cd74cd97335db2178e86a9d540c2dcd04f03b4e3bebffbee988818d1f20d8338c47c52c28dfde7da8efad883a3c6cc98bb8e92"
 
 [update]
-[update.curseforge]
-file-id = 6363006
-project-id = 938916
+[update.modrinth]
+mod-id = "dQIcJONI"
+version = "afYSWdXF"

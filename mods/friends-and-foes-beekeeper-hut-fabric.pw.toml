@@ -3,11 +3,11 @@ filename = "beekeeperhut-fabric-mc1.20.1-2.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f57da4ab2436e621b6c837dc46eb9ca6bacae2b0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Kt4RVKEd/versions/Iya1d63p/beekeeperhut-fabric-mc1.20.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "4ed581c69bf34f06b89bbe88bf86322cfbf4399a205adfac4775e0c80a8641fdfd090e180a9acc98577e9a2e60be2cb41ebbac640359bdb6f4a73db535b3773b"
 
 [update]
-[update.curseforge]
-file-id = 5523311
-project-id = 711899
+[update.modrinth]
+mod-id = "Kt4RVKEd"
+version = "Iya1d63p"

@@ -3,11 +3,11 @@ filename = "mobhealthbar-fabric-1.20.x-2.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "07b7f6a929c42a815d5fd32cd62b628b6f0df296"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wtk2r10e/versions/x38ZMwb1/mobhealthbar-fabric-1.20.x-2.3.0.jar"
+hash-format = "sha512"
+hash = "f66dbe149efb41cb3f86c2dcbca36e41b289add76ee61ea40759e08462eff66a4c53553084323fc05fb82f98e2c1895fc778bb0d8013b1c2da51b9153d67ce1d"
 
 [update]
-[update.curseforge]
-file-id = 4818134
-project-id = 559894
+[update.modrinth]
+mod-id = "wtk2r10e"
+version = "x38ZMwb1"

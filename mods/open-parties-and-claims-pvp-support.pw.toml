@@ -3,11 +3,11 @@ filename = "opacpvp-fabric-1.0.1-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "202987c41993094dcea283e51f266f197381bfa7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/xcparckV/versions/r68vfHEY/opacpvp-fabric-1.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "a9b7ef1c38a5c8c7fb76de268b7aaa254cee9ee86b85b932a946b454144c801fa02bb3f4467214c804309ed669a09efb275c86feff1cbc8e71c028d117c95be0"
 
 [update]
-[update.curseforge]
-file-id = 6213620
-project-id = 1190669
+[update.modrinth]
+mod-id = "xcparckV"
+version = "r68vfHEY"

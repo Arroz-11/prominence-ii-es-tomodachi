@@ -3,11 +3,11 @@ filename = "megacells-fabric-2.4.6-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5838fad5b38552b607d93bb8c1fc6040929b2c55"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/jjuIRIVr/versions/NINqmdmJ/megacells-fabric-2.4.6-1.20.1.jar"
+hash-format = "sha512"
+hash = "1a3b63876be10bc8dc4c5fcbb7f9f782e1f7ce42f070cffd871ace519f9ad945b5cbc28aeb2d810cc8bb671d6fa5dc1dd0188edcb4d2cd00c32a03779402613b"
 
 [update]
-[update.curseforge]
-file-id = 6175007
-project-id = 622112
+[update.modrinth]
+mod-id = "jjuIRIVr"
+version = "NINqmdmJ"

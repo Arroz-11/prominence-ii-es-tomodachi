@@ -3,11 +3,11 @@ filename = "integrated_api-1.7.2+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "25b623311154fe7a0fc96b12b920b0bc77016e42"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/V6fKbpBN/versions/8BrEhJJw/integrated_api-1.7.2%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "9d4ab06fb80b4ea7a69ae29b767ac6ed91e8ee631f35b8efa6f348009db0a85637f0360826416c1fc3564146fe0bcffee3d98c32477c9ac65938a7c128ef025b"
 
 [update]
-[update.curseforge]
-file-id = 7846113
-project-id = 817709
+[update.modrinth]
+mod-id = "V6fKbpBN"
+version = "8BrEhJJw"

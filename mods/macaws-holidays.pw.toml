@@ -3,11 +3,11 @@ filename = "mcw-holidays-1.1.2-mc1.20.1fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "18fcc81db1eb0f95b6fc87d1ee810f0562f18d4c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rH20L2Lp/versions/dXB4GNTW/mcw-holidays-1.1.2-mc1.20.1fabric.jar"
+hash-format = "sha512"
+hash = "cd6e86177170d44337b94385e737babff26de8ab456344f5348725b587ecccff87357ca1c97c9b24517d32d568d89fd4f102df9cfc6081d013d2e9b78701d487"
 
 [update]
-[update.curseforge]
-file-id = 7304403
-project-id = 930232
+[update.modrinth]
+mod-id = "rH20L2Lp"
+version = "dXB4GNTW"

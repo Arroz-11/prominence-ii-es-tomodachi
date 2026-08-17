@@ -3,11 +3,11 @@ filename = "archers-expansion-0.2.6-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5242f51c8d4d44f8526b0e9ab54c4b21a304ddb8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1BHIIm4m/versions/ZQgCdsbG/archers-expansion-0.2.6-1.20.1.jar"
+hash-format = "sha512"
+hash = "3e86b184b92782aea80766d02b9664c95aed8e01b5a212ff90cdee7188b2ae983bf29c6f8b9d09e0772078c2ffabbafa59020c52031386f2fc3e24ccc9a57da5"
 
 [update]
-[update.curseforge]
-file-id = 7149608
-project-id = 1109024
+[update.modrinth]
+mod-id = "1BHIIm4m"
+version = "ZQgCdsbG"

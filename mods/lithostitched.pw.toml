@@ -3,11 +3,11 @@ filename = "lithostitched-fabric-1.20.1-1.4.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c5e75450633aa9f79f2023e897c2726ba5f8d808"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XaDC71GB/versions/9bbVphAR/lithostitched-fabric-1.20.1-1.4.11.jar"
+hash-format = "sha512"
+hash = "d8e840907e3f7326c1e6605b65c46eb4e920e4790ab4074884ad21913f0c097dcacf4b813091239eb58bd65b7c75b96d04bb4df6eec830f89a21e217e3c0fdec"
 
 [update]
-[update.curseforge]
-file-id = 6742616
-project-id = 936015
+[update.modrinth]
+mod-id = "XaDC71GB"
+version = "9bbVphAR"

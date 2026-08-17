@@ -3,11 +3,11 @@ filename = "Obscure-API-16.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0272d0e5ddddd63a57b27130f3e317efb60ef509"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fU7jbFHc/versions/IWDYxZre/Obscure-API-16.jar"
+hash-format = "sha512"
+hash = "f0998d69174063420078fe96ff904665a33f3950475536c8ca8f0bda45417ef94a75598d417af4302e92d6a59ead1ea7e6721062b538f981f5f4dd16e8c1c5b1"
 
 [update]
-[update.curseforge]
-file-id = 4656918
-project-id = 891234
+[update.modrinth]
+mod-id = "fU7jbFHc"
+version = "IWDYxZre"

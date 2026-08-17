@@ -3,11 +3,11 @@ filename = "piratesdoom-1.0.0-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e4bf9adac37d98b1d5c8a1237ee4a9a6f98113d9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/c5Wlu9aL/versions/3VTWdUcs/piratesdoom-1.0.0-fabric.jar"
+hash-format = "sha512"
+hash = "86029c8872e67477d894f786ad656cb00fbbd95c8be3783aebc80753622f4c2c07e7c3129147ef6c5729a397270b5aae226bb9a50fd31d9dea1c2815c79e4f2c"
 
 [update]
-[update.curseforge]
-file-id = 5108232
-project-id = 974110
+[update.modrinth]
+mod-id = "c5Wlu9aL"
+version = "3VTWdUcs"

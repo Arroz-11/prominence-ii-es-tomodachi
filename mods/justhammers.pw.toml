@@ -3,11 +3,11 @@ filename = "justhammers-fabric-20.1.5+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f250d3ad5739bb95549bafbdc2d1c36605ef9362"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/edU0NbZZ/versions/B5VNswMi/justhammers-fabric-20.1.5%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "80598c246da71e388026f60888aa09aeeea3b7d1fc26bbcd88bc69d628824259cd969628e143609da71ca6fe6ca5ebd29bec78756fc5d849846ab79eaedd1fdb"
 
 [update]
-[update.curseforge]
-file-id = 6358768
-project-id = 681606
+[update.modrinth]
+mod-id = "edU0NbZZ"
+version = "B5VNswMi"

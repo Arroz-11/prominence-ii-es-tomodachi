@@ -3,11 +3,11 @@ filename = "ResistanceBalancer-FABRIC-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "647c8dedea3da094102a93c65aedfcc1d63797aa"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/cC1LNyTQ/versions/NYUNgXyg/ResistanceBalancer-FABRIC-1.1.0.jar"
+hash-format = "sha512"
+hash = "dd366d871673dcb372b68820f5b0bcc0d1043bbfdae6cb40ac9a873748e30d623e178168c22c2d3aefc92b5fefd8f1b5d8e2d4e1371f4e2269674d67bf074225"
 
 [update]
-[update.curseforge]
-file-id = 6563195
-project-id = 1121234
+[update.modrinth]
+mod-id = "cC1LNyTQ"
+version = "NYUNgXyg"

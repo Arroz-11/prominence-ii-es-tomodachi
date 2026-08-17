@@ -3,11 +3,11 @@ filename = "more_rpg_classes-1.2.19-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1836bcd9f47fb1cad829b995170d91a34d4d7a36"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Wkc3lwHo/versions/ey2fHRu5/more_rpg_classes-1.2.19-1.20.1.jar"
+hash-format = "sha512"
+hash = "1de41c3ba7f048dda1680e78ed0e9a30f2a0be49b70fbd2c8e0d9805372de6bf1a8a8a7ca991c2216d3c720cede0f444ae6e581772e154b43136535e4643b61e"
 
 [update]
-[update.curseforge]
-file-id = 8020048
-project-id = 923030
+[update.modrinth]
+mod-id = "Wkc3lwHo"
+version = "ey2fHRu5"

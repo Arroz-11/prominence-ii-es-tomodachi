@@ -3,11 +3,11 @@ filename = "travelersbackpack-fabric-1.20.1-9.1.54.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1191f47bc0405ad779bea383ca1c52392a7e0aed"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/5H4yAyuO/travelersbackpack-fabric-1.20.1-9.1.54.jar"
+hash-format = "sha512"
+hash = "987702c20dc9dd2e6a80096bad4f545981c1187769977e4a83a4481b43c83cb10d02737726af3e4937b18d5d73e323e5570f1c0e24f52f72827fd066f38550fc"
 
 [update]
-[update.curseforge]
-file-id = 8486647
-project-id = 541171
+[update.modrinth]
+mod-id = "rlloIFEV"
+version = "5H4yAyuO"

@@ -3,11 +3,11 @@ filename = "death_knights-fabric-1.0.0-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "61511112de79a2e712b9a7520e9b7807ad19c190"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/2EQER1gD/versions/3uS9blRi/death_knights-fabric-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "a4ee6a45dff416b9c12855871508710ed799d92d623de02347a26626e466248ab9312bdfa789832dc5224be18512ee0a96a24fd842571a9ec85ad3193edc3dba"
 
 [update]
-[update.curseforge]
-file-id = 6109209
-project-id = 968119
+[update.modrinth]
+mod-id = "2EQER1gD"
+version = "3uS9blRi"

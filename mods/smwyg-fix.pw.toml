@@ -3,11 +3,11 @@ filename = "smwyg-fix-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "484e18f5df5057e4cee8e04cf04b9123816410b9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/R9ivmTL5/versions/sxU5HfyV/smwyg-fix-1.0.1.jar"
+hash-format = "sha512"
+hash = "69f68fe44ff1b915f2bed3b86f611c4dbd08e87faf191a32694f26030df668d3aff8f94bfa446de457d9d5f4eee6caf1782a68f4a19e632de3720d90e85b9219"
 
 [update]
-[update.curseforge]
-file-id = 8090542
-project-id = 1487617
+[update.modrinth]
+mod-id = "R9ivmTL5"
+version = "sxU5HfyV"

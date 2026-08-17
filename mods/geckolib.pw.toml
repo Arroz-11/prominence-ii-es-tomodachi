@@ -3,11 +3,11 @@ filename = "geckolib-fabric-1.20.1-4.7.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4e8bbf2d225818ebade6435a99351c64f315b419"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Lj5ypG1U/geckolib-fabric-1.20.1-4.7.4.jar"
+hash-format = "sha512"
+hash = "d28e58213847debfd942658091a4cfba388b548fdebfc516c69b40401217790b1a0f30d3fbf8dc1bca3bacf32d867ea9ab76e670e590c83000c7a16c72d73123"
 
 [update]
-[update.curseforge]
-file-id = 6920923
-project-id = 388172
+[update.modrinth]
+mod-id = "8BmcQJ2H"
+version = "Lj5ypG1U"

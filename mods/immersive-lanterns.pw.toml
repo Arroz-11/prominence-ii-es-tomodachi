@@ -3,11 +3,11 @@ filename = "immersivelanterns-fabric-1.0.6-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "15348c0ff30cfdb43c1cc262f4a8ea5a00064518"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vskzdsyT/versions/rV2IXfB7/immersivelanterns-fabric-1.0.6-1.20.1.jar"
+hash-format = "sha512"
+hash = "5db8eee1200a6819566df3f0caf13401abac79f56a333224f2ed07086ffd4bb96317f6f86ad9f508315134a2eee8d92fa76d9f552b29a77a561bb71584c9cbaf"
 
 [update]
-[update.curseforge]
-file-id = 6052949
-project-id = 1116812
+[update.modrinth]
+mod-id = "vskzdsyT"
+version = "rV2IXfB7"

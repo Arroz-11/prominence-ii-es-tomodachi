@@ -3,11 +3,11 @@ filename = "cable-fixes-for-prom-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3d2811b4930070c98df9f16b7e3b6d179a5c7818"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/cLy3XGrM/versions/LXUnFyFP/cable-fixes-for-prom-1.1.0.jar"
+hash-format = "sha512"
+hash = "c87f5c16ac9cb19d3b770cd96d80db903bdcf2bece08a2c376d6f712d6aa1bdc4a0a9122b7d67ef75147e550041632a55ae41b3f339cca59436edadd77e9bbf5"
 
 [update]
-[update.curseforge]
-file-id = 8327579
-project-id = 1484275
+[update.modrinth]
+mod-id = "cLy3XGrM"
+version = "LXUnFyFP"

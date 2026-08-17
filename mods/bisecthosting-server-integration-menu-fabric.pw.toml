@@ -3,11 +3,11 @@ filename = "BHMenu-Fabric-1.20.1-2.4.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f2c97fabe85e708ef9dbab0c024ca19072ac9150"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/yWSAtnfH/versions/HAi7y1XH/BHMenu-Fabric-1.20.1-2.4.2.jar"
+hash-format = "sha512"
+hash = "b61323a4a19bd5809d34c9023eaeaa012bf36277576ae492939523a1b0c0c4203bc48d31c55738b64faae0da53438abe9fd960b34c62bb905895349ea84c41d0"
 
 [update]
-[update.curseforge]
-file-id = 7205249
-project-id = 585548
+[update.modrinth]
+mod-id = "yWSAtnfH"
+version = "HAi7y1XH"

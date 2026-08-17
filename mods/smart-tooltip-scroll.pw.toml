@@ -3,11 +3,11 @@ filename = "smart_tooltip_scroll-fabric-2.2.0+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e54bfaac92eafc4cd309f25284e4131d9b5ff1db"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ZdbrmhGV/versions/USEUK08v/smart_tooltip_scroll-fabric-2.2.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "91cf8a5b7036997fbe6dd7723c438abdc1d57432cfeeaca1dfbc171471976afe7e25956e1ca5d9d2754f33077538a6a0f0758220e122d14341c1fb12df50e08d"
 
 [update]
-[update.curseforge]
-file-id = 8614510
-project-id = 1576147
+[update.modrinth]
+mod-id = "ZdbrmhGV"
+version = "USEUK08v"

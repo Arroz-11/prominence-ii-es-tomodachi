@@ -3,11 +3,11 @@ filename = "bard-0.1.4-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0f56456c37a1173421b7294f65a54e213ee5e309"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/kL7Bjgmw/versions/Tv6EI96T/bard-0.1.4-1.20.1.jar"
+hash-format = "sha512"
+hash = "3c19ef3ad10545730b7fda19d233c223452a8f3264c2c5f63557bfeeb8877ff4576f597a98b14674e266709e13e15b22f81abe6be6a07a68d4f79bfbbd52d507"
 
 [update]
-[update.curseforge]
-file-id = 8581099
-project-id = 1463805
+[update.modrinth]
+mod-id = "kL7Bjgmw"
+version = "Tv6EI96T"

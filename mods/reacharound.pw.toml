@@ -3,11 +3,11 @@ filename = "reacharound+1.20-1.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8f39f7b3692a632befd8bb1983be5842522a3278"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/r3VgI4QN/versions/S2mz6cYu/reacharound%2B1.20-1.3.1.jar"
+hash-format = "sha512"
+hash = "a86c86d2203c094bb43b03a784d5a9af76939f06b251ca9298339a78fbb19e7ade97e641790be55813af184a3d1cffabff21a81f043ad39148e69f65959124ea"
 
 [update]
-[update.curseforge]
-file-id = 5852103
-project-id = 648781
+[update.modrinth]
+mod-id = "r3VgI4QN"
+version = "S2mz6cYu"

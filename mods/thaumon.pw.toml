@@ -3,11 +3,11 @@ filename = "thaumon-fabric-2.3.0+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4160788cce0b4febd49d6699455dd4e2e8deaa88"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/PvssKrgi/versions/64yDWSGv/thaumon-fabric-2.3.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "637c700e5796f1445d033da3db2dbe9f8746c2d7bfb1c2ac01bb1dc67d4407c0e362f6aadbafd84feb0f0806b53f6cf53772774e0cd1ca9e923e4259afcae2fb"
 
 [update]
-[update.curseforge]
-file-id = 5492066
-project-id = 926511
+[update.modrinth]
+mod-id = "PvssKrgi"
+version = "64yDWSGv"

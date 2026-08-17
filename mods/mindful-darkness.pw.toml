@@ -3,11 +3,11 @@ filename = "MindfulDarkness-v8.0.3-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1dfd349b98ccba31a0da2e551e8caed439dc4b56"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/pzCY6C3e/versions/hynR8fnB/MindfulDarkness-v8.0.3-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "4177ea8edf142f299ea7e1d974d0bc7e441f4a378e7e0a65de62044af1796d406cd88dc75b9ecd7350c8056db5f6c4214bae38e6043baa3d736be7a7aee3d629"
 
 [update]
-[update.curseforge]
-file-id = 5081355
-project-id = 852669
+[update.modrinth]
+mod-id = "pzCY6C3e"
+version = "hynR8fnB"

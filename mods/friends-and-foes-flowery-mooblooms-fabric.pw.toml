@@ -3,11 +3,11 @@ filename = "flowerymooblooms-fabric-mc1.20.1-2.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4cb1976f9e95a9bcf82c7197c0656d461d4d5d2e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ECOSu6pa/versions/D9jX5JX6/flowerymooblooms-fabric-mc1.20.1-2.0.2.jar"
+hash-format = "sha512"
+hash = "c5dbbbe19c5395fe40f8ba55b90bc5bdc8f85655222fd1c6d2045fb4fcf7b400ee2990deb8e2f7a3a7b188d722809c02de9e8579afef1d8e62d399b9208da278"
 
 [update]
-[update.curseforge]
-file-id = 5526954
-project-id = 779833
+[update.modrinth]
+mod-id = "ECOSu6pa"
+version = "D9jX5JX6"

@@ -3,11 +3,11 @@ filename = "combatroll-fabric-1.3.3+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7711c08770aa5d15f215093b6884c473350e2e1f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wGKYL7st/versions/FyOp03FS/combatroll-fabric-1.3.3%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "6703c3b2b6e6b063102b50e65aa4be29bc4b46f7830cf3a396bfb5fac78c3a29d1bcfe2b796fbe2c79f948bdb098931d076bee58f5ce5ff37a40ad699544ff04"
 
 [update]
-[update.curseforge]
-file-id = 5625934
-project-id = 678036
+[update.modrinth]
+mod-id = "wGKYL7st"
+version = "FyOp03FS"

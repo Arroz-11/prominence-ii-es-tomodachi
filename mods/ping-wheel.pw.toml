@@ -3,11 +3,11 @@ filename = "Ping-Wheel-1.12.1-fabric-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b16ceaad9a5c1bd778743446ca98e6b98ce89aee"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/ZEvFTc8t/Ping-Wheel-1.12.1-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "facd0bdeaa166f2b35940f43b21751280a2147ec1953570ead0ac16ab6f731b753e7f8e0683ef16669607cce5c4403bbe849f9f9e76e5305a4ea80dede2c0b6e"
 
 [update]
-[update.curseforge]
-file-id = 7409918
-project-id = 734339
+[update.modrinth]
+mod-id = "QQXAdCzh"
+version = "ZEvFTc8t"

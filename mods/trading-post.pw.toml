@@ -3,11 +3,11 @@ filename = "TradingPost-v8.0.2-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9607ab265701c88e7d4568f5e9318c59ca494880"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/8pcjMDgj/versions/Xc6BwCFB/TradingPost-v8.0.2-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "38775803037e1abcae121629cdecbac475cea18c99f3c37c181918e9bb59c4086941d9ae33fc53c489f049873aaa99df75a4f7734366c4ec317f0755aad2ef87"
 
 [update]
-[update.curseforge]
-file-id = 5057540
-project-id = 539057
+[update.modrinth]
+mod-id = "8pcjMDgj"
+version = "Xc6BwCFB"

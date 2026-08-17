@@ -3,11 +3,11 @@ filename = "sollib-fabric-1.20.1-1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "928bfe1c9f793ce2c6e38801ed816c4129ee22da"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/EqvAy5kA/versions/wePiNCPF/sollib-fabric-1.20.1-1.3.jar"
+hash-format = "sha512"
+hash = "2117c4e0159638607fdd6e2d3071e6a003cb0e858d814095852c74e133c9c685ecebbb7706560f0027a90923d2115f69e9439bf7b3cf89f77a009f9acbc3d3cd"
 
 [update]
-[update.curseforge]
-file-id = 8486461
-project-id = 1573497
+[update.modrinth]
+mod-id = "EqvAy5kA"
+version = "wePiNCPF"

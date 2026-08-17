@@ -3,11 +3,11 @@ filename = "artifacts-fabric-9.5.17.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c851630a411fa287ac64214ba73d1c978d805048"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/txBP6ArM/artifacts-fabric-9.5.17.jar"
+hash-format = "sha512"
+hash = "061e4f7a8b4db566273e04029e679774abe257413eeebd6141ec6de024020bc0a6d48b5dbd0ed470430f9b52737892ee04bde8d559eb7aa68aba4d85dd318754"
 
 [update]
-[update.curseforge]
-file-id = 7880346
-project-id = 312353
+[update.modrinth]
+mod-id = "P0Mu4wcQ"
+version = "txBP6ArM"

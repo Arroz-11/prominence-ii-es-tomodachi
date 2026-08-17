@@ -3,11 +3,11 @@ filename = "ItemBorders-1.20.1-fabric-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "37dce3e1ff7fe7d1577365e0ddec257c7fa1e275"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/b1fMg6sH/versions/Ycvq9kpk/ItemBorders-1.20.1-fabric-1.2.2.jar"
+hash-format = "sha512"
+hash = "d94c7a48eaef7412c95b8a0da1c929ca3247624a6f49d845f1415c2fe4a2de332381d027874ff48e9e91155bea4f6fdb1e59ab2fe5220a9134a5deded9ae907d"
 
 [update]
-[update.curseforge]
-file-id = 5108408
-project-id = 541604
+[update.modrinth]
+mod-id = "b1fMg6sH"
+version = "Ycvq9kpk"

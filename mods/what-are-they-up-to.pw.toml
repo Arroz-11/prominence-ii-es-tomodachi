@@ -3,11 +3,11 @@ filename = "watut-fabric-1.20.1-1.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e3b5da7d097e95d5b8c244f8f6c7947e1f5fdf92"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/AtB5mHky/versions/Ub8MHZaV/watut-fabric-1.20.1-1.2.3.jar"
+hash-format = "sha512"
+hash = "78e36fafa354d8e793d592b377c6162886fa487cadf8ca7dc24c3140909cfe2af943a2c954a4a9dbc7c7828fe606ff5d44e98cf7a4d9e8846810c498e1cc49eb"
 
 [update]
-[update.curseforge]
-file-id = 6315235
-project-id = 945479
+[update.modrinth]
+mod-id = "AtB5mHky"
+version = "Ub8MHZaV"

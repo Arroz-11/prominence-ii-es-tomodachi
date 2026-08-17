@@ -3,11 +3,11 @@ filename = "betterarcheology-1.2.1-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6bdf69749295de368fac4ee1822c2517a1f345a8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/zCh7omyG/versions/QNQXrdhi/betterarcheology-1.2.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "adde77f1e5bcd7092dc7f769fe573ac06a168ad1de4b914ef688f6ab2247093fc38f64518980f28e381096281444058ab5dbadf6d86a4a8e5645c246b289c696"
 
 [update]
-[update.curseforge]
-file-id = 5704094
-project-id = 835687
+[update.modrinth]
+mod-id = "zCh7omyG"
+version = "QNQXrdhi"

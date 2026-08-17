@@ -3,11 +3,11 @@ filename = "combat_effects-fabric-1.0.0-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e94afd4ca84af3d3459d78fed8441ed9ef4c83bb"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/DRRYP3ch/versions/kiHxf9Ak/combat_effects-fabric-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "31797cbc5b35007577902ec3e0104ca508e9957d5113d38516f32add1d3b14fd500b4bc3598e7d94b2ddf9ceb9097823f579c6ef52a755fb9d396d11638367b3"
 
 [update]
-[update.curseforge]
-file-id = 5940869
-project-id = 1148519
+[update.modrinth]
+mod-id = "DRRYP3ch"
+version = "kiHxf9Ak"

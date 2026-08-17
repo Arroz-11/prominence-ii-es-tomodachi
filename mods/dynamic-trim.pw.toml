@@ -3,11 +3,11 @@ filename = "dynamictrim-1.4.1-fabric+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "053db80675d74420c7dcc032f6ade10cbe70b5a2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/zFCKsjVY/versions/gOeBY3U6/dynamictrim-1.4.1-fabric%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "25867a9cb9e0a439d1b109287b7a9bbcbe2c4593a427d44b28f4054f53951ca0f2cffb69de4fdf7b6f487f2e09f89e012499bc98f5ceb2737e1db54840a635c6"
 
 [update]
-[update.curseforge]
-file-id = 5023431
-project-id = 901658
+[update.modrinth]
+mod-id = "zFCKsjVY"
+version = "gOeBY3U6"

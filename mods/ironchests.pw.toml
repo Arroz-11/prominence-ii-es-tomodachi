@@ -3,11 +3,11 @@ filename = "ironchests-5.0.2-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d6a4e18873de5caa6456ee9f95d33b7e6904be5c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/n2de3t2z/versions/gioHN8Aw/ironchests-5.0.2-fabric.jar"
+hash-format = "sha512"
+hash = "c4eceb44a99dbd9a4e3ce744bce6fe2f5a9d17ef36d0cbd012cd4344999f8cac9d16b964b966969175dea5da947071389616968caa91a9fcfbe360c36c6e0ac8"
 
 [update]
-[update.curseforge]
-file-id = 4638050
-project-id = 498794
+[update.modrinth]
+mod-id = "n2de3t2z"
+version = "gioHN8Aw"

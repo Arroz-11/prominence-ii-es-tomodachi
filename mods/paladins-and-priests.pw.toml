@@ -3,11 +3,11 @@ filename = "paladins-1.4.0+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0285345ee8b3f4684a64b9e2c011b965e7d4b9a3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/FxXkHaLe/versions/jdQ0FXvF/paladins-1.4.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "7b20d6fc68e88cad74371f858ba7c1e796819167fcb443a95cdc15e50c08846177a69a34ec8c287eedd0bd085be5b09686a79301e5079a8983c3422cab7c97e5"
 
 [update]
-[update.curseforge]
-file-id = 6097304
-project-id = 856548
+[update.modrinth]
+mod-id = "FxXkHaLe"
+version = "jdQ0FXvF"

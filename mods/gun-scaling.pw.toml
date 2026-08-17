@@ -3,11 +3,11 @@ filename = "gun-scaling-2.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "21639434c330115770a6210fb778fe39ddc6f787"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/dbVomK9Z/versions/xObOj5b9/gun-scaling-2.1.0.jar"
+hash-format = "sha512"
+hash = "d1e52d9156890be631e9fcd390efbfae3c7b1fe03053937b511af709b86d5f04b53f25e6f77d157bb3f3901de4f7f75cf2f76f2ef5c27856a7a9f30d30bf0d23"
 
 [update]
-[update.curseforge]
-file-id = 7700020
-project-id = 1456403
+[update.modrinth]
+mod-id = "dbVomK9Z"
+version = "xObOj5b9"

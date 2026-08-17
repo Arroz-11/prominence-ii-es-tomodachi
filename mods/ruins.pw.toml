@@ -3,11 +3,11 @@ filename = "PhilipsRuins1.20.1-5.7-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "762ed8d4fb46ca53d47f29718cd13e27fd440d71"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/KdJhOYVV/versions/VbesHzqU/PhilipsRuins1.20.1-5.7-Fabric.jar"
+hash-format = "sha512"
+hash = "53bf488c9c987ef5d0000629a786453863acd2430ab820316b8fad8f5dc0fc4d6c25a0eae76cda641e044e66b9ae8a88e62ddeeef5a3df5f5978f5740d8dc90c"
 
 [update]
-[update.curseforge]
-file-id = 7024378
-project-id = 569737
+[update.modrinth]
+mod-id = "KdJhOYVV"
+version = "VbesHzqU"

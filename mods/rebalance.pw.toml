@@ -3,11 +3,11 @@ filename = "ReBalance-FABRIC-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "42dfe3160385c579b71a0df227593cb7587d3fdc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/uZQipe0a/versions/3tK7PkkM/ReBalance-FABRIC-1.2.0.jar"
+hash-format = "sha512"
+hash = "204cb33ee05a02330de56d4c83123d21a791dcd9810aac9097129cb2d6484c90b5fe0154dd1e78a0b46848929025dc15c4ab8ffbeb156de3bdae8ae49ecbdf2a"
 
 [update]
-[update.curseforge]
-file-id = 5731360
-project-id = 940586
+[update.modrinth]
+mod-id = "uZQipe0a"
+version = "3tK7PkkM"

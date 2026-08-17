@@ -3,11 +3,11 @@ filename = "openblockselevator-0.0.3-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7a6a9f8c95d8d444d5d3ec7cd61fa5bba502eb71"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/v8XOAQUM/versions/WkZygu5H/openblockselevator-0.0.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "16094a6fef1ba086aa54cccf0b69ddf654d872c3f8e3c17d9fed4e1c024c9cbc3a09fb85c5c3968506bfa8b65c59ea9ea839fb963da65999de9bb199aee99706"
 
 [update]
-[update.curseforge]
-file-id = 4630055
-project-id = 667474
+[update.modrinth]
+mod-id = "v8XOAQUM"
+version = "WkZygu5H"

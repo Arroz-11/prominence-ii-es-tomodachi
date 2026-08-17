@@ -3,11 +3,11 @@ filename = "spell_engine-0.15.12+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "beb07c4466257c32821c8461d52e121931e85de2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XvoWJaA2/versions/Fh2MJAAe/spell_engine-0.15.12%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "cb5b4b26504b86b835e992da6e1e1ac0b10cc24604c4b5491aa739b29d15f61e100baa6769770861326622235a379ca3c48513dea25dbba44a7f853ba40d66c3"
 
 [update]
-[update.curseforge]
-file-id = 6009091
-project-id = 807653
+[update.modrinth]
+mod-id = "XvoWJaA2"
+version = "Fh2MJAAe"

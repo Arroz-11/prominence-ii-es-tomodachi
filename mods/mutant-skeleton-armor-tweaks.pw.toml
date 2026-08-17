@@ -3,11 +3,11 @@ filename = "mutant-skeleton-armor-tweaks-2.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fb746a4b13820c064fedc09a16a0e368e4fd8500"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/tFH21o8r/versions/HVdTYgjw/mutant-skeleton-armor-tweaks-2.1.0.jar"
+hash-format = "sha512"
+hash = "bf5d7a3d1a315df0a462912a4098fe3382b267e13ce5ac600cd711dd11dee11ee18345cdece1bccb7c3509e39fc37a7394c865b8589cc820ac996f4cdfd43e15"
 
 [update]
-[update.curseforge]
-file-id = 7712585
-project-id = 1461984
+[update.modrinth]
+mod-id = "tFH21o8r"
+version = "HVdTYgjw"

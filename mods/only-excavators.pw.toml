@@ -3,11 +3,11 @@ filename = "OnlyExcavators-1.20.1-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f40c6dbceee1588762f2793a10255a4d1d6ff1f2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/xkayuCFC/versions/THdjpwfZ/OnlyExcavators-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "070d6c8b8256136d60196d243992ad294b5eb7d6f1701f23eb3a3fda7aa78b6634f13a11579a691385c6b3d79ec668a260e8179d4c809222441888ff0bb09e04"
 
 [update]
-[update.curseforge]
-file-id = 7977634
-project-id = 916271
+[update.modrinth]
+mod-id = "xkayuCFC"
+version = "THdjpwfZ"

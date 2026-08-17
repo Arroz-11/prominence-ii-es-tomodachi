@@ -3,11 +3,11 @@ filename = "DarkUtilities-Fabric-1.20.1-17.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6434399f1cc8daa89636aca81e434cbb925e93b8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/CkqTAIaP/versions/5zG97cHT/DarkUtilities-Fabric-1.20.1-17.0.6.jar"
+hash-format = "sha512"
+hash = "cd25f2d5812a29c471b66fec6c1d61c1b1fda87ea8770ec29c78effd3f2efda2019760adfac50cb35ec446ba02c19dca48d703c766daa353349a3daabbafafba"
 
 [update]
-[update.curseforge]
-file-id = 7612438
-project-id = 242195
+[update.modrinth]
+mod-id = "CkqTAIaP"
+version = "5zG97cHT"

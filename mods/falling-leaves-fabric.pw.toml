@@ -3,11 +3,11 @@ filename = "fallingleaves-1.15.6+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9950aaea2a33b1cfc972e881c533384e3bb0a0fb"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/WhbRG4iK/versions/flPXaySR/fallingleaves-1.15.6%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "9a335ccb81b4511c073dc4cc687a4bdbeb2aec5f8735da6032096d13e90a81b98912dd96cafed885ea4b9d30d5e44fa4d2dda185009164b285f297f021da4e78"
 
 [update]
-[update.curseforge]
-file-id = 5240313
-project-id = 417510
+[update.modrinth]
+mod-id = "WhbRG4iK"
+version = "flPXaySR"

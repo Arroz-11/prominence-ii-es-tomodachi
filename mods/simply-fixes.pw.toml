@@ -3,11 +3,11 @@ filename = "simplyfixes-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "caa7a22296ffd03615f7ad0f68d658aca84c15a3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/iLE5SFD9/versions/RnNn2r0c/simplyfixes-1.0.0.jar"
+hash-format = "sha512"
+hash = "7922d5ba261a8ed819041a042ca3510e7b2500438c2a557d4e7ba1a5fea97418c69f1aee87c359f657eaf9ae5e0a2dfc625126de16c15952306c56b6fa6b828c"
 
 [update]
-[update.curseforge]
-file-id = 7964534
-project-id = 1521286
+[update.modrinth]
+mod-id = "iLE5SFD9"
+version = "RnNn2r0c"

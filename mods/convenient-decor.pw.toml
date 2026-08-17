@@ -3,11 +3,11 @@ filename = "convenientdecor-0.4.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "652c4b2908baa6cfeffaaecb2399f0ed41549bf8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/gMWAhU1n/versions/JrcEJiEH/convenientdecor-0.4.3.jar"
+hash-format = "sha512"
+hash = "42fbbfdad25d97734f57bea773d90a072758d46f804aeb8ff2ad4d4a56496640e707fd4d1f693a7e9a76c54a0add70755318081255cdcf9cc6447d7374eb22e6"
 
 [update]
-[update.curseforge]
-file-id = 5719100
-project-id = 794452
+[update.modrinth]
+mod-id = "gMWAhU1n"
+version = "JrcEJiEH"

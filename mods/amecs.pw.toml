@@ -3,11 +3,11 @@ filename = "amecs-bundle-1.6.3+mc1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "36bd030cbde20a5741fea088153c71f172ec152c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rcLriA4v/versions/quQYWYit/amecs-bundle-1.6.3%2Bmc1.20.jar"
+hash-format = "sha512"
+hash = "ca8f8fbd8471e005f9e3900fd01c274d2e59de9761c2dcbc7cbfc4fd2e20ec05d6ed38140d66dfe1d78d4d5c645574444203b75ce13dd3bcebd8f0176743b2c9"
 
 [update]
-[update.curseforge]
-file-id = 7806395
-project-id = 324564
+[update.modrinth]
+mod-id = "rcLriA4v"
+version = "quQYWYit"

@@ -3,11 +3,11 @@ filename = "citresewn-1.2.2+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1197a13e1c69e808e0c5d992fb344840c99a15d6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/otVJckYQ/versions/VzDTHJkq/citresewn-1.2.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "33b0edd61adb9d337226aeefd7fdb7b1cd76fc583f3f423a3d0d64c2487bf922a86f84e8a0344f77d5a39400226b7a6859a4c1e9961de0a443372dee798a7a59"
 
 [update]
-[update.curseforge]
-file-id = 5821272
-project-id = 521427
+[update.modrinth]
+mod-id = "otVJckYQ"
+version = "VzDTHJkq"

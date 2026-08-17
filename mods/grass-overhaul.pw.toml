@@ -3,11 +3,11 @@ filename = "GrassOverhaul-Fabric-1.20.1-v25.01.31.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6f34f8fd97556fd92e0d622dc1cb0986fed8f79f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Eeb4VkF6/versions/t2NIt8Pe/GrassOverhaul-Fabric-1.20.1-v25.01.31.jar"
+hash-format = "sha512"
+hash = "636bd91f7ae582f3c6bf607e591c63f7663a287d22dc8d47c3ce89a8f40cb09d00d500acff32fae2aeb3945e876c5130269939511007a118673c79b0dc472d66"
 
 [update]
-[update.curseforge]
-file-id = 6142991
-project-id = 640973
+[update.modrinth]
+mod-id = "Eeb4VkF6"
+version = "t2NIt8Pe"

@@ -3,11 +3,11 @@ filename = "cynosure-0.1.16-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ae301baf5e4153920c7622aaba37f2c12cb8e765"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4JVfdODB/versions/ERJwLCKb/cynosure-0.1.16-fabric.jar"
+hash-format = "sha512"
+hash = "9895dc59b9a79c734bf1a456295aa4b768f65fa0dcb4b4873162bc400658bb0d95777f6d74dc6d70ea65d2a82376890f80ce18f6a2fe308b19600abc6e22e6ea"
 
 [update]
-[update.curseforge]
-file-id = 7894326
-project-id = 1259952
+[update.modrinth]
+mod-id = "4JVfdODB"
+version = "ERJwLCKb"

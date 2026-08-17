@@ -3,11 +3,11 @@ filename = "fakerlib-0.1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1a7092b7986ebba46dbbfd7f7facb6401b57757a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ORX9fPw1/versions/X6Jnu4kO/fakerlib-0.1.5.jar"
+hash-format = "sha512"
+hash = "20eceded16de6936164831f4cf98b464524c5756f64cf4da1dcc1823b21cb7dd5d48cfbd7dc456a0758f38de3dbdd6d03046c8f36ed667ff5574bf54f12353f0"
 
 [update]
-[update.curseforge]
-file-id = 6827475
-project-id = 853197
+[update.modrinth]
+mod-id = "ORX9fPw1"
+version = "X6Jnu4kO"

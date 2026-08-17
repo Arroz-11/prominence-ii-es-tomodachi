@@ -3,11 +3,11 @@ filename = "loadmyresources_fabric_1.0.4-1_MC_1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9d873d3ac0a95de8dcd29cdde362b7fe72c4dc04"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/TqCKvqjC/versions/vO7R2WNi/loadmyresources_fabric_1.0.4-1_MC_1.20.jar"
+hash-format = "sha512"
+hash = "41f4157cfc13708dec15a09b09fe4d58809f54fd714b8cde3c1200d26135b2abe3057985a28e70fd925c2d3132782953c60c342cc6844163fe1fea506d7631b5"
 
 [update]
-[update.curseforge]
-file-id = 4583333
-project-id = 534835
+[update.modrinth]
+mod-id = "TqCKvqjC"
+version = "vO7R2WNi"

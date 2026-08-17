@@ -3,11 +3,11 @@ filename = "ShieldAPI-1.0.1+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3eff6896e92094df2fefc8175f8416d0532eec53"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/y9clIFY4/versions/sLbfVkc1/ShieldAPI-1.0.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "0e3e7c67a6caf5824a6e0329cc41eb3dc4669cc08fe844b150a98bcce69c375b75a740281bdb6013707a4db8cb84c94e18982bd847be46ed10b254c84e18b807"
 
 [update]
-[update.curseforge]
-file-id = 5520298
-project-id = 1048720
+[update.modrinth]
+mod-id = "y9clIFY4"
+version = "sLbfVkc1"

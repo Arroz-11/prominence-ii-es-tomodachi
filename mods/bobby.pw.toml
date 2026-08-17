@@ -3,11 +3,11 @@ filename = "bobby-5.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bdc0285d4209c529019ae1c5f1f0af0e3a3cffa6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/M08ruV16/versions/2cuVyTav/bobby-5.0.1.jar"
+hash-format = "sha512"
+hash = "2c2872b633f67feef2af378793da928d1595bb0cd841ee8ca6cd2bbbef45d8f9c14456b2d8970d4d92ac2cbefdb753c77c37341dfdbf0d00268f9cf607914391"
 
 [update]
-[update.curseforge]
-file-id = 4706163
-project-id = 409301
+[update.modrinth]
+mod-id = "M08ruV16"
+version = "2cuVyTav"

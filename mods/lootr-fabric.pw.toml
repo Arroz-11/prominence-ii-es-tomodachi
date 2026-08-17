@@ -3,11 +3,11 @@ filename = "lootr-fabric-1.20-0.7.35.86.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7750c9abdc5b0e023b69461e9d0350fbfb066fda"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/EltpO5cN/versions/nj1zDLc6/lootr-fabric-1.20-0.7.35.86.jar"
+hash-format = "sha512"
+hash = "73b303bf9566b85fe5cf484783c29a1afa9df35e791f20570bde39f6ec1993a32f4a88bceb298245d2f989510d0c19f8053371a69468769dccad5427c217c1e8"
 
 [update]
-[update.curseforge]
-file-id = 7266482
-project-id = 615106
+[update.modrinth]
+mod-id = "EltpO5cN"
+version = "nj1zDLc6"

@@ -3,11 +3,11 @@ filename = "mavapi-1.1.4-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1dcf31b512eda4a30ea8cad27205f534b89fae3d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/t4Ybtys2/versions/DwZgKHDi/mavapi-1.1.4-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "9943fb6a7aa1d98a9ef9bdc7488a2a1f5532b095ae0c292031c440e909df04746a8e43d17812e600faf534f11564a769cb103d8ab6562eddc40f163368492a38"
 
 [update]
-[update.curseforge]
-file-id = 5240476
-project-id = 709964
+[update.modrinth]
+mod-id = "t4Ybtys2"
+version = "DwZgKHDi"

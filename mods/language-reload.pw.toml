@@ -3,11 +3,11 @@ filename = "language-reload-1.7.5+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d825fcd495bcf53ab9ed3974a57f87b4d56d6a26"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/UmzbPud1/language-reload-1.7.5%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ae9a1340b125b50008217e0a8a1a8131a5e0432ecbf33629eea51482737ba17b4e710329dfa3aab70caa034ea7d97a4ee231e1fd6cf252a721fdbc7b4a149cb7"
 
 [update]
-[update.curseforge]
-file-id = 7213313
-project-id = 527334
+[update.modrinth]
+mod-id = "uLbm7CG6"
+version = "UmzbPud1"

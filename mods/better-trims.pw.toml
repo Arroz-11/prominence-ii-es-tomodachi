@@ -3,11 +3,11 @@ filename = "bettertrims-2.3.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e2d704ce12d694e546a58b3d0e78d55ec1c47ed5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/98ytUvlc/versions/Fcx2XZ7O/bettertrims-2.3.2.jar"
+hash-format = "sha512"
+hash = "42695e8d8b181b1c8bf405f9b15a41e3b32bd81515685e4a2316f0e5dff24c5cdf703a6002bf34340c8f4a2b5006b7fc0a8279e24a09ca49f749e23311c53baa"
 
 [update]
-[update.curseforge]
-file-id = 5641583
-project-id = 821752
+[update.modrinth]
+mod-id = "98ytUvlc"
+version = "Fcx2XZ7O"

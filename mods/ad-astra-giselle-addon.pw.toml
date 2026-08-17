@@ -3,11 +3,11 @@ filename = "Ad-Astra-Giselle-Addon-fabric-1.20.1-6.19.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ebcb28413f21abebcbb103a4c583c4d6bd147c2e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XQDxCBVw/versions/GN1gqTEK/Ad-Astra-Giselle-Addon-fabric-1.20.1-6.19.jar"
+hash-format = "sha512"
+hash = "019b87bfc8424d294739fc24bf36db93b1521ff4519e97a8f2101c7d106e59c9a9c514bcc0e7a431cc76e0bcf889e52fe25276e9eee0ac87d3c5e5402bcf0c30"
 
 [update]
-[update.curseforge]
-file-id = 6824013
-project-id = 714958
+[update.modrinth]
+mod-id = "XQDxCBVw"
+version = "GN1gqTEK"

@@ -3,11 +3,11 @@ filename = "estrogen-5.0.8+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c5172e3de883a59f44d7eb68fc5b3f60b41fb706"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/HhIJW8n1/versions/ZnqWS7up/estrogen-5.0.8%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "e82213b9b63158c550a33e2b8c45704cf239f61283f8050eb64e0a75df2e233fab074be317f5039bf35cc1babb699ad433f8075071b72731bd7a03bf63d2ada7"
 
 [update]
-[update.curseforge]
-file-id = 7531003
-project-id = 850410
+[update.modrinth]
+mod-id = "HhIJW8n1"
+version = "ZnqWS7up"

@@ -3,11 +3,11 @@ filename = "sodiumextras-fabric-1.0.7-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "415f6d815b673f6d719c55a7caaa44e03f62bf56"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vqqx0QiE/versions/FdVKLVds/sodiumextras-fabric-1.0.7-1.20.1.jar"
+hash-format = "sha512"
+hash = "9b8cf69f39f89dabc2748673553870a6fbf0fdb173ac86099b76fbb21fc06e4a6ef5542ae1b6ff608b559010edbb0798bddd14bb4f581ab58206c7646fed82c5"
 
 [update]
-[update.curseforge]
-file-id = 6041696
-project-id = 558905
+[update.modrinth]
+mod-id = "vqqx0QiE"
+version = "FdVKLVds"

@@ -3,11 +3,11 @@ filename = "expandeddelight-0.3.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "694a256f1dae0d70c352fe34c9ce6727c2ef37b3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/e9V6wFcR/versions/4KEfJPHI/expandeddelight-0.3.2.jar"
+hash-format = "sha512"
+hash = "bee505d4f291f779ac62000476489d26eaa5d649f887223a2dc37ca03378e7b076cdfa5ba7c895d6866cabdea9a362a96a4e56f6d964243b892fde194a988b4b"
 
 [update]
-[update.curseforge]
-file-id = 5708081
-project-id = 620770
+[update.modrinth]
+mod-id = "e9V6wFcR"
+version = "4KEfJPHI"

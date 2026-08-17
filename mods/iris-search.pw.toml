@@ -3,11 +3,11 @@ filename = "IrisSearch-1.6.0-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "962512cb020133ac9d75edb8708a94c55111aefa"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/bkAgg84v/versions/dXwjoAVA/IrisSearch-1.6.0-fabric.jar"
+hash-format = "sha512"
+hash = "bab97689bdedd535c779612ae535a959970aa38d443c1dfbe1ff71ef97087e1077603772b4b1570a26911085763615a3df6af6252c81a13f235b849f206b0b26"
 
 [update]
-[update.curseforge]
-file-id = 8574866
-project-id = 1583035
+[update.modrinth]
+mod-id = "bkAgg84v"
+version = "dXwjoAVA"

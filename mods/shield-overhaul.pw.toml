@@ -3,11 +3,11 @@ filename = "shield_overhaul-2.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8cc1df0d7e334ab9de44aeef82776b8b48b56bbf"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XGoaJBjR/versions/BPxqRmMP/shield_overhaul-2.0.4.jar"
+hash-format = "sha512"
+hash = "8490e8ab62c782b8998e55abb1af246e5c4e4a00a91c032a80797eaa73f4cc097683641ebc29dd1373b8489474dbc7b2d9f967506fbba92e1f06854c6eb96510"
 
 [update]
-[update.curseforge]
-file-id = 6161751
-project-id = 637870
+[update.modrinth]
+mod-id = "XGoaJBjR"
+version = "BPxqRmMP"

@@ -3,11 +3,11 @@ filename = "letsdo-herbalbrews-fabric-1.0.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9776b9cd5c06dd76fc7d4b75de971eec9d84bb26"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Eh11TaTm/versions/txZ8qKXK/letsdo-herbalbrews-fabric-1.0.12.jar"
+hash-format = "sha512"
+hash = "c3517c065c22d6117b80bed8f135cef068319dea79a21873733c4bf2679571675363e277601d8fbffbf0b7b96427f4fc7951d2812053e99e45a9f9ac483c0d08"
 
 [update]
-[update.curseforge]
-file-id = 6458888
-project-id = 951221
+[update.modrinth]
+mod-id = "Eh11TaTm"
+version = "txZ8qKXK"

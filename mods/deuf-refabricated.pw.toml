@@ -3,11 +3,11 @@ filename = "DEUF_Refabricated-MC1.20.1-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0d02a861b18bb253c15335f72a3ce8185307da2a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/US6QuKdU/versions/pizP8FAq/DEUF_Refabricated-MC1.20.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "6c3f84648b9008d5f7e14a3712eaca170aad5f7a2059f3851d8e2bfe6675c36d9000e9186249a5f9ffd9e2454dc32e68734397c7c1b0b591ccf5fc30ae4079f5"
 
 [update]
-[update.curseforge]
-file-id = 4597151
-project-id = 858101
+[update.modrinth]
+mod-id = "US6QuKdU"
+version = "pizP8FAq"

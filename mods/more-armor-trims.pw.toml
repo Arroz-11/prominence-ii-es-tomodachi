@@ -3,11 +3,11 @@ filename = "more_armor_trims-1.5.0-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3871ff7820d82906f0aa8c37c231ddeaa2f2da3d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/FGNYBAJ6/versions/ZKoWMpGz/more_armor_trims-1.5.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "a7be721f53cab42536e486493aaa3fb57d15e47953f4dcbeb959733408dea5eef313553fc4d07df6df2cd3ec92f503990d2e65e8e75b2113ec6e1fe203301b8a"
 
 [update]
-[update.curseforge]
-file-id = 7170685
-project-id = 876103
+[update.modrinth]
+mod-id = "FGNYBAJ6"
+version = "ZKoWMpGz"

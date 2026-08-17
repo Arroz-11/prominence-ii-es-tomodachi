@@ -3,11 +3,11 @@ filename = "Sortilege-1.20.1-9.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "686a215d148005a925861b28cf012d95a2b2ed6e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/GyVUSbid/versions/qsvS3NyS/Sortilege-1.20.1-9.0.jar"
+hash-format = "sha512"
+hash = "0c082e9308dfbf7b16c37c1c904fe5db4e1586b6f39e8d910e59e15ab92d4ad096ccfd414eef962fe4c6287af8bad39c4e229f3d537ffc759721f8222ab2af7a"
 
 [update]
-[update.curseforge]
-file-id = 8486605
-project-id = 882488
+[update.modrinth]
+mod-id = "GyVUSbid"
+version = "qsvS3NyS"

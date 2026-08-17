@@ -3,11 +3,11 @@ filename = "explorations-fabric-1.20.1-1.6.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "eb8ae8326e376049b2b55af0178abef170ee45a6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/pcGnjJ39/versions/EQZmtWsQ/explorations-fabric-1.20.1-1.6.1.jar"
+hash-format = "sha512"
+hash = "a7491b8f450d69378b0b1b310d3b83d5690edc98fa96aec8bd3b39d49f565ddc35a2e2fc19dbf9ea7fc54bbd09ea55e8db8f0ce1fa33f1483567c898c5711050"
 
 [update]
-[update.curseforge]
-file-id = 5786324
-project-id = 550247
+[update.modrinth]
+mod-id = "pcGnjJ39"
+version = "EQZmtWsQ"

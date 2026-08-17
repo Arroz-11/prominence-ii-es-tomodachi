@@ -3,11 +3,11 @@ filename = "betterend-crashed-ships-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "63ea28f999b58d331f653d2611a414097d4ee6f4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/QmTVMKNG/versions/E4nLamkA/betterend-crashed-ships-1.0.0.jar"
+hash-format = "sha512"
+hash = "fcef3491079610e635767681ab1cf5d7b2864112f5afb66be638993602909a048260d0620c92a89048579ac056873cd4e4fcefcc847f54752efc75541fc7c6bd"
 
 [update]
-[update.curseforge]
-file-id = 5343797
-project-id = 1018676
+[update.modrinth]
+mod-id = "QmTVMKNG"
+version = "E4nLamkA"

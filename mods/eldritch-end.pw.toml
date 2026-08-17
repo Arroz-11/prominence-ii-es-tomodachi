@@ -3,11 +3,11 @@ filename = "Eldritch_End-FABRIC-MC1.20.1-0.3.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ee250b9796fa3af0396adc5ff8de8ec1931cf6fc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/nBaXIQY9/versions/aM2npsuI/Eldritch_End-FABRIC-MC1.20.1-0.3.4.jar"
+hash-format = "sha512"
+hash = "50799ce3df76e1e311dcad04f1ebb43fc2a5af3318bd259f9fe233a11d33a5f39a2ca0444d26c86ec0666f4670203fdcc71d0e8b5a7ecfe85727816a30ad1e1c"
 
 [update]
-[update.curseforge]
-file-id = 6563192
-project-id = 877553
+[update.modrinth]
+mod-id = "nBaXIQY9"
+version = "aM2npsuI"

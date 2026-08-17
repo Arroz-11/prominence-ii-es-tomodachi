@@ -3,11 +3,11 @@ filename = "winterly-0.9.3+1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6586e290b065930d0560a0f2cd459d8a324e0ac3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/CEvDfomf/versions/5tRFmRAm/winterly-0.9.3%2B1.20.jar"
+hash-format = "sha512"
+hash = "73454817a8cb38762e558f9a0317cec11744a78626eeee419587eb41bee5a62c7c57f66220eb7048a24492a303d630e4f6ad5c60e88cc524e7141e1c3fa9b304"
 
 [update]
-[update.curseforge]
-file-id = 4760028
-project-id = 552628
+[update.modrinth]
+mod-id = "CEvDfomf"
+version = "5tRFmRAm"

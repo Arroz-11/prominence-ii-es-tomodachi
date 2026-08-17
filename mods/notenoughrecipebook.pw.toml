@@ -3,11 +3,11 @@ filename = "Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9088cb96c16372b339ca7f5b6e928938ebf97442"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/bQh7xzFq/versions/hiLb6QFe/Not%20Enough%20Recipe%20Book-FABRIC-0.4.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "e972943266e7b11d346864e1805636e6287e1554a3f4feaa68af0b3a0c5d87c308ebc80d24199b44c49b3130fd582355f5c2f9b64aa27edde54c4995f0d50591"
 
 [update]
-[update.curseforge]
-file-id = 5759900
-project-id = 738663
+[update.modrinth]
+mod-id = "bQh7xzFq"
+version = "hiLb6QFe"

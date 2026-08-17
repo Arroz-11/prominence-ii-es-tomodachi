@@ -3,11 +3,11 @@ filename = "RebornCore-5.8.14.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "37ecbb813d15e5bd347da2c39227c194673e1948"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/3NCrJdj3/versions/izaJJWdM/RebornCore-5.8.14.jar"
+hash-format = "sha512"
+hash = "4e2234a6cb73caebfe98085e73e2889c50cc0715aeddf799d10e0ee3a21cea222f457845eb9c79074de0dd2ad97f3d57140c3bf626c9d942ed8fd4d636d715c0"
 
 [update]
-[update.curseforge]
-file-id = 6788255
-project-id = 237903
+[update.modrinth]
+mod-id = "3NCrJdj3"
+version = "izaJJWdM"

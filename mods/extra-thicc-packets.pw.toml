@@ -3,11 +3,11 @@ filename = "extra_thicc_packets-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "976ebc913d0ea3c3b2e14a47ee4db6e28294d013"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Gc56DHid/versions/EFH2Xt0X/extra_thicc_packets-1.0.jar"
+hash-format = "sha512"
+hash = "13a68952dd761bed35847dad85bb2919fe36801f1bc93e95c227487bc4918d8a62fa8d5b9b6708b7d79d1aa0f344c69a5787be36d589d1040b5786f2c9cd91ff"
 
 [update]
-[update.curseforge]
-file-id = 4032019
-project-id = 688480
+[update.modrinth]
+mod-id = "Gc56DHid"
+version = "EFH2Xt0X"

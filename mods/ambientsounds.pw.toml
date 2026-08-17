@@ -3,11 +3,11 @@ filename = "AmbientSounds_FABRIC_v6.3.4_mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "69e884eb154223eac6c85d120b217a5856b5b6a5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fM515JnW/versions/Y8F6BpQg/AmbientSounds_FABRIC_v6.3.4_mc1.20.1.jar"
+hash-format = "sha512"
+hash = "3d047c3b8fa124089459a93951c9bca07da58bf07f2b63ed80e3abf69b6fe8d62bd6c991bf9beaa5deabbaf84ab40349c68a9e090d851c5e4a0356aefed09ad1"
 
 [update]
-[update.curseforge]
-file-id = 7550236
-project-id = 254284
+[update.modrinth]
+mod-id = "fM515JnW"
+version = "Y8F6BpQg"

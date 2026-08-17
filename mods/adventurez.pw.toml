@@ -3,11 +3,11 @@ filename = "adventurez-1.4.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a727891db0b750fda3c4e6f15e2781b89c490647"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/defK2XM3/versions/mBYmRou0/adventurez-1.4.20.jar"
+hash-format = "sha512"
+hash = "9d39505877fba9f1655ec5655715f5a579acabc525c0a25832942389ad5ecb3807e6ae59e43aca57e9897cf65a82f157d070df20a429df6f9f6e37b6459ba1c1"
 
 [update]
-[update.curseforge]
-file-id = 5043014
-project-id = 390991
+[update.modrinth]
+mod-id = "defK2XM3"
+version = "mBYmRou0"

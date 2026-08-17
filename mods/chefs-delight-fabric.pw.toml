@@ -3,11 +3,11 @@ filename = "chefs-delight-1.0.4-fabric-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8742572ac85ac1fe28c6f3cf19909583dd3fc718"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/pvcsfne4/versions/XYvlR0wq/chefs-delight-1.0.4-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "bb32aa5408deacd405803341aa84ef551c8b6da8b39b7401faba1b0c7689004f6315369aced11a545e4ed31ee44967c0c68448dc5bb46d1dc05ebc8b6fee7be2"
 
 [update]
-[update.curseforge]
-file-id = 7335194
-project-id = 736986
+[update.modrinth]
+mod-id = "pvcsfne4"
+version = "XYvlR0wq"

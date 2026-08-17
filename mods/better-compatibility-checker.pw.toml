@@ -3,11 +3,11 @@ filename = "BetterCompatibilityChecker-fabric-4.0.8+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8aa26b0ec2f48e65598fab5cf08cea569d87dc48"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/KJhXPbHQ/versions/1Z83Pw2p/BetterCompatibilityChecker-fabric-4.0.8%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "cb7b88003058961bd9ce1dea33c13ead005bde668b09e92f4ca4242a77924fb63cd64d00d8ad740df1151e5831b8092665dea379dc55582c27e54e3e78adaa98"
 
 [update]
-[update.curseforge]
-file-id = 4688939
-project-id = 551894
+[update.modrinth]
+mod-id = "KJhXPbHQ"
+version = "1Z83Pw2p"

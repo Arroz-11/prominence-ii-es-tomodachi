@@ -3,11 +3,11 @@ filename = "createestrogen-1.0.1+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "47cdab68820ab4aebc14f378e44fe4cf8035e4d8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/OEAJaSuI/versions/dfNdB0gV/createestrogen-1.0.1%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "d1e43fcf95beeb1e90fcb84e5041cb9ba97ea78642f805dfc4c08e731d22bd8ecf946bcb32f3455bcb33fb1348ece09ddbd5bcf98560a449aa53636e37c9b705"
 
 [update]
-[update.curseforge]
-file-id = 7715988
-project-id = 1272015
+[update.modrinth]
+mod-id = "OEAJaSuI"
+version = "dfNdB0gV"

@@ -3,11 +3,11 @@ filename = "rare-ice-0.6.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0d70c96d95ba2effa0b37bddf4ed54397ee5774c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/uSi0tajU/versions/8UbSLWxB/rare-ice-0.6.0.jar"
+hash-format = "sha512"
+hash = "ce6f0fe038819302bd8e5c3a777b5267b1ce4b29b5d14232eed350bddae3b644034a055a879093e86dab7a492a76101e256e2f5584042f3fb07eba4d418d3464"
 
 [update]
-[update.curseforge]
-file-id = 4594971
-project-id = 373774
+[update.modrinth]
+mod-id = "uSi0tajU"
+version = "8UbSLWxB"

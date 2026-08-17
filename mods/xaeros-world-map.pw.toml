@@ -3,11 +3,11 @@ filename = "xaeroworldmap-fabric-1.20.1-1.40.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b4f34e57f3bca8b98bf445e870e0acd1bd60856d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/6WcEeMbU/xaeroworldmap-fabric-1.20.1-1.40.11.jar"
+hash-format = "sha512"
+hash = "47e299ebcb14ec5a93f325f07fc96383cc399fa52c6985990f06aaab47578263637dbc7160c7e7a6252abdc5bfa9b55c98ef6d12b6b2c3c46c443f507664591c"
 
 [update]
-[update.curseforge]
-file-id = 7598472
-project-id = 317780
+[update.modrinth]
+mod-id = "NcUtCpym"
+version = "6WcEeMbU"

@@ -3,11 +3,11 @@ filename = "NightConfigFixes-v8.0.0-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cfdaacb6252b51e92362a15cc7a0212b1a225780"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/HgALhmVM/versions/AITsoSM2/NightConfigFixes-v8.0.0-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "25031a29980398b925822cc13074ad7368e525f4c001f9132cbef070a975289e7e713b7e5419d7b1971e9c658477779108118876695a23c75e5327c219c81069"
 
 [update]
-[update.curseforge]
-file-id = 4614069
-project-id = 813369
+[update.modrinth]
+mod-id = "HgALhmVM"
+version = "AITsoSM2"

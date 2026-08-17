@@ -3,11 +3,11 @@ filename = "createTestosterone-fabric-1.20.1-1.1.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "380e060074ca603e61291751e4109ba1d66cd058"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1ZpIVjxk/versions/c6AJLrXi/createTestosterone-fabric-1.20.1-1.1.7.jar"
+hash-format = "sha512"
+hash = "e89c1eee785c2322b67f989776e65e28612f51ae4fa7a56c42277317ec0840e9350e373c99293b7284f4561e78cc6981791dea7b5c31d239b3375e5b96729cf6"
 
 [update]
-[update.curseforge]
-file-id = 8596711
-project-id = 1555527
+[update.modrinth]
+mod-id = "1ZpIVjxk"
+version = "c6AJLrXi"

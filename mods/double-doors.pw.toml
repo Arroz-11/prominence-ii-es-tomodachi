@@ -3,11 +3,11 @@ filename = "doubledoors-1.20.1-7.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e97abe73c78be318584623a5e5b6e311e545da31"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/JrvR9OHr/versions/JxWWE54a/doubledoors-1.20.1-7.2.jar"
+hash-format = "sha512"
+hash = "335774b5052d6b557c1e6b93197e1f4c19b9f1edeca7482d1e87d03a95a6e34588554481b299238938dbdaf6159594da544874e51dc96f27ca7d4cef62d76897"
 
 [update]
-[update.curseforge]
-file-id = 7143840
-project-id = 348831
+[update.modrinth]
+mod-id = "JrvR9OHr"
+version = "JxWWE54a"

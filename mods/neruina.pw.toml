@@ -3,11 +3,11 @@ filename = "Neruina-2.3.1-beta.1-fabric+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4cf4580d4cc63ba7ad114815b4ef403c8eface88"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1s5x833P/versions/NuXh08QB/Neruina-2.3.1-beta.1-fabric%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "d30bc1dd6a656ea1e0ae2c1536c273236c4e32f43663ae50ecadf55cbfdf5a512347edf93cd719c84d34729f53114543c0e5c41219976fb3fd5506341d42a8a4"
 
 [update]
-[update.curseforge]
-file-id = 6489040
-project-id = 851046
+[update.modrinth]
+mod-id = "1s5x833P"
+version = "NuXh08QB"

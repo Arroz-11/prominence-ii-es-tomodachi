@@ -3,11 +3,11 @@ filename = "wraith-waystones-3.3.3+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ac9364386ec7d2db1701c02f8774085ee7ebe6c7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/sTZr7NVo/versions/pVMFGW45/wraith-waystones-3.3.3%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "7cadae39da277ad2cde6e9d55a4c2d00b7169bf73484b168bcd58992625a5c4da6ed18d0112d2d7a5468a39aab6647bdf8e493e33b076c4bcbd49a7e227386e8"
 
 [update]
-[update.curseforge]
-file-id = 6300601
-project-id = 410902
+[update.modrinth]
+mod-id = "sTZr7NVo"
+version = "pVMFGW45"

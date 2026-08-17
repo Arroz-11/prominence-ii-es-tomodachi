@@ -3,11 +3,11 @@ filename = "appliedenergistics2-fabric-15.4.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c8e746a11c4a658457b61e54d7da9f749b3ae03c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/kA3rm9EP/appliedenergistics2-fabric-15.4.10.jar"
+hash-format = "sha512"
+hash = "5c83de5ed90736e70b1a2a3767fe66f4d045d8df1c76873ba63daabdd4445e335a1d5183d1bde8bd923c2dde2b155516403c8aa5f776f07d3258da9da3ba423d"
 
 [update]
-[update.curseforge]
-file-id = 7148494
-project-id = 223794
+[update.modrinth]
+mod-id = "XxWD5pD3"
+version = "kA3rm9EP"

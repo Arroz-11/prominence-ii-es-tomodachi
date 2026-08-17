@@ -3,11 +3,11 @@ filename = "moonlight-1.20-2.16.28-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bf9286b0eef1f2c9cca327bc25d4be3c6b240a83"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/rUJa4T7C/moonlight-1.20-2.16.28-fabric.jar"
+hash-format = "sha512"
+hash = "17ae8f4ab84131a0e13d2484b8e9569dc3d449e3338933b8b0c668430166555a4eedc077bde1b726f8fd7399520b744b6ab4b31700058732221820ca8837dc11"
 
 [update]
-[update.curseforge]
-file-id = 7664873
-project-id = 499980
+[update.modrinth]
+mod-id = "twkfQtEc"
+version = "rUJa4T7C"

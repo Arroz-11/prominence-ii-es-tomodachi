@@ -3,11 +3,11 @@ filename = "fabric-end-remastered-5.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "815834a73e893f6520ea2d12e6b1e3397a1b65b2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ZJTGwAND/versions/4wKvHwVW/fabric-end-remastered-5.2.4.jar"
+hash-format = "sha512"
+hash = "7e00e31271ea07328754680c2b81dba36606eb2debb16ce70b75dee5d612f77625cb84c13bd5f9295b34642a46be8b035a3d829e2ed2b819c92f6b4a45097aba"
 
 [update]
-[update.curseforge]
-file-id = 4972591
-project-id = 515523
+[update.modrinth]
+mod-id = "ZJTGwAND"
+version = "4wKvHwVW"

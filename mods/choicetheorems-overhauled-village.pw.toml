@@ -3,11 +3,11 @@ filename = "[fabric]ctov-3.4.14.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "398954d32ba01fe63e2ae8a49c5921089f7e3eb7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/xaqkr8Ey/%5Bfabric%5Dctov-3.4.14.jar"
+hash-format = "sha512"
+hash = "d5717ee8a7984cdfd3d839120fc62add33eb7ca755edc4ee828007e32fd8a44c7b91432a2df120dc5feff89802ce0dc7367dbe6f9441d214cb0ba6e22d557975"
 
 [update]
-[update.curseforge]
-file-id = 6459787
-project-id = 623908
+[update.modrinth]
+mod-id = "fgmhI8kH"
+version = "xaqkr8Ey"

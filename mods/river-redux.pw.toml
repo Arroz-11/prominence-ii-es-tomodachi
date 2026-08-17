@@ -3,11 +3,11 @@ filename = "riverredux-0.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2abd29414ad41aaa330a37a18f51a6b2e62db95f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/dhhdnacC/versions/QDhJW5Y8/riverredux-0.3.1.jar"
+hash-format = "sha512"
+hash = "2b2d1ff38ed4fd72a8a063b506896221d0af318ba690567d50de1e4b33b8ad2e6f14ad902746193b6881d07dd5f3f14148e20828ffda6e57d276d147c2c25ba2"
 
 [update]
-[update.curseforge]
-file-id = 4587198
-project-id = 380548
+[update.modrinth]
+mod-id = "dhhdnacC"
+version = "QDhJW5Y8"

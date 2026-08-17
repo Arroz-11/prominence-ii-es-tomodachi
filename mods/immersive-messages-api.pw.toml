@@ -3,11 +3,11 @@ filename = "immersivemessages-fabric-1.0.18-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fefcf2f5d78a9c4302a9baa1af1d1fcb32a8feb3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/6xvrmbjn/versions/WEpkwUwg/immersivemessages-fabric-1.0.18-1.20.1.jar"
+hash-format = "sha512"
+hash = "26d19515dd4b5d9c6b2d60754ffd1c83ab8da53180233c11067983e2b1c956edb012f368d4ab26ff6d61d9b427bdb3d86777a04536b813aa3c492c471e23c1f5"
 
 [update]
-[update.curseforge]
-file-id = 6480771
-project-id = 1109713
+[update.modrinth]
+mod-id = "6xvrmbjn"
+version = "WEpkwUwg"

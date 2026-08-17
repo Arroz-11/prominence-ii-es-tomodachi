@@ -3,11 +3,11 @@ filename = "redirected-fabric-1.0.0-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3f7ced13e94394b12cb6d6092aba7cf0d884b748"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/hhnR8xqU/versions/QkgWbSnA/redirected-fabric-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "f3822cb6f2337b0d0bdccde74ccc823fc46af09847265ce43e184e7fe89f6176b415d490d25001bd97324500c8baad665cdc8301ebf60a6ba8df640978939de3"
 
 [update]
-[update.curseforge]
-file-id = 6148846
-project-id = 1191845
+[update.modrinth]
+mod-id = "hhnR8xqU"
+version = "QkgWbSnA"

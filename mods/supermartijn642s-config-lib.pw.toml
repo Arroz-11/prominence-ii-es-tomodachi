@@ -3,11 +3,11 @@ filename = "supermartijn642configlib-1.1.8a-fabric-mc1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "964df96c16afe775efd467b22f24458915805ad8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/LN9BxssP/versions/Ur02nrUT/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar"
+hash-format = "sha512"
+hash = "bccd2d3e55a70c7d4c1aedaa9e85d6d0039e982ebdab40bc2aeba4b27a5112859f7a05c342c3c9575ff5d8ced769d1feffb104ecdd4d19cac8afba9ea2017c52"
 
 [update]
-[update.curseforge]
-file-id = 4785838
-project-id = 438332
+[update.modrinth]
+mod-id = "LN9BxssP"
+version = "Ur02nrUT"

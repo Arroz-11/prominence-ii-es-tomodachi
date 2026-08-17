@@ -3,11 +3,11 @@ filename = "ftbquestsfreezefix-fabric-1.0.0-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d140b498b1a5c13f740af480bd00d46e9651d98d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/6Z1o0Fxu/versions/BZH4ySKM/ftbquestsfreezefix-fabric-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "1c1e69b80245db48a024f01bd9cc2a7477c6f75fae57fa37f5ee76bb2d8de37c7b7f0b41fd59bcc79803ba867418dd11e3095b8faaca34679a4daba5e9143a81"
 
 [update]
-[update.curseforge]
-file-id = 5777387
-project-id = 1113794
+[update.modrinth]
+mod-id = "6Z1o0Fxu"
+version = "BZH4ySKM"

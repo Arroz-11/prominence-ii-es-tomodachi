@@ -3,11 +3,11 @@ filename = "tbtransmog_compat-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fed56d10a00daa650a0b649cd6288ab7e275f668"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/A1AYC7WC/versions/sF5UdZQ6/tbtransmog_compat-1.0.0.jar"
+hash-format = "sha512"
+hash = "265783ac55fff584c4b3cce759668fc1fbff81289562ac2570c817fed98ed6ccd253dc6743cf5bd71754809ad0b7e79e7f624fade12ea30ef96aa11827a55564"
 
 [update]
-[update.curseforge]
-file-id = 7607137
-project-id = 1459527
+[update.modrinth]
+mod-id = "A1AYC7WC"
+version = "sF5UdZQ6"

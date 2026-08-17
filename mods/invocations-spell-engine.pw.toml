@@ -3,11 +3,11 @@ filename = "invoke-1.0.3.1-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "70e4711d393a7e22764e1f046b74d74a110baf9f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/xwHe8V3O/versions/j8kun0VM/invoke-1.0.3.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "f42b10c141a206206f531296fc7b230a2a472add05db4136cc0b7e51c1d3eba3737bef044381991ae6755e58bc192aa0b7732625066571a484ce055ea3ac48fe"
 
 [update]
-[update.curseforge]
-file-id = 6131165
-project-id = 910516
+[update.modrinth]
+mod-id = "xwHe8V3O"
+version = "j8kun0VM"

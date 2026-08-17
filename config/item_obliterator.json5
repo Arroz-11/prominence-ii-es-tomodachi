@@ -1,0 +1,154 @@
+{
+  // -----------------------------------------------------------
+  //              Item Obliterator by ElocinDev
+  // -----------------------------------------------------------
+  //  
+  // How to add items?
+  //   - They are json strings, so you need to separate each
+  //     entry with a comma, except the last
+  //   - If you start an entry with !, it will be treated as a regular expression
+  //     Example: "!minecraft:.*_sword" to disable all swords
+  //  
+  // -----------------------------------------------------------
+  // Do not touch this
+  "configVersion": 2,
+  // -----------------------------------------------------------
+  // Items here will be unusable completely
+  //    Example: minecraft:diamond
+  "blacklisted_items": [
+    "!(modern_industrialization|techreborn):(ruby|sapphire|peridot|steel|bronze|quantum|nano)_(pickaxe|sword|shovel|axe|hoe|helmet|chestplate|spade|leggings|boots)",
+    "techreborn:nanosaber",
+    "!archers_expansion:.*deadeye_(head|chest|legs|feet)",
+    "!archers_expansion:.*tundra_hunter_(head|chest|legs|feet)",
+    "!archers_expansion:.*war_archer_(head|chest|legs|feet)",
+    "!botania:.*_cloak",
+    "!kibe:(?!(.*_generator_.*|.*trash_can|.*glider.*|fluid_hopper|heater|dehumidifier|measuring_tape)).*",
+    "!onlyexcavators:(wooden|lapis|redstone|emerald|obsidian)_excavator",
+    "!wands:magic_bag_.*",
+    "adventurez:ivory_arrow",
+    "aquamirae:divider",
+    "aquamirae:fin_cutter",
+    "aquamirae:poseidons_breakfast",
+    "aquamirae:sea_stew",
+    "aquamirae:terrible_sword",
+    "archon:combustion_charge",
+    "archon:heaven_dial",
+    "artifacts:feral_claws",
+    "bewitchment:death_protection_poppet",
+    "botania:brew_flask",
+    "botania:crystal_bow",
+    "botania:ender_hand",
+    "botania:enchanter",
+    "botania:livingwood_bow",
+    "createaddition:electrum_amulet",
+    "croptopia:salt_ore",
+    "friendsandfoes:totem_of_illusion",
+    "minecells:cursed_sword",
+    "modern_industrialization:replicator",
+    "mythicupgrades:sapphire_axe",
+    "mythicupgrades:sapphire_hoe",
+    "mythicupgrades:sapphire_pickaxe",
+    "mythicupgrades:sapphire_potion",
+    "mythicupgrades:sapphire_shovel",
+    "mythicupgrades:sapphire_sword",
+    "simplyskills:gracious_manuscript",
+    "simplyskills:skill_chronicle",
+    "soulsweapons:frostmourne",
+    "spellbladenext:voidforge",
+    "the_bumblezone:bee_soup",
+    "the_bumblezone:potion_candle",
+    "things:broken_watch",
+    "things:empty_agglomeration",
+    "sortilege:limitite",
+	"!sortilege:.*_staff",
+    "archon:aqua_shield_tome",
+	"deeperdarker:warden_chestplate",
+	"deeperdarker:warden_helmet",
+	"deeperdarker:warden_leggings",
+	"deeperdarker:warden_boots",
+	"botania:lens_mine"
+  ],
+  // -----------------------------------------------------------
+  // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
+  // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
+  // 	
+  // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
+  // 	
+  // 	 You can also use regular expressions by starting the value with !
+  "blacklisted_nbt": [],
+  // -----------------------------------------------------------
+  // Items here will not be able to be right-clicked (Interact)
+  //    Example: minecraft:apple
+  "only_disable_interactions": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will not be able to be used to attack
+  //    Example: minecraft:diamond_sword
+  "only_disable_attacks": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will get their recipes disabled
+  // Keep in mind this already is applied to blacklisted items
+  "only_disable_recipes": [
+    "powah:energy_cable_starter",
+    "powah:energy_cable_basic",
+    "powah:energy_cable_hardened",
+    "powah:energy_cable_blazing",
+    "powah:energy_cable_niotic",
+    "powah:energy_cable_spirited",
+    "powah:energy_cable_nitro",
+    "powah:ender_gate_starter",
+    "powah:ender_gate_basic",
+    "powah:ender_gate_hardened",
+    "powah:ender_gate_blazing",
+    "powah:ender_gate_niotic",
+    "powah:ender_gate_spirited",
+    "powah:ender_gate_nitro",
+	"indrev:cable_mk1",
+	"indrev:cable_mk2",
+	"indrev:cable_mk3",
+	"indrev:cable_mk4",
+	"indrev:mining_drill_mk1",
+	"indrev:mining_drill_mk2",
+	"indrev:mining_drill_mk3",
+	"indrev:mining_drill_mk4",
+	"indrev:electric_furnace_mk1",
+	"indrev:electric_furnace_mk2",
+	"indrev:electric_furnace_mk3",
+	"indrev:electric_furnace_mk4",
+	"indrev:electric_furnace_factory_mk4",
+	"indrev:fisher_mk1",
+	"indrev:fisher_mk2",
+	"indrev:fisher_mk3",
+	"indrev:lazuli_flux_container_mk1",
+	"indrev:lazuli_flux_container_mk2",
+	"indrev:lazuli_flux_container_mk3",
+	"indrev:lazuli_flux_container_mk4",
+	"indrev:pulverizer_mk1",
+	"indrev:pulverizer_mk2",
+	"indrev:pulverizer_mk3",
+	"indrev:pulverizer_mk4",
+	"indrev:compressor_mk1",
+	"indrev:compressor_mk2",
+	"indrev:compressor_mk3",
+	"indrev:compressor_mk4",
+	"indrev:pump_mk1",
+	"indrev:farmer_mk1",
+	"indrev:farmer_mk2",
+	"indrev:farmer_mk3",
+	"indrev:farmer_mk4",
+	"archon:experience_pouch",
+	"archon:super_experience_pouch"
+	
+  ],
+  // -----------------------------------------------------------
+  // If true, the mod will use a hashset to handle the blacklisted items
+  // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
+  // If you just have a small amount of items blacklisted, keep this false
+  //  
+  // [!] Enabling this will disable all regular expressions
+  // [!] Does not apply to NBT, only item blacklist / interaction / attack
+  "use_hashmap_optimizations": false
+}

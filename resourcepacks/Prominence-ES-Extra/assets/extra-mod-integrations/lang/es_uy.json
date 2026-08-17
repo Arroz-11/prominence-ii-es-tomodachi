@@ -1,0 +1,15 @@
+{
+  "gui.extra-mod-integrations.cook_time": "%f s",
+  "gui.extra-mod-integrations.metric.format.0": "%.2f",
+  "gui.extra-mod-integrations.metric.format.1": "%.1f",
+  "gui.extra-mod-integrations.metric.format.2": "%.0f",
+  "gui.extra-mod-integrations.metric.format.3": "%.2f k",
+  "gui.extra-mod-integrations.metric.format.4": "%.1f k",
+  "gui.extra-mod-integrations.metric.format.5": "%.0f k",
+  "gui.extra-mod-integrations.metric.format.6": "%.2f M",
+  "gui.extra-mod-integrations.metric.format.7": "%.1f M",
+  "gui.extra-mod-integrations.metric.format.8": "%.0f M",
+  "gui.extra-mod-integrations.metric.format.9": "%.2f G",
+  "tooltip.extra-mod-integrations.techreborn.recipe_power": "%d E/t",
+  "tooltip.extra-mod-integrations.techreborn.recipe_power_per_bucket": "%d E/b"
+}

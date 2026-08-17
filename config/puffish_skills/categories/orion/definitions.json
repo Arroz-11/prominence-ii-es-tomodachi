@@ -1,0 +1,311 @@
+{
+  "oriondamage": {
+    "size": 0.66,
+    "title": "§f凌 §9+3% §7Daño infligido por §5Orion",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/circle_selected.png",
+        "available": "prominent_talents:textures/frames/circle.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/icon/talent_tree/artifacts/orion/icon_1.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "prominent:artifact_damage",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ],
+    "editor-color": "#ff00a6",
+    "metadata": {
+      "icon": "vt5q3v2tr9v4ow8e"
+    }
+  },
+  "drawspeed": {
+    "size": 0.66,
+    "title": "§f凌 §2+3% §7Gracia terrible",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/circle_selected.png",
+        "available": "prominent_talents:textures/frames/circle.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/icon/talent_tree/artifacts/orion/icon_2.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ranged_weapon:haste",
+          "value": 0.03,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "editor-color": "#ff00a6",
+    "metadata": {
+      "icon": "uwp9malwyq3p52ds"
+    }
+  },
+  "pledge+algjebbah": {
+    "title": "§dJuramento a: §eAlgjebbah",
+    "description": "§7Promete el poder de §5Orion §7a la estrella Algjebbah, otorgando su don defensivo.\n \n§fꬁ§2 +20 §7Resistencia a la Corrupción\n \n§f鹿 §eDon de Algjebbah\n§7Cúrate un 5% de tu salud máxima al usar una habilidad de cualquier libro de hechizos de arquería.",
+    "size": 1.5,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/item/artifacts/orion/star_s4.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "eldritch_end:corruption_resistance",
+          "value": 20,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "prominent:artifact_phase",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "n241yslto644cv8k"
+    }
+  },
+  "pledge+mintaka": {
+    "title": "§dJuramento a: §bMintaka",
+    "description": "§7Promete el poder de §5Orion §7 a la estrella Mintaka, otorgando su regalo congelado.\n\n§f勒§b +10 §7Poder de Escarcha\n\n§f鹿 §bEl Regalo de Mintaka\n§7Aumenta el daño causado por tus habilidades provenientes del Libro de Hechizos §bEl Pavor de Mintaka§7.",
+    "size": 1.5,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/item/artifacts/orion/star_s4.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "spell_power:frost",
+          "value": 10,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "prominent:artifact_phase",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "n241yslto644cv8k"
+    }
+  },
+  "pledge+alnilam": {
+    "title": "§dJura a: §cAlnilam",
+    "description": "§7Promete el poder de §5Orion §7a la estrella Alnilam, otorgando su don letal.\n \n§f凌§2 +5 §7Daño a Distancia\n§f凌§2 +10% §7Velocidad de Tensado\n \n§f鹿 §cDon de Alnilam\n§7Aumenta el daño infligido por tus habilidades del libro de hechizos §cAlnilam's Sight§7.",
+    "size": 1.5,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/item/artifacts/orion/star_s4.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ranged_weapon:haste",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ranged_weapon:damage",
+          "value": 5,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "prominent:artifact_phase",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "n241yslto644cv8k"
+    }
+  },
+  "pledge+alnitak": {
+    "title": "§dJuramento a: §6Alnitak",
+    "description": "§7Promete el poder de §5Orion §7a la estrella Alnitak, otorgando su don ardiente.\n \n§f縷§6 +10 §7Poder de Fuego\n \n§f鹿 §6Don de Alnitak\n§7Aumenta el daño infligido por tus habilidades del libro de hechizos §6Alnitak's Might§7.",
+    "size": 1.5,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/item/artifacts/orion/star_s4.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "spell_power:fire",
+          "value": 10,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "prominent:artifact_phase",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "n241yslto644cv8k"
+    }
+  },
+  "nebula-horsehead": {
+    "title": "§f鹿 §cPoder de la Nebulosa Cabeza de Caballo",
+    "description": "§5Orion §7y las habilidades de tu arco causan más Daño mientras estás montado en una Montura Mítica de Caballo o Pesadilla.\n\n§f凌 §2+20% §7Daño a Distancia mientras estás montado",
+    "size": 1,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/item/artifacts/orion/star_s1.png"
+      }
+    },
+    "rewards": [],
+    "metadata": {
+      "icon": "ym2jddo77nhmeb1n"
+    }
+  },
+  "nebula-orion": {
+    "title": "§f鹿 §dFuerza de la Nebulosa de Orión",
+    "description": "§7Tu vínculo con §5Orion §7 se fortalece, haciendo que las flechas disparadas sean más rápidas, a cambio de una velocidad de carga más lenta.\n\n§f凌 §2+5% §7Velocidad de Flecha\n§f凌 §2-10% §7Velocidad de Carga",
+    "size": 1,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/item/artifacts/orion/star_s1.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "zenith_attributes:arrow_velocity",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ranged_weapon:haste",
+          "value": -0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "we3zt8lq8rng3p2h"
+    }
+  },
+  "nebula-casper": {
+    "title": "§f鹿 §dCasper el Amistoso Fantasma",
+    "description": "§7La pasiva Zona de Enfoque ahora también se puede aplicar al usar las siguientes habilidades con §5Orion§7:\n \n§7- §bFlecha de Cristal §8(Mintaka's Fright)\n§7- §cGas Asfixiante §8(Alnilam's Sight)\n§7- §6Inmovilizar §8(Alnitak's Might)§7\n \n§cTalento Requerido: §7Zona de Enfoque",
+    "size": 1,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/item/artifacts/orion/star_s1.png"
+      }
+    },
+    "rewards": [],
+    "metadata": {
+      "icon": "we3zt8lq8rng3p2h"
+    }
+  }
+}

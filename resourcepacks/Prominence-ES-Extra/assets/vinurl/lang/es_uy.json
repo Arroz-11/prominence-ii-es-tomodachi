@@ -1,0 +1,21 @@
+{
+  "category.vinurl": "VinURL",
+  "item.vinurl.custom_record": "Disco de música personalizado",
+  "item.vinurl.custom_record.desc": "Sin canción",
+  "key.vinurl.accept": "Añadir proveedor",
+  "text.config.VinURLConfig.option.audioBitrate": "Calidad de audio",
+  "text.config.VinURLConfig.option.audioBitrate.tooltip": "Calidad de los archivos de audio",
+  "text.config.VinURLConfig.option.audioBitrate.value.high": "Alta",
+  "text.config.VinURLConfig.option.audioBitrate.value.low": "Baja",
+  "text.config.VinURLConfig.option.audioBitrate.value.medium": "Media",
+  "text.config.VinURLConfig.option.downloadEnabled": "Descargar música personalizada",
+  "text.config.VinURLConfig.option.downloadEnabled.tooltip": "Si se descarga o no la música personalizada",
+  "text.config.VinURLConfig.option.showDescription": "Descripción del disco",
+  "text.config.VinURLConfig.option.showDescription.tooltip": "Si se muestra «Artista - Título» como descripción del disco",
+  "text.config.VinURLConfig.option.updatesOnStartup": "Actualizaciones automáticas",
+  "text.config.VinURLConfig.option.updatesOnStartup.tooltip": "Buscar actualizaciones de YT-DLP, FFmpeg y FFprobe al iniciar",
+  "text.config.VinURLConfig.option.urlWhitelist": "Proveedores permitidos",
+  "text.config.VinURLConfig.section.audioSettings": "Ajustes de audio",
+  "text.config.VinURLConfig.section.general": "General",
+  "text.config.VinURLConfig.title": "Configuración de VinURL"
+}

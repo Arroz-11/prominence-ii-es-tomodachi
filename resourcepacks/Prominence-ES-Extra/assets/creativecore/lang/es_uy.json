@@ -1,0 +1,10 @@
+{
+  "gui.config.reset": "r",
+  "gui.day": "d",
+  "gui.del": "x",
+  "gui.hour": "h",
+  "gui.minus": "-",
+  "gui.minute": "m",
+  "gui.plus": "+",
+  "gui.second": "s"
+}

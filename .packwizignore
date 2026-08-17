@@ -1,5 +1,8 @@
 README.md
 INSTALAR.md
-*.zip
+# OJO: NO usar "*.zip" aca. Los resourcepacks del modpack son .zip y esa regla
+# los excluia del index entero (el juego quedaba sin fuentes -> cuadraditos).
+# Solo se ignora el zip-llave que se importa en Prism.
+/Prominence-II-ES-Tomodachi.zip
 .gitattributes
 .gitignore

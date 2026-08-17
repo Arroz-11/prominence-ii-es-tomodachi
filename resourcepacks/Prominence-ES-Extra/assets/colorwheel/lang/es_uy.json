@@ -1,0 +1,23 @@
+{
+  "colorwheel.alert.ask_disable": "Desactivar esta alerta",
+  "colorwheel.alert.broken_pack": "El paquete de shaders actual contiene shaders rotos; es esperable que haya fallos gráficos",
+  "colorwheel.alert.broken_pack.disable": "Desactivar la alerta de paquete de shaders roto",
+  "colorwheel.alert.incompatible_pack": "El paquete de shaders %1$s no es compatible",
+  "colorwheel.alert.incompatible_pack.ask_fallback_mode": "Puedes pedirle al desarrollador del paquete de shaders que añada compatibilidad con Colorwheel. También puedes activar el %1$s para tener compatibilidad totalmente automática. HABRÁ fallos gráficos y NO se dará soporte extendido.",
+  "colorwheel.alert.incompatible_pack.disable": "Desactivar la alerta de paquete de shaders incompatible",
+  "colorwheel.alert.incompatible_pack.patch_available": "En su lugar deberías seleccionar %1$s en el menú de Paquetes de Shaders",
+  "colorwheel.fallback_mode": "modo alternativo",
+  "colorwheel.fallback_mode.enable": "Activar el modo alternativo",
+  "command.colorwheel.alert_broken_pack.get.off": "La alerta de paquete de shaders roto está desactivada",
+  "command.colorwheel.alert_broken_pack.get.on": "La alerta de paquete de shaders roto está activada",
+  "command.colorwheel.alert_broken_pack.set.off": "La alerta de paquete de shaders roto ahora está desactivada",
+  "command.colorwheel.alert_broken_pack.set.on": "La alerta de paquete de shaders roto ahora está activada",
+  "command.colorwheel.alert_incompatible_pack.get.off": "La alerta de paquete de shaders incompatible está desactivada",
+  "command.colorwheel.alert_incompatible_pack.get.on": "La alerta de paquete de shaders incompatible está activada",
+  "command.colorwheel.alert_incompatible_pack.set.off": "La alerta de paquete de shaders incompatible ahora está desactivada",
+  "command.colorwheel.alert_incompatible_pack.set.on": "La alerta de paquete de shaders incompatible ahora está activada",
+  "command.colorwheel.fallback_mode.get.off": "El modo alternativo está desactivado",
+  "command.colorwheel.fallback_mode.get.on": "El modo alternativo está activado",
+  "command.colorwheel.fallback_mode.set.off": "El modo alternativo ahora está desactivado",
+  "command.colorwheel.fallback_mode.set.on": "El modo alternativo ahora está activado. ¡Acá hay dragones!"
+}

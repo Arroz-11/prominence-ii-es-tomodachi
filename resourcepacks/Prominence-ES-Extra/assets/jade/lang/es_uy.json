@@ -1,0 +1,15 @@
+{
+  "jade.blockFace": " (%s)",
+  "jade.blockpos": "%s %s %s",
+  "jade.distance1": " [%s]",
+  "jade.fe": "%s / %s",
+  "jade.fluid": "%s %s",
+  "jade.fluid2": "%s %s / %s",
+  "jade.fraction": "%d / %d",
+  "jade.infinity": "+∞",
+  "jade.potion": "%s (%s)",
+  "jade.seconds": "{0}s",
+  "jade.spawner": "%s (%s)",
+  "narration.jade.blockpos": "X%s Y%s Z%s ",
+  "narration.jade.distance": "D%s"
+}

@@ -1,0 +1,7 @@
+{
+  "demandOnClientMessage": "No tienes informes de chat, y este servidor está configurado para requerirlos en el cliente.!",
+  "demandOnClient": false,
+  "convertToGameMessage": true,
+  "addQueryData": true,
+  "enableDebugLog": false
+}

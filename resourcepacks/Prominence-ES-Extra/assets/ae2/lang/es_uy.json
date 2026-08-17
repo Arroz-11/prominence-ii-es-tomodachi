@@ -1,0 +1,8 @@
+{
+  "gui.ae2.units.tr": "E",
+  "item.ae2.debug_card": "Dev.DebugCard",
+  "item.ae2.debug_eraser": "Dev.Eraser",
+  "item.ae2.debug_meteorite_placer": "Dev.MeteoritePlacer",
+  "item.ae2.debug_replicator_card": "Dev.ReplicatorCard",
+  "theoneprobe.ae2.stored_energy": "%1$d / %2$d"
+}

@@ -12,7 +12,11 @@ INSTALAR.md
 *.tmp
 config/spark/tmp/
 
-# Mundo generado al jugar, no viene con el modpack: cada jugador genera el
-# suyo en el primer arranque. Son ~400 MB y ademas serian LAS DIMENSIONES DE
-# ESTA PC, ya exploradas.
-config/prominent/dimensions/
+# NO ignorar config/prominent/dimensions/. Se ignoro una vez creyendo que era
+# mundo generado al jugar, y son los mundos hechos a mano del modpack: Vaaz
+# (present/past/assault) y challenge_arena, 404 MB que vienen en el .mrpack
+# oficial. Sin ellos el juego no resuelve el dimension_type y descarta TODAS
+# las dimensiones ("unknown dimension type: prominent:cinderstone_depths"):
+# el mundo sale todo lava.
+# Pesan distinto en cada PC porque al jugar se generan chunks alrededor, pero
+# la base es contenido del pack.

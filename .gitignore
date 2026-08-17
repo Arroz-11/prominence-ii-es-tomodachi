@@ -1,5 +1,3 @@
 # temporales de packwiz
 *.tmp
 
-# mundo generado al jugar (ver .packwizignore)
-config/prominent/dimensions/

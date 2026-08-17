@@ -4961,6 +4961,10 @@ file = "config/yosbr/optionsviveprofiles.txt"
 hash = "3e191278f073592cb7292b13086156976d6d75232e7150f7a847fecb5bc88e08"
 
 [[files]]
+file = "config/yosbr/servers.dat"
+hash = "f10e3c314580699bf457bb7cbde70d2afa90fcfe1cdb99ed9963c8a8297c841c"
+
+[[files]]
 file = "config/ysns/disabled_entities.json5"
 hash = "296af9db18fd0ca9b23bd22d8d57a91973937de308ab80668505004139c7d8f7"
 
@@ -7363,6 +7367,11 @@ metafile = true
 [[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "0c2d57acf5bcf552a4878b9219fc786960e01a7e7d8daf1ad2b30f0b053189d0"
+metafile = true
+
+[[files]]
+file = "mods/maplink.pw.toml"
+hash = "628febc3f2889a9b1d99353fc4115d7254952611c7211fd030d5f5d03245e225"
 metafile = true
 
 [[files]]

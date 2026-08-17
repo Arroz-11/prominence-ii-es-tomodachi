@@ -2900,7 +2900,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "ba5ff18e27aa4a5ef3cc763c0f17178c57a916b183035678715ff0fa3f6fee6b"
+hash = "db06f120362cc96bf2e807fcce751c6b143049e7f9fc0074be2bd84ec4322ed0"
 metafile = true
 
 [[files]]
@@ -3295,7 +3295,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "c10f35164d33622dcd4b14455459a0c309bf2baede4b4f76f4bc1e85b6ce4eff"
+hash = "84126cd324c62c3d05b6dc9f46eaacfe0bacb36e137727c40d235b6051b7b6d6"
 metafile = true
 
 [[files]]

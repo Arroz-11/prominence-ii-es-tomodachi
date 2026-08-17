@@ -1,0 +1,4 @@
+{
+  "text.entityculling.solidLeaves": "Hojas sólidas",
+  "text.entityculling.solidLeaves.tooltip": "Al activarlo, las hojas se tratan como bloques sólidos para el descarte de renderizado. Puede mejorar el rendimiento en los bosques, pero también causar fallos visuales. Útil si tienes «Hojas transparentes» en Off o si usas un pack de texturas con hojas densas."
+}

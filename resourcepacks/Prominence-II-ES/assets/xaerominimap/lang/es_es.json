@@ -1,0 +1,11 @@
+{
+  "gui.xaero_12h": "12h",
+  "gui.xaero_24h": "24h",
+  "gui.xaero_all_light_value": "L: %d",
+  "gui.xaero_category_setting_inherit": "-",
+  "gui.xaero_compass_east": "E",
+  "gui.xaero_compass_north": "N",
+  "gui.xaero_compass_south": "S",
+  "gui.xaero_compass_west": "O",
+  "gui.xaero_unit_s": "s"
+}

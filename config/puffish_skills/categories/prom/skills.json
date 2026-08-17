@@ -379,8 +379,8 @@
 	},
 	"fqe954y78ic9qk4d": {
 		"definition": "melee_damage+3.5%",
-		"x": -62.31820716949258,
-		"y": 112.48935253816533,
+		"x": -55.514718625761425,
+		"y": 124.110912703474,
 		"root": false
 	},
 	"u0mz63rrnwuirgs5": {
@@ -691,8 +691,8 @@
 	},
 	"lc37d1ih4enz204r": {
 		"definition": "ranged_damage+3%",
-		"x": -4.162224902509504,
-		"y": 256.1085921050733,
+		"x": 0,
+		"y": 256,
 		"root": false
 	},
 	"zuuv4zpb2qur5w4p": {
@@ -1031,22 +1031,28 @@
 		"y": -490.70286403502445,
 		"root": false
 	},
-	"sh0mgsrhdh16jls7": {
+	"sh0mgsrhdh16jls6": {
 		"definition": "fate_a_bards_tale",
-		"x": 416,
-		"y": 96,
+		"x": -352,
+		"y": -576,
 		"root": false
 	},
 	"c97wxgqn3utj7y01": {
 		"definition": "ascendancyDissonance",
-		"x": 406.5,
-		"y": 39.5,
+		"x": -256,
+		"y": -640,
 		"root": false
 	},
 	"fau6678t6tq0oep6": {
 		"definition": "fate_decaying_devotion",
 		"x": -298.23043415351685,
 		"y": 544.7470689098287,
+		"root": false
+	},
+	"agvajd6sywztz23q": {
+		"definition": "passive_disable_leap",
+		"x": 0,
+		"y": 12,
 		"root": false
 	}
 }

@@ -144,7 +144,7 @@
 	"emberstormDamage": 5.0,
 	"emberstormDetonationDamage": 15.0,
 	"emberstormCooldown": 600.0,
-	"emberstormMaxHaste": 10.0,
+	"emberstormMaxHaste": 4.0,
 	"emberstormSpellScaling": 0.5,
 	"ribbonwrathCooldown": 40.0,
 	"ribbonwrathResilienceAmplifier": 1.0,

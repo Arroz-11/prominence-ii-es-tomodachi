@@ -32,9 +32,10 @@
     "aquamirae:sea_stew",
     "aquamirae:terrible_sword",
     "archon:combustion_charge",
+    "archon:fire_wand",
     "archon:heaven_dial",
+    "archon:wither_stave",
     "artifacts:feral_claws",
-    "bewitchment:death_protection_poppet",
     "botania:brew_flask",
     "botania:crystal_bow",
     "botania:ender_hand",
@@ -60,13 +61,18 @@
     "things:broken_watch",
     "things:empty_agglomeration",
     "sortilege:limitite",
-	"!sortilege:.*_staff",
-    "archon:aqua_shield_tome",
-	"deeperdarker:warden_chestplate",
-	"deeperdarker:warden_helmet",
-	"deeperdarker:warden_leggings",
-	"deeperdarker:warden_boots",
-	"botania:lens_mine"
+	  "sortilege:antidote",
+	  "deeperdarker:warden_chestplate",
+	  "deeperdarker:warden_helmet",
+	  "deeperdarker:warden_leggings",
+	  "deeperdarker:warden_boots",
+	  "botania:lens_mine",
+	  "enchanted:waystone",
+	  "!enchanted:.*_poppet",
+	  "enchanted:poppet_shelf",
+	  "enchanted:spinning_wheel",
+	  "enchanted:poppet",
+    "testosterone:totem_of_afterlife"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
@@ -80,13 +86,11 @@
   // Items here will not be able to be right-clicked (Interact)
   //    Example: minecraft:apple
   "only_disable_interactions": [
-    "examplemod:example_item"
   ],
   // -----------------------------------------------------------
   // Items here will not be able to be used to attack
   //    Example: minecraft:diamond_sword
   "only_disable_attacks": [
-    "examplemod:example_item"
   ],
   // -----------------------------------------------------------
   // Items here will get their recipes disabled
@@ -105,43 +109,7 @@
     "powah:ender_gate_blazing",
     "powah:ender_gate_niotic",
     "powah:ender_gate_spirited",
-    "powah:ender_gate_nitro",
-	"indrev:cable_mk1",
-	"indrev:cable_mk2",
-	"indrev:cable_mk3",
-	"indrev:cable_mk4",
-	"indrev:mining_drill_mk1",
-	"indrev:mining_drill_mk2",
-	"indrev:mining_drill_mk3",
-	"indrev:mining_drill_mk4",
-	"indrev:electric_furnace_mk1",
-	"indrev:electric_furnace_mk2",
-	"indrev:electric_furnace_mk3",
-	"indrev:electric_furnace_mk4",
-	"indrev:electric_furnace_factory_mk4",
-	"indrev:fisher_mk1",
-	"indrev:fisher_mk2",
-	"indrev:fisher_mk3",
-	"indrev:lazuli_flux_container_mk1",
-	"indrev:lazuli_flux_container_mk2",
-	"indrev:lazuli_flux_container_mk3",
-	"indrev:lazuli_flux_container_mk4",
-	"indrev:pulverizer_mk1",
-	"indrev:pulverizer_mk2",
-	"indrev:pulverizer_mk3",
-	"indrev:pulverizer_mk4",
-	"indrev:compressor_mk1",
-	"indrev:compressor_mk2",
-	"indrev:compressor_mk3",
-	"indrev:compressor_mk4",
-	"indrev:pump_mk1",
-	"indrev:farmer_mk1",
-	"indrev:farmer_mk2",
-	"indrev:farmer_mk3",
-	"indrev:farmer_mk4",
-	"archon:experience_pouch",
-	"archon:super_experience_pouch"
-	
+    "powah:ender_gate_nitro"
   ],
   // -----------------------------------------------------------
   // If true, the mod will use a hashset to handle the blacklisted items

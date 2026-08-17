@@ -75,18 +75,38 @@
         }
       ]
     },
-        {
-      "entity_regex": "sbprom:scarecrow_mythic",
+    {
+      "entity_regex": "derelict:arachne",
       "apply_chance": 100.0,
       "attributes": [
         {
           "attribute": "minecraft:generic.attack_damage",
-          "value": 4.0,
+          "value": 30.0,
+          "operation": "ADDITION"
+        },
+        {
+          "attribute": "minecraft:movement_speed",
+          "value": 10.0,
+          "operation": "ADDITION"
+        },
+        {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 50.0,
+          "operation": "ADDITION"
+        },
+        {
+          "attribute": "minecraft:generic.armor",
+          "value": 25.0,
+          "operation": "ADDITION"
+        },
+        {
+          "attribute": "minecraft:generic.armor_toughness",
+          "value": 8.0,
           "operation": "ADDITION"
         },
         {
           "attribute": "minecraft:generic.max_health",
-          "value": 1500,
+          "value": 33000,
           "operation": "ADDITION"
         }
       ]

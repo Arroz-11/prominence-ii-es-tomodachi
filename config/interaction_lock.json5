@@ -8,7 +8,10 @@
   // Whitelist of block ids that can still be broken
   "breakable_blocks": [],
   // Whitelist of block ids that can still be interacted with
-  "interactable_blocks": [],
+  "interactable_blocks": [
+    "prominent:primordial_forge",
+    "prominent:forge_multiblock_filler"
+  ],
   // Whitelist of item ids that can still be used/interacted
   "interactable_items": [
     "prominent:flameborn_stone"

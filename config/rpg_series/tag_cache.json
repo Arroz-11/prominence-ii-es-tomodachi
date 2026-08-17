@@ -7,6 +7,8 @@
       "archers:crystal_longbow",
       "archers:ruby_rapid_crossbow",
       "archers:ruby_heavy_crossbow",
+      "forcemaster_rpg:aeternium_knuckle",
+      "forcemaster_rpg:ruby_knuckle",
       "paladins:aeternium_great_hammer",
       "paladins:ruby_great_hammer",
       "paladins:aeternium_claymore",
@@ -31,6 +33,10 @@
       "archers:archer_armor_feet",
       "archers:archer_armor_head",
       "archers:archer_armor_legs",
+      "forcemaster_rpg:oriene_feet",
+      "forcemaster_rpg:oriene_head",
+      "forcemaster_rpg:oriene_legs",
+      "forcemaster_rpg:oriene_chest",
       "paladins:paladin_armor_chest",
       "paladins:paladin_armor_feet",
       "paladins:paladin_armor_head",
@@ -96,7 +102,11 @@
       "wizards:frost_robe_head",
       "wizards:frost_robe_chest",
       "wizards:frost_robe_legs",
-      "wizards:frost_robe_feet"
+      "wizards:frost_robe_feet",
+      "forcemaster_rpg:phasleb_head",
+      "forcemaster_rpg:phasleb_chest",
+      "forcemaster_rpg:phasleb_legs",
+      "forcemaster_rpg:phasleb_feet"
     ],
     "rpg_series:tier_3_armors": [
       "archers:netherite_ranger_armor_head",
@@ -130,7 +140,11 @@
       "wizards:netherite_frost_robe_head",
       "wizards:netherite_frost_robe_chest",
       "wizards:netherite_frost_robe_legs",
-      "wizards:netherite_frost_robe_feet"
+      "wizards:netherite_frost_robe_feet",
+      "forcemaster_rpg:aken_feet",
+      "forcemaster_rpg:aken_head",
+      "forcemaster_rpg:aken_legs",
+      "forcemaster_rpg:aken_chest"
     ],
     "rpg_series:tier_0_accessories": [
       "jewelry:copper_ring",
@@ -148,6 +162,7 @@
       "archers:netherite_rapid_crossbow",
       "archers:netherite_heavy_crossbow",
       "archers:netherite_spear",
+      "forcemaster_rpg:netherite_knuckle",
       "paladins:netherite_mace",
       "paladins:netherite_great_hammer",
       "paladins:netherite_claymore",
@@ -194,6 +209,7 @@
       "minecraft:crossbow",
       "archers:composite_longbow",
       "archers:iron_spear",
+      "forcemaster_rpg:iron_knuckle",
       "paladins:iron_mace",
       "paladins:iron_great_hammer",
       "paladins:iron_claymore",
@@ -209,6 +225,7 @@
     ],
     "rpg_series:golden_weapons": [
       "archers:golden_spear",
+      "forcemaster_rpg:golden_knuckle",
       "paladins:golden_claymore",
       "paladins:golden_great_hammer",
       "paladins:golden_mace",
@@ -224,6 +241,7 @@
       "archers:rapid_crossbow",
       "archers:heavy_crossbow",
       "archers:diamond_spear",
+      "forcemaster_rpg:diamond_knuckle",
       "paladins:diamond_mace",
       "paladins:diamond_great_hammer",
       "paladins:diamond_claymore",
@@ -266,6 +284,8 @@
     "rpg_series:tier_0_weapons": [
       "minecraft:bow",
       "archers:flint_spear",
+      "forcemaster_rpg:wooden_knuckle",
+      "forcemaster_rpg:stone_knuckle",
       "paladins:wooden_great_hammer",
       "paladins:stone_great_hammer",
       "paladins:stone_claymore",

@@ -226,12 +226,12 @@
         },
         {
           "id": "generic.attack_damage",
-          "value": 0.06,
+          "value": 0.08,
           "operation": "MULTIPLY_BASE"
         },
         {
-          "id": "combatroll:recharge",
-          "value": 0.1,
+          "id": "spell_power:soul",
+          "value": 0.08,
           "operation": "MULTIPLY_BASE"
         }
       ]
@@ -570,13 +570,13 @@
         },
         {
           "id": "generic.attack_damage",
-          "value": 0.06,
+          "value": 0.08,
           "operation": "MULTIPLY_BASE"
         },
         {
-          "id": "combatroll:count",
-          "value": 1.0,
-          "operation": "ADDITION"
+          "id": "spell_power:soul",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
         }
       ]
     },

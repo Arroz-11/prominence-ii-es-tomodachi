@@ -26,8 +26,8 @@
   },
   "expConfig": {
     "dropBehaviour": "BEST_OF_BOTH",
-    "dropPercentage": 60,
-    "keepPercentage": 15
+    "dropPercentage": 0,
+    "keepPercentage": 0
   },
   "graveConfig": {
     "enabled": true,
@@ -91,7 +91,7 @@
     "randomSpawn": {
       "percentSpawnChance": 0,
       "spawnEntity": "minecraft:zombie",
-      "spawnNbt": "{ArmorItems:[{},{},{},{id:\"minecraft:player_head\",tag:{SkullOwner:{Name:\"${owner.name}\",Id:\"${owner.uuid}\"}},Count:1b}]}"
+      "spawnNbt": "{ArmorItems:[{},{},{},{id:\"minecraft:player_head\",tag:{SkullOwner:\"${owner.name}\"},Count:1b}]}"
     },
     "generateOnLastGroundPos": false,
     "tryGenerateOnGround": false,
@@ -141,17 +141,17 @@
   },
   "respawnConfig": {
     "respawnEffects": [],
-    "respawnHealth": 20,
+    "respawnHealth": -1,
     "resetHunger": true,
-    "respawnHunger": 20,
+    "respawnHunger": -1,
     "resetSaturation": true,
-    "respawnSaturation": 20.0,
+    "respawnSaturation": -1.0,
     "extraItemDrops": [],
     "treatBindingCurse": true
   },
   "compatConfig": {
     "enableProtectionApiCompat": true,
-    "standardDropRuleInClaim": "PUT_IN_GRAVE",
+    "standardDropRuleInClaim": "DROP",
     "standardDropRuleInOwnClaim": "PUT_IN_GRAVE",
     "enableAccessoriesCompat": true,
     "defaultAccessoriesDropRule": "PUT_IN_GRAVE",

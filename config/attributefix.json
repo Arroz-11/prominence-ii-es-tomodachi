@@ -242,6 +242,17 @@
         "value": 1
       }
     },
+    "more_rpg_classes:damage_taken": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "additionalentityattributes:dig_speed": {
       "enabled": false,
       "min": {
@@ -284,6 +295,17 @@
       "max": {
         "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
         "value": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      }
+    },
+    "more_rpg_classes:stagger_chance": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 200,
+        "value": 200
       }
     },
     "spellbladenext:convertfromfrost": {
@@ -385,6 +407,17 @@
         "value": 1024
       }
     },
+    "more_rpg_classes:freeze_chance": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 200,
+        "value": 200
+      }
+    },
     "minecraft:generic.flying_speed": {
       "enabled": true,
       "min": {
@@ -470,7 +503,7 @@
       },
       "max": {
         "default": 1024,
-        "value": 10000000
+        "value": 1000000000000000000
       }
     },
     "spellbladenext:convertfromfire": {
@@ -537,6 +570,17 @@
       "max": {
         "default": 2,
         "value": 10000000
+      }
+    },
+    "more_rpg_classes:water_fuse_modifier": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additionalentityattributes:dropped_experience": {
@@ -726,6 +770,17 @@
         "value": 100
       }
     },
+    "more_rpg_classes:healing_fuse_modifier": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "combatroll:recharge": {
       "enabled": false,
       "min": {
@@ -803,6 +858,17 @@
         "value": 2048
       }
     },
+    "prominent:magic_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "more_rpg_classes:rage_modifier": {
       "enabled": false,
       "min": {
@@ -836,6 +902,17 @@
         "value": 2048
       }
     },
+    "more_rpg_classes:fire_fuse_modifier": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "puffish_skills:player.mining_speed": {
       "enabled": false,
       "min": {
@@ -845,6 +922,17 @@
       "max": {
         "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
         "value": 10000000
+      }
+    },
+    "more_rpg_classes:tenacity": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 200,
+        "value": 200
       }
     },
     "additionalentityattributes:water_speed": {
@@ -944,6 +1032,17 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "more_rpg_classes:armor_piercing": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 200,
+        "value": 200
       }
     },
     "spell_power:soul": {
@@ -1100,6 +1199,17 @@
         "value": 64
       }
     },
+    "more_rpg_classes:air_fuse_modifier": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "obscure_api:regeneration": {
       "enabled": false,
       "min": {
@@ -1142,6 +1252,17 @@
       "max": {
         "default": 1024,
         "value": 10000000
+      }
+    },
+    "more_rpg_classes:poison_chance": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 200,
+        "value": 200
       }
     },
     "creeperoverhaul:reach_distance": {
@@ -1226,6 +1347,17 @@
       "min": {
         "default": 0,
         "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "more_rpg_classes:frost_fuse_modifier": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
       },
       "max": {
         "default": 1024,
@@ -1342,6 +1474,17 @@
         "value": 10000000
       }
     },
+    "more_rpg_classes:bleeding_chance": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 200,
+        "value": 200
+      }
+    },
     "more_rpg_classes:lifesteal_modifier": {
       "enabled": false,
       "min": {
@@ -1373,6 +1516,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "more_rpg_classes:healing_taken": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "mcdw:reach": {
@@ -1505,6 +1659,17 @@
       "max": {
         "default": 1024,
         "value": 10000000
+      }
+    },
+    "more_rpg_classes:stun_chance": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 200,
+        "value": 200
       }
     },
     "tiered:generic.durable": {
@@ -1705,6 +1870,17 @@
         "value": 9999
       }
     },
+    "more_rpg_classes:spell_vampire": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "additionalentityattributes:generic.water_speed": {
       "enabled": false,
       "min": {
@@ -1903,6 +2079,17 @@
         "value": 2048
       }
     },
+    "more_rpg_classes:earth_fuse_modifier": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "eternal_attributes:decaying": {
       "enabled": false,
       "min": {
@@ -1923,6 +2110,28 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "more_rpg_classes:burning_chance": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 200,
+        "value": 200
+      }
+    },
+    "archon:mana_regen_speed": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 200,
+        "value": 200
       }
     },
     "minecraft:generic.armor": {
@@ -2121,6 +2330,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "soulmaster:soul_fuse_modifier": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "spell_power:healing": {

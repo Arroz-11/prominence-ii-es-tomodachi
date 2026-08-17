@@ -1,40 +1,40 @@
 {
   "disableLoginLimits": {
-    "desc:": "¿Deben desactivarse los límites de tamaño de los paquetes de inicio de sesión? Error:(IOException(\"Payload may not be larger than 1048576 bytes\")) por defecto:true",
+    "desc:": "Should login packet size limits be disabled? Error:(IOException(\"Payload may not be larger than 1048576 bytes\")) default:true",
     "disableLoginLimits": true
   },
   "disablePacketLimits": {
-    "desc:": "¿Deben desactivarse los límites de tamaño de los paquetes de juego? Error:(Badly compressed packet) por defecto:true",
+    "desc:": "Should play packet size limits be disabled? Error:(Badly compressed packet) default:true",
     "disablePacketLimits": true
   },
   "disableChatVerificationDisconnect": {
-    "desc:": "(Lado del cliente) Desactiva la desconexión de jugadores por problemas de verificación de mensajes de chat (activa debugPrintMessages para ver el mensaje que causa el problema). por defecto:true",
+    "desc:": "(Clientside) Disables players disconnecting on chat message verification problems,(enable debugPrintMessages to see the message causing issues). default:true",
     "disableChatVerificationDisconnect": true
   },
   "debugPrintMessages": {
-    "desc:": "Activa el registro de depuración adicional para errores de red. por defecto:false",
+    "desc:": "Enable addition debug logging for networking errors. default:false",
     "debugPrintMessages": false
   },
   "logintimeout": {
-    "desc:": "Establece el tiempo máximo de espera de inicio de sesión en segundos. por defecto = 120",
+    "desc:": "Set the max login timeout in seconds. default = 120",
     "logintimeout": 2400
   },
   "disconnectTimeout": {
-    "desc:": "Establece el tiempo de espera de desconexión durante el juego. por defecto = 60 seg",
+    "desc:": "Set the ingame disconnect timeout for disconnecting players. Default = 60sec",
     "disconnectTimeout": 60
   },
   "packetHistoryMinutes": {
-    "desc:": "Establece la cantidad de minutos durante los cuales se guardan los datos del historial de paquetes de red. por defecto = 5 minutos",
+    "desc:": "Set the amount of minutes for which network packet history data is saved. Default = 5 minutes",
     "packetHistoryMinutes": 5
   },
   "malformedtraffic": {
-    "desc:": "Detección y bloqueo de tráfico malformado y/o malicioso",
+    "desc:": "Detection and blocking of malformed and/or malicious traffic",
     "enabled": true,
-    "proxies:": "Añade la IP de tu proxy a la lista blanca de abajo si usas uno (ej. Velocity) para evitar bloquear su IP. Formato: [\"127.0.0.1\", \"128.0.01\"] sin la barra \\ ",
+    "proxies:": "Add your proxy IP to the whitelist below, if you're using one(e.g. velocity) to avoid blocking the proxy's ip. Format: [\"127.0.0.1\", \"128.0.01\"] without the \\ ",
     "proxywhitelist": []
   },
   "showFullResourceLocationException": {
-    "desc:": "Activa esta opción para ver la salida completa del registro en todas las excepciones de ubicación de recursos. por defecto = false",
+    "desc:": "Enable to see the full log output for all resource location exceptions. Default = false",
     "showFullResourceLocationException": false
   }
 }

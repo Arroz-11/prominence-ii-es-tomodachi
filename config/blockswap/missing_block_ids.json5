@@ -16,5 +16,7 @@ to make editing this file much easier.
 	   		"minecraft:diamond_block": "minecraft:emerald_block"
 	   	}
 	*/
-	"id_remapper": { }
+	"id_remapper": { 
+					
+	}
 }

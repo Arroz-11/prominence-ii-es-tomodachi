@@ -102,6 +102,48 @@
           "operation": "MULTIPLY_BASE"
         }
       ]
+    },
+    {
+      "entity_regex": "derelict:arachne",
+      "apply_chance": 100.0,
+      "time_regex": ".*",
+      "dimension_regex": "minecraft:.*",
+      "biome_regex": ".*",
+      "difficulty_regex": ".*",
+      "default_hp": -1.0,
+      "only_apply_to_babies": false,
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": 30.0,
+          "operation": "ADDITION"
+        },
+        {
+          "attribute": "minecraft:movement_speed",
+          "value": 10.0,
+          "operation": "ADDITION"
+        },
+        {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 50.0,
+          "operation": "ADDITION"
+        },
+        {
+          "attribute": "minecraft:generic.armor",
+          "value": 25.0,
+          "operation": "ADDITION"
+        },
+        {
+          "attribute": "minecraft:generic.armor_toughness",
+          "value": 8.0,
+          "operation": "ADDITION"
+        },
+        {
+          "attribute": "minecraft:generic.max_health",
+          "value": 23000,
+          "operation": "ADDITION"
+        }
+      ]
     }
   ],
   // Don't touch this!

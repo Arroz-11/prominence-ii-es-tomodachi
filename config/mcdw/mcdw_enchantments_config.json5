@@ -280,9 +280,9 @@
 		"LEVITATION_SHOT": {
 			"comment": null,
 			"offset": 0.0,
-			"isEnabled": true,
-			"isAvailableForEnchantedBookOffer": true,
-			"isAvailableForRandomSelection": true,
+			"isEnabled": false,
+			"isAvailableForEnchantedBookOffer": false,
+			"isAvailableForRandomSelection": false,
 			"maxLevel": 3,
 			"procChance": null
 		},

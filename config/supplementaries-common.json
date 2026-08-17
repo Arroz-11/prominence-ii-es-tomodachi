@@ -107,6 +107,7 @@
     },
     "soap": {
       "enabled": true,
+      "block_cleaning_enabled": true,
       "clean_blacklist": [
         "minecraft:glazed_terracotta",
         "botania:mystical_flower"

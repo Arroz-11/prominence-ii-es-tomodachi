@@ -166,7 +166,8 @@
       "toms_storage:ts.inventory_hopper_basic",
       "the_bumblezone:crystalline_flower",
       "betterend:*",
-      "mutantmonsters:*"
+      "mutantmonsters:*",
+      "alloy_forgery:*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [
@@ -192,7 +193,9 @@
       "minecraft:villager",
       "endgoblintraders:end_goblin_trader",
       "goblintraders:vein_goblin_trader",
-      "goblintraders:goblin_trader"
+      "goblintraders:goblin_trader",
+      "prominent:*",
+      "sbprom:*"
     ],
     "//forbiddenStacking": "Entities that cannot have other entities stacked on top of them",
     "forbiddenStacking": [

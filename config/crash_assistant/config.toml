@@ -285,7 +285,7 @@
 	#Supports any IntelliJ Theme file with '.theme.json' extension.
 	#If you prefer standard Swing look and feel, use 'Swing'.
 	#Look out our guide about theme support: https://github.com/KostromDan/Crash-Assistant/blob/pages/guides/Theme%20Support/Getting%20Started.md
-	theme_file_name = "FlatLightLaf"
+	theme_file_name = "theme.json"
 	#Will hide Upload All Button from GUI.
 	disable_upload_all_button = false
 	#Append comment text with notice about sending screenshot of this gui tells nothing to modpack creators.
@@ -303,17 +303,17 @@
 	#You can change Upload All Button color to request user attention.
 	#format is "R_G_B", range is 0-255, for example "255_0_0" is red color. Use "default" to use default swing color.
 	#Default for this button is "0_178_0" (dark green color).
-	upload_all_button_foreground_color = "0_178_0"
+	upload_all_button_foreground_color = "255_150_38"
 	#Same as upload_all_button_foreground_color, but for Request Help button.
 	#Default for this button is "0_0_178" (dark blue color).
-	request_help_button_foreground_color = "0_0_178"
+	request_help_button_foreground_color = "255_199_74"
 	#Same as upload_all_button_foreground_color, but for the Simple Mode toggle button.
-	simple_mode_button_foreground_color = "0_0_178"
+	simple_mode_button_foreground_color = "255_176_72"
 	#Same as upload_all_button_font_size, but for Auto-Fix button (in integrated GPU warning).
 	auto_fix_button_font_size = 16
 	#Same as upload_all_button_foreground_color, but for Auto-Fix button (in integrated GPU warning).
 	#Default for this button is "0_178_0" (dark green color).
-	auto_fix_button_foreground_color = "0_178_0"
+	auto_fix_button_foreground_color = "255_150_38"
 	#Same as upload_all_button_foreground_color, but for the Yes button in the privacy policy acceptance dialog.
 	#Default for this button is "0_178_0" (dark green color).
 	privacy_policy_yes_button_foreground_color = "0_178_0"
@@ -323,33 +323,33 @@
 	#Color of the animated border for the screenshot notice.
 	#format is "R_G_B", range is 0-255, for example "255_0_0" is red color.
 	#Default for this is "255_0_0" (red color).
-	screenshot_of_gui_notice_animated_border_color = "255_0_0"
+	screenshot_of_gui_notice_animated_border_color = "255_96_32"
 	#Color of the text for the screenshot notice (inside the animated border).
 	#format is "R_G_B", range is 0-255, for example "255_0_0" is red color.
 	#Default for this is "255_0_0" (red color).
-	screenshot_of_gui_notice_text_color = "255_0_0"
+	screenshot_of_gui_notice_text_color = "255_96_32"
 	#Color of the button blinking on success action (e.g. upload all finished).
 	#format is "R_G_B", range is 0-255.
 	#Default is "100_255_100" (light green).
-	blinking_button_success_color = "100_255_100"
+	blinking_button_success_color = "255_210_90"
 	#Color of the button blinking on attention request (e.g. click on link in description).
 	#format is "R_G_B", range is 0-255.
 	#Default is "100_100_255" (light blue).
-	blinking_button_attention_color = "100_100_255"
+	blinking_button_attention_color = "255_156_52"
 	#Color of the button blinking on error (e.g. failed upload).
 	#format is "R_G_B", range is 0-255.
 	#Default is "255_100_100" (light red).
-	blinking_button_error_color = "255_100_100"
+	blinking_button_error_color = "220_78_38"
 	#Path to a modpack logo to display in the top of the GUI.
 	#Path is relative to the Minecraft instance folder. Leave empty to disable.
 	#WARNING: use only '/' path separator. '\' will corrupt config!
-	modpack_logo_path = ""
+	modpack_logo_path = "config/crash_assistant/logo.gif"
 	#If true, the logo will be larger, Replacing a some of `don't send screenshot` notice.
 	#If false, it will be smaller and logo will be end right where the `don't send screenshot` notice starts.
 	#You should try both, but most likely:
 	#- If you have some long text in the discord/github name, you will love the small one.
 	#- If the text is short, you will love the large one.
-	modpack_logo_large_mode = false
+	modpack_logo_large_mode = true
 	#Limit modpack logo height. Default is -1, which means it's calculated automatically.
 	#By default, this should not be needed. But if you have heavily customized GUI or using
 	#a rectangle logo instead of square, you may want to decrease its size, so this option could be needed in such case. 

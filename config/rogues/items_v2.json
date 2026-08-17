@@ -145,7 +145,7 @@
           },
           {
             "id": "minecraft:generic.attack_speed",
-            "value": 0.05,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -165,7 +165,7 @@
           },
           {
             "id": "minecraft:generic.attack_speed",
-            "value": 0.05,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -185,7 +185,7 @@
           },
           {
             "id": "minecraft:generic.attack_speed",
-            "value": 0.05,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -205,7 +205,7 @@
           },
           {
             "id": "minecraft:generic.attack_speed",
-            "value": 0.05,
+            "value": 0.04,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -220,7 +220,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.05,
       "head": {
-        "armor": 3,
+        "armor": 2,
         "attributes": [
           {
             "id": "minecraft:generic.attack_damage",
@@ -230,16 +230,6 @@
         ]
       },
       "chest": {
-        "armor": 8,
-        "attributes": [
-          {
-            "id": "minecraft:generic.attack_damage",
-            "value": 0.04,
-            "operation": "MULTIPLY_BASE"
-          }
-        ]
-      },
-      "legs": {
         "armor": 6,
         "attributes": [
           {
@@ -249,8 +239,18 @@
           }
         ]
       },
+      "legs": {
+        "armor": 5,
+        "attributes": [
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
       "feet": {
-        "armor": 3,
+        "armor": 2,
         "attributes": [
           {
             "id": "minecraft:generic.attack_damage",
@@ -312,12 +312,12 @@
         "attributes": [
           {
             "id": "minecraft:generic.attack_speed",
-            "value": 0.04,
+            "value": 0.03,
             "operation": "MULTIPLY_BASE"
           },
           {
             "id": "minecraft:generic.movement_speed",
-            "value": 0.03,
+            "value": 0.02,
             "operation": "MULTIPLY_BASE"
           }
         ]
@@ -327,12 +327,12 @@
         "attributes": [
           {
             "id": "minecraft:generic.attack_speed",
-            "value": 0.04,
+            "value": 0.03,
             "operation": "MULTIPLY_BASE"
           },
           {
             "id": "minecraft:generic.movement_speed",
-            "value": 0.03,
+            "value": 0.02,
             "operation": "MULTIPLY_BASE"
           }
         ]
@@ -342,12 +342,12 @@
         "attributes": [
           {
             "id": "minecraft:generic.attack_speed",
-            "value": 0.04,
+            "value": 0.03,
             "operation": "MULTIPLY_BASE"
           },
           {
             "id": "minecraft:generic.movement_speed",
-            "value": 0.03,
+            "value": 0.02,
             "operation": "MULTIPLY_BASE"
           }
         ]
@@ -357,12 +357,12 @@
         "attributes": [
           {
             "id": "minecraft:generic.attack_speed",
-            "value": 0.04,
+            "value": 0.03,
             "operation": "MULTIPLY_BASE"
           },
           {
             "id": "minecraft:generic.movement_speed",
-            "value": 0.03,
+            "value": 0.02,
             "operation": "MULTIPLY_BASE"
           }
         ]
@@ -381,7 +381,7 @@
           },
           {
             "id": "minecraft:generic.attack_speed",
-            "value": 0.06,
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -401,7 +401,7 @@
           },
           {
             "id": "minecraft:generic.attack_speed",
-            "value": 0.06,
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -421,7 +421,7 @@
           },
           {
             "id": "minecraft:generic.attack_speed",
-            "value": 0.06,
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -441,7 +441,7 @@
           },
           {
             "id": "minecraft:generic.attack_speed",
-            "value": 0.06,
+            "value": 0.05,
             "operation": "MULTIPLY_BASE"
           },
           {

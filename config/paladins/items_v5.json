@@ -196,45 +196,45 @@
   },
   "armor_sets": {
     "crusader_armor": {
-      "armor_toughness": 0.0,
+      "armor_toughness": 1.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 3,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 1.0,
-            "operation": "ADDITION"
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       },
       "chest": {
-        "armor": 8,
-        "attributes": [
-          {
-            "id": "spell_power:healing",
-            "value": 1.0,
-            "operation": "ADDITION"
-          }
-        ]
-      },
-      "legs": {
         "armor": 6,
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 1.0,
-            "operation": "ADDITION"
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 5,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       },
       "feet": {
-        "armor": 3,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 1.0,
-            "operation": "ADDITION"
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       }
@@ -252,7 +252,7 @@
           },
           {
             "id": "spell_power:haste",
-            "value": 0.05,
+            "value": 0.025,
             "operation": "MULTIPLY_BASE"
           }
         ]
@@ -267,7 +267,7 @@
           },
           {
             "id": "spell_power:haste",
-            "value": 0.05,
+            "value": 0.025,
             "operation": "MULTIPLY_BASE"
           }
         ]
@@ -282,7 +282,7 @@
           },
           {
             "id": "spell_power:haste",
-            "value": 0.05,
+            "value": 0.025,
             "operation": "MULTIPLY_BASE"
           }
         ]
@@ -297,7 +297,7 @@
           },
           {
             "id": "spell_power:haste",
-            "value": 0.05,
+            "value": 0.025,
             "operation": "MULTIPLY_BASE"
           }
         ]
@@ -311,8 +311,8 @@
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 1.0,
-            "operation": "ADDITION"
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       },
@@ -321,8 +321,8 @@
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 1.0,
-            "operation": "ADDITION"
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       },
@@ -331,8 +331,8 @@
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 1.0,
-            "operation": "ADDITION"
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       },
@@ -341,8 +341,8 @@
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 1.0,
-            "operation": "ADDITION"
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       }
@@ -355,57 +355,52 @@
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 0.5,
-            "operation": "ADDITION"
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       },
       "chest": {
-        "armor": 6,
-        "attributes": [
-          {
-            "id": "spell_power:healing",
-            "value": 0.5,
-            "operation": "ADDITION"
-          }
-        ]
-      },
-      "legs": {
         "armor": 5,
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 0.5,
-            "operation": "ADDITION"
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       },
       "feet": {
-        "armor": 2,
+        "armor": 1,
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 0.5,
-            "operation": "ADDITION"
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       }
     },
     "netherite_crusader_armor": {
-      "armor_toughness": 0.0,
+      "armor_toughness": 2.0,
       "knockback_resistance": 0.0,
       "head": {
         "armor": 3,
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 1.0,
-            "operation": "ADDITION"
-          },
-          {
-            "id": "minecraft:generic.armor_toughness",
-            "value": 1.0,
-            "operation": "ADDITION"
+            "value": 0.2,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       },
@@ -414,13 +409,8 @@
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 1.0,
-            "operation": "ADDITION"
-          },
-          {
-            "id": "minecraft:generic.armor_toughness",
-            "value": 1.0,
-            "operation": "ADDITION"
+            "value": 0.2,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       },
@@ -429,13 +419,8 @@
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 1.0,
-            "operation": "ADDITION"
-          },
-          {
-            "id": "minecraft:generic.armor_toughness",
-            "value": 1.0,
-            "operation": "ADDITION"
+            "value": 0.2,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       },
@@ -444,13 +429,8 @@
         "attributes": [
           {
             "id": "spell_power:healing",
-            "value": 1.0,
-            "operation": "ADDITION"
-          },
-          {
-            "id": "minecraft:generic.armor_toughness",
-            "value": 1.0,
-            "operation": "ADDITION"
+            "value": 0.2,
+            "operation": "MULTIPLY_BASE"
           }
         ]
       }
@@ -459,36 +439,6 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
-        "attributes": [
-          {
-            "id": "spell_power:healing",
-            "value": 0.3,
-            "operation": "MULTIPLY_BASE"
-          },
-          {
-            "id": "spell_power:haste",
-            "value": 0.05,
-            "operation": "MULTIPLY_BASE"
-          }
-        ]
-      },
-      "chest": {
-        "armor": 3,
-        "attributes": [
-          {
-            "id": "spell_power:healing",
-            "value": 0.3,
-            "operation": "MULTIPLY_BASE"
-          },
-          {
-            "id": "spell_power:haste",
-            "value": 0.05,
-            "operation": "MULTIPLY_BASE"
-          }
-        ]
-      },
-      "legs": {
         "armor": 2,
         "attributes": [
           {
@@ -503,8 +453,38 @@
           }
         ]
       },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 0.3,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 0.3,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
       "feet": {
-        "armor": 1,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:healing",

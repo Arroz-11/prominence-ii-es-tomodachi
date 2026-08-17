@@ -179,7 +179,7 @@
     "ink_bush [default: true]": true,
     "ink_bush_seed [default: true]": true,
     "smoker [default: true]": true,
-    "egg_plant [default: false]": false,
+    "egg_plant [default: true]": true,
     "black_apple [default: true]": true,
     "black_apple_seed [default: true]": true,
     "magma_flower [default: true]": true,
@@ -251,8 +251,7 @@
     "potted_plant [default: true]": true,
     "veined_sand [default: true]": true,
     "lumabus_seed [default: true]": true,
-    "golden_lumabus_seed [default: true]": true,
-    "egg_plant [default: true]": true
+    "golden_lumabus_seed [default: true]": true
   },
   "betternether [default: true]": true
 }

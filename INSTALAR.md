@@ -21,7 +21,15 @@ probá con la 17 antes que nada.)
 > (click derecho → `Eliminar`) y volvé a importar. Las primeras versiones del pack
 > quedaban incompletas y no se arreglan solas.
 
-## 4. Dale a Jugar
+## 4. Elegí Java 17 en la instancia ⚠️
+
+**Este paso hay que hacerlo a mano, Prism no lo resuelve solo.** Si tenés otra
+versión de Java instalada, va a usar esa y el juego puede fallar de formas raras.
+
+`Editar instancia` → `Configuración` → tildá **Instalación de Java** →
+`Auto-detectar` → elegí la **17** de la lista → `Aceptar`
+
+## 5. Dale a Jugar
 
 **La primera vez tarda bastante**: se está bajando los 442 mods y la traducción.
 Dejalo terminar aunque parezca colgado.

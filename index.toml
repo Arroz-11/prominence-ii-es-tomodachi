@@ -497,10 +497,6 @@ file = "config/boatiview/client.toml"
 hash = "5a2efd90464dcfe793380701139c18f71fc6c9afc6528c70be398fc0c37b4e8c"
 
 [[files]]
-file = "config/bobby.conf"
-hash = "b53c14bbef682afb9ad89d42e06c06f093d63923661bb685f6686011f71bbb53"
-
-[[files]]
 file = "config/boss_level_definitions.json5"
 hash = "03f1db76064636863d2d0625a3d608427f8f2797e69cf9ab4108aebc06c3c05e"
 
@@ -4889,6 +4885,10 @@ file = "config/yigd.json"
 hash = "a0588302c077e2fe9140669a30bfd7dcdd0f2a77af172e85b296deafbb26a600"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "951b61743382a10914e373db26c9da120624e05ce4755479947179e4e70ae383"
+
+[[files]]
 file = "config/yosbr/config/maplink/general.json5"
 hash = "8245b1a316998a0e44592125d9780917fd2da2c2559e3b794de1d4cc8c7e4e96"
 
@@ -6425,11 +6425,6 @@ hash = "e27fc761d8812938d1c8c0c7e13bfcd967ec9e7a1a4ac7c988c4191a8c691a32"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "9892a9e0b28b54362d7adc4a5891d36fd01a074db8fbdfaff16e52f189803ace"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "dc8aa7a6717bc483c9215c7f1a0e1d2329b2ea88219eddfdc6e52586ca1c499f"
 metafile = true
@@ -6751,6 +6746,11 @@ metafile = true
 [[files]]
 file = "mods/deuf-refabricated.pw.toml"
 hash = "d1bfa302ee8867dbe812453e249e566c7dc070afe77a7a20c620019b550d7b56"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "67852f36d78a2602542f99ba1b1aa6e8eff950de0da5f6b07911c41a89c460b5"
 metafile = true
 
 [[files]]

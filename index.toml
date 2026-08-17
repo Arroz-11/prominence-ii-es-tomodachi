@@ -6335,11 +6335,6 @@ hash = "cb754ee8168d9320260c30d21ab1cd5d09addb8f6f0ab10f346fe945d6f1cc31"
 metafile = true
 
 [[files]]
-file = "mods/aquamirae-6.pw.toml"
-hash = "e7b4da2810f7053b9c10a01e6e517ccacda930420d1ce44703ce614d4c164f05"
-metafile = true
-
-[[files]]
 file = "mods/aquamirae-fabric.pw.toml"
 hash = "c5326c22bea40caeab2b3688cd6251e00ed65208a647385f353de62b6eb63376"
 metafile = true
@@ -6427,11 +6422,6 @@ metafile = true
 [[files]]
 file = "mods/balm-fabric-1-20-1-7-3-38.pw.toml"
 hash = "68a682e7787948003fcc308ae856e2e7b34da6effa43c0ab2fcbee6b96a35c28"
-metafile = true
-
-[[files]]
-file = "mods/balm.pw.toml"
-hash = "89a9a1bbc40b708bc7691fc9bd02b605aed5c60104698d4ebd3d9e9e7b9a36bd"
 metafile = true
 
 [[files]]
@@ -7059,11 +7049,6 @@ hash = "637a58d064e0bea89b8f1ef7d208a465bd437c370108ac4a78459bb3db7f6185"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
-metafile = true
-
-[[files]]
 file = "mods/fabric-waystones.pw.toml"
 hash = "eb0f6c1328ac571d05cb6b22330c85f4f0fe038c552dd4f9fe5cb47ea5858095"
 metafile = true
@@ -7361,11 +7346,6 @@ metafile = true
 [[files]]
 file = "mods/kleeslabs-fabric-1-20-15-0-4.pw.toml"
 hash = "16283a9e3831227e5e845d2e20534dc9f5ba42adf81e8ab59a25def10d54d3a8"
-metafile = true
-
-[[files]]
-file = "mods/kleeslabs.pw.toml"
-hash = "30d7d006587d28ef7790ad8012aa0de7832b3ab74751502cf8830792962b28a2"
 metafile = true
 
 [[files]]
@@ -7676,11 +7656,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix-fabric-1-20-13-0-1.pw.toml"
 hash = "c8878ee7c31f9f71630104b2d8ea0ec0a828a392c08b6ab515da84eb7162c6e9"
-metafile = true
-
-[[files]]
-file = "mods/netherportalfix.pw.toml"
-hash = "db06f120362cc96bf2e807fcce751c6b143049e7f9fc0074be2bd84ec4322ed0"
 metafile = true
 
 [[files]]
@@ -8054,11 +8029,6 @@ hash = "76deda7e0b3c5b177b6008657462aab8f581fd7511e5dcdea8afcceab8bc0eb4"
 metafile = true
 
 [[files]]
-file = "mods/simplyswords-1-56-0-1-20-1.pw.toml"
-hash = "f22af4b35fbf049b690d2c7907dc27ef3a22c4ca18c16505bdb42bb61bb15e41"
-metafile = true
-
-[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "12f3b3a28ae1a404749a449ef16615d73cdf80b4de52cd17a3238b1f56b4492e"
 metafile = true
@@ -8181,11 +8151,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "a3b70849eb5d7be9a76d404f33e0819f23be773fac8390def98f370062c87459"
-metafile = true
-
-[[files]]
-file = "mods/swampier-swamps-1-20-4-0-0.pw.toml"
-hash = "4c3d2ef4ed232d6b14f54812bc444b0bce0af71c3046967b6ce1d0698e51607d"
 metafile = true
 
 [[files]]
@@ -8351,11 +8316,6 @@ metafile = true
 [[files]]
 file = "mods/winterly.pw.toml"
 hash = "b6aaa932d63c426c161c32250cc98181e8b1da48194abd5616c3347991c0e942"
-metafile = true
-
-[[files]]
-file = "mods/wither-spawn-fix-mc1-20-1-1-0-0.pw.toml"
-hash = "68d8b70b44b4117becf7e6abeec1e3cd1396ffa777a03983a7d4d54abad329f2"
 metafile = true
 
 [[files]]

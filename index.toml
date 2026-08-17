@@ -1555,6 +1555,11 @@ hash = "cb754ee8168d9320260c30d21ab1cd5d09addb8f6f0ab10f346fe945d6f1cc31"
 metafile = true
 
 [[files]]
+file = "mods/aquamirae-6.pw.toml"
+hash = "e7b4da2810f7053b9c10a01e6e517ccacda930420d1ce44703ce614d4c164f05"
+metafile = true
+
+[[files]]
 file = "mods/aquamirae-fabric.pw.toml"
 hash = "c5326c22bea40caeab2b3688cd6251e00ed65208a647385f353de62b6eb63376"
 metafile = true
@@ -3269,6 +3274,11 @@ hash = "76deda7e0b3c5b177b6008657462aab8f581fd7511e5dcdea8afcceab8bc0eb4"
 metafile = true
 
 [[files]]
+file = "mods/simplyswords-1-56-0-1-20-1.pw.toml"
+hash = "f22af4b35fbf049b690d2c7907dc27ef3a22c4ca18c16505bdb42bb61bb15e41"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "12f3b3a28ae1a404749a449ef16615d73cdf80b4de52cd17a3238b1f56b4492e"
 metafile = true
@@ -3391,6 +3401,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "a3b70849eb5d7be9a76d404f33e0819f23be773fac8390def98f370062c87459"
+metafile = true
+
+[[files]]
+file = "mods/swampier-swamps-1-20-4-0-0.pw.toml"
+hash = "4c3d2ef4ed232d6b14f54812bc444b0bce0af71c3046967b6ce1d0698e51607d"
 metafile = true
 
 [[files]]
@@ -3556,6 +3571,11 @@ metafile = true
 [[files]]
 file = "mods/winterly.pw.toml"
 hash = "b6aaa932d63c426c161c32250cc98181e8b1da48194abd5616c3347991c0e942"
+metafile = true
+
+[[files]]
+file = "mods/wither-spawn-fix-mc1-20-1-1-0-0.pw.toml"
+hash = "68d8b70b44b4117becf7e6abeec1e3cd1396ffa777a03983a7d4d54abad329f2"
 metafile = true
 
 [[files]]

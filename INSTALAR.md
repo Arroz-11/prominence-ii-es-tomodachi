@@ -37,13 +37,28 @@ pero no borres el inglés.
 ❌ **No uses el botón "Traducir"** del FTB Quests Translator. Las misiones ya están
 traducidas y revisadas a mano; ese botón las pisaría con una traducción automática.
 
-## RAM y rendimiento
+## RAM
 
-Viene con **8 GB** y las flags de Aikar ya puestas — no hace falta que toques nada
-de Java ni copies configuraciones.
+Viene con **8 GB**, que anda bien en la mayoría de las PCs. Las flags de rendimiento
+(Aikar) ya vienen puestas: **no toques nada de Java ni copies configuraciones**.
 
-Si tenés 32 GB de RAM y querés darle más, o si tenés 8 GB y necesitás bajarlo:
-`Editar instancia` → `Configuración` → `Memoria`.
+Si querés cambiarla:
+
+`Editar instancia` → `Configuración` → tildá **Memoria** → poné los dos valores:
+
+| Tu PC tiene | Mínimo | Máximo |
+|---|---|---|
+| 8 GB  | `2048` | `6144`  |
+| 16 GB | `2048` | `8192`  ← el que viene |
+| 32 GB | `2048` | `10240` |
+
+Son MiB: 6144 = 6 GB, 8192 = 8 GB, 10240 = 10 GB.
+
+**No le des toda tu RAM.** Windows y el resto necesitan lo suyo; dejale al menos
+6 GB libres o el juego va a andar peor, no mejor.
+
+⚠️ Esto es la config **de la instancia**, no la global de Prism. Son distintas:
+la de la instancia manda.
 
 ## ¿Algo no anda?
 

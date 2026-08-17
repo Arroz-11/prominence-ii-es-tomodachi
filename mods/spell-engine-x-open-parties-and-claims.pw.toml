@@ -1,0 +1,13 @@
+name = "Spell Engine x Open Parties and Claims"
+filename = "Spell_Engine_OPAC_Compat-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08e32c38b022dff2cc8179550008ec63f79540a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5728452
+project-id = 1103892

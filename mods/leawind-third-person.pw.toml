@@ -1,0 +1,13 @@
+name = "Leawind's Third Person"
+filename = "leawind_third_person-v2.2.0-mc1.20-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55b58e22003e4a7900765add418646a3d03be8f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5961736
+project-id = 930880

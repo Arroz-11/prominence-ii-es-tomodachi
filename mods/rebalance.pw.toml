@@ -1,0 +1,13 @@
+name = "ReBalance (Modpack Utils Series)"
+filename = "ReBalance-FABRIC-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42dfe3160385c579b71a0df227593cb7587d3fdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5731360
+project-id = 940586

@@ -1,0 +1,13 @@
+name = "Highlight"
+filename = "highlight-fabric-1.20-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5714ec9fb4fac05cec51494a8ffa0d43ffca527f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4671081
+project-id = 667245

@@ -1,0 +1,2648 @@
+{
+	autofocus_id: "37525863A9E5509D"
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "to_the_end"
+	group: "3E586F2160161EEA"
+	icon: "minecraft:end_portal_frame"
+	id: "5AAF050CB8F14B0C"
+	images: [
+		{
+			dependency: "37525863A9E5509D"
+			height: 4.0d
+			image: "prominent:textures/text/the_end.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 0.0d
+			y: -11.0d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 5.98d
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 0.0d
+			width: 5.98d
+			x: 0.0d
+			y: -6.11d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 2.0d
+			image: "endrem:block/ancient_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.4d
+			y: -7.8d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 2.0d
+			image: "endrem:block/ancient_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.4d
+			y: -4.4d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 2.0d
+			image: "endrem:block/ancient_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.4d
+			y: -6.1d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 2.0d
+			image: "endrem:block/ancient_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.4d
+			y: -6.1d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 2.0d
+			image: "endrem:block/ancient_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.7d
+			y: -2.7d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 2.0d
+			image: "endrem:block/ancient_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: -2.7d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 2.0d
+			image: "endrem:block/ancient_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.7d
+			y: -2.7d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 2.0d
+			image: "endrem:block/ancient_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.4d
+			y: -4.4d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 2.0d
+			image: "endrem:block/ancient_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.4d
+			y: -7.8d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 2.0d
+			image: "endrem:block/ancient_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.7d
+			y: -9.5d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 2.0d
+			image: "endrem:block/ancient_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: -9.5d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 2.0d
+			image: "endrem:block/ancient_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.7d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			hover: ["what are you looking at"]
+			image: ""
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 38.0d
+		}
+		{
+			dependency: "4760AE66CBC29443"
+			height: 1.0d
+			image: "betterend:block/lumecorn_light_top_middle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -28.5d
+		}
+		{
+			dependency: "4760AE66CBC29443"
+			height: 1.0d
+			image: "betterend:block/lumecorn_light_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -29.0d
+		}
+		{
+			dependency: "4760AE66CBC29443"
+			height: 1.0d
+			image: "betterend:block/lumecorn_leaf_2"
+			order: 22
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -25.5d
+		}
+		{
+			dependency: "4760AE66CBC29443"
+			height: 1.0d
+			image: "betterend:block/lumecorn_light_middle_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -26.5d
+		}
+		{
+			dependency: "4760AE66CBC29443"
+			height: 1.0d
+			image: "betterend:block/lumecorn_light_middle_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -26.0d
+		}
+		{
+			dependency: "4760AE66CBC29443"
+			height: 2.0d
+			image: "betterend:block/lumecorn_light_middle_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -27.5d
+		}
+		{
+			dependency: "4760AE66CBC29443"
+			height: 1.0d
+			image: "betterend:block/lumecorn_roots"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -25.0d
+		}
+		{
+			dependency: "4760AE66CBC29443"
+			height: 1.0d
+			image: "betterend:block/lumecorn_stem"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.9d
+			y: -25.0d
+		}
+		{
+			dependency: "45D9C9CD7B2568A0"
+			height: 1.5d
+			image: "endrem:block/ancient_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.0d
+			y: -13.5d
+		}
+		{
+			dependency: "405ECED2C34FC488"
+			height: 1.5d
+			image: "minecraft:block/purpur_block"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.0d
+			y: -24.0d
+		}
+		{
+			dependency: "4B1BEDBB8D2DB24C"
+			height: 2.0d
+			image: "minecraft:block/shulker_box"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.5d
+			y: -28.5d
+		}
+		{
+			dependency: "45D9C9CD7B2568A0"
+			height: 6.0d
+			image: "betterend:block/end_portal"
+			rotation: 0.0d
+			width: 6.0d
+			x: 0.0d
+			y: -6.1d
+		}
+		{
+			dependency: "4B1BEDBB8D2DB24C"
+			height: 2.0d
+			image: "minecraft:block/carved_pumpkin"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: -28.5d
+		}
+		{
+			dependency: "1C087F6048B1D89F"
+			height: 2.0d
+			image: "promenade:block/dark_amaranth/fungus"
+			rotation: 0.0d
+			width: 2.0d
+			x: -9.5d
+			y: -20.5d
+		}
+		{
+			dependency: "06F8BED924CB661F"
+			height: 4.0d
+			image: "betterend:block/umbrella_tree_sapling"
+			rotation: 0.0d
+			width: 4.0d
+			x: -8.5d
+			y: -24.0d
+		}
+		{
+			dependency: "21DB9F756402FE99"
+			height: 1.3d
+			image: "betterend:block/chorus_plant_flower_side"
+			rotation: 0.0d
+			width: 1.3d
+			x: 6.5d
+			y: -22.5d
+		}
+		{
+			dependency: "55829700C661DEA2"
+			height: 3.0d
+			image: "betterend:block/lacugrove_sapling"
+			rotation: 0.0d
+			width: 3.0d
+			x: -9.0d
+			y: -14.5d
+		}
+		{
+			dependency: "2BB4AB6CC24236CF"
+			height: 2.0d
+			image: "icarus:item/feathered_wings"
+			rotation: 0.0d
+			width: 2.0d
+			x: -5.5d
+			y: -10.5d
+		}
+		{
+			dependency: "18F74B2D3AF2364F"
+			height: 2.0d
+			image: "icarus:item/dragon_wings"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.5d
+			y: -10.5d
+		}
+		{
+			dependency: "18F74B2D3AF2364F"
+			height: 2.0d
+			image: "icarus:item/dragon_wings_2"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.5d
+			y: -10.5d
+		}
+		{
+			dependency: "05A1A7ABDA3ACD3F"
+			height: 1.3d
+			image: "betterend:block/umbralith"
+			rotation: 0.0d
+			width: 1.3d
+			x: 5.0d
+			y: -16.5d
+		}
+		{
+			dependency: "4B1BEDBB8D2DB24C"
+			height: 1.0d
+			image: "icarus:item/discords_wings"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -28.5d
+		}
+		{
+			dependency: "45E85B95F4D8B7AB"
+			height: 2.0d
+			image: "betterend:item/crystalline_sulphur"
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.0d
+			y: -18.0d
+		}
+		{
+			alpha: 122
+			dependency: "7D82D37287E1AE9A"
+			height: 1.5d
+			image: "mcdw:textures/mob_effect/shadow_form.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 7.5d
+			y: -20.0d
+		}
+		{
+			dependency: "147C2CC7E0403220"
+			height: 2.0d
+			image: "betterend:block/lacugrove_sapling"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.5d
+			y: -26.5d
+		}
+		{
+			dependency: "103203350DABF6BB"
+			height: 2.0d
+			image: "bosses_of_mass_destruction:block/obsidilith_end_frame"
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.0d
+			y: -17.0d
+		}
+		{
+			dependency: "405ECED2C34FC488"
+			height: 1.0d
+			image: "minecraft:item/chorus_fruit"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -18.5d
+		}
+		{
+			dependency: "405ECED2C34FC488"
+			height: 1.0d
+			image: "minecraft:item/popped_chorus_fruit"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -20.0d
+		}
+		{
+			dependency: "422E507CE6A53B7C"
+			height: 1.0d
+			image: "minecraft:textures/entity/enderdragon/dragon_fireball.png"
+			rotation: 180.0d
+			width: 1.0d
+			x: 0.0d
+			y: -15.5d
+		}
+		{
+			dependency: "405ECED2C34FC488"
+			height: 1.0d
+			image: "minecraft:item/ender_pearl"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -21.0d
+		}
+		{
+			dependency: "405ECED2C34FC488"
+			height: 1.0d
+			image: "archon:item/end_gem"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -17.5d
+		}
+		{
+			dependency: "34830F8A8A4C01E3"
+			height: 1.15d
+			image: "betterend:block/aurora_crystal"
+			rotation: 0.0d
+			width: 1.15d
+			x: 10.0d
+			y: -19.0d
+		}
+		{
+			dependency: "34830F8A8A4C01E3"
+			height: 1.15d
+			image: "betterend:block/aurora_crystal"
+			rotation: 0.0d
+			width: 1.15d
+			x: 10.0d
+			y: -20.0d
+		}
+		{
+			dependency: "34830F8A8A4C01E3"
+			height: 1.15d
+			image: "betterend:block/aurora_crystal"
+			rotation: 0.0d
+			width: 1.15d
+			x: 10.0d
+			y: -21.0d
+		}
+		{
+			dependency: "34830F8A8A4C01E3"
+			height: 1.15d
+			image: "betterend:block/aurora_crystal"
+			rotation: 0.0d
+			width: 1.15d
+			x: 11.0d
+			y: -19.0d
+		}
+		{
+			dependency: "34830F8A8A4C01E3"
+			height: 1.15d
+			image: "betterend:block/aurora_crystal"
+			rotation: 0.0d
+			width: 1.15d
+			x: 9.0d
+			y: -19.0d
+		}
+		{
+			dependency: "34830F8A8A4C01E3"
+			height: 1.15d
+			image: "betterend:block/aurora_crystal"
+			rotation: 0.0d
+			width: 1.15d
+			x: 11.0d
+			y: -20.0d
+		}
+		{
+			dependency: "34830F8A8A4C01E3"
+			height: 1.15d
+			image: "betterend:block/aurora_crystal"
+			rotation: 0.0d
+			width: 1.15d
+			x: 10.0d
+			y: -22.0d
+		}
+		{
+			alpha: 100
+			dependency: "34830F8A8A4C01E3"
+			height: 4.75d
+			image: "chipped:block/purple_concrete/ctm/common_textures/0"
+			rotation: 0.0d
+			width: 1.15d
+			x: 10.0d
+			y: -20.5d
+		}
+		{
+			alpha: 100
+			dependency: "34830F8A8A4C01E3"
+			height: 2.35d
+			image: "chipped:block/purple_concrete/ctm/common_textures/0"
+			rotation: 0.0d
+			width: 1.15d
+			x: 11.0d
+			y: -19.5d
+		}
+		{
+			alpha: 100
+			dependency: "34830F8A8A4C01E3"
+			height: 1.15d
+			image: "chipped:block/purple_concrete/ctm/common_textures/0"
+			rotation: 0.0d
+			width: 1.15d
+			x: 9.0d
+			y: -19.0d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 1.0d
+			image: "prominent_talents:textures/frames/fate_selected.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 1.1d
+			image: "prominent_talents:textures/frames/circle_selected.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			dependency: "0F9166A5CBEB4E3E"
+			height: 1.0d
+			image: "prominent_talents:textures/frames/square_selected.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -27.5d
+		}
+		{
+			dependency: "4449BA89F2428F67"
+			height: 1.1d
+			image: "prominent_talents:textures/frames/diamond_selected.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.0d
+			y: -26.5d
+		}
+		{
+			dependency: "37525863A9E5509D"
+			height: 2.4d
+			image: "prominent_talents:textures/frames/circle_selected.png"
+			rotation: 0.0d
+			width: 2.4d
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependency: "15AC981E237E9696"
+			height: 2.0d
+			image: "simplyswords:item/soulrender_layer"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: -30.0d
+		}
+		{
+			dependency: "065D169B3FC3AFC8"
+			height: 2.0d
+			image: "prominent:textures/boss_icons/obsidilith.png"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.5d
+			y: -16.0d
+		}
+		{
+			dependency: "065D169B3FC3AFC8"
+			height: 3.0d
+			image: "prominent_talents:textures/frames/square_selected.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 9.5d
+			y: -16.0d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"263D24D35E699557"
+				"7F0434CFE9CAEF07"
+				"6AD07DC2ED3C734D"
+				"3DE8FE441A0B051C"
+				"1B9101B42DCED261"
+				"35B7FDB1000EEAF9"
+				"4E969D7F19948E4A"
+				"49EFA88FEABB1195"
+				"2BC3AA0B480C6828"
+				"62536E37C53A9260"
+				"7A601E36B70D975C"
+				"72EFFD1039B48784"
+				"6A9C9E7ADB45F1BE"
+				"6F658E35279100C8"
+				"3239B2CDB852E1C6"
+				"64E302C442B729B8"
+			]
+			dependency_requirement: "one_started"
+			hide_dependency_lines: true
+			icon: "minecraft:end_portal_frame"
+			id: "45D9C9CD7B2568A0"
+			min_required_dependencies: 1
+			rewards: [{
+				id: "0A7247778B088F39"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			shape: "octagon"
+			size: 1.5d
+			subtitle: "&eEntra al Portal del End usando doce de los ojos únicos."
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "minecraft:ender_eye"
+				id: "126F26CCB046CD5D"
+				title: "Entrando al End"
+				type: "dimension"
+			}]
+			title: "&d¿El End?"
+			x: 0.0d
+			y: -6.25d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "4E969D7F19948E4A"
+			optional: true
+			rewards: [{
+				id: "5A02BC7629CD94C6"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Soltado por Guardián Anciano (33%)"
+			tasks: [{
+				id: "2B0F03865A9E31B9"
+				item: "endrem:guardian_eye"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "2BC3AA0B480C6828"
+			optional: true
+			rewards: [{
+				id: "5E21877F837E3A38"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Lo sueltan los Evocadores (5%)"
+			tasks: [{
+				id: "5B03491401B0489E"
+				item: "endrem:magical_eye"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "3239B2CDB852E1C6"
+			optional: true
+			rewards: [{
+				id: "395E6CF16ECAC8EC"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Lo suelta el Wither."
+			tasks: [{
+				id: "51D9182AB02AE780"
+				item: "endrem:wither_eye"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "6F658E35279100C8"
+			optional: true
+			rewards: [{
+				id: "6C738CAB29066F68"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Fabricado con la Pupila de bruja"
+			tasks: [{
+				id: "3E473BEA23E8C1FE"
+				item: "endrem:witch_eye"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "6A9C9E7ADB45F1BE"
+			optional: true
+			rewards: [{
+				id: "7E4019A78606F716"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Creado con un Alma de No Muerto."
+			tasks: [{
+				id: "278B4A1FD0493FD0"
+				item: "endrem:undead_eye"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "35B7FDB1000EEAF9"
+			optional: true
+			rewards: [{
+				id: "632C1950BAF535A1"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Se fabrica con objetos acuáticos"
+			tasks: [{
+				id: "788EEC3D5D81C3AF"
+				item: "endrem:exotic_eye"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "263D24D35E699557"
+			optional: true
+			rewards: [{
+				id: "3F92A970A0FF5A99"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Encontrado en cofres enterrados"
+			tasks: [{
+				id: "1F9EF219BAB85A92"
+				item: "endrem:black_eye"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "7F0434CFE9CAEF07"
+			optional: true
+			rewards: [{
+				id: "289FCF851E27FCDA"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Se encuentra en iglús."
+			tasks: [{
+				id: "2CC6D9A1017107EB"
+				item: "endrem:cold_eye"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "6AD07DC2ED3C734D"
+			optional: true
+			rewards: [{
+				id: "64B2E2677517A32B"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Encontrado en los Puestos de Avanzada de Saqueadores"
+			tasks: [{
+				id: "6D325AC3E295E65A"
+				item: "endrem:corrupted_eye"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "49EFA88FEABB1195"
+			optional: true
+			rewards: [{
+				id: "77FF77815DAAD3C5"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Encontrado en minas."
+			tasks: [{
+				id: "25DDD301B747C01E"
+				item: "endrem:lost_eye"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "62536E37C53A9260"
+			optional: true
+			rewards: [{
+				id: "637F97E46B8DEAC8"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Encontrado en Fortalezas del Nether"
+			tasks: [{
+				id: "1C3BD6942EC2E46D"
+				item: "endrem:nether_eye"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "7A601E36B70D975C"
+			optional: true
+			rewards: [{
+				id: "0AB2E4357609FFE6"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Encontrado en Pirámides del Desierto."
+			tasks: [{
+				id: "1628A0166F3301FF"
+				item: "endrem:old_eye"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "72EFFD1039B48784"
+			optional: true
+			rewards: [{
+				id: "14C35DDDABC4514E"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Encontrado en Pirámides de la Jungla"
+			tasks: [{
+				id: "1239D763D441A4BF"
+				item: "endrem:rogue_eye"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			description: ["&eUna vez que el intercambio esté desbloqueado, no tendrá stock hasta que pase un día."]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "1B9101B42DCED261"
+			optional: true
+			rewards: [{
+				id: "07F4F7B24DC31FCA"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Comprado a un Clérigo maestro."
+			tasks: [{
+				id: "7B812622B4A52172"
+				item: "endrem:evil_eye"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "3DE8FE441A0B051C"
+			optional: true
+			rewards: [{
+				id: "000C61BA51CC69B4"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Encontrado en Bastiones"
+			tasks: [{
+				id: "04E8914428590507"
+				item: "endrem:cursed_eye"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "64E302C442B729B8"
+			optional: true
+			rewards: [{
+				id: "79961528D808EFF0"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			subtitle: "&7Infundible en una mesa de encantamientos."
+			tasks: [{
+				id: "685E4965B8364BEC"
+				item: "endrem:cryptic_eye"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"&7Llegar al End no es tan fácil como podrías pensar. Debes atravesar el Mundo, encontrar y matar lugares y monstruos específicos."
+				""
+				"&7Cuántos ojos necesitas realmente depende de la suerte que tengas al encontrar la Fortaleza. Necesitarás encontrar 12 como máximo."			]
+			hide_lock_icon: true
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			icon: "minecraft:ender_eye"
+			id: "37525863A9E5509D"
+			rewards: [{
+				id: "7CC9F832F4AA90D1"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			size: 2.0d
+			subtitle: "&e[Clic para más información]"
+			tasks: [{
+				id: "50D87658349E58FB"
+				title: "Llegar al End"
+				type: "checkmark"
+			}]
+			title: "&d Llegando al End"
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["37525863A9E5509D"]
+			description: ["&7Los Ojos de Ender normales no funcionan. Necesitas Ojos específicos, que pueden ser encontrados o intercambiados aquí. No hay garantía de que obtengas el ojo que quieres."]
+			hide_dependency_lines: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: "minecraft:ender_eye"
+			id: "1607E83A33D2BA18"
+			rewards: [{
+				id: "27215F5E87CF9F98"
+				item: {
+					Count: 1
+					id: "prominent:loot_box"
+					tag: {
+						lottery_id: "prominent:eye_lottery"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "[Clic para más Información]"
+			tasks: [
+				{
+					consume_items: true
+					id: "669D5B86D3F9A3DB"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					id: "52BD7DF4B89A6F0D"
+					item: "betterend:ender_shard"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 2L
+					id: "42FC1EED6DA5DC5E"
+					item: "minecraft:blaze_rod"
+					type: "item"
+				}
+			]
+			title: "Comercio de Ojos"
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"48AADA398DC4E940"
+				"45D9C9CD7B2568A0"
+			]
+			dependency_requirement: "one_completed"
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "422E507CE6A53B7C"
+			rewards: [{
+				id: "6128369E08E83040"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			subtitle: "Mata al Dragón y Libera al End de su reinado."
+			tasks: [{
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+				id: "686E70E87F34DCAD"
+				type: "advancement"
+			}]
+			title: "&d¡Libera el End!"
+			x: 0.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "betterend:blossom_berry"
+			id: "4A46A563FE486A35"
+			rewards: [{
+				id: "27F1D186B8322CFC"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				biome: "betterend:blossoming_spires"
+				icon: "betterend:blossom_berry"
+				id: "733BD5D23591BE9B"
+				title: "Visita las Agujas Florecientes"
+				type: "biome"
+			}]
+			title: "Visita las Agujas Florecientes"
+			x: -5.5d
+			y: -17.5d
+		}
+		{
+			dependencies: [
+				"405ECED2C34FC488"
+				"3E1F65C1ABAE9FCB"
+			]
+			hide_until_deps_complete: true
+			icon: "eldritch_end:hasturian_moss"
+			id: "0AE2C4383B40418A"
+			rewards: [{
+				id: "42DFFDB399B1A920"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				biome: "eldritch_end:hasturian_wastes"
+				icon: "eldritch_end:hasturian_moss"
+				id: "4F2CAACD7E949134"
+				title: "Visita los Yermos Hasturianos"
+				type: "biome"
+			}]
+			title: "Los Yermos Hasturianos"
+			x: 6.0d
+			y: -18.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "promenade:dark_amaranth_fungus"
+			id: "1C087F6048B1D89F"
+			rewards: [{
+				id: "3F2F2611047273A9"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				biome: "#promenade:dark_amaranth_forests"
+				icon: "promenade:dark_amaranth_fungus"
+				id: "6785D7C68E20E9F5"
+				title: "Visita los Bosques de Amaranto Oscuro"
+				type: "biome"
+			}]
+			title: "Los Bosques Oscuros de Amaranth"
+			x: -5.5d
+			y: -19.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			id: "7D82D37287E1AE9A"
+			rewards: [{
+				id: "01701231482E2D02"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Te sientes observado."
+			tasks: [{
+				biome: "betterend:shadow_forest"
+				icon: "betterend:shadow_grass"
+				id: "60BFD684913B8FE1"
+				title: "Visita el Bosque Sombrío"
+				type: "biome"
+			}]
+			title: "El Bosque Sombrío"
+			x: 5.5d
+			y: -19.5d
+		}
+		{
+			dependencies: ["7D82D37287E1AE9A"]
+			description: ["&7Puedes sentir que las Sombras te observan. Este lugar no está hecho para que te quedes. Algo te está siguiendo. Trae luz a este lugar abandonado."]
+			hide_until_deps_complete: true
+			id: "7BA9CD493FB66021"
+			rewards: [{
+				id: "656ECE30A8BC7A71"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			subtitle: "Incluso las Sombras pueden ser mortales"
+			tasks: [{
+				entity: "betterend:shadow_walker"
+				id: "189FCBA68A345E94"
+				type: "kill"
+				value: 100L
+			}]
+			title: "Mata a los Caminantes de las Sombras"
+			x: 7.5d
+			y: -20.0d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "betterend:umbrella_tree_sapling"
+			id: "06F8BED924CB661F"
+			rewards: [{
+				id: "004DE5D59331786F"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Te preguntas de qué te protegen"
+			tasks: [{
+				biome: "betterend:umbrella_jungle"
+				icon: "betterend:umbrella_tree_sapling"
+				id: "28F1D0353F646410"
+				title: "Visita la Jungla Paraguas"
+				type: "biome"
+			}]
+			title: "La Jungla Paraguas"
+			x: -4.5d
+			y: -21.5d
+		}
+		{
+			dependencies: ["55829700C661DEA2"]
+			hide_until_deps_complete: true
+			icon: "minecraft:slime_ball"
+			id: "2576886EBE660522"
+			rewards: [
+				{
+					id: "1274D6CA8A89D28C"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 6
+					id: "237DF77F8670E2CA"
+					item: "minecraft:slime_block"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "betterend:end_slime"
+				id: "7EA378AF5A2BBD93"
+				type: "kill"
+				value: 100L
+			}]
+			title: "Mata Slimes del End"
+			x: -6.5d
+			y: -15.5d
+		}
+		{
+			dependencies: [
+				"405ECED2C34FC488"
+				"601BDBA6DF073CB0"
+			]
+			icon: "eldritch_end:aberration_heart"
+			id: "02F0E1B04F1A6E56"
+			rewards: [{
+				id: "0BCBB6A060AAAEF2"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				biome: "eldritch_end:primordial_abyss"
+				icon: "eldritch_end:aberration_heart"
+				id: "0583D9EE2E7FD1E5"
+				title: "Visita el Abismo Primordial"
+				type: "biome"
+			}]
+			title: "El Abismo Primordial"
+			x: -5.0d
+			y: -20.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "betterend:aurora_crystal"
+			id: "34830F8A8A4C01E3"
+			rewards: [{
+				id: "1675E465695E1B03"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				biome: "betterend:crystal_mountains"
+				icon: "betterend:crystal_moss"
+				id: "382AF43DB3D24391"
+				title: "Visita las Montañas de Cristal"
+				type: "biome"
+			}]
+			title: "Las Montañas de Cristal"
+			x: 5.0d
+			y: -20.5d
+		}
+		{
+			dependencies: ["34830F8A8A4C01E3"]
+			description: ["&7Recoge algunos cristales de aurora. Para algunas clases, este es un recurso muy vital."]
+			hide_until_deps_complete: true
+			id: "03C8A562B7B085BC"
+			rewards: [{
+				id: "54F60FE918AE65BE"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "52884DF7905FDD4E"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -21.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			description: ["&7Este es un gran lugar para cultivar Fruta de Coro. Necesitarás Coro para hacer Galena, el &5mejor Material para reforjar Objetos.&r"]
+			id: "21DB9F756402FE99"
+			rewards: [{
+				id: "5710B3059F24EF5E"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				biome: "betterend:chorus_forest"
+				icon: "minecraft:chorus_flower"
+				id: "6E9A40E1208E5A3F"
+				title: "Visita el Bosque Coral"
+				type: "biome"
+			}]
+			title: "El Bosque Coral"
+			x: 4.5d
+			y: -21.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "betterend:ancient_emerald_ice"
+			id: "6137BF7FAD010A8C"
+			rewards: [{
+				id: "68BBE4DA0379B62C"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "¡No te caigas!"
+			tasks: [{
+				biome: "betterend:ice_starfield"
+				icon: "betterend:emerald_ice"
+				id: "745694612177C611"
+				title: "Visita el Campo de Estrellas Helado"
+				type: "biome"
+			}]
+			title: "El Campo de Estrellas de Hielo"
+			x: -4.0d
+			y: -22.5d
+		}
+		{
+			dependencies: ["6137BF7FAD010A8C"]
+			hide_until_deps_complete: true
+			id: "724350E7E4EECE3E"
+			rewards: [
+				{
+					id: "4DE1798FFB09BF81"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "121F34DAD8C13305"
+					item: "minecraft:emerald_block"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 32L
+				id: "2341CA8951B8587B"
+				item: "betterend:ancient_emerald_ice"
+				title: "Consigue algo de Hielo de Esmeralda Antiguo"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -23.5d
+		}
+		{
+			dependencies: [
+				"759AA6DD39277704"
+				"405ECED2C34FC488"
+			]
+			id: "402B764F72A6E30D"
+			rewards: [{
+				id: "12D6F39EE99A19BC"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				icon: "minecraft:crying_obsidian"
+				id: "680A00848FFC4F29"
+				structure: "bosses_of_mass_destruction:obsidilith_arena"
+				type: "structure"
+			}]
+			title: "&dLa Arena de Obsidilith"
+			x: 5.5d
+			y: -17.5d
+		}
+		{
+			dependencies: [
+				"402B764F72A6E30D"
+				"103203350DABF6BB"
+			]
+			description: ["&7Mátalo."]
+			hide_until_deps_complete: true
+			icon: "bosses_of_mass_destruction:obsidian_heart"
+			id: "065D169B3FC3AFC8"
+			rewards: [
+				{
+					id: "483AAACA8CFDB4BE"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "4D2042B244ED059C"
+					item: "things:hardening_catalyst"
+					type: "item"
+				}
+				{
+					id: "2561D3BD5A2D0205"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			subtitle: "Criatura hecha de Roca y Odio, liberada una vez más."
+			tasks: [{
+				entity: "bosses_of_mass_destruction:obsidilith"
+				icon: "bosses_of_mass_destruction:obsidian_heart"
+				id: "5F40E1B871CECC17"
+				title: "Mata al Obsidilith"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Mata al &dObsidilith"
+			x: 7.0d
+			y: -17.0d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			description: ["&7No se permiten abejas ni perros."]
+			icon: "betterend:amber_moss"
+			id: "2D897C539190F312"
+			rewards: [{
+				id: "4A45534FC56FEE18"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "¿Has oído de este hecho de Ámbar?"
+			tasks: [{
+				biome: "betterend:amber_land"
+				icon: "betterend:amber_gem"
+				id: "0B1F29254E47C522"
+				title: "Visita las Tierras de Ámbar"
+				type: "biome"
+			}]
+			title: "La Tierra de Ámbar"
+			x: 4.0d
+			y: -22.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "betterend:crystalline_sulphur"
+			id: "45E85B95F4D8B7AB"
+			rewards: [
+				{
+					id: "4FBEF1C4B4A39B50"
+					type: "xp"
+					xp: 500
+				}
+				{
+					count: 4
+					id: "7AAE122EF9D7FAAF"
+					item: "betterend:crystalline_sulphur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				biome: "betterend:sulphur_springs"
+				icon: "betterend:crystalline_sulphur"
+				id: "544BAAEF870F2724"
+				title: "Visita los Manantiales de Azufre"
+				type: "biome"
+			}]
+			title: "Los Manantiales de Azufre"
+			x: -6.0d
+			y: -18.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "betterend:flavolite_lantern"
+			id: "5122BBD24637C17B"
+			rewards: [{
+				id: "1E0467A839EF76A3"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Como una estrella en el cielo"
+			tasks: [{
+				biome: "betterend:lantern_woods"
+				icon: "betterend:flavolite_lantern"
+				id: "69EB70E436621C9F"
+				title: "Visita el Bosque Linterna"
+				type: "biome"
+			}]
+			title: "El Bosque Linterna"
+			x: 3.0d
+			y: -23.0d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "minecraft:end_stone"
+			id: "67F94147E6403F5F"
+			rewards: [{
+				id: "1E217FB154164C3E"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				biome: "minecraft:end_highlands"
+				icon: "minecraft:end_stone"
+				id: "28F81956E29537E4"
+				title: "Visita las Tierras Altas del End"
+				type: "biome"
+			}]
+			title: "Las Tierras Altas del End"
+			x: 1.5d
+			y: -23.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "minecraft:purpur_pillar"
+			id: "4B1BEDBB8D2DB24C"
+			rewards: [
+				{
+					id: "69E01C4AEC56ED4B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 6
+					id: "7E3463333780400E"
+					item: "minecraft:honeycomb"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5939EE994FFD0FD2"
+					item: "expandeddelight:peanut_butter_honey_sandwich"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				icon: "minecraft:purpur_pillar"
+				id: "554D1ECC11FE60D5"
+				structure: "minecraft:end_city"
+				title: "¡Visita una Ciudad del End!"
+				type: "structure"
+			}]
+			title: "¡Encuentra una &dCiudad del End!"
+			x: 0.0d
+			y: -24.0d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "betterend:end_moss"
+			id: "46EDABE48D816A5B"
+			rewards: [{
+				id: "01887E597155E4C8"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Glowing!"
+			tasks: [{
+				biome: "betterend:glowing_grasslands"
+				icon: "betterend:end_moss"
+				id: "718F9608C09FF1E0"
+				title: "Visita las Tierras de Hierba Brillante"
+				type: "biome"
+			}]
+			title: "Las Tierras de Hierba Brillante"
+			x: -3.0d
+			y: -23.0d
+		}
+		{
+			dependencies: [
+				"0AE2C4383B40418A"
+				"3E1F65C1ABAE9FCB"
+			]
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: "botania:gaia_head"
+			id: "282F91088DE123F7"
+			rewards: [{
+				id: "6932D584E63D8456"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "eldritch_end:dendler"
+				id: "4126797F526D12D2"
+				type: "kill"
+				value: 100L
+			}]
+			title: "Mata Dendlers"
+			x: 7.5d
+			y: -18.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "betterend:lacugrove_sapling"
+			id: "55829700C661DEA2"
+			rewards: [{
+				id: "2445DBF72FB06192"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				biome: "betterend:megalake_grove"
+				icon: "betterend:lacugrove_sapling"
+				id: "0392A2E1458AA1E6"
+				title: "Visita la Arboleda del Megalago"
+				type: "biome"
+			}]
+			title: "La Arboleda del Megalago"
+			x: -5.0d
+			y: -16.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			description: ["&7Esta región fue abandonada no hace mucho, todavía puedes ver algunas marcas en la Roca."]
+			icon: "betterend:umbralith"
+			id: "05A1A7ABDA3ACD3F"
+			rewards: [{
+				id: "7960DFF46D4075D9"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Una vez poblada por una raza de Cerdos"
+			tasks: [{
+				biome: "betterend:umbra_valley"
+				icon: "betterend:umbralith"
+				id: "2CFE72212E6641DF"
+				title: "Visita el Valle de las Sombras"
+				type: "biome"
+			}]
+			title: "El Valle Umbra"
+			x: 5.0d
+			y: -16.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "minecraft:obsidian"
+			id: "1F8141547C25B57A"
+			rewards: [{
+				id: "239A18B5DB1C3CCE"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				icon: "betternether:obsidian_tile"
+				id: "465F6B80085E0837"
+				structure: "philipsruins:end_gate_fortress"
+				title: "Visita la Fortaleza de la Puerta del End"
+				type: "structure"
+			}]
+			title: "La Fortaleza de la Puerta del End"
+			x: -4.0d
+			y: -15.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			description: ["&7Estos naufragios tienen un botín similar al de las ciudades del End, ¡vale la pena explorarlos!"]
+			icon: "eldritch_end:primordial_boat"
+			id: "5CCC87B841CF1BCB"
+			rewards: [{
+				id: "61BA8D7748023534"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "¿Qué fue primero, el barco o el naufragio?"
+			tasks: [{
+				icon: "eldritch_end:primordial_chest_boat"
+				id: "608E524DE00DB966"
+				structure: "explorify:end_shipwreck"
+				title: "Encuentra un Naufragio"
+				type: "structure"
+			}]
+			title: "Shipwrecks."
+			x: 3.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			description: ["&7Estas Aldeas tienden a contener un montón de Perlas de Ender, plantillas de herrería y el lingote ocasional."]
+			icon: "betterend:shadow_berry_jelly"
+			id: "481A46B1A8D7DEBF"
+			rewards: [{
+				id: "5A78E2A5986BB99C"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "¿Quién habría pensado que hay Aldeas aquí?"
+			tasks: [{
+				icon: "betterend:mossy_glowshroom_door"
+				id: "3B9FFF6B7E6B0502"
+				structure: "betterend:end_village"
+				title: "Visita una Aldea del End"
+				type: "structure"
+			}]
+			title: "La aldea del End"
+			x: -3.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "betterend:violecite"
+			id: "1FC2F5604CFAF8A2"
+			rewards: [{
+				id: "4AE77FC5E88CB421"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				biome: "betterend:painted_mountains"
+				icon: "betterend:violecite"
+				id: "1DF13FE507E86B64"
+				title: "Visita las Montañas Pintadas"
+				type: "biome"
+			}]
+			title: "Las Montañas Pintadas"
+			x: -1.5d
+			y: -23.5d
+		}
+		{
+			dependencies: ["1FC2F5604CFAF8A2"]
+			description: [""]
+			hide_until_deps_complete: true
+			id: "0D01223246C4398B"
+			rewards: [{
+				id: "61E5606931C04FA9"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				count: 64L
+				id: "5E8AE32BC651BB0A"
+				item: "betterend:violecite"
+				type: "item"
+			}]
+			title: "Picasso no habría podido hacer estos"
+			x: -2.5d
+			y: -25.0d
+		}
+		{
+			dependencies: ["4B1BEDBB8D2DB24C"]
+			description: ["&7Tan molestos, pero tan útiles..."]
+			hide_until_deps_complete: true
+			icon: "minecraft:shulker_box"
+			id: "41922BF8A10343B3"
+			rewards: [
+				{
+					count: 16
+					id: "49EA29935ACF7EB9"
+					item: "ends_delight:shulker_omelette_mixture"
+					type: "item"
+				}
+				{
+					id: "3EC12382538C7F22"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "square"
+			tasks: [{
+				entity: "minecraft:shulker"
+				icon: "minecraft:shulker_box"
+				id: "57280CCA6284F288"
+				type: "kill"
+				value: 100L
+			}]
+			title: "¡Acaba con los &eShulkers!"
+			x: -1.5d
+			y: -28.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "betterend:flavolite_runed_eternal"
+			id: "624C916A1347DBB7"
+			rewards: [{
+				id: "58D524486F712C19"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "¿A dónde llevará? ¿Quién la hizo?"
+			tasks: [{
+				icon: "betterend:flavolite_runed_eternal"
+				id: "28F3F489D39A4E67"
+				structure: "betterend:eternal_portal"
+				title: "Encuentra un Portal Eterno"
+				type: "structure"
+			}]
+			title: "Encuentra el Portal Eterno"
+			x: 4.0d
+			y: -15.5d
+		}
+		{
+			dependencies: ["400CF2A570FC3814"]
+			description: ["&7¡Lo lograste! No muchos se embarcan en la restauración de este antiguo artefacto."]
+			hide_until_deps_complete: true
+			id: "3BA590EA7252CD1F"
+			rewards: [
+				{
+					id: "26A086EB44307A83"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7ACE4742EE3079E9"
+					table_id: 1877317905884575919L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				advancement: "betterend:portal_on"
+				criterion: ""
+				id: "6417952D9BD8442B"
+				type: "advancement"
+			}]
+			title: "La Luz Eterna"
+			x: 7.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["624C916A1347DBB7"]
+			description: ["&7Para abrir el Portal de nuevo, primero tendrás que restaurarlo. Una vez que hayas restaurado el Portal a su forma original, encuentra los seis Pedestales a su alrededor. Coloca todos los Cristales en ellos."]
+			hide_until_deps_complete: true
+			icon: "betterend:eternal_pedestal"
+			id: "400CF2A570FC3814"
+			rewards: [{
+				id: "31D7F4EAB5CACAE9"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			subtitle: "[Clic para más Información]"
+			tasks: [{
+				count: 6L
+				id: "4788FB875074D5FD"
+				item: { Count: 6, id: "betterend:eternal_crystal" }
+				type: "item"
+			}]
+			title: "Reúne Cristales Eternos"
+			x: 5.5d
+			y: -14.0d
+		}
+		{
+			dependencies: ["422E507CE6A53B7C"]
+			description: ["&7Hay un montón de cosas que encontrar en el End que pueden ser útiles. Ya sean menas raras o talismanes, encontrar una Ciudad del End debería ser tu prioridad principal."]
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "405ECED2C34FC488"
+			rewards: [{
+				id: "79B5CBE2CFA326F5"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "pentagon"
+			size: 2.0d
+			subtitle: "[Clic para más información]"
+			tasks: [{
+				id: "31763D7165AA4BA0"
+				title: "¡Explora el End!"
+				type: "checkmark"
+			}]
+			title: "&dExplora el End "
+			x: 0.0d
+			y: -18.5d
+		}
+		{
+			dependencies: ["4A46A563FE486A35"]
+			description: ["&7Estos troncos raros te hipnotizan de una manera extraña. Los quieres."]
+			hide_until_deps_complete: true
+			id: "74409F6413DCA7DC"
+			rewards: [{
+				id: "1410A5B9C7D41E11"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				count: 32L
+				id: "0A8611416AE83925"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "betterend:tenanea_logs"
+					}
+				}
+				title: "Recolecta madera de Tenanea"
+				type: "item"
+			}]
+			title: "El interior parece una Baya"
+			x: -7.0d
+			y: -17.0d
+		}
+		{
+			dependencies: ["45E85B95F4D8B7AB"]
+			description: ["&7Tendría cuidado con guardarlas, huelen a Azufre."]
+			hide_until_deps_complete: true
+			id: "686AF3C40B2C2830"
+			rewards: [{
+				id: "3B472C731B830688"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				count: 32L
+				id: "445867A85D6F361D"
+				item: { Count: 32, id: "betterend:brimstone" }
+				type: "item"
+			}]
+			title: "¿Huele a huevos podridos aquí?"
+			x: -7.5d
+			y: -18.5d
+		}
+		{
+			dependencies: ["1C087F6048B1D89F"]
+			description: ["&7Este lugar es simplemente horrible, toma algunas de sus cosas y no vuelvas aquí. Malditas Arañas."]
+			hide_until_deps_complete: true
+			icon: "promenade:dark_amaranth_stem"
+			id: "23735EF40AE7D130"
+			rewards: [{
+				id: "5B38A48C709A25E7"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [
+				{
+					id: "2141C9AAA95F6EA7"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "promenade:dark_amaranth_stems"
+						}
+					}
+					title: "Consigue Tallos de Amaranto Oscuro"
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "09D11C582B041EEF"
+					item: { Count: 10, id: "minecraft:cobweb" }
+					type: "item"
+				}
+			]
+			title: "Un lugar muy sombrío"
+			x: -7.5d
+			y: -20.0d
+		}
+		{
+			dependencies: [
+				"02F0E1B04F1A6E56"
+				"601BDBA6DF073CB0"
+			]
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6A712C7EBB12A44F"
+			rewards: [
+				{
+					id: "6E13B9EC6ADE6933"
+					item: "eldritch_end:aberration_heart"
+					type: "item"
+				}
+				{
+					id: "3B00A3083532C4C6"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				entity: "eldritch_end:aberration"
+				id: "1E6D5CCC39E7C745"
+				type: "kill"
+				value: 400L
+			}]
+			title: "Mata Aberraciones"
+			x: -7.0d
+			y: -21.5d
+		}
+		{
+			dependencies: ["06F8BED924CB661F"]
+			hide_until_deps_complete: true
+			id: "3173BAE60DB10C3E"
+			rewards: [
+				{
+					id: "3B550F2FF422E28D"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "3F94DEB6FAC4C90D"
+					item: "convenientdecor:purple_umbrella"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "41C472F9CBB4AE14"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "betterend:umbrella_tree_logs"
+					}
+				}
+				title: "Consigue Madera de Árbol Paraguas"
+				type: "item"
+			}]
+			title: "No se puede hacer un Paraguas con esto."
+			x: -6.0d
+			y: -22.5d
+		}
+		{
+			dependencies: ["05A1A7ABDA3ACD3F"]
+			description: ["&7Recoge algo de Umbralith como recuerdo y posible uso científico. ¿A dónde han ido estos Cerdos?"]
+			hide_until_deps_complete: true
+			id: "642B50C17F82E65F"
+			rewards: [{
+				id: "491009CB60387682"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				count: 64L
+				id: "494451A5A9C81525"
+				item: { Count: 64, id: "betterend:umbralith" }
+				type: "item"
+			}]
+			title: "Recoge algo de Umbralita"
+			x: 6.5d
+			y: -15.5d
+		}
+		{
+			dependencies: ["46EDABE48D816A5B"]
+			description: ["&7Realmente no está hecho para palomitas, no es que quieras brillar, ¿verdad?"]
+			hide_until_deps_complete: true
+			id: "4760AE66CBC29443"
+			rewards: [{
+				id: "481B7DB9A881771D"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				count: 128L
+				id: "2DC28575B34DF35C"
+				item: "betterend:lumecorn_rod"
+				title: "¡Recoge algo de Lumecornia!"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -24.5d
+		}
+		{
+			dependencies: ["1F8141547C25B57A"]
+			hide_until_deps_complete: true
+			icon: "minecraft:shulker_shell"
+			id: "641209B1DEA1CB6D"
+			rewards: [
+				{
+					id: "1F2B281A798363DF"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 16
+					id: "7C406A6A80E2FE80"
+					item: "ends_delight:shulker_meat"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:shulker"
+				id: "7F78BDEC36A4519C"
+				type: "kill"
+				value: 25L
+			}]
+			x: -5.5d
+			y: -14.0d
+		}
+		{
+			dependencies: ["481A46B1A8D7DEBF"]
+			hide_until_deps_complete: true
+			icon: "betterend:shadow_berry_cooked"
+			id: "614D885F3619658F"
+			rewards: [
+				{
+					id: "4062FF9EA38DC351"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 16
+					id: "5350F5687A1597B7"
+					item: "betterend:aeternium_ingot"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 10L
+					id: "468BEF02334EC129"
+					item: { Count: 10, id: "betterend:menger_sponge" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "6D2C8846F88DBB13"
+					item: { Count: 10, id: "betterend:shadow_berry_cooked" }
+					type: "item"
+				}
+			]
+			title: "¡Consigue algunas cosas interesantes de la Aldea!"
+			x: -4.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["4B1BEDBB8D2DB24C"]
+			hide_until_deps_complete: true
+			icon: "supplementaries:enderman_head"
+			id: "52B8FFA8E721BE05"
+			rewards: [
+				{
+					id: "0C339F0F3504B25A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "0D1744608FDF1A0E"
+					item: {
+						Count: 1
+						id: "minecraft:splash_potion"
+						tag: {
+							Potion: "mutantmonsters:chemical_x"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "533E7472CE1493E5"
+					item: "ends_delight:enderman_gristle_stew"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				entity: "minecraft:enderman"
+				icon: "supplementaries:enderman_head"
+				id: "215E768581A66485"
+				title: "Mata Endermans"
+				type: "kill"
+				value: 400L
+			}]
+			title: "Acaba con los Endermen"
+			x: 1.5d
+			y: -28.5d
+		}
+		{
+			dependencies: ["52B8FFA8E721BE05"]
+			description: ["&7Mata a esta abominación despreciable antes de que se convierta en un problema para ti."]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "mutantmonsters:endersoul_hand"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "15AC981E237E9696"
+			rewards: [
+				{
+					id: "249734EE24CD0652"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "1948AEA72922B126"
+					item: {
+						Count: 1
+						id: "immersive_melodies:ender_bass"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "5700D299C93827C0"
+					item: "ends_delight:ender_congee"
+					type: "item"
+				}
+			]
+			subtitle: "Quema al Hereje, Purga lo Impuro"
+			tasks: [{
+				entity: "mutantmonsters:mutant_enderman"
+				id: "45CB521DB95B822E"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Mata al mutante"
+			x: 0.0d
+			y: -30.5d
+		}
+		{
+			dependencies: ["4B1BEDBB8D2DB24C"]
+			hide_until_deps_complete: true
+			icon: "artifacts:onion_ring"
+			id: "4449BA89F2428F67"
+			rewards: [
+				{
+					id: "197E413AE4F6886B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "5AB179498A1FDE2E"
+					item: {
+						Count: 1
+						id: "prominent:loot_box"
+						tag: {
+							lottery_id: "prominent:t4_trinket_lottery"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "3A5448F49C30E41D"
+					title: "Talismanes de nivel 4"
+					type: "checkmark"
+				}
+				{
+					entity: "minecraft:shulker"
+					id: "1D83887F1C94C8C1"
+					title: "Mata a un Shulker"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "617DE7D9E928FF76"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "rpg_series:tier_3_accessories"
+						}
+					}
+					title: "Consigue cualquier talismán de Nivel IV"
+					type: "item"
+				}
+			]
+			title: "&dTalismanes de Nivel 4"
+			x: 2.0d
+			y: -26.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "icarus:white_dragon_wings"
+			id: "18F74B2D3AF2364F"
+			rewards: [{
+				id: "607FFDBE1E599230"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "60E59659D9108F6B"
+				structure: "dungeons_arise:heavenly_rider"
+				type: "structure"
+			}]
+			title: "&dJinete Celestial"
+			x: 2.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			icon: "icarus:pink_dragon_wings"
+			id: "2BB4AB6CC24236CF"
+			rewards: [{
+				id: "7956195F8A40C05C"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Invencible durante siglos"
+			tasks: [{
+				icon: "icarus:white_mechanical_feathered_wings"
+				id: "53217031F6A5172A"
+				structure: "dungeons_arise:heavenly_challenger"
+				title: "Visita al Desafiante Celestial"
+				type: "structure"
+			}]
+			title: "&dDesafiante Celestial"
+			x: -2.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["18F74B2D3AF2364F"]
+			hide_until_deps_complete: true
+			id: "6D2010BEB8C8B173"
+			rewards: [{
+				id: "12B635DFB83EF1FE"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "minecraft:phantom"
+				icon: "handcrafted:phantom_trophy"
+				id: "01A084B598672A74"
+				title: "Mata Fantasmas"
+				type: "kill"
+				value: 10L
+			}]
+			title: "Mata estas Plagas"
+			x: 3.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["2BB4AB6CC24236CF"]
+			hide_until_deps_complete: true
+			icon: "handcrafted:phantom_trophy"
+			id: "3D7B796B17C97492"
+			rewards: [{
+				id: "3540B6C611893F1C"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "minecraft:phantom"
+				icon: "handcrafted:phantom_trophy"
+				id: "15E1B531AFBB2583"
+				title: "Mata Fantasmas"
+				type: "kill"
+				value: 10L
+			}]
+			title: "Mata estas Plagas"
+			x: -3.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["5CCC87B841CF1BCB"]
+			description: ["&7Estos pueden ser útiles, no solo para construir, sino también si quieres hacer tecnología. Es mejor que recolectes algunos y los guardes."]
+			hide_until_deps_complete: true
+			id: "0DF7D1A42CF5C386"
+			rewards: [{
+				id: "0FEE7F693ACFB237"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				count: 16L
+				id: "6B60B0490A0C20CA"
+				item: { Count: 16, id: "minecraft:purpur_block" }
+				type: "item"
+			}]
+			title: "Consigue algunos Bloques de Purpur"
+			x: 4.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["21DB9F756402FE99"]
+			hide_until_deps_complete: true
+			id: "3AF0AAB04A784FE2"
+			rewards: [{
+				id: "7F00DDB167E90601"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				count: 128L
+				id: "6C03B40C632B1FEF"
+				item: "minecraft:chorus_fruit"
+				type: "item"
+			}]
+			title: "¡Consigue algo de &dFruta de Coro!"
+			x: 6.5d
+			y: -22.5d
+		}
+		{
+			dependencies: ["3AF0AAB04A784FE2"]
+			description: ["&7Los Trozos de Galena tienen la mayor probabilidad de obtener una &4Tirada Mítica&r &7en tus Armas, Herramientas y Armaduras. Necesitarás un montón de estos para llevar todo a Mítico."]
+			hide_until_deps_complete: true
+			id: "7D339BE12B3D500A"
+			rewards: [
+				{
+					id: "4E3E0D57197D2EBF"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 32
+					id: "6B5C98D1581377EE"
+					item: "tiered:galena_chunk"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "3FCB6BFAE39DCC05"
+				item: { Count: 64, id: "tiered:galena_chunk" }
+				type: "item"
+			}]
+			title: "&dFragmentos de galena"
+			x: 8.5d
+			y: -23.5d
+		}
+		{
+			dependencies: ["2D897C539190F312"]
+			hide_until_deps_complete: true
+			id: "147C2CC7E0403220"
+			rewards: [{
+				id: "2609EA821AAEABEF"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				count: 32L
+				id: "4BC8B1A5C984D169"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "betterend:helix_tree_logs"
+					}
+				}
+				title: "Cualquier Corteza de Árbol Helix"
+				type: "item"
+			}]
+			title: "Recolecta algunos Troncos"
+			x: 5.5d
+			y: -23.5d
+		}
+		{
+			dependencies: ["5122BBD24637C17B"]
+			description: ["&7Estos troncos son geniales para decoración, definitivamente deberías conseguir algunos."]
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "55A99787ABAF18D9"
+			rewards: [{
+				id: "603236ABD1154500"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				count: 64L
+				id: "2B1B3396C929C6CD"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "betterend:lucernia_logs"
+					}
+				}
+				title: "Recoge Madera de Lucernia"
+				type: "item"
+			}]
+			title: "Recolecta algunos Troncos"
+			x: 4.0d
+			y: -24.5d
+		}
+		{
+			dependencies: ["67F94147E6403F5F"]
+			description: ["&7Esta Roca a veces molesta puede tener algún uso más adelante."]
+			hide_until_deps_complete: true
+			id: "15C0C0463C99F485"
+			rewards: [{
+				id: "0E70B6223BAFDC8B"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				count: 256L
+				id: "62F9266F229BF195"
+				item: "betterend:flavolite"
+				type: "item"
+			}]
+			title: "Como Piedra del End pero más molesta."
+			x: 2.5d
+			y: -25.0d
+		}
+		{
+			dependencies: ["4B1BEDBB8D2DB24C"]
+			description: ["&7Matar monstruos en el End con un cuchillo puede producir ingredientes valiosos para cocinar alimentos increíblemente poderosos."]
+			hide_until_deps_complete: true
+			icon: "ends_delight:dragon_leg"
+			id: "725105B81E806A55"
+			rewards: [
+				{
+					id: "6A05D291903F572A"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "5E4C43FFB5D55DC8"
+					item: "ends_delight:fried_dragon_egg"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "559DF372356CA176"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "c:tools/knives"
+					}
+				}
+				title: "Cualquier #c:tools/knives"
+				type: "item"
+			}]
+			title: "¡Delicias del End!"
+			x: -2.0d
+			y: -26.5d
+		}
+		{
+			dependencies: [
+				"48AADA398DC4E940"
+				"405ECED2C34FC488"
+			]
+			dependency_requirement: "all_started"
+			description: [
+				"&7Las Alas de Ícaro son como un Elytra, pero simplemente mejores. No tienen durabilidad y van en la ranura de Capa. ¡&5Ni siquiera necesitan&r &7fuegos artificiales!!"
+				"&7Ten en cuenta que cuantos más puntos de armadura tengas, más te pesan; el uso óptimo es sin armadura en absoluto."
+				"&7Cualquieras Alas que hagas, &5&ntodas son iguales.&r&r"
+				"&7Los creados con una &5Estrella del Nether&r &7&5no consumen Saturación ni Hambre&r &7de ti."			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "0F9166A5CBEB4E3E"
+			rewards: [
+				{
+					id: "5B46D6F75B7C8B19"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "0559961D049DE4D5"
+					item: {
+						Count: 1
+						id: "prominent:loot_box"
+						tag: {
+							lottery_id: "prominent:resource_1_lottery"
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			subtitle: "[Clic para más Información]"
+			tasks: [{
+				id: "5A3A11C6A327797B"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "icarus:wings"
+					}
+				}
+				title: "Crea cualquiera de las Alas"
+				type: "item"
+			}]
+			title: "Oh, pobre &eÍcaro..."
+			x: 0.0d
+			y: -27.5d
+		}
+		{
+			dependencies: ["37525863A9E5509D"]
+			description: ["&7Esta Brújula, aunque te costará un montón de Trofeos, es lo mejor que puedes hacer, ya que hace que encontrar Estructuras sea increíblemente fácil y te ahorra horas."]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "explorerscompass:explorerscompass"
+				tag: { }
+			}
+			id: "30794D704F5985D1"
+			rewards: [{
+				id: "265CADC7DEE444ED"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			subtitle: "¡La Herramienta más práctica para un Flameborn!"
+			tasks: [
+				{
+					id: "4ADC0ECC8611C3A1"
+					item: {
+						Count: 1
+						id: "explorerscompass:explorerscompass"
+						tag: { }
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "6BDECA3C28E70619"
+					type: "checkmark"
+				}
+			]
+			title: "La Brújula del Explorador"
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			description: ["&7Lo necesitarás."]
+			hide_until_deps_complete: true
+			id: "3FF0B07B7BCC9CDF"
+			rewards: [
+				{
+					id: "5E088B81E4D9B172"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 10
+					id: "2090D98D43AC367C"
+					item: "minecraft:chorus_fruit"
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: "minecraft:purpur_block"
+				id: "5ADA7128D04A84C7"
+				structure: "mes:mega_ship"
+				title: "Encuentra un Mega Barco"
+				type: "structure"
+			}]
+			x: 1.5d
+			y: -12.5d
+		}
+		{
+			dependencies: ["405ECED2C34FC488"]
+			hide_until_deps_complete: true
+			id: "6014E32944355FC6"
+			rewards: [{
+				id: "33500D72866651BE"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				icon: "handcrafted:phantom_trophy"
+				id: "12CC55E6903FFF47"
+				structure: "mes:phantom_citadel"
+				title: "Encuentra una Ciudadela Fantasma"
+				type: "structure"
+			}]
+			x: -1.5d
+			y: -12.5d
+		}
+	]
+	title: " &dEl Fin del Tiempo"
+}

@@ -1,0 +1,407 @@
+{
+	autofocus_id: "3D769BC0E31CF27B"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "e_spell_books"
+	group: "5EA21B61C2E147CB"
+	id: "0A5ED3FF6297E59E"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&eLa Mesa de Vinculación de Hechizos es la fuente de creación de libros de hechizos de Nivel I. También te permite adjuntar hechizos a todos los libros de hechizos, independientemente de su nivel."
+				""
+				"&7Para maximizar su rendimiento y permitirle desbloquear todos los hechizos, debes rodearlo con &eEstanterías&7 de manera similar a una Mesa de Encantamientos. &n&l&4Necesitarás 18 Estanterías para obtener los cuatro Hechizos.&r&r&r"			]
+			id: "2ACBF734342376E6"
+			shape: "hexagon"
+			size: 2.0d
+			subtitle: "&8[Haz clic para leer las instrucciones]"
+			tasks: [{
+				id: "27A316975F783582"
+				item: "spell_engine:spell_binding"
+				type: "item"
+			}]
+			title: "&eLa Mesa de Vinculación de Hechizos"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2ACBF734342376E6"]
+			description: [
+				"&eAntes de adentrarte en la creación de tu primer libro de hechizos, quizás quieras preguntar, ¿qué significan los niveles?"
+				"&8La dificultad junto a ellos define la complejidad de cada libro, lo difícil que es dominarlos."
+				""
+				"&eNivel I: &7Libros de clase básicos que se pueden obtener a través de la Mesa de Unión de Hechizos."
+				"&6Nivel II: &7Libros de clase híbrida que requieren una receta de crafteo usando un libro de Nivel I para obtenerse."
+				"&cNivel III: &7Libros de clase avanzados que expanden/evolucionan los libros de Nivel II, o tienen un juego avanzado. Requieren un Trofeo de Cinderstone para crearse."
+				""
+				"&7Un libro de nivel superior &cno significa que sea más fuerte&7, sino que se obtiene de una manera diferente."			]
+			id: "3D769BC0E31CF27B"
+			rewards: [{
+				count: 8
+				id: "63E0801C38149B0D"
+				item: "minecraft:lapis_lazuli"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 2.0d
+			subtitle: "&8[Haz clic para leer las instrucciones]"
+			tasks: [{
+				id: "5C2381C13E96EC72"
+				item: "minecraft:book"
+				type: "item"
+			}]
+			title: "&eEl Poder Dentro de Ti"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3D769BC0E31CF27B"]
+			description: [
+				"- &eCódice del Guerrero"
+				"&7Un libro básico para peleadores o protectores. Un gran punto medio para builds de daño físico más lentas."			]
+			id: "680CDC0CDDB2A1E7"
+			shape: "diamond"
+			subtitle: "&eNivel I&7- &aFácil"
+			tasks: [{
+				id: "0CC8838FD229F0D3"
+				item: "rogues:warrior_spell_book"
+				type: "item"
+			}]
+			title: "&eUn Camino de Berserker"
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3D769BC0E31CF27B"]
+			description: [
+				"- &eManual del Pícaro"
+				"&7Un Libro de Hechizos que se enfoca en proporcionar utilidades para builds de pícaro, desde aumentos de daño apilables hasta teletransportes, aturdimientos y sigilo rápido."			]
+			id: "78944A4B5A1CD1EA"
+			shape: "diamond"
+			subtitle: "&eNivel I &7- &aFácil"
+			tasks: [{
+				id: "420A3C82E6373505"
+				item: "rogues:rogue_spell_book"
+				type: "item"
+			}]
+			title: "&eSombras Letales"
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3D769BC0E31CF27B"]
+			description: [
+				"- &eManual de Arquería"
+				"&7El libro de hechizos básico para Arqueros. Se centra en mejorar la jugabilidad de tiro con arco con habilidades adicionales. Desde una mejora pasiva de tus disparos, hasta control de masas y una ráfaga de flechas."			]
+			id: "39463E71A1709CE8"
+			shape: "diamond"
+			subtitle: "&eNivel I &7- &aFácil"
+			tasks: [{
+				id: "659C0887A14C58E8"
+				item: "archers:archer_spell_book"
+				type: "item"
+			}]
+			title: "&eEl Blanco Perfecto"
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3D769BC0E31CF27B"]
+			description: [
+				"- &eLibro de Hechizos del Sacerdote"
+				"&7Canaliza los poderes sagrados primordiales para sanar a tus aliados."			]
+			id: "420BD41EBB2FCBF2"
+			shape: "diamond"
+			subtitle: "&eNivel I &7- &aFácil"
+			tasks: [{
+				id: "4A76EA93FA7EBA05"
+				item: "paladins:priest_spell_book"
+				type: "item"
+			}]
+			title: "&eUn Sanador Sagrado"
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3D769BC0E31CF27B"]
+			description: [
+				"- &eTomo de lo Arcano"
+				"&7Un libro de hechizos de lanzamiento a distancia que usa magia Arcana para realizar ataques muy poderosos con alto daño crítico."
+				""
+				"- &eTomo de Escarcha"
+				"&7Un libro de hechizos de lanzamiento a distancia que usa magia de Escarcha para infligir daño constante y rápido con utilidades como control de masas y hechizos defensivos."
+				""
+				"- &eTomo de Fuego"
+				"&7Un libro de hechizos de lanzamiento a distancia que usa magia de Fuego para realizar ataques fuertes con una alta probabilidad de crítico."			]
+			id: "2FE046702FE7E363"
+			shape: "diamond"
+			subtitle: "&eNivel I  &7- &aFácil"
+			tasks: [
+				{
+					id: "767C8498E6F73BF4"
+					item: "wizards:arcane_spell_book"
+					type: "item"
+				}
+				{
+					id: "1645A1DF79B0CC8F"
+					item: "wizards:frost_spell_book"
+					type: "item"
+				}
+				{
+					id: "0AC2E4E46CF093ED"
+					item: "wizards:fire_spell_book"
+					type: "item"
+				}
+			]
+			title: "&eMagia Elemental"
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"680CDC0CDDB2A1E7"
+				"420BD41EBB2FCBF2"
+			]
+			description: [
+				"- &eLibro de Hechizos del Paladín (Tanque)"
+				"&7Una combinación de Guerrero y Sacerdote, un protector que invoca lo Sagrado para proteger a sus aliados."
+				"- &eJuramento de Desafío (Tanque)"
+				"&7Una combinación de Tanque y Sacerdote, un defensor de lo que está detrás de él y un agresor hacia lo que se interpone en su camino."
+				"- &eJuramento de Venganza (Tanque)"
+				"&7Una combinación de un Tanque con algunas técnicas que los viejos Monjes usarían. Diseñado para provocar al enemigo y mostrar lo sólida que es tu armadura, haciendo más fácil proteger a tus aliados."			]
+			id: "55D2E1055E762E33"
+			shape: "pentagon"
+			subtitle: "&6Nivel II &7- &eMedio"
+			tasks: [
+				{
+					id: "1B0545C60E16399F"
+					item: "paladins:paladin_spell_book"
+					type: "item"
+				}
+				{
+					id: "4EC5F01ABFBED7BA"
+					item: "spellbladenext:defiance_spell_book"
+					type: "item"
+				}
+				{
+					id: "0F29E2EE6A65CD5B"
+					item: "spellbladenext:vengeance_spell_book"
+					type: "item"
+				}
+			]
+			title: "&eUn Guerrero Sagrado"
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["680CDC0CDDB2A1E7"]
+			description: [
+				"&7Hay tres tipos de Caballeros de la Muerte"
+				""
+				"- &eTomo de Invierno Eterno (Escarcha - DPS)"
+				"&7Enfocado en dañar a múltiples objetivos, fácil de entender pero el más difícil de dominar de los tres."
+				""
+				"- &eTomo de Enseñanzas Impías (Impío, DPS)"
+				"&7Centrado en infligir alto daño a un solo objetivo, especialmente bueno con el talento de destino Devoción Decadente."
+				""
+				"- &eTomo del Conocimiento Vampírico (Sangre - Tanque)"
+				"&7Enfocado en la autosuficiencia, con hechizos que se centran en la autocuración basada en la salud máxima."			]
+			id: "12369F6ACB62CBC1"
+			shape: "pentagon"
+			subtitle: "&6Nivel II &7- &eMedio"
+			tasks: [
+				{
+					id: "7F6EA37603A11140"
+					item: "death_knights:blood_spell_book"
+					type: "item"
+				}
+				{
+					id: "4A010BC27744790E"
+					item: "death_knights:unholy_spell_book"
+					type: "item"
+				}
+				{
+					id: "5022B3CA9933DD1B"
+					item: "death_knights:frost_spell_book"
+					type: "item"
+				}
+			]
+			title: "&eLos Caballeros de la Muerte"
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"2FE046702FE7E363"
+				"78944A4B5A1CD1EA"
+			]
+			description: [
+				"&eLas espadas mágicas combinan a los pícaros letales con el uso de la magia."
+				""
+				"- &eLibros de Técnicas"
+				"&7Una serie de libros con hechizos de combate elementales."			]
+			id: "2D6DC01DD507C1EC"
+			shape: "pentagon"
+			subtitle: "&6Nivel II &7- &aFácil"
+			tasks: [
+				{
+					id: "17F3314D40F30CEE"
+					item: "spellbladenext:frost_battlemage_spell_book"
+					type: "item"
+				}
+				{
+					id: "7BABA4105E09F7BE"
+					item: "spellbladenext:fire_battlemage_spell_book"
+					type: "item"
+				}
+				{
+					id: "6CFA154E9DDFAF6B"
+					item: "spellbladenext:arcane_battlemage_spell_book"
+					type: "item"
+				}
+			]
+			title: "&eLas Espadas-Hechizo"
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2FE046702FE7E363"]
+			description: [
+				"&eLa magia astral es la combinación de las magias Arcana, de Fuego y de Escarcha."
+				""
+				"- &eInvocaciones Astrales"
+				"&7Usa el poder de los elementos astrales para lanzar tres hechizos diferentes de cada elemento. Puedes usar un hechizo definitivo que cambiará según los elementos usados."
+				""
+				"&cCon un total de &l39&r&c hechizos posibles, este es el libro de hechizos más difícil."			]
+			id: "6EBA56E6576665E2"
+			shape: "hexagon"
+			subtitle: "&cNivel III &7- &cDifícil"
+			tasks: [{
+				id: "6FF598197E4A5471"
+				item: "invoke:invoker_spell_book"
+				type: "item"
+			}]
+			title: "&eMagia Astral"
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["39463E71A1709CE8"]
+			description: [
+				"- &eEl Terror de Mintaka"
+				"&7Un libro de arquería que combina arquería con magia de escarcha, enfocándose en control de masas con aturdimientos."
+				""
+				"- &eLa Vista de Alnilam"
+				"&7Un libro de arquería hecho para arqueros pícaros letales, centrado en un juego rápido."
+				""
+				"- &eEl Poder de Alnitak"
+				"&7Un libro de arquería que combina la arquería con la magia de fuego, centrándose en alto daño con quemaduras y explosiones."			]
+			id: "24588E0C17F50C15"
+			shape: "pentagon"
+			subtitle: "&cNivel III &7- &eMedio"
+			tasks: [
+				{
+					id: "362CF726EC9049D2"
+					item: "archers_expansion:tundra_hunter_spell_book"
+					type: "item"
+				}
+				{
+					id: "3BDCCF2AA3A70E04"
+					item: "archers_expansion:deadeye_spell_book"
+					type: "item"
+				}
+				{
+					id: "09E48B2921BFBA96"
+					item: "archers_expansion:war_archer_spell_book"
+					type: "item"
+				}
+			]
+			title: "&eLos Tres Cazadores"
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2D6DC01DD507C1EC"]
+			description: [
+				"&eEvoluciones de los libros de técnicas, un poco más avanzados."
+				""
+				"- &eEcos Desatados"
+				"&7Una evolución enigmática de las Técnicas Arcanas."
+				""
+				"- &eTomo de Frío Mortal"
+				"&7Una evolución congelada de las Técnicas de Escarcha."
+				""
+				"- &eRitos del Fénix"
+				"&7Una evolución piromántica de las Técnicas de Fuego."			]
+			id: "54865C68BCE9863A"
+			shape: "hexagon"
+			subtitle: "&cNivel III &7- &eMedio"
+			tasks: [
+				{
+					id: "0C0195D29CA499EE"
+					item: "spellbladenext:runic_echoes_spell_book"
+					type: "item"
+				}
+				{
+					id: "1822DD768F03A89D"
+					item: "spellbladenext:deathchill_spell_book"
+					type: "item"
+				}
+				{
+					id: "61E0031395517090"
+					item: "spellbladenext:phoenix_spell_book"
+					type: "item"
+				}
+			]
+			title: "&eEl Conocimiento del Magister"
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3D769BC0E31CF27B"]
+			description: [
+				"- &eCamino del Puño Espiritual"
+				"&7Un libro de hechizos que se centra en golpear, acercarse al oponente, mientras usa daño de alma y físico."			]
+			id: "67895CAA675A5B43"
+			shape: "diamond"
+			subtitle: "&eNivel II &7- &aMedio"
+			tasks: [{
+				id: "4AB151D6D5D2485C"
+				item: "forcemaster_rpg:forcemaster_spell_book"
+				type: "item"
+			}]
+			title: "&eLos Caminos del Puño"
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3D769BC0E31CF27B"]
+			description: [
+				"- &eCanciones de Armonía"
+				"&7Un libro básico para apoyar a tus compañeros de equipo, limpiando desventajas, mientras cura y hace algo de daño. Genial para Utilidad y para Bards más de apoyo."
+				"- &eCanciones de Valor"
+				"&7Un libro básico para Bardos que quieran usar Control de Masas, sin perder curación o daño. Genial para una build más tanque, pero también se puede usar como apoyo."			]
+			id: "46965AED1B06D22B"
+			shape: "diamond"
+			subtitle: "&eNivel I&7- &aFácil"
+			tasks: [
+				{
+					id: "3F291FBC53208B35"
+					item: "bards_rpg:bard_spell_book"
+					type: "item"
+				}
+				{
+					id: "1320A2F4CE9D2A14"
+					item: "bards_rpg:bard2_spell_book"
+					type: "item"
+				}
+			]
+			title: "&eCanciones de Leyendas"
+			x: 2.5d
+			y: -0.5d
+		}
+	]
+	title: "&e Desbloqueando Habilidades"
+}

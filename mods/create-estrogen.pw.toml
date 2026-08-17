@@ -1,0 +1,13 @@
+name = "Create: Estrogen"
+filename = "createestrogen-1.0.1+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47cdab68820ab4aebc14f378e44fe4cf8035e4d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7715988
+project-id = 1272015

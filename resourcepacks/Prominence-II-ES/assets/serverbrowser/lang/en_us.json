@@ -1,0 +1,10 @@
+{
+  "serverbrowser.button.next_page": "Siguiente: %s",
+  "serverbrowser.button.prev_page": "Anterior",
+  "serverbrowser.button.register": "Registrar servidor",
+  "serverbrowser.button.filter": "Filtrar servidores",
+  "serverbrowser.button.history": "Historial (en curso)",
+  "serverbrowser.button.favorite": "Favorito",
+  "serverbrowser.error.unreachable_website": "No se ha podido acceder a la página web por el momento",
+  "serverbrowser.server.official": "Oficial"
+}

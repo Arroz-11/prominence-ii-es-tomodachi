@@ -1,0 +1,13 @@
+name = "S-Lib"
+filename = "s-lib-fabric-1.0.5+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12246ed033ea04c1cca2b48364b18bf7ec86a902"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8481687
+project-id = 1576101

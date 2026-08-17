@@ -1,0 +1,13 @@
+name = "Estrogen"
+filename = "estrogen-5.0.8+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5172e3de883a59f44d7eb68fc5b3f60b41fb706"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7531003
+project-id = 850410

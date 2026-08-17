@@ -1,0 +1,13 @@
+name = "Create Questing"
+filename = "Create_Questing-FABRIC-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jUlR3XZM/versions/aqdJaQxc/Create_Questing-FABRIC-1.0.1.jar"
+hash-format = "sha512"
+hash = "bb79e7f19b0708fa6092c8a86a59dfdfc14e90781e9078c1c96bef651e573895d08028db62eae31d782a3a11a838fbe7953831e9471245f08389651cebd1b3dc"
+
+[update]
+[update.modrinth]
+mod-id = "jUlR3XZM"
+version = "aqdJaQxc"

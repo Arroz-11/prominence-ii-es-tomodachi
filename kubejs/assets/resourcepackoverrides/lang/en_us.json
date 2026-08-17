@@ -1,0 +1,11 @@
+{
+  "packAction.copyId.description": "Mantén pulsado %s para copiar",
+  "packAction.copyId.success": "¡Copiado!",
+  "packAction.copyId.title": "Copia el ID del paquete",
+  "packAction.reloadSettings.description": "Mantén pulsado %s para recargar",
+  "packAction.reloadSettings.success": "¡Recargado!",
+  "packAction.reloadSettings.title": "Recargar ajustes",
+  "packAction.toggleDebug.description": "Mantén pulsado %s para activar/desactivar",
+  "packAction.toggleDebug.success": "¡Activado!",
+  "packAction.toggleDebug.title": "Activar/desactivar los ID de los paquetes"
+}

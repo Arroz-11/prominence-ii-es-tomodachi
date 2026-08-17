@@ -1,0 +1,13 @@
+name = "Invocations"
+filename = "invoke-1.0.3.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70e4711d393a7e22764e1f046b74d74a110baf9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6131165
+project-id = 910516

@@ -1,0 +1,13 @@
+name = "Sorted Enchantments"
+filename = "sorted_enchantments-2.0.0+1.19.3+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0cd809dc3bb7973f21325437f7e4e17ba04787d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6965525
+project-id = 974256

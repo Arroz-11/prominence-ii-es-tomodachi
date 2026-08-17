@@ -1,0 +1,13 @@
+name = "Combat Effects (Modpack Utils Series)"
+filename = "combat_effects-fabric-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e94afd4ca84af3d3459d78fed8441ed9ef4c83bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5940869
+project-id = 1148519

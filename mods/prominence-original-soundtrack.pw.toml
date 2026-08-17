@@ -1,0 +1,13 @@
+name = "Prominence Original Soundtrack"
+filename = "Prominent_OST-GLOBAL-MC1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49e96f6600199775147a0047c566d5851199c3cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4888798
+project-id = 941248

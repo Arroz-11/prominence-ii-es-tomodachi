@@ -1,0 +1,12 @@
+{
+  "key.categories.fakerlib": "FakerLib",
+  "fakerlib.toggleTrails": "Activar/desactivar rastros de Patreon",
+  "fakerlib.toggleWings": "Activar/desactivar las alas de Patreon",
+  "fakerlib.toggleTrailsOn": "Activar Patreon Trails",
+  "fakerlib.toggleWingsOn": "Activar las alas de Patreon",
+  "fakerlib.toggleTrailsOff": "Desactivar Patreon Trails",
+  "fakerlib.toggleWingsOff": "Desactiva las alas de Patreon",
+  "fakerlib.cmd.serialize_success": "He guardado %s en %s.",
+  "fakerlib.cmd.serialize_failure": "Se ha producido un error durante el proceso de serialización.",
+  "fakerlib.cmd.not_found": "No se ha encontrado %s."
+}

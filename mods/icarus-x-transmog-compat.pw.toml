@@ -1,0 +1,13 @@
+name = "Icarus x Transmog compat"
+filename = "icaruswings_transmog_compat-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f3a4711e459c85f8977f6761c9aaa144848d64d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7924045
+project-id = 1459465

@@ -1,0 +1,13 @@
+name = "Off Hand Tick Fix"
+filename = "offhandtickfix-fabric-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d9f700e64059288aab9394d574762d85651a49e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6050230
+project-id = 1171190

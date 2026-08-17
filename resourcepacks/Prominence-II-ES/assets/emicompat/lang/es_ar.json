@@ -1,0 +1,23 @@
+{
+  "emi.category.chipped.alchemy_bench": "Banco de Alquimia",
+  "emi.category.chipped.glassblower": "Cristalblower",
+  "emi.category.chipped.loom_table": "Mesa de telar",
+  "emi.category.chipped.mason_table": "Mesa de albañil",
+  "emi.category.chipped.tinkering_table": "Mesa de Retocado",
+  "emi.category.chipped.botanist_workbench": "Mesa de Trabajo de Botánico",
+  "emi.category.ad_astra.nasa_workbench": "Banco de trabajo de la NASA",
+  "emi.category.ad_astra_giselle_addon.automation_nasa_workbench": "Workbench automatizado de la NASA",
+  "emi.category.chipped.carpenters_table": "Mesa de carpintero",
+  "emi.category.chipped.mechanist_workbench": "Banco de trabajo del mecánico",
+  "emi.category.emicompat.spell_binding": "Tabla de enlaces de hechizos",
+  "emi.category.enchanted.byproduct": "Horno de la bruja",
+  "emi.category.enchanted.distilling": "Destilería",
+  "emi.category.enchanted.spinning_": "Rueda de hilar",
+  "emi.category.enchanted.witch_cauldron": "Caldero de bruja",
+  "emi.category.enchanted.kettle": "Hervidor",
+  "emi.category.enchanted.rite": "Magia circular",
+  "emi.category.enchanted.mutandis": "Mutandis",
+  "emi.category.enchanted.mutandis_extremis": "Mutandis Extremis",
+  "emi.compat.enchanted.required_altar_power": "Poder del altar necesario: %s",
+  "emi.compat.enchanted.altar_power": "Potencia: %s"
+}

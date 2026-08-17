@@ -1,0 +1,13 @@
+name = "Custom Tooltip API"
+filename = "custom_tooltip_api-fabric-5.0.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0e06e48a168f47bbd4812ea5c76560ff483bd0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8484270
+project-id = 1508021

@@ -1,0 +1,905 @@
+{
+	autofocus_id: "6AD67E7C8CD78371"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "artifact_reforging"
+	group: "3DBADFFDA1FDAD84"
+	hide_quest_until_deps_complete: true
+	icon: {
+		Count: 1
+		id: "ftbquests:custom_icon"
+		tag: {
+			Icon: "prominent:item/molten_core"
+		}
+	}
+	id: "13D4D78DE7B38A80"
+	images: [
+		{
+			dependency: "6AD67E7C8CD78371"
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependency: "3453FD3CA0E3233A"
+			height: 1.0d
+			image: "decorative_blocks:block/bonfire_x_alt"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.0357142857142847d
+			y: 1.8642857142857139d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:icons/blank"
+			rotation: 0.0d
+			width: 0.1d
+			x: 0.0d
+			y: 17.0d
+		}
+		{
+			dependency: "6AD67E7C8CD78371"
+			height: 2.0d
+			image: "prominent_talents:textures/frames/circle_selected.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependency: "3453FD3CA0E3233A"
+			height: 2.0d
+			image: "prominent_talents:textures/frames/diamond_selected.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 2.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["45437B8E9AEEF2E5"]
+			description: [
+				"&6Requiere completar &nCapítulo I&r&6 de La Invasión del Vacío."
+				""
+				"&7El Núcleo Fundido es un poderoso artefacto hecho desde las profundidades del Volcán de Cinderstone; &cVaaz&7."
+				"&7Con él, puedes crear armas artefacto poderosas y únicas que tienen habilidades especiales y están ligadas a tu alma, lo que hace que solo el que las forjó pueda usarlas."
+				""
+				"&bRestos Encapsulados&7 se pueden usar para reparar y reforjar estas armas. También deberías hacer un &6Catalizador de Endurecimiento&7 para hacerlas irrompibles."			]
+			icon: "prominent:molten_core"
+			id: "6AD67E7C8CD78371"
+			rewards: [
+				{
+					id: "5562501929CD8443"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 10
+					id: "369B6883C30000A8"
+					item: "prominent:encased_remnant"
+					type: "item"
+				}
+			]
+			shape: "none"
+			size: 1.5d
+			subtitle: "&8[Haz clic para leer el lore e indicaciones]"
+			tasks: [
+				{
+					id: "035441107821B3C1"
+					item: "prominent:molten_core"
+					type: "item"
+				}
+				{
+					id: "56A625D024CDB2DE"
+					item: "things:hardening_catalyst"
+					title: "Fabrica un Cristal de Endurecimiento"
+					type: "item"
+				}
+			]
+			title: "&cLa Forja de S'kellak"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			description: [
+				"&ePuede forjarse usando una Esencia de Ira y una Hoja Lich Despierta, junto con el Núcleo Fundido."
+				""
+				""
+				"&8Este objeto es un tributo a la Frostmourne de World of Warcraft."			]
+			id: "341DB238063321BF"
+			shape: "hexagon"
+			subtitle: "Una espada maldita que contiene el poder de un invierno eterno. La Frostmourne es un artefacto rúnico infundido con magia de alma de escarcha. La leyenda dice que quien la empuñe se convertirá en el gobernante de los Caballeros de la Muerte, el Rey Exánime."
+			tasks: [{
+				id: "7F239D03EBB09534"
+				item: {
+					Count: 1
+					id: "prominent:frostmourne"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			description: [
+				"&eSe puede forjar usando dos Filos Fundidos junto con el Núcleo Fundido."
+				""
+				""
+				"&8Este objeto es un tributo a la Fyr'alath de World of Warcraft."			]
+			id: "6D1B83D633AB7558"
+			shape: "hexagon"
+			subtitle: "Un arma de almafuego agonizante que otorga gran resistencia a su portador. Orientada para aguantar, pero tiene gran daño de fuego."
+			tasks: [{
+				id: "52D24DAEDFD19F9A"
+				item: {
+					Count: 1
+					id: "prominent:fyralath"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			description: ["&eSe puede forjar usando una Esencia Demoníaca y un Desgarrador de Almas, junto con el Núcleo Fundido."]
+			id: "5D03084D09D2A997"
+			shape: "hexagon"
+			subtitle: "&7A'zhar era un demonio atrapado dentro de una guadaña forjada por S'kellak, haciendo que esta arma de fuego de almas no sea aliada. Ten cuidado al usarla porque intentará traicionarte."
+			tasks: [{
+				id: "43F5AAA9405EE27D"
+				item: {
+					Count: 1
+					id: "prominent:azhar"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			description: ["&eSe puede forjar usando la Esencia de Gloria y una Forja Estelar, junto con el Núcleo Fundido."]
+			id: "1CE7763C1889255C"
+			shape: "hexagon"
+			subtitle: "Forjada con restos de una estrella moribunda, la Supernova es un arma astral que puede dañar usando todos los elementos mágicos y obliterar cualquier objetivo con ráfagas astrales."
+			tasks: [{
+				id: "6B6E9C04C7D69E89"
+				item: {
+					Count: 1
+					id: "prominent:supernova"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			description: ["&eSe puede forjar usando una Esencia de Ira y un Puño de Furia, junto con el Núcleo Fundido."]
+			id: "211326D6B6C33A25"
+			shape: "hexagon"
+			subtitle: "Este puño de alma de fuego puede enfurecer a cualquiera si también empuñas su arma hermana: el Puño de Furia. Es una opción letal para artistas marciales, usando sus poderosos golpes que queman el alma del enemigo."
+			tasks: [{
+				id: "3D838C3D611886A5"
+				item: {
+					Count: 1
+					id: "prominent:fury_of_a_thousand_fists"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			description: ["&eSe puede forjar usando una Esencia Demoníaca y un Trueno, junto con el Núcleo Fundido."]
+			id: "50EB37F863EA810B"
+			shape: "hexagon"
+			subtitle: "Una alabarda fundida, hecha de Cinderstone y Noctisteel, imbuida con rayos, usada por el desaparecido líder de la raza Serkonid."
+			tasks: [{
+				id: "22CACA94593603A7"
+				item: {
+					Count: 1
+					id: "prominent:thunderwrath"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			description: ["&eSe puede forjar usando una Esencia de Gloria y una Esencia de Ira. Para desatar las espadas gemelas, uno debe usar la Esencia de Ash'edar."]
+			id: "29425DCD7396CE49"
+			shape: "hexagon"
+			subtitle: "&7Un par de espadas gemelas astrales que canalizan el poder del Sol y la Luna, usando poderes Arcanos y de Fuego."
+			tasks: [{
+				id: "37DE8677AEA5721E"
+				item: "prominent:ashedar_essence"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			description: [
+				"&ePuede ser forjado usando la Esencia de Gloria y un Bastón de Mago, junto con el Núcleo Fundido."
+				""
+				"&cEvoluciona a una de 5 versiones más fuertes para magos de Arcano, Fuego, Escarcha, Sagrado o Astral dentro del Árbol de Mejoras."			]
+			icon: {
+				Count: 1
+				id: "prominent:ekavar_staff"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6313DD656A95E8C0"
+			shape: "hexagon"
+			subtitle: "&7Un Artefacto antiguo forjado con materiales de estrellas lejanas. Cuando se infunde con poder, puede evolucionar a versiones superiores."
+			tasks: [{
+				id: "133C7DC53BD48F85"
+				item: {
+					Count: 1
+					id: "prominent:ekavar_staff"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			description: [""]
+			icon: "prominent:orion"
+			id: "4C2EFCB93288D047"
+			shape: "hexagon"
+			subtitle: "&7Un arco cósmico infundido con el poder de las estrellas de la constelación de Orión."
+			tasks: [{
+				id: "3068576CA6850BF1"
+				item: "prominent:orion"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			description: [
+				"&7Todos los artefactos se pueden mejorar usando su &6Árbol de Mejoras&7."
+				""
+				"&7Una vez que forjes tu propio Artefacto, desbloquearás su Árbol de Mejoras. Puedes acceder a él presionando &6N&7, y presionando el ícono de Núcleo Fundido en la esquina superior izquierda."
+				""
+				"&7Todos los Árboles de Mejora tienen hasta &67 nodos&7 que puedes seleccionar, con diferentes caminos a tomar."
+				""
+				"&7Para desbloquear nodos, necesitarás potenciar tu artefacto usando &6Restos Fundidos&7, que se obtienen como recompensa en misiones, o se pueden craftear usando Esencias Míticas."			]
+			icon: "prominent:molten_remnant"
+			id: "3453FD3CA0E3233A"
+			rewards: [{
+				id: "76103A7FBD55037B"
+				item: "prominent:molten_remnant"
+				type: "item"
+			}]
+			shape: "none"
+			size: 1.65d
+			subtitle: "&8[Haz clic para leer las instrucciones]"
+			tasks: [
+				{
+					id: "559B1BA85C721A6D"
+					title: "Continuar"
+					type: "checkmark"
+				}
+				{
+					id: "7F2A2E7F3E7BF665"
+					item: "prominent:infused_molten_remnant"
+					title: "&eObtén un Remanente Fundido Infundido de la Campaña."
+					type: "item"
+				}
+			]
+			title: "&cMejorar tu Artefacto"
+			x: 0.0d
+			y: 2.475d
+		}
+		{
+			dependencies: [
+				"29425DCD7396CE49"
+				"50EB37F863EA810B"
+				"211326D6B6C33A25"
+				"6313DD656A95E8C0"
+				"3453FD3CA0E3233A"
+				"4C2EFCB93288D047"
+				"341DB238063321BF"
+				"5D03084D09D2A997"
+				"6AD67E7C8CD78371"
+				"6D1B83D633AB7558"
+				"1CE7763C1889255C"
+				"077B4D52C71E918E"
+				"6999531248BA0AB3"
+				"3310DA8006063D56"
+				"3D8ECB6FDDF81AD9"
+				"61CEEB526443BFBE"
+				"0B892A8A2394EB7C"
+				"1D001B61D62F0C01"
+				"78AAA28EC532AD64"
+				"0B7839A1622323AE"
+				"7E00ACC74ECC5E1D"
+				"5D6E6FEA75B80066"
+				"5B27C3D3E677563D"
+				"0ACF3A88C52C2F6E"
+				"36916D6575BB39B7"
+			]
+			description: ["&8Has forjado todas las Armas Artefacto y desbloqueado su Maestría. Has tenido todo tipo de poder. Así que déjame preguntarte, ¿qué vas a hacer con este conocimiento?"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "the_bumblezone:item/essence/knowing"
+				}
+			}
+			id: "6357A4EEEB4B98EF"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "the_bumblezone:item/essence/knowing"
+					}
+				}
+				id: "0EED6BD5D17E433F"
+				title: "&dFragmento de Conocimiento Eterno"
+				type: "custom"
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			subtitle: "&8Conocimiento Secreto"
+			tasks: [{
+				id: "46488029B9E64840"
+				title: "He aprendido el Conocimiento."
+				type: "checkmark"
+			}]
+			title: "&dConocimiento Eterno: &eDe la Forja Eterna"
+			x: 0.0d
+			y: -17.25d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			description: [""]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "prominent:item/artifacts/vaazkar/vaazkar_item"
+				}
+			}
+			id: "077B4D52C71E918E"
+			shape: "hexagon"
+			subtitle: "&7Un escudo fundido que muestra el símbolo de la Estatua Viviente, usado por los protectores de más alto rango de la Ciudad de Vaaz"
+			tasks: [{
+				id: "4FA80A031C7448BD"
+				item: "prominent:vaazkar"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			description: ["&e¡Oh Abuela, esto está delicioso!"]
+			icon: {
+				Count: 1
+				id: "prominent:skillet"
+				tag: {
+					Damage: 0
+					boundArtifact: [I;
+						-509841217
+						1799570245
+						-1395779439
+						-155772242
+					]
+				}
+			}
+			id: "6999531248BA0AB3"
+			invisible: true
+			rewards: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "prominent:item/cinderstone_trophy"
+					}
+				}
+				id: "74C384DBFEA6CF28"
+				title: "&d+1 Desafío Eterno Completado"
+				type: "custom"
+			}]
+			shape: "hexagon"
+			subtitle: "&6Desafío Eterno"
+			tasks: [{
+				id: "5E0FF5030814F464"
+				item: {
+					Count: 1
+					id: "prominent:skillet"
+					tag: {
+						Damage: 0
+						boundArtifact: [I;
+							-509841217
+							1799570245
+							-1395779439
+							-155772242
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1CE7763C1889255C"]
+			description: ["&eDemostraste tu valía con Supernova al derrotar 10 Desafíos Míticos"]
+			id: "7E00ACC74ECC5E1D"
+			invisible: true
+			rewards: [{
+				id: "7AB2264D08A2B514"
+				item: "prominent:illusion_of_supernova"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 0.75d
+			subtitle: "&6Desafío Eterno"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "prominent:textures/icon/mythic_bosses/mythic.png"
+					}
+				}
+				id: "689F97A82495BC11"
+				stat: "prominent:hck_supernova"
+				title: "&dDesafíos Míticos Completados con Supernova"
+				type: "stat"
+				value: 10
+			}]
+			title: "&dMaestría de Supernova"
+			x: 3.375d
+			y: -1.5d
+		}
+		{
+			dependencies: ["50EB37F863EA810B"]
+			description: ["&eDemostraste tu valía con Thunderwrath al derrotar 10 desafíos míticos"]
+			id: "1D001B61D62F0C01"
+			invisible: true
+			rewards: [{
+				id: "6874C841A9DBA8C8"
+				item: "prominent:illusion_of_thunderwrath"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 0.75d
+			subtitle: "&6Desafío Eterno"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "prominent:textures/icon/mythic_bosses/mythic.png"
+					}
+				}
+				id: "3A9375419742883C"
+				stat: "prominent:hck_thunderwrath"
+				title: "&dDesafíos Míticos Completados con Thunderwrath"
+				type: "stat"
+				value: 10
+			}]
+			title: "&dMaestría de Thunderwrath"
+			x: 2.625d
+			y: -2.625d
+		}
+		{
+			dependencies: ["6313DD656A95E8C0"]
+			description: ["&eDemostraste tu valía con Ekavar al derrotar 10 Desafíos Míticos"]
+			id: "0B7839A1622323AE"
+			invisible: true
+			rewards: [{
+				id: "7F85E2A737B11837"
+				item: "prominent:illusion_of_ekavar_staff"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 0.75d
+			subtitle: "&6Desafío Eterno"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "prominent:textures/icon/mythic_bosses/mythic.png"
+					}
+				}
+				id: "114FC153EA628253"
+				stat: "prominent:hck_ekavar"
+				title: "&dDesafíos Míticos Completados con Ekavar"
+				type: "stat"
+				value: 10
+			}]
+			title: "&dMaestría de Ekavar"
+			x: -1.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["341DB238063321BF"]
+			description: ["&eDemostraste tu valía con Frostmourne al derrotar 10 desafíos míticos"]
+			id: "0B892A8A2394EB7C"
+			invisible: true
+			rewards: [{
+				id: "37FC16AE87800195"
+				item: "prominent:illusion_of_frostmourne"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 0.75d
+			subtitle: "&6Desafío Eterno"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "prominent:textures/icon/mythic_bosses/mythic.png"
+					}
+				}
+				id: "34D1DFEFC3811ACF"
+				stat: "prominent:hck_frostmourne"
+				title: "&dDesafíos Míticos Completados con Frostmourne"
+				type: "stat"
+				value: 10
+			}]
+			title: "&dMaestría de Frostmourne"
+			x: -2.625d
+			y: -2.625d
+		}
+		{
+			dependencies: ["211326D6B6C33A25"]
+			description: ["&eDemostraste tu valía con Furia de Mil Puños al derrotar 10 Desafíos Míticos"]
+			id: "61CEEB526443BFBE"
+			invisible: true
+			rewards: [{
+				id: "5F1AB87437C9214A"
+				item: "prominent:illusion_of_fury_of_a_thousand_fists"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 0.75d
+			subtitle: "&6Desafío Eterno"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "prominent:textures/icon/mythic_bosses/mythic.png"
+					}
+				}
+				id: "2D509079109121BC"
+				stat: "prominent:hck_fury_of_a_thousand_fists"
+				title: "&dDesafíos Míticos Completados con Fury of a Thousand Fists"
+				type: "stat"
+				value: 10
+			}]
+			title: "&dMaestría de Fury of a Thousand Fists"
+			x: -3.375d
+			y: -1.5d
+		}
+		{
+			dependencies: ["077B4D52C71E918E"]
+			description: ["&eDemostraste tu valía con Vaazkar al derrotar 10 Desafíos Míticos"]
+			id: "78AAA28EC532AD64"
+			invisible: true
+			rewards: [{
+				id: "2D37907A06C8F7C3"
+				item: "prominent:illusion_of_vaazkar"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 0.75d
+			subtitle: "&6Desafío Eterno"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "prominent:textures/icon/mythic_bosses/mythic.png"
+					}
+				}
+				id: "174961978515852E"
+				stat: "prominent:hck_vaazkar"
+				title: "&dDesafíos Míticos Completados con Vaazkar"
+				type: "stat"
+				value: 10
+			}]
+			title: "&dMaestría de Vaazkar"
+			x: 1.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["4C2EFCB93288D047"]
+			description: ["&eDemostraste tu valía con Orión al derrotar 10 Desafíos Míticos"]
+			id: "5B27C3D3E677563D"
+			invisible: true
+			rewards: [{
+				id: "532ED5976A9851CC"
+				item: "prominent:illusion_of_orion"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 0.75d
+			subtitle: "&6Desafío Eterno"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "prominent:textures/icon/mythic_bosses/mythic.png"
+					}
+				}
+				id: "362AF7764A395640"
+				stat: "prominent:hck_orion"
+				title: "&dDesafíos Míticos Completados con Orion"
+				type: "stat"
+				value: 10
+			}]
+			title: "&dMaestría de Orion"
+			x: 3.75d
+			y: -0.375d
+		}
+		{
+			dependencies: ["29425DCD7396CE49"]
+			description: ["&eDemostraste tu valía con Ash'edar al derrotar 10 Desafíos Míticos"]
+			id: "3310DA8006063D56"
+			invisible: true
+			rewards: [
+				{
+					id: "4CDC2FBE0C91D9E9"
+					item: "prominent:illusion_of_ash"
+					type: "item"
+				}
+				{
+					id: "2CEC30568A5F85E4"
+					item: "prominent:illusion_of_edar"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 0.75d
+			subtitle: "&6Desafío Eterno"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "prominent:textures/icon/mythic_bosses/mythic.png"
+					}
+				}
+				id: "4AE9CB829D6B6111"
+				stat: "prominent:hck_ashedar"
+				title: "&dDesafíos Míticos Completados con Ash'edar"
+				type: "stat"
+				value: 10
+			}]
+			title: "&dMaestría de Ash'edar"
+			x: 3.375d
+			y: 0.75d
+		}
+		{
+			dependencies: ["6D1B83D633AB7558"]
+			description: ["&eDemostraste tu valía con Fyr'alath al derrotar 10 Desafíos Míticos"]
+			id: "3D8ECB6FDDF81AD9"
+			invisible: true
+			rewards: [{
+				id: "4F2B8D07B90C58EE"
+				item: "prominent:illusion_of_fyralath"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 0.75d
+			subtitle: "&6Desafío Eterno"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "prominent:textures/icon/mythic_bosses/mythic.png"
+					}
+				}
+				id: "6F71CF32ABA0F784"
+				stat: "prominent:hck_fyralath"
+				title: "&dDesafíos Míticos Completados con Fyr'alath"
+				type: "stat"
+				value: 10
+			}]
+			title: "&dMaestría de Fyr'alath"
+			x: -3.75d
+			y: -0.375d
+		}
+		{
+			dependencies: ["5D03084D09D2A997"]
+			description: ["&eDemostraste tu valía con A'zhar al derrotar 10 Desafíos Míticos"]
+			id: "5D6E6FEA75B80066"
+			invisible: true
+			rewards: [{
+				id: "2F8ADED4DAA330BE"
+				item: "prominent:illusion_of_azhar"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 0.75d
+			subtitle: "&6Desafío Eterno"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "prominent:textures/icon/mythic_bosses/mythic.png"
+					}
+				}
+				id: "7D91B899C686279C"
+				stat: "prominent:hck_azhar"
+				title: "&dDesafíos Míticos Completados con A'zhar"
+				type: "stat"
+				value: 10
+			}]
+			title: "&dMaestría de A'zhar"
+			x: -3.375d
+			y: 0.75d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			description: [""]
+			id: "4775EFD3B854946E"
+			shape: "hexagon"
+			subtitle: "Una daga corrupta infundida con el ser sobrenatural Gh'aj. Te da mucha celeridad a cambio de tu cordura."
+			tasks: [{
+				id: "319EB24C08B33386"
+				item: {
+					Count: 1
+					id: "prominent:ghaj"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4775EFD3B854946E"]
+			description: ["&eDemostraste tu valía con Gh'aj al derrotar 10 Desafíos Míticos"]
+			id: "1E19147A29D45714"
+			invisible: true
+			rewards: [{
+				id: "6B472DCCE8D7F329"
+				item: "prominent:illusion_of_ghaj"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 0.75d
+			subtitle: "&6Desafío Eterno"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "prominent:textures/icon/mythic_bosses/mythic.png"
+					}
+				}
+				id: "6A182FF8D6012B23"
+				stat: "prominent:hck_ghaj"
+				title: "&dDesafíos Míticos Completados con Gh'aj"
+				type: "stat"
+				value: 10
+			}]
+			title: "&dMaestría de Gh'aj"
+			x: 0.0d
+			y: -4.267857142857146d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			id: "1DE119EAC2B8E757"
+			shape: "hexagon"
+			tasks: [{
+				id: "0EDBBD5EC242CAAA"
+				title: "&d&kLiberación"
+				type: "custom"
+			}]
+			title: "&dPróximamente"
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6AD67E7C8CD78371"]
+			description: [""]
+			id: "0ACF3A88C52C2F6E"
+			shape: "hexagon"
+			subtitle: "&7Un gran martillo nacido de la gloria y el juramento. Empuñado por los paladines más poderosos, para proteger a sus aliados contra cualquier amenaza."
+			tasks: [{
+				id: "1E3C6D4ED246A31F"
+				item: {
+					Count: 1
+					id: "prominent:apophis"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0ACF3A88C52C2F6E"]
+			description: ["&eDemostraste tu valía con Apophis al derrotar 10 Desafíos Míticos"]
+			id: "36916D6575BB39B7"
+			invisible: true
+			rewards: [{
+				id: "652ADD700A1DAFCF"
+				item: "prominent:illusion_of_apophis"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 0.75d
+			subtitle: "&6Desafío Eterno"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "prominent:textures/icon/mythic_bosses/mythic.png"
+					}
+				}
+				id: "404CB33532E2BFA8"
+				stat: "prominent:hck_apophis"
+				title: "&dDesafíos Míticos Completados con Apophis"
+				type: "stat"
+				value: 10
+			}]
+			title: "&dMaestría de Apophis"
+			x: -2.857142857142854d
+			y: 2.1964285714285765d
+		}
+	]
+	title: "&c&l La Forja de S'kellak"
+}

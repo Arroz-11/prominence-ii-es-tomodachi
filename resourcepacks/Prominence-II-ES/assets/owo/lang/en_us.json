@@ -1,0 +1,107 @@
+{
+  "text.owo.configure_hot_reload.save": "Guardar",
+  "text.owo.config.button.done": "Hecho",
+  "text.owo.config.search": "Buscar...",
+  "text.owo.configure_hot_reload.title": "Configurar Hot Reload",
+  "text.owo.configure_hot_reload.choose_file": "Elige un archivo",
+  "text.owo.configure_hot_reload.choose_ui_model_source": "Elige la fuente del modelo de interfaz de usuario",
+  "text.owo.configure_hot_reload.reload_from.unset": "Desactivar",
+  "text.owo.config.search.matches": "%d de %d",
+  "text.owo.config.search.no_matches": "No hay coincidencias",
+  "text.owo.config.must_restart": "Algunos cambios que has hecho requieren reiniciar para que se apliquen",
+  "text.owo.config.button.exit_minecraft": "Salir de Minecraft",
+  "text.owo.config.button.ignore_restart": "Reiniciar más tarde",
+  "text.owo.config.button.range.edit_as_text": "Editar como texto",
+  "text.owo.config.button.range.edit_with_slider": "Edita con el control deslizante",
+  "text.owo.config.button.reload": "Recargar",
+  "text.owo.config.list.add_entry": "Añadir entrada",
+  "text.owo.itemGroup.tab_template": [
+    {
+      "index": 0
+    },
+    {
+      "text": " > ",
+      "color": "gray"
+    },
+    {
+      "index": 1,
+      "color": "dark_gray"
+    }
+  ],
+  "text.owo.configure_hot_reload.model": [
+    {
+      "text": "Modelo: ",
+      "color": "yellow"
+    },
+    {
+      "index": 0,
+      "color": "gray"
+    }
+  ],
+  "text.owo.configure_hot_reload.reload_from": [
+    {
+      "text": "Recargar desde: ",
+      "color": "yellow"
+    },
+    {
+      "index": 0,
+      "color": "gray"
+    }
+  ],
+  "text.owo.config.applies_after_restart": [
+    {
+      "text": "⏻ ",
+      "color": "#FAEA48"
+    },
+    {
+      "text": "Esta opción se aplica después de reiniciar",
+      "color": "gray"
+    }
+  ],
+  "text.owo.config.managed_by_server": [
+    {
+      "text": "⚑ ",
+      "color": "#EB1D36"
+    },
+    {
+      "text": "Esta opción está siendo gestionada por el servidor\n   Desconectar para editarla",
+      "color": "gray"
+    }
+  ],
+  "text.owo.config.sections": {
+    "text": "Secciones",
+    "underlined": true
+  },
+  "text.owo.config.boolean_toggle.enabled": [
+    "",
+    {
+      "text": "[",
+      "color": "gray"
+    },
+    {
+      "text": "✔",
+      "color": "#28FFBF"
+    },
+    {
+      "text": "]",
+      "color": "gray"
+    },
+    " Habilitado"
+  ],
+  "text.owo.config.boolean_toggle.disabled": [
+    "",
+    {
+      "text": "[",
+      "color": "gray"
+    },
+    {
+      "text": "❌",
+      "color": "#EB1D36"
+    },
+    {
+      "text": "]",
+      "color": "gray"
+    },
+    " Desactivado"
+  ]
+}

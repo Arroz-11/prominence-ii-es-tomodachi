@@ -1,0 +1,13 @@
+name = "EMI Enchanting"
+filename = "emi_enchanting-0.1.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbc3c4acecdce9b083cde7b91cc95e5ba57b3892"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5733127
+project-id = 936713

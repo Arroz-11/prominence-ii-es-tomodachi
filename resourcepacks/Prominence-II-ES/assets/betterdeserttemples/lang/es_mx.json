@@ -1,0 +1,9 @@
+{
+  "Use /locate structure betterdeserttemples:desert_temple instead!": "¡Usa /locate structure betterdeserttemples:desert_temple en su lugar!",
+  "text.autoconfig.betterdeserttemples-fabric-1_20.title": "Better Desert Temples de YUNG",
+  "text.autoconfig.betterdeserttemples-fabric-1_20.option.general.disableVanillaPyramids": "Desactivar Pirámides Vanilla",
+  "text.autoconfig.betterdeserttemples-fabric-1_20.option.general.disableVanillaPyramids.@Tooltip": "Si se deben desactivar o no las pirámides de desierto vanilla.",
+  "text.autoconfig.betterdeserttemples-fabric-1_20.option.general.applyMiningFatigue": "Aplicar Fatiga de Minería",
+  "text.autoconfig.betterdeserttemples-fabric-1_20.option.general.applyMiningFatigue.@Tooltip[0]": "Si se aplica o no fatiga de minería a los jugadores en el templo",
+  "text.autoconfig.betterdeserttemples-fabric-1_20.option.general.applyMiningFatigue.@Tooltip[1]": "si aún no ha sido despejado."
+}

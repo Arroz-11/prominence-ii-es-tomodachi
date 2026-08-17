@@ -1,0 +1,13 @@
+name = "Yeetus Experimentus"
+filename = "YeetusExperimentus-Fabric-2.3.1-build.6+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc2e21c296832260f229bad759e803c5795f9cb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4680831
+project-id = 635427

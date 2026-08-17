@@ -1,0 +1,13 @@
+name = "TravellersBackpack-Transmog-Compat"
+filename = "tbtransmog_compat-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fed56d10a00daa650a0b649cd6288ab7e275f668"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7607137
+project-id = 1459527

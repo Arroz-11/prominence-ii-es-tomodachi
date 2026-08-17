@@ -1,0 +1,4 @@
+{
+  "commands.config.getwithtype": "Se ha encontrado una configuración para %s de tipo %s en %s",
+  "commands.config.noconfig": "No se ha encontrado la configuración para %s de tipo %s"
+}

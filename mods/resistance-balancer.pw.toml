@@ -1,0 +1,13 @@
+name = "Resistance Balancer (Modpack Utils Series)"
+filename = "ResistanceBalancer-FABRIC-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "647c8dedea3da094102a93c65aedfcc1d63797aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6563195
+project-id = 1121234

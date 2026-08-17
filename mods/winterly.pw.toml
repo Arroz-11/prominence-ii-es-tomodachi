@@ -1,0 +1,13 @@
+name = "Winterly"
+filename = "winterly-0.9.3+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6586e290b065930d0560a0f2cd459d8a324e0ac3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4760028
+project-id = 552628

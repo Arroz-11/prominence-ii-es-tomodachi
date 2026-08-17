@@ -1,0 +1,21 @@
+{
+  "attribute.name.ranged_weapon.damage": "Daño a Distancia",
+  "attribute.name.ranged_weapon.haste": "Velocidad de Tiro",
+  "attribute.name.ranged_weapon.pull_time": "Tiempo de Tiro en seg",
+  "item.modifiers.both_hands": "Cuando se Sostiene:",
+  "effect.ranged_weapon.damage": "Impacto",
+  "effect.ranged_weapon.haste": "Fuego Rápido",
+  "item.ranged_weapon.pull_time": "%1$s seg Tiempo de Tiro",
+  "attribute.name.generic.ranged_weapon.damage": "Daño a Distancia",
+  "attribute.name.generic.damage": "Daño a Distancia",
+  "attribute.ranged_weapon.generic.damage": "Daño a Distancia",
+  "attribute.name.damage": "Daño a Distancia",
+  "attribute.name.generic.ranged_weapon.haste": "Velocidad de Tiro",
+  "attribute.name.generic.haste": "Velocidad de Tiro",
+  "attribute.ranged_weapon.generic.haste": "Velocidad de Tiro",
+  "attribute.name.haste": "Velocidad de Tiro",
+  "attribute.name.generic.ranged_weapon.pull_time": "Tiempo de Tiro en seg",
+  "attribute.name.generic.pull_time": "Tiempo de Tiro en seg",
+  "attribute.ranged_weapon.generic.pull_time": "Tiempo de Tiro en seg",
+  "attribute.name.pull_time": "Tiempo de Tiro en seg"
+}

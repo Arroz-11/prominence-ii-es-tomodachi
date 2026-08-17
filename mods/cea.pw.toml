@@ -1,0 +1,13 @@
+name = "Custom Entity Attributes (Modpack Utils Series)"
+filename = "CustomEntityAttributes-FABRIC-1.20.X-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75a2dc687022b0417f6b00642723c67bc16104c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5773159
+project-id = 952442

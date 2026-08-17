@@ -1,0 +1,10 @@
+{
+  "warning.32bit": "Estás usando Java de 32 bits en un sistema de 64 bits; instala Java de 64 bits, por favor.",
+  "warning.toomuch": "Se ha asignado más memoria (%s mb) de la recomendada para este paquete; el máximo es: %s mb. La cantidad recomendada para tu sistema es: %s mb.",
+  "warning.toolow": "Se ha asignado menos memoria (%s mb) de la recomendada para este paquete; el mínimo es: %s mb. La cantidad recomendada para tu sistema es: %s mb.",
+  "warning.overrecommended": "Se ha asignado más memoria (%s mb) de la recomendada para tu sistema; lo recomendado es: %s mb.",
+  "warning.underrecommended": "Se ha asignado menos memoria (%s mb) de la recomendada para tu sistema; lo recomendado es: %s mb.",
+  "warning.recommendedbelowmin": "El %s recomendado para tu sistema es inferior al mínimo requerido de %s mb para este paquete. Es posible que tengas problemas como tirones frecuentes.",
+  "button.howto": "Abrir guía",
+  "button.stopremind": "Dejar de mostrar"
+}

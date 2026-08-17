@@ -1,0 +1,18 @@
+{
+  "block.createestrogen.centrifuge": "Centrífuga",
+  "block.createestrogen.moth_seat": "Asiento de Arce Rosado",
+  "create.tooltip.speedRequirement.max": "Máx.",
+  "createestrogen.ponder.basic.header": "Cómo usar la Centrífuga",
+  "createestrogen.ponder.basic.text_1": "¡La Centrífuga no tiene inventario, necesitarás colocar contenedores de fluido a su alrededor para que funcione!",
+  "createestrogen.ponder.basic.text_2": "Puedes introducir fluidos desde abajo",
+  "createestrogen.ponder.basic.text_3": "Y extraer fluidos desde arriba",
+  "createestrogen.ponder.intro.header": "Requisitos de la Centrífuga",
+  "createestrogen.ponder.intro.text_1": "¡La Centrífuga necesita la velocidad máxima (256 RPM) para funcionar!",
+  "createestrogen.recipe.centrifuging": "Centrifugado",
+  "emi.category.createestrogen.centrifuging": "Centrifugado",
+  "item.createestrogen.incomplete_estrogen_patches": "Parche de Estrógeno Incompleto",
+  "item.createestrogen.incomplete_uwu": "UwU Incompleto",
+  "item.createestrogen.package": "Paquete de Pastillas de Estrógeno",
+  "item.createestrogen.used_filter": "Filtro Usado",
+  "itemGroup.createestrogen.createestrogen": "Create: Estrógeno"
+}

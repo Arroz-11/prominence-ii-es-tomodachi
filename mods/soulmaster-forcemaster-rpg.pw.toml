@@ -1,0 +1,13 @@
+name = "Soulmaster (Forcemaster RPG)"
+filename = "soulmaster-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52323a0602776359061cd2733fd8b9237b16f0d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8003663
+project-id = 1510563

@@ -1,0 +1,13 @@
+name = "Satisfying Buttons"
+filename = "satisfying_buttons-fabric-1.1.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "858fc0bf84af02d97fc5f2ff712ebbee39b2f2ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5732257
+project-id = 972696

@@ -1,0 +1,13 @@
+name = "Forcemaster (RPG Series Plus)"
+filename = "forcemaster-class-mod-1.2.6-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6f069e151a23a3772d23fc42b229ee515bc116a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7908940
+project-id = 992388

@@ -1,0 +1,12 @@
+{
+  "satisfying_buttons.configuration.AnimationEnabled": "Animación activada",
+  "satisfying_buttons.configuration.DarkenButtonOnHover": "Oscurecer el botón al pasar el cursor por encima",
+  "satisfying_buttons.configuration.DarkenButtonOnHoverTime": "Tiempo de oscurecimiento al pasar el cursor",
+  "satisfying_buttons.configuration.DarkenButtonColor": "Oscurecer el color",
+  "satisfying_buttons.configuration.FadeInVanillaWidgetTexture": "Aparición gradual de la textura Vanilla",
+  "satisfying_buttons.configuration.FadeInVanillaWidgetTextureOnHoverTime": "Tiempo de fundido de entrada de Vanilla",
+  "satisfying_buttons.configuration.SoundEnabled": "Sonido activado",
+  "satisfying_buttons.configuration.ButtonUnhoverSoundEnabled": "Sonido al quitar el cursor activado",
+  "satisfying_buttons.configuration.ButtonSoundVolume": "Volumen del sonido",
+  "satisfying_buttons.configuration.ButtonSoundPitch": "Tono del sonido"
+}

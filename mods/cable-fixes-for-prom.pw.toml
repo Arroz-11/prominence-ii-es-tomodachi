@@ -1,0 +1,13 @@
+name = "Cable Fixes for Prom"
+filename = "cable-fixes-for-prom-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d2811b4930070c98df9f16b7e3b6d179a5c7818"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8327579
+project-id = 1484275

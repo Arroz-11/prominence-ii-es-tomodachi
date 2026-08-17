@@ -1,0 +1,13 @@
+name = "Block Swap (Fabric)"
+filename = "Block Swap-fabric-1.20.1-5.0.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1efa0ef991b8144b8aece91c3d8df956aa9717c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4598163
+project-id = 552471

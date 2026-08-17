@@ -1,0 +1,13 @@
+name = "Zenith Attributes Renewed"
+filename = "zenith_attributes_renewed-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba89db16a5e6390941089072fc15b17811aa8e5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7958920
+project-id = 1514461

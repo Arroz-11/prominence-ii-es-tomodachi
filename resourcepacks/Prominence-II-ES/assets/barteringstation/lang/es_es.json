@@ -1,0 +1,5 @@
+{
+  "block.barteringstation.bartering_station": "Estación de Trueque",
+  "container.barteringstation.bartering_station": "Estación de Trueque",
+  "gui.barteringstation.bartering_station.piglins": "Se encontraron %s piglin(s) cercanos para trueque"
+}

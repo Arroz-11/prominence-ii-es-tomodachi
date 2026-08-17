@@ -1,0 +1,13 @@
+name = "Quests Freeze Fix"
+filename = "ftbquestsfreezefix-fabric-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d140b498b1a5c13f740af480bd00d46e9651d98d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5777387
+project-id = 1113794

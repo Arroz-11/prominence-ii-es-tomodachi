@@ -1,0 +1,13 @@
+name = "Gun Scaling"
+filename = "gun-scaling-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21639434c330115770a6210fb778fe39ddc6f787"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7700020
+project-id = 1456403

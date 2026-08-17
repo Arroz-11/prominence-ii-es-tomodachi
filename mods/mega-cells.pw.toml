@@ -1,0 +1,13 @@
+name = "MEGA Cells"
+filename = "megacells-fabric-2.4.6-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5838fad5b38552b607d93bb8c1fc6040929b2c55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6175007
+project-id = 622112

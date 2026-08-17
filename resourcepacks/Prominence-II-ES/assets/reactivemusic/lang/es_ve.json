@@ -1,0 +1,7 @@
+{
+  "reactive_music.config.category.general": "General",
+  "reactive_music.config.category.debug": "Depuración",
+  "reactive_music.title": "Música reactiva",
+  "reactive_music.config.option.music_delay": "Retardo musical",
+  "reactive_music.config.option.debug_mode_enabled": "Modo de depuración activado"
+}

@@ -1,0 +1,13 @@
+name = "Prominence II ES - Tomodachi"
+author = "Agustin"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "110a8b217d839172f432689c237cbb42c6b7f507b3fee4fd1002cac1a60dbec4"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "Cynosure"
+filename = "cynosure-0.1.16-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae301baf5e4153920c7622aaba37f2c12cb8e765"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7894326
+project-id = 1259952

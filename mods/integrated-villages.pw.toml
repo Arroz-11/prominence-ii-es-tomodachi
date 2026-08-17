@@ -1,0 +1,13 @@
+name = "Integrated Villages"
+filename = "integrated_villages-1.3.2+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "059261a8b7952fcd26941cda8c0e64668b523b53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7830335
+project-id = 661376

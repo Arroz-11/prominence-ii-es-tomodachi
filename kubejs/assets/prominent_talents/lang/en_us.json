@@ -1,0 +1,16 @@
+{
+  "prominent_talents.leveling.level_up": "¡Felicidades! ¡Has alcanzado el nivel %s!",
+  "prominent_talents.leveling.level_subtitle": "Nivel %s",
+  "prominent_talents.leveling.campaign_locked": "⚠ No estás ganando Experiencia de Nivelación porque debes progresar más en la campaña para desbloquear la nivelación de nivel %s+.",
+  "prominent_talents.talent_menu.current_level": "Nivel actual: %s",
+  "prominent_talents.talent_menu.current_points": "Puntos de Talento actuales: %s",
+  "prominent_talents.talent_menu.point_next_level": "Punto de Talento otorgado al siguiente nivel",
+  "prominent_talents.talent_menu.point_on_level": "Próximo Punto de Talento otorgado en el nivel %s",
+  "prominent_talents.talent_menu.locked": "Ganancia de Experiencia bloqueada, continúa la Campaña para desbloquear",
+  "prominent_talents.talent_menu.max_level": "Nivel Máximo Alcanzado",
+  "prominent_talents.talent_menu.artifact_upgrades": "Mejoras de Artefacto",
+  "prominent_talents.talent_menu.artifact_points_left": "Puntos de Mejora de Artefacto restantes: ",
+  "prominent_talents.talent_menu.artifact_level": "Nivel de Artefacto: %s",
+  "prominent_talents.talent_menu.artifact_power": "Poder de Artefacto: %s",
+  "prominent_talents.gui.player_level": "Nivel del jugador"
+}

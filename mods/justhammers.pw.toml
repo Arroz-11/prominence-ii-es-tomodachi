@@ -1,0 +1,13 @@
+name = "JustHammers"
+filename = "justhammers-fabric-20.1.5+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f250d3ad5739bb95549bafbdc2d1c36605ef9362"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6358768
+project-id = 681606

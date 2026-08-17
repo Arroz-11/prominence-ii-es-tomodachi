@@ -1,0 +1,13 @@
+{
+  "emi.category.emitrades.villager_trades": "Comercios de aldeanos",
+  "emi.emitrades.random_colored": "Colores aleatorios",
+  "emi.emitrades.random_structure": "Estructura aleatoria",
+  "emi.emitrades.random_effect": "Efectos de estado aleatorios",
+  "emi.emitrades.enchantments.possible": "Posibles encantamientos",
+  "emi.emitrades.profession.lvl.1": "Principiante",
+  "emi.emitrades.profession.lvl.2": "Aprendiz",
+  "emi.emitrades.profession.lvl.3": "Oficial",
+  "emi.emitrades.profession.lvl.4": "Experto",
+  "emi.emitrades.profession.lvl.5": "Maestro",
+  "emi.emitrades.placeholder.wandering_trader": "Comerciante errante"
+}

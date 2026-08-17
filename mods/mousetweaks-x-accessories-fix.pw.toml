@@ -1,0 +1,13 @@
+name = "MouseTweaks x Accessories Fix"
+filename = "mousetweaks-x-accessories-fix-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d47eea1921f4f2b2b8967487f287df0f3b26cfe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8291252
+project-id = 1462896

@@ -1,0 +1,101 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d_the_art_of_transmogrification"
+	group: "244F516C4853FD2F"
+	icon: {
+		Count: 1
+		id: "ftbquests:custom_icon"
+		tag: {
+			Icon: "zenith:items/gems/endersurge"
+		}
+	}
+	id: "0EF4DA402B0EFC8E"
+	images: [
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_eyes"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "botania:block/purple_mystical_flower"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.062159863945574045d
+			y: -3.5918367346938815d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				""
+				"&dTransmogrification&7 es un tipo de magia que te permite &ecambiar la forma de cualquier objeto sin alterar su función&7, permitiéndote disfrazar tus objetos como otros, incluyendo armas y armaduras. No otorga ningún beneficio aparte de ser puramente cosmético."			]
+			icon: "minecraft:amethyst_cluster"
+			id: "1F3A415DDF6355EE"
+			shape: "hexagon"
+			subtitle: "&8[Haz clic para leer la información]"
+			tasks: [{
+				id: "138402A5BE9F444A"
+				title: "El Arte de la Transmogrificación"
+				type: "checkmark"
+			}]
+			title: "&eEl Arte de la Transmogrificación"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1F3A415DDF6355EE"]
+			description: [
+				""
+				"&7Para empezar, debes elaborar una &dMesa de Transmogrificación&7. Esta magia se alimenta con &dAmatista&7, así que tendrás que conseguir un poco cada vez que quieras transformar cualquier objeto."
+				""
+				"No se consumirán objetos, pero para cambiar la forma necesitarás tener el objeto deseado."			]
+			id: "09C318161E20A39E"
+			rewards: [{
+				id: "5E60EBADBFED48BC"
+				type: "xp"
+				xp: 90
+			}]
+			shape: "diamond"
+			subtitle: "&8[Haz clic para leer la información]"
+			tasks: [{
+				id: "07DDEFBFD93B4F74"
+				item: "transmog:transmogrification_table"
+				type: "item"
+			}]
+			title: "&dTransmogs!"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["09C318161E20A39E"]
+			description: [
+				"&7Si no quieres mostrar una pieza de armadura o un arma, ¡puedes ocultar los objetos!"
+				""
+				"&7Al usar un &dFragmento del Vacío&7 como material transmogrificable"			]
+			id: "6A69BEA7C1E7E1FD"
+			rewards: [{
+				id: "0778651DAD1A18EA"
+				type: "xp"
+				xp: 120
+			}]
+			shape: "diamond"
+			subtitle: "&8[Haz clic para leer la información]"
+			tasks: [{
+				id: "0D1D91DEF701EFDA"
+				item: "transmog:void_fragment"
+				type: "item"
+			}]
+			title: "&dLa Ilusión de la Nada"
+			x: 0.0d
+			y: -3.0d
+		}
+	]
+	title: "&d Transmogrificación"
+}

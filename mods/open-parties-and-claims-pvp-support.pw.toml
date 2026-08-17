@@ -1,0 +1,13 @@
+name = "Open Parties and Claims PvP Support"
+filename = "opacpvp-fabric-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "202987c41993094dcea283e51f266f197381bfa7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6213620
+project-id = 1190669

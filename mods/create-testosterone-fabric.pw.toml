@@ -1,0 +1,13 @@
+name = "Create: Testosterone(Fabric)"
+filename = "createTestosterone-fabric-1.20.1-1.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "380e060074ca603e61291751e4109ba1d66cd058"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8596711
+project-id = 1555527

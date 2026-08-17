@@ -1,0 +1,13 @@
+name = "Smart Tooltip Scroll"
+filename = "smart_tooltip_scroll-fabric-2.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e54bfaac92eafc4cd309f25284e4131d9b5ff1db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8614510
+project-id = 1576147

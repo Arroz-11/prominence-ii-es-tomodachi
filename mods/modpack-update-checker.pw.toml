@@ -1,0 +1,13 @@
+name = "Modpack Update Checker"
+filename = "modpack-update-checker-1.20.1-fabric-0.15.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5acd6bafbdde41d3d6b025772b4eacce5a710e0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6681425
+project-id = 847414

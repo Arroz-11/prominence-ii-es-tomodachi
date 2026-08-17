@@ -1,0 +1,13 @@
+name = "Chunk Save Fix"
+filename = "chunksavefix-fabric-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72ac52513e007f9bdf66c6f53ec3dac37328f2ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6117706
+project-id = 1185689

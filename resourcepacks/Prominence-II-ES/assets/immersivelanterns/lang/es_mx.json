@@ -1,0 +1,7 @@
+{
+  "immersivelanterns.configuration.client": "cliente",
+  "immersivelanterns.configuration.Back Lanterns": "Linterna trasera",
+  "immersivelanterns.configuration.Enable Lantern Swinging Physics": "Activa la física de balanceo de la linterna",
+  "immersivelanterns.configuration.Lantern Bounciness": "Rebote de la linterna",
+  "immersivelanterns.configuration.Left-Handed Lanterns": "Linterna para zurdos"
+}

@@ -1,0 +1,13 @@
+name = "Immersive Melodies in Backpacks"
+filename = "bpmelodies-fabric-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab9452c7849ef4496e988221a0a6dd1421e8dcdd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8190776
+project-id = 1550169

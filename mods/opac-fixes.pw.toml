@@ -1,0 +1,13 @@
+name = "OPAC Fixes"
+filename = "opac_fixes-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a8a27c31ea34d5903d1733865e75dda7b9d764e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8259966
+project-id = 1484735

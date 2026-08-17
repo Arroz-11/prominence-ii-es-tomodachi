@@ -1,0 +1,19 @@
+{
+  "text.allthetrims.material": "Material %s",
+  "tooltip.elytratrims.missing": "§cRequiere Elytra Trims para renderizar el adorno",
+  "emi.category.allthetrims.smithing": "Adorno de Armadura",
+  "item.allthetrims.dummy_armour": "Cualquier Armadura",
+  "item.allthetrims.dummy_trimmed_armour": "Cualquier Armadura Adornada",
+  "item.allthetrims.dummy_material": "Cualquier Material",
+  "item.allthetrims.dummy_trim_template": "Cualquier Plantilla de Adorno",
+  "yacl.allthetrims.title": "Configuración de All The Trims",
+  "yacl.allthetrims.category.general": "General",
+  "yacl.allthetrims.tooltip.general": "Ajustes Generales",
+  "yacl.allthetrims.group.main": "Principal",
+  "yacl.allthetrims.description.main": "Ajustes Principales",
+  "yacl.allthetrims.description.debug1": "Alternar Modo Depuración",
+  "yacl.allthetrims.description.debug2": "Cuando se activa, se generarán archivos de depuración en la carpeta del juego",
+  "yacl.allthetrims.description.debug3": "§cRequiere reiniciar y unirse a un mundo para generar los archivos de depuración",
+  "yacl.allthetrims.name.debug": "Depuración",
+  "allthetrims.website": "Mi Sitio Web"
+}

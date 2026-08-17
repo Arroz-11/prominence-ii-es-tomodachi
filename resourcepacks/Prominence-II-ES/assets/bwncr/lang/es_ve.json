@@ -1,0 +1,13 @@
+{
+  "text.autoconfig.bwncr.option.general": "General",
+  "badwithernocookiereloaded.general.tooltip": "Sonidos y eventos básicos globales que puedes cancelar",
+  "badwithernocookiereloaded.xtra.tooltip": "Sonidos localizados extra que puedes cancelar",
+  "badwithernocookiereloaded.localized settings.silenceus": "Ejemplo: entity.sheep.step - usa /listen para otros sonidos",
+  "text.autoconfig.bwncr.title": "Bad Wither No Cookie - Reloaded",
+  "text.autoconfig.bwncr.option.general.silenceWither": "Silenciar Wither",
+  "text.autoconfig.bwncr.option.general.silenceTrader": "Silenciar Comerciante",
+  "text.autoconfig.bwncr.option.general.silenceDragon": "Silenciar Dragón",
+  "text.autoconfig.bwncr.option.general.silenceLightning": "Silenciar Rayo",
+  "text.autoconfig.bwncr.option.general.silenceUs": "Silenciarnos",
+  "text.autoconfig.bwncr.option.general.debugMode": "Modo Depuración"
+}

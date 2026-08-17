@@ -1,0 +1,13 @@
+name = "Mobs of Mythology"
+filename = "mobs_of_mythology-fabric-1.20.1-2.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a0f34cdb6d43c5d6a6417997d9d8c4dffab890c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6390992
+project-id = 699989

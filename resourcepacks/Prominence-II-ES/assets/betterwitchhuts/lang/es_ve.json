@@ -1,0 +1,6 @@
+{
+  "text.autoconfig.betterwitchhuts-fabric-1_20.title": "Better Witch Huts de YUNG",
+  "text.autoconfig.betterwitchhuts-fabric-1_20.option.general.disableVanillaWitchHuts": "Desactivar Cabañas de Brujas Vanilla",
+  "text.autoconfig.betterwitchhuts-fabric-1_20.option.general.disableVanillaWitchHuts.@Tooltip": "Si se deben desactivar o no las cabañas de brujas vanilla.",
+  "Use /locate structure betterwitchhuts:witch_hut instead!": "¡Usa /locate structure betterwitchhuts:witch_hut en su lugar!"
+}

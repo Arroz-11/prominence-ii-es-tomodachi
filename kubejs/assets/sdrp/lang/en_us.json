@@ -1,0 +1,22 @@
+{
+  "sdrp.the_end": "El End",
+  "sdrp.overworld": "Overworld",
+  "sdrp.mainmenu": "Menú principal",
+  "sdrp.logo": "Logotipo del paquete",
+  "sdrp.overworld.in": "En Overworld",
+  "sdrp.the_nether.in": "En Nether",
+  "sdrp.the_nether": "Nether",
+  "sdrp.the_end.in": "En el End",
+  "sdrp.compact_world.in": "En Compact World",
+  "sdrp.compact_world": "Mundo compacto",
+  "sdrp.dungeon.in": "En Dungeon World",
+  "sdrp.dungeon": "Mundo de mazmorras",
+  "sdrp.spatial_storage.in": "En «Spatial Storage»",
+  "sdrp.spatial_storage": "Almacenamiento espacial",
+  "sdrp.otherside.in": "En Otherside",
+  "sdrp.otherside": "Otherside",
+  "sdrp.paradise_lost.in": "En El paraíso perdido",
+  "sdrp.paradise_lost": "El paraíso perdido",
+  "sdrp.mining": "Dimensión minera",
+  "sdrp.mining.in": "En la dimensión de la minería"
+}

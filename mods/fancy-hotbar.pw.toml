@@ -1,0 +1,13 @@
+name = "Fancy Hotbar (Modpack Utils Series)"
+filename = "FancyHotbar-Fabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0f61532f8d6d3360c1c6c6dae60986b7a15e411"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5856891
+project-id = 1130667

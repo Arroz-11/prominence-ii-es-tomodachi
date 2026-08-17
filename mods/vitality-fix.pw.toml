@@ -1,0 +1,13 @@
+name = "Vitality Fix"
+filename = "vitalityfix-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90f88ef6c03f0b55ddbfb2e29f7750a080d4f802"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7453471
+project-id = 1427769

@@ -1,0 +1,13 @@
+name = "Axolotl Buckets"
+filename = "axolotlbuckets-1.2.0+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b518d248c7c3dc1433a44a467e8d8fe8880cacb0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8222741
+project-id = 1570109

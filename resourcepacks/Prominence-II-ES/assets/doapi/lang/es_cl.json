@@ -1,0 +1,23 @@
+{
+  "block.doapi.standard": "Estandarte de completista",
+  "block.doapi.wall_standard": "Banner de pared para completistas",
+  "sound.doapi.cabinet_close": "Cerrar el armario",
+  "sound.doapi.cabinet_open": "Abrir el armario",
+  "sound.doapi.drawer_close": "Cajón de cierre",
+  "sound.doapi.drawer_open": "Abrir el cajón",
+  "sound.doapi.cake_cut": "Cortar la tarta",
+  "sound.doapi.typewriter": "Máquina de escribir",
+  "sound.doapi.dinner_bell": "Sonando la campana de la cena",
+  "sound.doapi.brewstation_ambient": "Brewstation Hum",
+  "sound.doapi.brewstation_oven": "Crujido del horno",
+  "sound.doapi.brewstation_timer": "Temporizador",
+  "sound.doapi.timer_ticking": "Temporizador",
+  "sound.doapi.brewstation_kettle": "Reventar burbujas",
+  "sound.doapi.brewstation_whistle": "Silbato silbante",
+  "sound.doapi.breath": "Aliento",
+  "sound.doapi.beer_elemental_death": "Muerte del Elemental de Cerveza",
+  "sound.doapi.beer_elemental_ambient": "Ambiente de alcohol",
+  "sound.doapi.beer_elemental_hurt": "Daño por alcohol",
+  "sound.doapi.beer_elemental_attack": "Ataque del Elemental de Cerveza",
+  "pack.source.builtinMod": "integrado: %s"
+}

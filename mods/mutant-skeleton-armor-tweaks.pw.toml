@@ -1,0 +1,13 @@
+name = "Mutant Skeleton Armor Tweaks"
+filename = "mutant-skeleton-armor-tweaks-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb746a4b13820c064fedc09a16a0e368e4fd8500"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7712585
+project-id = 1461984

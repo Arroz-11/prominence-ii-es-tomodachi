@@ -1,0 +1,369 @@
+{
+	autofocus_id: "31388834855FB88E"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "reforging"
+	group: "5EA21B61C2E147CB"
+	icon: {
+		Count: 1
+		id: "ftbquests:custom_icon"
+		tag: {
+			Icon: "tiered:textures/gui/reforge_tab_icon.png"
+		}
+	}
+	id: "7501A35FAE3E34FE"
+	images: [
+		{
+			height: 2.0d
+			image: "tiered:textures/gui/reforge_tab_icon.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			height: 0.35d
+			image: "tiered:textures/plates/common.png"
+			rotation: 0.0d
+			width: 1.3363636363636364d
+			x: -4.638218923957993E-4d
+			y: 3.2397959183673493d
+		}
+		{
+			height: 0.35d
+			image: "tiered:textures/plates/uncommon.png"
+			rotation: 0.0d
+			width: 1.3363636363636364d
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			height: 0.35d
+			image: "tiered:textures/plates/rare.png"
+			rotation: 0.0d
+			width: 1.3363636363636364d
+			x: -4.638218923957993E-4d
+			y: 3.790816326530596d
+		}
+		{
+			height: 0.35d
+			image: "tiered:textures/plates/uncommon.png"
+			rotation: 0.0d
+			width: 1.3363636363636364d
+			x: 2.5301484230055564d
+			y: 3.2193877551020336d
+		}
+		{
+			height: 0.35d
+			image: "tiered:textures/plates/rare.png"
+			rotation: 0.0d
+			width: 1.3363636363636364d
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			height: 0.35d
+			image: "tiered:textures/plates/legendary.png"
+			rotation: 0.0d
+			width: 1.3363636363636364d
+			x: 2.509740259740255d
+			y: 4.096938775510203d
+		}
+		{
+			height: 0.35d
+			image: "tiered:textures/plates/epic.png"
+			rotation: 0.0d
+			width: 1.3363636363636364d
+			x: 2.509740259740255d
+			y: 3.79081632653061d
+		}
+		{
+			height: 0.35d
+			image: "tiered:textures/plates/rare.png"
+			rotation: 0.0d
+			width: 1.3363636363636364d
+			x: 4.99953617810759d
+			y: 3.2193877551020407d
+		}
+		{
+			height: 0.35d
+			image: "tiered:textures/plates/epic.png"
+			rotation: 0.0d
+			width: 1.3363636363636364d
+			x: 4.99953617810759d
+			y: 3.5051020408163254d
+		}
+		{
+			height: 0.35d
+			image: "tiered:textures/plates/legendary.png"
+			rotation: 0.0d
+			width: 1.3363636363636364d
+			x: 5.019944341372899d
+			y: 3.79081632653061d
+		}
+		{
+			height: 0.35d
+			image: "tiered:textures/plates/mythic.png"
+			rotation: 0.0d
+			width: 1.3363636363636364d
+			x: 5.019944341372899d
+			y: 4.0969387755102105d
+		}
+		{
+			height: 0.35d
+			image: "tiered:textures/plates/epic.png"
+			rotation: 0.0d
+			width: 1.3363636363636364d
+			x: -4.6382189241001015E-4d
+			y: 4.079846938775518d
+		}
+		{
+			dependency: "014ABD8E6E102E16"
+			height: 1.0d
+			image: "minecraft:block/fire_1"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.027597402597387d
+			y: -0.7033163265306115d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:icons/blank"
+			rotation: 0.0d
+			width: 0.1d
+			x: 13.5d
+			y: 19.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&7Al crear u obtener herramientas, armaduras o armas, notarás que tienen una calidad."
+				""
+				"&7Las cualidades varían desde:"
+				"&8- &fComún"
+				"&8- &2Poco común"
+				"&8- &3Raro"
+				"&8- &dÉpico"
+				"&8- &6Legendario"
+				"&8- &cMítico"
+				""
+				"{@pagebreak}"
+				""
+				"&6Reforja&7 es una parte esencial de tu progresión porque permite cambiar la rareza que tiene tu objeto."
+				""
+				"&7Para hacerlo, puedes encontrar la pestaña de &eReforja&7 en un &eYunque&7. Necesitarás:"
+				""
+				"&8- &eEl material base &8(ranura izquierda)"
+				"&8- &eEl Objeto a Reforjar &8(Ranura del Medio)"
+				"&8- &eEl Material de Reforja &8(Ranura Derecha)"
+				""
+				""
+				"{@pagebreak}"
+				""
+				"&e&lMaterial Base &r&8(Ranura Izquierda)"
+				""
+				"&7El material base está directamente relacionado con el objeto que quieres reforjar. Por ejemplo, una &eVarita Sagrada&7 requeriría un &eLingote de Oro&7 como material base. Puedes ver los materiales requeridos pasando el cursor sobre el botón de reforjar después de colocar tu objeto en la ranura del medio."
+				""
+				""
+				"{@pagebreak}"
+				""
+				"&e&lObjeto Base &r&8(Ranura del Medio)"
+				""
+				"&7El Objeto Base es el objeto al que quieres cambiar la rareza. No todos los objetos son reforgeables, solo herramientas, armas y armaduras."
+				""
+				""
+				"{@pagebreak}"
+				""
+				"&e&lMaterial de Reforja"
+				""
+				"&7Este material decidirá a qué calidad se reforjará tu objeto. Hay 3 niveles de materiales que puedes ver en las próximas misiones de esta línea de misiones."
+				""
+				""
+				"{@pagebreak}"
+				""
+				"&a&lAumentando Tus Probabilidades"
+				""
+				"&7¡No todo es moler! ¡Puedes &eaumentar las posibilidades de obtener calidades más altas&7 con tu &aSuerte&7! Objetos que dan suerte pasivamente, pociones de suerte, talismanes, vino, ¡consíguelos todos!"			]
+			id: "3C95FD1F14D109CF"
+			shape: "hexagon"
+			subtitle: "&8[Haz clic para leer las instrucciones]"
+			tasks: [{
+				id: "71FAC91280FBBF9C"
+				item: "minecraft:anvil"
+				title: "Crea un yunque"
+				type: "item"
+			}]
+			title: "&e¿Qué es la Reforja?"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3C95FD1F14D109CF"]
+			description: [
+				""
+				"&7El &nTrozo de Piedra Caliza&r&7 es el primer nivel de materiales de reforge."
+				""
+				"&7Se encuentra en la &aSuperficie&7, se obtiene &efabricando&7 4x &fBloques de Piedra Caliza&r&8 (para 4 piezas)&7, o 4x &fBloques de Diorita&r &8(para 4 piezas)"
+				""
+				"&7Puede reforjarse a las siguientes cualidades:"
+				"&8- &fComún"
+				"&8- &2Poco común"
+				"&8- &3Raro"
+				"&8- &dÉpico"			]
+			id: "4D3F0D8217067D24"
+			shape: "diamond"
+			subtitle: "&8[Haz clic para leer las instrucciones]"
+			tasks: [{
+				id: "4593A7256861742B"
+				item: "tiered:limestone_chunk"
+				type: "item"
+			}]
+			title: "&6&lNivel I: &fPiedra caliza"
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4D3F0D8217067D24"]
+			description: [
+				""
+				"&7El &nTrozo de Pirita&r&7 es el segundo nivel de materiales de reforge."
+				""
+				"&7Se encuentra en el &cNether&7, se obtiene &eElaborando&7 con 4 &6Polvo de pirita&r&8 (por 1 pieza)&7, o &eCortapiedras&7 un bloque de &6Escombros Antiguos&r&7 &8(por 4 piezas) &7También se puede &bencantar a granel&r &7de &ePiedra Luminosa&r."
+				""
+				"&8* El Polvo de pirita se puede obtener minando Mineral de pirita en el Nether"
+				""
+				"&7Puede reforjarse a las siguientes cualidades:"
+				"&8- &2Poco común"
+				"&8- &3Raro"
+				"&8- &dÉpico"
+				"&8- &6Legendario"			]
+			id: "31388834855FB88E"
+			shape: "diamond"
+			subtitle: "&8[Haz clic para leer las instrucciones]"
+			tasks: [{
+				id: "23DAEBDBFD05AB7B"
+				item: "tiered:pyrite_chunk"
+				type: "item"
+			}]
+			title: "&6&lNivel II: &ePirita"
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["31388834855FB88E"]
+			description: [
+				""
+				"&7El &nTrozo de Galena&r&7 es el tercer nivel y el último material de reforja."
+				""
+				"&7Se encuentra en el &dEnd&7, se obtiene mediante &eElaboración&7 usando 2 &3Polvo de galena&r&7 y 2 &3Fruta de Coro Reventada&r&8 (para 1 pieza)&7."
+				"&7Alternativamente, en lugar de usar Polvo de galena, puedes usar &3Piedra del End&r."
+				""
+				"&8* El Polvo de Galena se encuentra en las cuevas profundas del Overworld."
+				""
+				"&7Puede reforjarse a las siguientes cualidades:"
+				"&8- &3Raro"
+				"&8- &dÉpico"
+				"&8- &6Legendario"
+				"&8- &cMítico"			]
+			id: "2DE7359A85169236"
+			shape: "diamond"
+			subtitle: "&8[Haz clic para leer las instrucciones]"
+			tasks: [{
+				id: "7C188E7D00623268"
+				item: "tiered:galena_chunk"
+				type: "item"
+			}]
+			title: "&6&lNivel III: &3Galena"
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2DE7359A85169236"]
+			description: ["&eCien objetos míticos... Realmente te has convertido en el maestro de la reforge."]
+			hide_until_deps_visible: true
+			id: "014ABD8E6E102E16"
+			invisible: true
+			rewards: [
+				{
+					id: "3F13487D35D42A30"
+					item: "prominent:infused_molten_remnant"
+					type: "item"
+				}
+				{
+					id: "127869B7CFFDBE8F"
+					item: "prominent:xmog_molten_sword"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.25d
+			subtitle: "&6Desafío Eterno"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "tiered:textures/gui/anvil_tab_icon.png"
+					}
+				}
+				id: "14E96A8846C480E8"
+				stat: "prominent:mythic_reforges"
+				title: "&eConviértete en un Herrero Mítico"
+				type: "stat"
+				value: 100
+			}]
+			title: "&cHerrero Mítico"
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"014ABD8E6E102E16"
+				"3C95FD1F14D109CF"
+				"31388834855FB88E"
+				"2DE7359A85169236"
+				"4D3F0D8217067D24"
+			]
+			description: ["&8Te has convertido en un herrero muy renombrado. ¿Qué harás con este conocimiento?"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "the_bumblezone:item/essence/knowing"
+				}
+			}
+			id: "658C9A0DDEC15431"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "the_bumblezone:item/essence/knowing"
+					}
+				}
+				id: "79653CF8DF5D7969"
+				title: "&dFragmento de Conocimiento Eterno"
+				type: "custom"
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			subtitle: "&8Conocimiento Secreto"
+			tasks: [{
+				id: "57A269372AAD28C6"
+				title: "He aprendido el Conocimiento."
+				type: "checkmark"
+			}]
+			title: "&dConocimiento Eterno: &eDe Herrería"
+			x: -9.0d
+			y: -16.5d
+		}
+	]
+	title: " &eReforja"
+}

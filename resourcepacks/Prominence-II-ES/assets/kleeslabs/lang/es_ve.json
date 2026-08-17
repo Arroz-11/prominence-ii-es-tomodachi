@@ -1,0 +1,9 @@
+{
+  "config.kleeslabs.mode": "Modo",
+  "config.kleeslabs.title": "KleeSlabs",
+  "config.kleeslabs.mode.tooltip": "Controla si los KleeSlabs deben activarse SIEMPRE, SOLO_CUANDO_TE_MOVES_A_PASOS_DE_GATO o SOLO_CUANDO_NO_TE_MOVES_A_PASOS_DE_GATO",
+  "config.kleeslabs.disabledCompat": "Compatibilidad desactivada",
+  "config.kleeslabs.disabledCompat.tooltip": "ID de los mods cuya compatibilidad hay que desactivar.",
+  "config.kleeslabs.dumpSlabs": "Láminas de volcado de depuración",
+  "config.kleeslabs.dumpSlabs.tooltip": "Para fines de desarrollo. Actívalo para que KleeSlabs muestre una lista de objetos que contengan la palabra «slab» en su nombre al cargar el mundo."
+}

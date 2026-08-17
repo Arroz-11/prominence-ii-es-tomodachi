@@ -1,0 +1,13 @@
+name = "Welcome Screen (Modpack Utils Series)"
+filename = "welcomescreen-fabric-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76ac08b9a9cbce4b475283ea9145c78338490624"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6158675
+project-id = 1193211

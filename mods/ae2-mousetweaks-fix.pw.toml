@@ -1,0 +1,13 @@
+name = "AE2 + Mouse Tweaks Fix"
+filename = "AE2-MouseTweaks-Fix-2.0.0+1.20.1+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ec6eda1b3c78787bb8f89966f55fcf2aa915eb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5086122
+project-id = 955991

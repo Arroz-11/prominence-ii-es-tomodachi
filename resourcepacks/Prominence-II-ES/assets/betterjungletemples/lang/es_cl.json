@@ -1,0 +1,13 @@
+{
+  "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.general": "General",
+  "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.general.@Tooltip": "Ajustes Generales",
+  "Use /locate structure betterjungletemples:jungle_temple instead!": "¡Usa /locate structure betterjungletemples:jungle_temple en su lugar!",
+  "text.autoconfig.betterjungletemples-fabric-1_20.title": "Better Jungle Temples de YUNG",
+  "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples": "Better Jungle Temples de YUNG",
+  "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.compat": "Compatibilidad de Mods",
+  "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.compat.@Tooltip": "Ajustes de Compatibilidad de Mods",
+  "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.general.disableVanillaJungleTemples": "Desactivar Templos de la Jungla Vanilla",
+  "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.general.disableVanillaJungleTemples.@Tooltip": "Si se deben desactivar los Templos de la Jungla vanilla.",
+  "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.compat.pickYourPoisonEnabled": "Activar Compatibilidad con Pick Your Poison",
+  "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.compat.pickYourPoisonEnabled.@Tooltip": "Si los dardos venenosos de PYP deben generarse en los Templos de la Jungla de Better Jungle Temples."
+}

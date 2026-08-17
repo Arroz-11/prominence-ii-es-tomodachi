@@ -1,0 +1,13 @@
+name = "ExtendedAE"
+filename = "ExtendedAE-1.20-1.0.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "712edf150e4dc26d4a00476e4bd0d66392ebe3c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5407904
+project-id = 892005

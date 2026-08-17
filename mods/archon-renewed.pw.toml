@@ -1,0 +1,13 @@
+name = "Archon Renewed"
+filename = "Archon-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8f4f0762543dd900cced5c68f66ea19d4e74361"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8171873
+project-id = 1503259

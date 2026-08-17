@@ -1,0 +1,2373 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "elhasturian_era"
+	group: "3DBADFFDA1FDAD84"
+	hide_quest_until_deps_complete: true
+	icon: {
+		Count: 1
+		id: "ftbquests:custom_icon"
+		tag: {
+			Icon: "eldritch_end:textures/mob_effect/hastur_presence.png"
+		}
+	}
+	id: "38345D0552E8A4AF"
+	images: [
+		{
+			dependency: "73DA5990952CEA35"
+			height: 1.0d
+			image: "derelict:item/fancy_cobweb_with_spider_nest"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.2544642857142847d
+			y: -1.8125d
+		}
+		{
+			color: 6066477
+			dependency: "1B7B89009822EDC3"
+			height: 2.0d
+			image: "bosses_of_mass_destruction:textures/particle/magic_circle_23.png"
+			order: 4
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.5d
+			y: 0.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.3d
+			image: "decorative_blocks:block/bonfire"
+			order: 1
+			rotation: 0.0d
+			width: 1.3d
+			x: 9.0d
+			y: 0.5d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "chipped:block/deepslate/rough_deepslate"
+			rotation: 0.0d
+			width: 1.2d
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "chipped:block/deepslate/rough_deepslate"
+			rotation: 0.0d
+			width: 1.2d
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "chipped:block/deepslate/rough_deepslate"
+			rotation: 0.0d
+			width: 1.2d
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "chipped:block/deepslate/rough_deepslate"
+			rotation: 0.0d
+			width: 1.2d
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "minecraft:block/cracked_deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 9.0d
+			y: -1.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "supplementaries:block/ash"
+			rotation: 0.0d
+			width: 1.2d
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "minecraft:block/cracked_deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "minecraft:block/cracked_deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "minecraft:block/cracked_deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 12.0d
+			y: 1.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "supplementaries:block/ash"
+			rotation: 0.0d
+			width: 1.2d
+			x: 11.0d
+			y: -1.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 11.0d
+			y: 2.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "minecraft:block/deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "minecraft:block/deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 12.0d
+			y: -1.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "minecraft:block/deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 11.0d
+			y: -2.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "minecraft:block/deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 13.0d
+			y: 1.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "chipped:block/deepslate/rough_deepslate"
+			rotation: 0.0d
+			width: 1.2d
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "minecraft:block/cracked_deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 13.0d
+			y: 0.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "minecraft:block/deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "minecraft:block/deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "minecraft:block/deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			dependency: "7BFDABFDF6FB2206"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			dependency: "1B7B89009822EDC3"
+			height: 3.0d
+			image: "enchanted:item/circle_talisman_large_1"
+			order: 2
+			rotation: 0.0d
+			width: 3.0d
+			x: 13.5d
+			y: 0.0d
+		}
+		{
+			dependency: "1B7B89009822EDC3"
+			height: 1.0d
+			image: "enchanted:block/glyph_10"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: 1.0d
+		}
+		{
+			dependency: "1B7B89009822EDC3"
+			height: 1.0d
+			image: "enchanted:block/glyph_3"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: -1.0d
+		}
+		{
+			dependency: "1B7B89009822EDC3"
+			height: 1.0d
+			image: "enchanted:block/glyph_6"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: -1.0d
+		}
+		{
+			dependency: "1B7B89009822EDC3"
+			height: 1.0d
+			image: "enchanted:block/glyph_5"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: 1.0d
+		}
+		{
+			dependency: "73DA5990952CEA35"
+			height: 1.0d
+			image: "enchanted:block/glyph_gold"
+			rotation: 180.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependency: "6BFBEE564664116B"
+			height: 1.0d
+			image: "derelict:item/fancy_cobweb"
+			order: 33
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 4.5d
+		}
+		{
+			dependency: "6BFBEE564664116B"
+			height: 1.0d
+			image: "derelict:item/fancy_cobweb_with_spider_nest"
+			order: 33
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 5.5d
+		}
+		{
+			dependency: "6BFBEE564664116B"
+			height: 1.0d
+			image: "derelict:block/spider_egg"
+			order: 33
+			rotation: 22.0d
+			width: 1.0d
+			x: 8.0d
+			y: 5.5d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_0"
+			rotation: 0.0d
+			width: 1.2d
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_18"
+			rotation: 0.0d
+			width: 1.2d
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_9"
+			rotation: 0.0d
+			width: 1.2d
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_0"
+			rotation: 0.0d
+			width: 1.2d
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			dependency: "6BFBEE564664116B"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_23"
+			rotation: 0.0d
+			width: 1.2d
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			dependency: "6BFBEE564664116B"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_12"
+			rotation: 0.0d
+			width: 1.2d
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			dependency: "6BFBEE564664116B"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_16"
+			rotation: 0.0d
+			width: 1.2d
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			dependency: "6BFBEE564664116B"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_0"
+			rotation: 0.0d
+			width: 1.2d
+			x: 10.0d
+			y: 4.0d
+		}
+		{
+			dependency: "6BFBEE564664116B"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_0"
+			rotation: 0.0d
+			width: 1.2d
+			x: 10.0d
+			y: 6.0d
+		}
+		{
+			dependency: "6BFBEE564664116B"
+			height: 1.2d
+			image: "chipped:block/black_concrete/ctm/black_concrete_panel_ctm/0"
+			rotation: 0.0d
+			width: 1.2d
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_0"
+			rotation: 0.0d
+			width: 1.2d
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_16"
+			rotation: 0.0d
+			width: 1.2d
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_23"
+			rotation: 0.0d
+			width: 1.2d
+			x: 7.0d
+			y: 6.0d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_18"
+			rotation: 0.0d
+			width: 1.2d
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_0"
+			rotation: 0.0d
+			width: 1.2d
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_0"
+			rotation: 0.0d
+			width: 1.2d
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_0"
+			rotation: 0.0d
+			width: 1.2d
+			x: 8.0d
+			y: 7.0d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.1d
+			image: "derelict:block/spider_silk_strand_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 7.0d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.33d
+			image: "derelict:block/spider_silk_strand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 8.0d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.1d
+			image: "derelict:block/spider_silk_strand_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 17.0d
+			y: 3.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/polished/deepslate_cut_polished"
+			order: 1
+			rotation: 0.0d
+			width: 1.2d
+			x: 18.0d
+			y: 2.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 17.0d
+			y: 4.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 17.0d
+			y: 2.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 17.0d
+			y: 1.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 17.0d
+			y: 0.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 19.0d
+			y: 0.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 19.0d
+			y: 1.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 19.0d
+			y: 2.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 19.0d
+			y: 3.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 19.0d
+			y: 4.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/polished/deepslate_cut_polished"
+			order: 1
+			rotation: 0.0d
+			width: 1.2d
+			x: 18.0d
+			y: 1.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/polished/deepslate_cut_polished"
+			order: 1
+			rotation: 0.0d
+			width: 1.2d
+			x: 18.0d
+			y: 0.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/polished/deepslate_cut_polished"
+			rotation: 0.0d
+			width: 1.2d
+			x: 18.0d
+			y: 3.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/polished/deepslate_cut_polished"
+			rotation: 0.0d
+			width: 1.2d
+			x: 18.0d
+			y: 4.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "minecraft:block/deepslate_tiles"
+			order: 1
+			rotation: 0.0d
+			width: 1.2d
+			x: 16.0d
+			y: 4.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "minecraft:block/deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 15.0d
+			y: 4.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "minecraft:block/deepslate_tiles1"
+			rotation: 0.0d
+			width: 1.2d
+			x: 16.0d
+			y: 3.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "minecraft:block/cracked_deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 15.0d
+			y: 3.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "minecraft:block/deepslate_tiles1"
+			rotation: 0.0d
+			width: 1.2d
+			x: 16.0d
+			y: 2.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "minecraft:block/cracked_deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 16.0d
+			y: 1.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "minecraft:block/deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 15.0d
+			y: 2.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "minecraft:block/deepslate_tiles"
+			rotation: 0.0d
+			width: 1.2d
+			x: 14.0d
+			y: 4.5d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "botania:block/apothecary_deepslate_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 17.0d
+			y: -0.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "botania:block/apothecary_deepslate_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 19.0d
+			y: -0.5d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "create:block/palettes/stone_types/cut/deepslate_cut"
+			rotation: 0.0d
+			width: 1.2d
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "supplementaries:block/fire_pit_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 18.0d
+			y: -1.0d
+		}
+		{
+			dependency: "6E9C9D719B4FF675"
+			height: 1.2d
+			image: "decorative_blocks:block/bonfire_x"
+			rotation: 0.0d
+			width: 1.2d
+			x: 18.0d
+			y: -1.23d
+		}
+		{
+			dependency: "1927685D184EE33C"
+			height: 1.7d
+			image: "testosterone:block/beer_fluid_flow"
+			rotation: 0.0d
+			width: 1.7d
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			dependency: "1927685D184EE33C"
+			height: 2.0d
+			image: "minecraft:block/bamboo_trapdoor_frame"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			dependency: "1927685D184EE33C"
+			height: 4.5d
+			image: "ftblibrary:icons/nbt/list"
+			rotation: 0.0d
+			width: 4.5d
+			x: 0.15d
+			y: 6.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 0.75d
+			image: "minecraft:textures/gui/checkmark.png"
+			rotation: 0.0d
+			width: 0.75d
+			x: 1.5d
+			y: 6.79d
+		}
+		{
+			dependency: "4F5307B3779A6AB9"
+			height: 0.75d
+			image: "minecraft:textures/gui/checkmark.png"
+			rotation: 0.0d
+			width: 0.75d
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependency: "42D4036B51BBB3F1"
+			height: 0.75d
+			image: "minecraft:textures/gui/checkmark.png"
+			rotation: 0.0d
+			width: 0.75d
+			x: 1.5d
+			y: 5.25d
+		}
+		{
+			dependency: "3030011D88FE9091"
+			height: 2.0d
+			image: "prominent:item/hourglass"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.0d
+			y: 11.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "chipped:block/deepslate/ctm/overlapping_deepslate_tiles_ctm/2"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: 10.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "chipped:block/deepslate/ctm/overlapping_deepslate_tiles_ctm/2"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: 10.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "chipped:block/deepslate/ctm/overlapping_deepslate_tiles_ctm/2"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: 10.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "chipped:block/deepslate/ctm/overlapping_deepslate_tiles_ctm/2"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: 9.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "chipped:block/deepslate/ctm/overlapping_deepslate_tiles_ctm/2"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: 9.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "chipped:block/deepslate/ctm/overlapping_deepslate_tiles_ctm/2"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: 9.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "regions_unexplored:block/brimwood_planks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "regions_unexplored:block/brimwood_planks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: 8.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "regions_unexplored:block/brimwood_planks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: 8.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "thaumon:block/arcane_stone_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 10.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "thaumon:block/arcane_stone_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 9.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "thaumon:block/arcane_stone_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 8.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "thaumon:block/arcane_stone_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: 10.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "thaumon:block/arcane_stone_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: 9.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "thaumon:block/arcane_stone_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: 8.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "chipped:block/pointed_dripstone/deepslate_pointed_dripstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 7.0d
+		}
+		{
+			dependency: "4A6D6413952D62ED"
+			height: 1.2d
+			image: "chipped:block/pointed_dripstone/deepslate_pointed_dripstone_down_frustum"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependency: "3B4199AF98C58326"
+			height: 1.2d
+			image: "prominent:block/volcanic_cinderstone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			dependency: "34CA824A855AF82F"
+			height: 1.0d
+			image: "eldritch_end:textures/mob_effect/corruption.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependency: "66FA883FD0CBC7E7"
+			height: 1.0d
+			image: "eldritch_end:item/etyr_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependency: "07F912CCB09E8B1C"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_0"
+			rotation: 0.0d
+			width: 1.2d
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			dependency: "6BFBEE564664116B"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_16"
+			rotation: 0.0d
+			width: 1.2d
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependency: "6BFBEE564664116B"
+			height: 1.2d
+			image: "derelict:block/arachnite/arachnite_16"
+			rotation: 0.0d
+			width: 1.2d
+			x: 11.0d
+			y: 3.0d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["04AF2E026BB918AE"]
+			description: [
+				"&cTermina todos los capítulos de Void's Invasion para desbloquear la historia de esta expansión."
+			]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "eldritch_end:textures/mob_effect/hastur_presence.png"
+				}
+			}
+			id: "73DA5990952CEA35"
+			rewards: [{
+				advancement: "prominent:level_50"
+				auto: "enabled"
+				criterion: ""
+				id: "1D56AC4A22CDB24A"
+				title: "&eDesbloquear Subida de Nivel 51-65"
+				type: "advancement"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			subtitle: "&8[Haz clic para leer las instrucciones]"
+			tasks: [{
+				advancement: "prominent:end_of_voids_invasion"
+				criterion: ""
+				id: "190537CB8ABEDC05"
+				title: "&dTermina la Campaña de la Invasión del Vacío"
+				type: "advancement"
+			}]
+			title: "&eLa Era Hasturiana"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["73DA5990952CEA35"]
+			description: [
+				"&7&oEones atrás, S'kellak luchó contra los seres ancestrales, derrotando y apresando al ser primordial C'thulhu."
+				""
+				"&7&oMientras sus seguidores escapaban, las cadenas que aprisionaban a su hermanastro, un monstruo alto y encapuchado con tentáculos, fueron rotas. S'kellak no pudo detener su huida."
+				""
+				"&8(1/2)"
+				"{@pagebreak}"
+				"&7&oHasta ahora, tras el intento de dominación de las fuerzas restantes del vacío, todos los reinos se encuentran en su punto más débil."
+				""
+				"&e&oEl Rey en Amarillo ha regresado, y no se detendrá hasta que todos los reinos sucumban a su nuevo reinado."
+				""
+				"&8(2/2)"
+			]
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: "ftbquests:book"
+			id: "579138B8DB19724C"
+			shape: "diamond"
+			size: 1.25d
+			subtitle: "&8[Haz clic para leer el Lore]"
+			tasks: [{
+				id: "3E72FE8109B34FDF"
+				title: "Continuar"
+				type: "checkmark"
+			}]
+			title: "&6&lCapítulo I: &e&lLa Sombra Bajo el Horizonte"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["579138B8DB19724C"]
+			description: [
+				"&8La misiva dice:"
+				""
+				"&7&o\"Champion, this is urgent."
+				""
+				"&7&oHe confirmado que es él, el ser primordial de todo lo impío, conocido como Hastur."
+				""
+				"&7&oPuedo sentir su presencia cercana; necesitamos todas nuestras defensas listas. Vaaz podría estar en peligro."
+				""
+				"&7&oVen aquí tan pronto como puedas. Te necesitamos, Flameborn."
+				""
+				"&7&oYou should also enchant your weapon with Smite, Hastur's followers are undead. You should be prepared for the worst.\""
+			]
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: "soulsweapons:blood_vial_recipe_page"
+			id: "440126C71C47DB94"
+			shape: "octagon"
+			subtitle: "&8[Haz clic para leer la Misiva]"
+			tasks: [{
+				icon: "prominent:flameborn_stone"
+				id: "449870D454BEB253"
+				title: "Usa la Piedra Flameborn y ve a Vaaz"
+				type: "custom"
+			}]
+			title: "&eMisiva Urgente de S'kellak"
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["440126C71C47DB94"]
+			description: [
+				"&eNivel Requerido: 60"
+				""
+				"&7El otrora archimago y líder de los Hex, muerto a manos de los Campeones de Vaaz, fue resucitado por el propio Hastur."
+				""
+				"&7Ahora parte del culto e infundido con el poder de Hastur, fue elegido para sabotear los planes de S'kellak."
+				""
+				"&eUsa Smite para destruir su barrera si no tienes el poder de hechizo necesario."			]
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "2D24C45915E27222"
+			rewards: [
+				{
+					count: 3
+					id: "6E0F1E016DBC1DDF"
+					item: "prominent:infused_molten_remnant"
+					type: "item"
+				}
+				{
+					id: "1130E573AFE26B87"
+					item: "prominent:cinderstone_trophy"
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			subtitle: "&8[Haz clic para leer el lore e indicaciones]"
+			tasks: [{
+				entity: "sbprom:hasturmagus"
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "eldritch_end:item/hastur_crown"
+					}
+				}
+				id: "3247325A58CE070C"
+				title: "&eDerrota al Magus Resucitado, Gu'mas"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&f &6Gu'mas, el Archimago Caído"
+			x: 2.25d
+			y: 2.25d
+		}
+		{
+			dependencies: ["579138B8DB19724C"]
+			description: [
+				"&7&oLas Infusiones de Corrupción pueden usarse para añadir corrupción a Piezas de Armadura, lo cual es útil para habilidades que escalan con la corrupción."
+				""
+				"&7&oLas Habilidades Activas del Árbol de Talentos tienen efectos especiales y escalan con la Corrupción."
+				""
+				"&7La Plantilla de Infusión de Corrupción puede encontrarse como botín en las ciudades del End."
+				""
+				"&eÚsala en una Mesa de Herrería junto con el ítem deseado y un material."
+				""
+				"&ePuedes infusionar los siguientes materiales:"
+				"&7- Extremidad de Aberración &8(+10)"
+				"&7- Corazón de Aberración &8(+20)"
+				"&7- X'al, El Ojo Ignoto &8(+35)"
+			]
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "66FA883FD0CBC7E7"
+			rewards: [{
+				id: "0CF598B77802C9EA"
+				item: "prominent:molten_remnant"
+				type: "item"
+			}]
+			shape: "hexagon"
+			subtitle: "&8[Haz clic para leer las indicaciones]"
+			tasks: [{
+				id: "40986AEC7D527067"
+				item: "eldritch_end:etyr_upgrade_pattern"
+				type: "item"
+			}]
+			title: "&eCamino hacia Etyr: Infusiones"
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2D24C45915E27222"]
+			description: ["&7Con Gu'mas ahora derrotado, nada debería interferir con los poderes de la piedra."]
+			hide_until_deps_complete: true
+			id: "3B4199AF98C58326"
+			rewards: [{
+				id: "35A23DE50A6FE289"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Usa la Piedra Flameborn para volver a Vaaz"
+			tasks: [{
+				icon: "prominent:flameborn_stone"
+				id: "02FDC0AF50942BCF"
+				title: "Usa la Piedra Flameborn"
+				type: "custom"
+			}]
+			title: "&eUn Llamado a la Esperanza"
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3B4199AF98C58326"]
+			description: [""]
+			hide_until_deps_complete: true
+			id: "22F6869970216C4A"
+			rewards: [{
+				id: "4512F3E563421D04"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 1.25d
+			subtitle: "&kEL REY EN AMARILLO ESTÁ AQUÍ"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "eldritch_end:textures/mob_effect/hastur_presence.png"
+					}
+				}
+				id: "0C361982C9B8C730"
+				title: "&6Conoce al Rey en Amarillo"
+				type: "custom"
+			}]
+			title: "&8Su Presencia."
+			x: 6.25d
+			y: 0.0d
+		}
+		{
+			dependencies: ["22F6869970216C4A"]
+			description: ["&7Mientras la Piedra de Flameborn fue secuestrada por Hastur, Vaaz ha sido atacado por sus seguidores."]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "vinery:textures/mob_effect/lava_walker.png"
+				}
+			}
+			id: "7BFDABFDF6FB2206"
+			rewards: [
+				{
+					id: "498A365500114F38"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "114EB48A8FDBB817"
+					item: {
+						Count: 1
+						id: "prominent:loot_box"
+						tag: {
+							lottery_id: "prominent:healing_lottery"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "&8[Haz clic aquí para leer las instrucciones]"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "vinery:textures/mob_effect/lava_walker.png"
+					}
+				}
+				id: "5689CF4DF840682A"
+				title: "Llega a Vaaz después de encontrarte con Él."
+				type: "custom"
+			}]
+			title: "&eAsalto a Vaaz"
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5F57F194C4A133B9"]
+			description: [
+				"&eNivel Requerido: 60"
+				""
+				"&7Ama'gul es uno de los cultistas más poderosos de esta era, perfeccionando la magia del ilusionismo."
+				""
+				"&7Inflige daño lentamente a todos los Flameborn a su alrededor, generando cristales que causan daño. Una vez que suficientes cristales sean destruidos, sus tentáculos surgirán."
+				""
+				"&7Los Cristales del Vacío liberarán nubes de vacío, que pueden apuntarse y golpearse hacia un Ama'gul debilitado para infligir más daño."			]
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "1B7B89009822EDC3"
+			rewards: [
+				{
+					count: 3
+					id: "0911FD16C2508F3C"
+					item: "prominent:infused_molten_remnant"
+					type: "item"
+				}
+				{
+					id: "508BF13B1B352336"
+					item: "prominent:cinderstone_trophy"
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			subtitle: "&8[Haz clic para leer el lore e indicaciones]"
+			tasks: [{
+				entity: "prominent:amagul"
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "eldritch_end:item/hastur_crown"
+					}
+				}
+				id: "6E64F74233060F9F"
+				title: "&eDerrota a Ama'gul"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&f &2Ama'gul, el Hechicero Impío"
+			x: 13.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1B7B89009822EDC3"]
+			description: [
+				"&7El ataque cesó, pero Vaaz necesita ser reconstruida."
+				""
+				"&7S'kellak te ha pedido que te quedes y ayudes a reconstruir Vaaz como era, para poder reforzar nuestro ejército futuro."			]
+			icon: "minecraft:clock"
+			id: "687B5493A610056A"
+			rewards: [{
+				id: "760D9926EE8F2A66"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "diamond"
+			subtitle: "&8[Haz clic aquí para leer el lore]"
+			tasks: [{
+				icon: "minecraft:clock"
+				id: "69336936883FDFF2"
+				title: "Ayuda a reconstruir Vaaz durante un milenio."
+				type: "custom"
+			}]
+			title: "&ePara ti, 1000 años después..."
+			x: 14.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7BFDABFDF6FB2206"]
+			description: ["&7Los cultistas han invadido Vaaz junto con una amenaza desconocida. Es hora de que los devuelvas de donde vinieron y repeles la invasión para siempre."]
+			icon: "prominent:broken_cultist_mark"
+			id: "5F57F194C4A133B9"
+			subtitle: "&8[Haz clic aquí para leer las instrucciones]"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "simplyswords:toxic_longsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "4900A93BC695E0E8"
+				title: "Mata a todos los cultistas"
+				type: "custom"
+			}]
+			title: "&eAsalto a Vaaz: Los Cultistas"
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["687B5493A610056A"]
+			description: [
+				"&7&oCon la forja en sus últimas etapas, Vaaz debe prepararse para contraatacar las fuerzas de Hastur."
+				""
+				"&7&oS'kellak ha apostado por el mayor arma de Vaaz, el Flameborn, potenciándolo con Armas Artefacto que comparten un fragmento de su propio poder."
+				""
+				"&7&oEl siguiente plan es potenciarlos aún más usando la Primordial Forge, aprovechando los poderes de Vaaz y las fuerzas primordiales para crear piezas de armadura que protejan al Flameborn."			]
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: "ftbquests:book"
+			id: "6E9C9D719B4FF675"
+			shape: "diamond"
+			size: 1.25d
+			subtitle: "&8[Haz clic para leer el Lore]"
+			tasks: [{
+				id: "3A58BDC6C3B591EF"
+				title: "Continuar"
+				type: "checkmark"
+			}]
+			title: "&6&lCapítulo II: &e&lForja Primordial"
+			x: 15.625d
+			y: 3.125d
+		}
+		{
+			dependencies: ["6E9C9D719B4FF675"]
+			description: [
+				"&7Tras 1071 años, el próximo arma de S'kellak para potenciar al Flameborn está en sus etapas finales."
+				""
+				"&7Encuentra a S'kellak para conocer a Mirgaff, maestro de la Primordial Forge."			]
+			hide_until_deps_complete: true
+			id: "7A5CB6E08A7DD96C"
+			subtitle: "&8[Haz clic aquí para leer las instrucciones]"
+			tasks: [{
+				icon: "modern_industrialization:forge_hammer"
+				id: "0DB987671F5C16AD"
+				title: "Encuentra a S'kellak en la Sala del Trono"
+				type: "custom"
+			}]
+			title: "&eNuestra Arma"
+			x: 13.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7A5CB6E08A7DD96C"]
+			description: ["&7La Forja Primordial está lista para terminar sus últimas etapas; encuentra a Mirgaff, el maestro de la forja, para saber qué falta para terminarla."]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "prominent:textures/icon/dialogue/heads/mirgaff.png"
+				}
+			}
+			id: "136FB0F96260D6A5"
+			subtitle: "&8[Haz clic aquí para leer las instrucciones]"
+			tasks: [{
+				icon: "prominent:dwarf_spawn_egg"
+				id: "3AD76C9C3E9EE452"
+				title: "Encuentra a Mirgaff en la Sala de la Forja"
+				type: "custom"
+			}]
+			title: "&eMaestro de la Forja"
+			x: 12.5d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"136FB0F96260D6A5"
+				"06A13B152F9C731F"
+			]
+			dependency_requirement: "one_completed"
+			description: ["&7Encuentra la guarida de la bestia y localiza su huevo, rómpelo y mata a la bestia para recuperar el objeto perdido."]
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: "derelict:arachnite"
+			id: "6BFBEE564664116B"
+			rewards: [{
+				id: "633FD33B07DE721C"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "&8[Haz clic aquí para leer las instrucciones]"
+			tasks: [{
+				icon: "derelict:spider_silk_bola"
+				id: "537CEB0461C93BA0"
+				structure: "#derelict:spider_caves/boss_arena"
+				title: "Encuentra la Guarida de Arachne"
+				type: "structure"
+			}]
+			title: "&eLa Guarida del Monstruo"
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6BFBEE564664116B"]
+			description: [
+				"&eNivel Requerido: 60"
+				""
+				"&7Arachne es una bestia aterradora que guarda un objeto robado precioso para los enanos, algo que no han visto en cientos de años."
+				""
+				"&cModo Aracnofobia próximamente."			]
+			hide_until_deps_complete: true
+			icon: "derelict:fancy_cobweb_with_spider_nest"
+			id: "07F912CCB09E8B1C"
+			rewards: [
+				{
+					count: 3
+					id: "1BC40519BD79E40B"
+					item: "prominent:infused_molten_remnant"
+					type: "item"
+				}
+				{
+					id: "29B3ED9EA6C6A9DD"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 2
+					id: "7289EA530E1A46DC"
+					item: "prominent:cinderstone_trophy"
+					type: "item"
+				}
+				{
+					id: "5ED35B238B4FB265"
+					item: {
+						Count: 1
+						id: "prominent:loot_box"
+						tag: {
+							lottery_id: "prominent:resource_1_lottery"
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			subtitle: "&8[Haz clic aquí para leer las instrucciones]"
+			tasks: [{
+				entity: "derelict:arachne"
+				icon: "derelict:fancy_cobweb_with_spider_nest"
+				id: "305378DBE83568EC"
+				title: "Derrota a Arachne"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&f &eArachne, la Bestia"
+			x: 7.5d
+			y: 5.25d
+		}
+		{
+			dependencies: ["07F912CCB09E8B1C"]
+			description: ["&7El ingrediente secreto parecía mucho menos especial de lo que pensabas. Clásico Enano... Vuelve a Mirgaff y llévale el barril."]
+			hide_until_deps_complete: true
+			id: "1927685D184EE33C"
+			subtitle: "&8[Haz clic aquí para leer las instrucciones]"
+			tasks: [{
+				icon: "prominent:barrel_of_beer"
+				id: "006A23DD214AF9AE"
+				title: "Encuentra a Mirgaff en la Sala de la Forja"
+				type: "custom"
+			}]
+			title: "&eEl Ingrediente Secreto"
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1927685D184EE33C"]
+			hide_dependency_lines: true
+			icon: "create:clipboard"
+			id: "42D4036B51BBB3F1"
+			rewards: [{
+				id: "321F47AB499E52EC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "square"
+			size: 0.75d
+			tasks: [
+				{
+					count: 16L
+					id: "44EBD78A5AC75BEF"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					count: 12L
+					id: "28C97C9C9B032223"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "c:silver_ingots"
+						}
+					}
+					title: "Cualquier #c:lingotes_de_plata"
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "50237B562C9213A8"
+					item: "minecraft:iron_bars"
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "4C267969DA77280C"
+					item: { Count: 16, id: "chipped:massive_deepslate_bricks" }
+					type: "item"
+				}
+				{
+					id: "0E01E9BF1DBB8906"
+					item: "soulsweapons:lord_soul_red"
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "669D4F70C9BA306D"
+					item: { Count: 10, id: "soulsweapons:moonstone" }
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "2CE92468F10F8754"
+					item: { Count: 6, id: "soulsweapons:soul_ingot" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7E6C158DF023D5EB"
+					item: { Count: 2, id: "minecraft:nether_star" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "1DC4343534CD24E6"
+					item: { Count: 32, id: "enchanted:quicklime" }
+					type: "item"
+				}
+			]
+			title: "&eEtapa I: Lista de Materiales"
+			x: -0.75d
+			y: 5.25d
+		}
+		{
+			dependencies: ["4A6D6413952D62ED"]
+			icon: "create:clipboard"
+			id: "4F5307B3779A6AB9"
+			rewards: [{
+				id: "6297DBFED72E5CD5"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "square"
+			size: 0.75d
+			tasks: [
+				{
+					count: 32L
+					id: "5A1888933CFFA1CC"
+					item: { Count: 32, id: "chipped:massive_deepslate_bricks" }
+					type: "item"
+				}
+				{
+					count: 22L
+					id: "58A48EDBD4CE1692"
+					item: { Count: 22, id: "eldritch_end:etyr_ingot" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "05CCB3F981A10766"
+					item: { Count: 22, id: "minecells:cell_infused_steel" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "6E6DB7634DA6D0D3"
+					item: { Count: 16, id: "betterend:thallasium_forged_plate" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "30024DFA87F5CCBB"
+					item: { Count: 8, id: "simplyswords:runic_tablet" }
+					type: "item"
+				}
+				{
+					id: "1F3A0D65333A8E1B"
+					item: "bosses_of_mass_destruction:obsidian_heart"
+					type: "item"
+				}
+				{
+					id: "4FC812B3D3135B18"
+					item: "adventurez:blackstone_golem_heart"
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "1096F714D33D3136"
+					item: { Count: 9, id: "minecraft:lava_bucket" }
+					type: "item"
+				}
+				{
+					id: "1954E60F66228FB6"
+					item: "prominent:primordial_essence_of_corruption"
+					type: "item"
+				}
+				{
+					id: "24EBCC25526EEE44"
+					item: "prominent:primordial_essence_of_the_holy"
+					type: "item"
+				}
+				{
+					id: "38A5CF3D3293EFC7"
+					item: "prominent:primordial_essence_of_the_unholy"
+					type: "item"
+				}
+				{
+					id: "2B4852040AF56159"
+					item: "prominent:primordial_essence_of_the_soul"
+					type: "item"
+				}
+			]
+			title: "&eEtapa III: Lista de Materiales"
+			x: -0.75d
+			y: 6.75d
+		}
+		{
+			dependencies: ["42D4036B51BBB3F1"]
+			icon: "create:clipboard"
+			id: "4A6D6413952D62ED"
+			rewards: [{
+				id: "11A2D92053F1C357"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "square"
+			size: 0.75d
+			tasks: [
+				{
+					count: 4L
+					id: "4C978B4F12872BF2"
+					item: { Count: 7, id: "betterend:aeternium_forged_plate" }
+					type: "item"
+				}
+				{
+					count: 7L
+					id: "59215C24042F7AEA"
+					item: { Count: 7, id: "archon:fire_essence" }
+					type: "item"
+				}
+				{
+					count: 7L
+					id: "1C5ECD1B729DDA2D"
+					item: { Count: 7, id: "archon:water_essence" }
+					type: "item"
+				}
+				{
+					count: 7L
+					id: "65E40804B16B8A76"
+					item: { Count: 7, id: "archon:earth_essence" }
+					type: "item"
+				}
+				{
+					count: 7L
+					id: "0986655C4508B29B"
+					item: { Count: 7, id: "archon:sky_essence" }
+					type: "item"
+				}
+				{
+					count: 7L
+					id: "21B6136503A98A32"
+					item: { Count: 7, id: "archon:end_essence" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "7F044E478751DC93"
+					item: { Count: 32, id: "chipped:massive_deepslate_bricks" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1C32504E95312D0A"
+					item: { Count: 4, id: "archon:glisteel_block" }
+					type: "item"
+				}
+			]
+			title: "&eEtapa II: Lista de Materiales"
+			x: -0.75d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"69D19F5D76C81CB8"
+				"3030011D88FE9091"
+			]
+			description: ["&7Crea tu primera pieza de Armadura Primordial, nuestro primer paso hacia el contraataque."]
+			id: "6968FB1EFC901F50"
+			rewards: [
+				{
+					id: "20A6C3917AE5C893"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "5BA8EF13B7B66AD5"
+					item: {
+						Count: 1
+						id: "prominent:loot_box"
+						tag: {
+							lottery_id: "prominent:healing_lottery"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "04FB6FCF53EEFC53"
+					item: {
+						Count: 1
+						id: "prominent:loot_box"
+						tag: {
+							lottery_id: "prominent:resource_1_lottery"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1045C63E23AF1B15"
+					item: "prominent:infused_molten_remnant"
+					type: "item"
+				}
+			]
+			subtitle: "&8[Haz clic aquí para leer las instrucciones]"
+			tasks: [{
+				id: "5F95AD0723924DB3"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "prominent:primordial_items"
+					}
+				}
+				title: "&dObtén cualquier Pieza de Armadura Primordial"
+				type: "item"
+			}]
+			title: "&ePoder Primordial"
+			x: -0.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["4F5307B3779A6AB9"]
+			description: ["&7Completa la creación de la Forja Primordial ayudando con recursos para todas las etapas."]
+			id: "69D19F5D76C81CB8"
+			rewards: [
+				{
+					id: "3C98A6AA9D54C7C2"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "5C29C722F3115DDC"
+					item: "prominent:cinderstone_trophy"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2E3EA776AEB6A1F6"
+					item: "prominent:infused_molten_remnant"
+					type: "item"
+				}
+			]
+			subtitle: "&8[Haz clic aquí para leer las instrucciones]"
+			tasks: [{
+				icon: "prominent:primordial_forge"
+				id: "337FA77CBDDFD9F3"
+				title: "Termina la construcción de la Primordial Forge"
+				type: "custom"
+			}]
+			title: "&eForja Primordial"
+			x: -0.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1927685D184EE33C"]
+			description: [
+				"&7Visita a Alm, en el edificio de Artes Oscuras, ubicado junto al observatorio."
+				""
+				"&7Necesitamos investigar un nuevo tipo de manifestación de la influencia de Hastur: el Reloj de Arena Impío."			]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "prominent:textures/icon/dialogue/heads/alm.png"
+				}
+			}
+			id: "2070C70B2AB53F23"
+			rewards: [{
+				id: "1DC89250486278AB"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "&8[Haz clic aquí para leer las instrucciones]"
+			tasks: [{
+				icon: "prominent:serkonid_spawn_egg"
+				id: "7D4590C7C1FBB0D2"
+				title: "Visita a Alm, el Vendedor de Artes Oscuras en Vaaz"
+				type: "custom"
+			}]
+			title: "&eVisiones Impías"
+			x: 4.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["136FB0F96260D6A5"]
+			description: ["&7After studying the creature's info in the library, you have learned that it likes to make \"outposts\" above the ground. These \"outposts\" may potentially have more hints that could help you locate the beast."]
+			hide_dependency_lines: true
+			id: "06A13B152F9C731F"
+			rewards: [
+				{
+					id: "1FEF6B5605516A9A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "3C28721D9D8A4A95"
+					item: {
+						Count: 1
+						id: "prominent:loot_box"
+						tag: {
+							lottery_id: "prominent:healing_lottery"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "&8[Haz clic aquí para leer las instrucciones]"
+			tasks: [{
+				icon: "derelict:spider_egg"
+				id: "6FA4E2569AB5E4AB"
+				structure: "derelict:spider_caves/overworld_hint"
+				title: "Encuentra la Pista del Overworld"
+				type: "structure"
+			}]
+			x: 10.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2070C70B2AB53F23"]
+			description: [
+				"&eLos Mythic Challenges son encuentros de final del juego con boss escalado donde debes derrotar a un boss en un tiempo determinado."
+				""
+				"&7Lee las páginas siguientes para saber los detalles sobre cómo funcionan los Mythic Challenges."
+				""
+				"{@pagebreak}"
+				"&lMejorando tu Reloj de Arena"
+				""
+				"&7Cada boss tiene un límite de tiempo para derrotarlo, que se divide en 3 partes."
+				""
+				"&7La primera parte será aproximadamente al 17% del tiempo total. Si derrotas al boss en ese momento, mejorará &e3 niveles&7; luego, entre el 18% y el 66%, mejorará &e2 niveles&7 al ser derrotado, y finalmente desde el 67% en adelante solo mejorará un nivel. Si se te acaba el tiempo, el &edesafío será detenido&7 y perderás; tu reloj de arena también será &ereducido en un nivel&7."
+				""
+				"{@pagebreak}"
+				""
+				"&lAfijos"
+				""
+				"&7Contienen hasta tres &eafijos &7aleatorios que modifican cómo funciona la pelea, desde añadir modificadores hasta spawnear enemigos extra o alterar mecánicas."
+				""
+				"&7El primer afijo se desbloquea en todos los desafíos y contiene afijos Tier I."
+				"&7El segundo afijo es el Tier II, desbloqueado tras alcanzar +10."
+				"&7El tercer afijo es el Tier III, desbloqueado tras alcanzar  +16."
+				""
+				"{@pagebreak}"
+				"&lVencimiento"
+				""
+				"&7Cada reloj de arena se reinicia los viernes; por ejemplo, un reloj de arena +15 volverá a ser +1 cada viernes."
+				""
+				"&7Al final de cada reloj de arena verás tu récord semanal actual."
+				""
+				"&7Las mejoras se basan en cómo"			]
+			id: "3030011D88FE9091"
+			rewards: [
+				{
+					id: "16288B501F79A4DB"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "7212DA9F299707B5"
+					item: {
+						Count: 1
+						id: "prominent:loot_box"
+						tag: {
+							lottery_id: "prominent:healing_lottery"
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 1.0d
+			subtitle: "&8[Haz clic aquí para leer las instrucciones]"
+			tasks: [{
+				icon: "prominent:hourglass"
+				id: "4733FE845F5C7377"
+				title: "Usa el Reloj de Arena Impío y derrota cualquier desafío"
+				type: "custom"
+			}]
+			title: "&eLos Mythic Challenges"
+			x: 2.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["3030011D88FE9091"]
+			description: [
+				"&7Los Cinders son una &emoneda que solo puede usarse en Vaaz&7. Está ligada a ti; no existe en forma de ítem. "
+				""
+				"&7Puedes ver la cantidad de Cinders que tienes negociando con un NPC dentro de Vaaz."
+				""
+				"&7Los Cinders se obtienen en los Mythic Challenges; cuanto más alto llegues, más Cinders obtendrás."
+				""
+				"&7Los Cinders son necesarios para la Armadura Primordial y también se usan como moneda para vender, comprar e intercambiar."			]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "prominent:textures/gui/cinders.png"
+				}
+			}
+			id: "3A58908B3E140775"
+			rewards: [{
+				id: "027153A709819879"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "pentagon"
+			size: 1.0d
+			subtitle: "&8[Haz clic aquí para leer las instrucciones]"
+			tasks: [{
+				id: "47600C5755CAECC3"
+				title: "Continuar"
+				type: "checkmark"
+			}]
+			title: "&eBrasas"
+			x: 5.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["6968FB1EFC901F50"]
+			description: [
+				"&7&oEn algún lugar del universo,"
+				"&7&oun viejo imperio atacó,"
+				"&7&opero fracasó. "			]
+			hide_until_deps_complete: true
+			id: "3B5135BC27DA28AF"
+			subtitle: "&8[Haz clic aquí para leer el lore]"
+			tasks: [{
+				icon: "prominent:skellak_spawn_egg"
+				id: "06DB11311DC75C4A"
+				title: "Nuevo contenido llegará en v5.0"
+				type: "custom"
+			}]
+			title: "&6Próximamente"
+			x: -0.5d
+			y: 13.0d
+		}
+	]
+	title: " Era Hasturiana"
+}

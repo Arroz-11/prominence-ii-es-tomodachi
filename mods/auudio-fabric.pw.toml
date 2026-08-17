@@ -1,0 +1,13 @@
+name = "Auudio [Fabric]"
+filename = "auudio_fabric_1.0.3_MC_1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb1ade38a01784d74651257c77a433a71976cce4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4581988
+project-id = 613072

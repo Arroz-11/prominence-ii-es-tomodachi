@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.betterendisland-fabric-1_20.title": "YUNG's Better End Island",
+  "text.autoconfig.betterendisland-fabric-1_20.option.general.resummonedDragonDropsEgg": "El Dragón Reinvocado Suelta Huevo",
+  "text.autoconfig.betterendisland-fabric-1_20.option.general.resummonedDragonDropsEgg.@Tooltip": "Define si el Dragón del End suelta un huevo cada vez que es derrotado",
+  "text.autoconfig.betterendisland-fabric-1_20.option.general.useVanillaSpawnPlatform": "Generar Plataforma de Obsidiana Vanilla",
+  "text.autoconfig.betterendisland-fabric-1_20.option.general.useVanillaSpawnPlatform.@Tooltip": "Define si la plataforma de obsidiana vanilla debe generarse en el End en lugar de la plataforma renovada"
+}

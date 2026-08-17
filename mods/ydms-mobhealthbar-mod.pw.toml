@@ -1,0 +1,13 @@
+name = "YDM's MobHealthBar"
+filename = "mobhealthbar-fabric-1.20.x-2.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07b7f6a929c42a815d5fd32cd62b628b6f0df296"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4818134
+project-id = 559894

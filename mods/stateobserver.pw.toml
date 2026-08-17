@@ -1,0 +1,13 @@
+name = "StateObserver"
+filename = "stateobserver-fabric-1.20.1-1.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f243afd1975c5bd787c7117db8abe678a28db7d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5983134
+project-id = 701213

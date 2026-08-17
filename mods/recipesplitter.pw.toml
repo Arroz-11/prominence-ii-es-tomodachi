@@ -1,0 +1,13 @@
+name = "recipesplitter"
+filename = "recipesplitter-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5245c6245decec2b72c80375cdb6b3d5e356e7aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6655935
+project-id = 1287610

@@ -1,0 +1,13 @@
+name = "HTP CIT Resewn Optimizer"
+filename = "htp-citoptimizer-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e23f675042f691cb416717c9925f7da2c45a7427"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7698170
+project-id = 1475395

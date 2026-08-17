@@ -1,0 +1,13 @@
+name = "Quartz Elevator"
+filename = "quartz-elevator-2.2.7+1.20.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef93268eb8caaebddaa4bcdc616c378a79636242"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5312088
+project-id = 442509

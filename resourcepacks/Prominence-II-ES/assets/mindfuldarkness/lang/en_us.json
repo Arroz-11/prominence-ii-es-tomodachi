@@ -1,0 +1,15 @@
+{
+  "screen.daytime_switcher.algorithm": "Algoritmo",
+  "screen.daytime_switcher.algorithm.grayscale_and_hsl": "Escala de grises y HSL",
+  "screen.daytime_switcher.algorithm.grayscale_and_hsp": "Escala de grises y HSP",
+  "screen.daytime_switcher.algorithm.grayscale_and_hsv": "Escala de grises y HSV",
+  "screen.daytime_switcher.algorithm.grayscale_and_linear": "Escala de grises y lineal",
+  "screen.daytime_switcher.algorithm.hsl": "HSL",
+  "screen.daytime_switcher.algorithm.hsp": "HSP",
+  "screen.daytime_switcher.algorithm.hsv": "HSV",
+  "screen.daytime_switcher.algorithm.linear": "Lineal",
+  "screen.daytime_switcher.front_brightness": "Brillo de la fuente",
+  "screen.daytime_switcher.interface_darkness": "Oscuridad de la interfaz",
+  "screen.debug.identifier": "Identificador de pantalla: %s",
+  "screen.debug.menuType": "Tipo de menú: %s"
+}

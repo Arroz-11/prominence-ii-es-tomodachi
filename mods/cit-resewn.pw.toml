@@ -1,0 +1,13 @@
+name = "CIT Resewn"
+filename = "citresewn-1.2.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1197a13e1c69e808e0c5d992fb344840c99a15d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5821272
+project-id = 521427

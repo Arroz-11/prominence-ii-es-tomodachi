@@ -1,0 +1,13 @@
+name = "Night Config Fixes [Archived]"
+filename = "NightConfigFixes-v8.0.0-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cfdaacb6252b51e92362a15cc7a0212b1a225780"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4614069
+project-id = 813369

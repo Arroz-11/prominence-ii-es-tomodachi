@@ -18,8 +18,8 @@ solo las referencias para que cada uno los baje de su fuente original
 
 ## Cómo se instala
 
-Pedile a Agustín el zip de la instancia y en Prism Launcher:
-**Add Instance → Import from zip**.
+Ver **[INSTALAR.md](INSTALAR.md)**.
+
 
 Desde ahí se actualiza solo: cada vez que abrís el juego, el pack se sincroniza
 con este repo. Si se agrega un mod o se corrige la traducción, te llega sin hacer

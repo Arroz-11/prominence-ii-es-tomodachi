@@ -17534,26 +17534,6 @@ file = "shaderpacks/VanillAA.zip"
 hash = "08367cca75dfbeec43b4017db27950bd8f195dbb2df1d1bdc88d8c1c3ec8e75f"
 
 [[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "6d9fded27f943877b4a4079d5679b44a1f627d0df1a61f68d033fafad1cf3737"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "be213c7ef9e47bfab8be3235bfa37cbfe5e4eae3ba1e3da8d3b73a13511e8951"
-metafile = true
-
-[[files]]
-file = "shaderpacks/hysteria-shaders.pw.toml"
-hash = "6b8447f885cb5a18d2d615390aee1050df5b8a498d4b15f6c4d89fb7ddb0b7ca"
-metafile = true
-
-[[files]]
-file = "shaderpacks/insanity-shader.pw.toml"
-hash = "578c9dd6a145f5c4217cfa72fd868c6dcb742ff81f8a80faf9f2f026d096eabb"
-metafile = true
-
-[[files]]
 file = "shaderpacks/miniature-shader-2.18.13.zip"
 hash = "532094635eee3fbeaadbe5d7c1f89d2fa61e448a74151c280e245232a568ed1c"
 
@@ -17562,28 +17542,8 @@ file = "shaderpacks/miniature-shader-2.18.13.zip.txt"
 hash = "f35693b263a1972cdd0498b2aa1ef67bf679857fdef88fc38932e2d83019df54"
 
 [[files]]
-file = "shaderpacks/miniature-shader.pw.toml"
-hash = "9001051dcbe8c76dc8163e72bbccef8cd34ed04066fafc462c127ec02afe94f9"
-metafile = true
-
-[[files]]
-file = "shaderpacks/pastel-shaders.pw.toml"
-hash = "16096b21b20a2b321af0bb79147388e737961bd1a6765ea8a17d251952c95c17"
-metafile = true
-
-[[files]]
-file = "shaderpacks/photon-shader.pw.toml"
-hash = "c0812abcfba25e7275ecfefa319f2e4cf2e809d9daf747b68234165fab5a8216"
-metafile = true
-
-[[files]]
 file = "shaderpacks/photon_v1.3b.zip"
 hash = "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"
-
-[[files]]
-file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "57900bf60639df92183c23df44f498ccd11dc0b3a9f512d7e30f41fdf7b1eb05"
-metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels_r0.1-beta9 + Clrwl_1.0.5.zip"
@@ -17592,8 +17552,3 @@ hash = "c254bf64fc66877d44e0668d5ce4eb524c264d69deb4413cd136641782145925"
 [[files]]
 file = "shaderpacks/rethinking-voxels_r0.1-beta9.zip"
 hash = "a8cd9d4338c7d3d1fffecc4525348a31ea3d219ef31382c51d5ddc3b4b0114e1"
-
-[[files]]
-file = "shaderpacks/vanillaa.pw.toml"
-hash = "4de8522e2fa6205f486079642d4ff6e420579940a282a110b1a2065cb6001a98"
-metafile = true

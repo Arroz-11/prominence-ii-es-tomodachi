@@ -1457,130 +1457,6 @@ file = "config/ftbqt-cache.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/4trophy_collection.snbt"
-hash = "bcdf2b3c073991e3c5de772f868407a5e0f2ba516626838523e8ea08e8da55b9"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/8the_prision.snbt"
-hash = "443f09e8a67a2ba4a9daa660454420474d694c4c146df8a0f2609bab61fb4e2d"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/applied_energistics_2.snbt"
-hash = "c87ea4f60a3f7d9d04d0a59abf5fcfd8f8a56d150b3b3508b498b6c37b04a746"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/archon.snbt"
-hash = "3a56befeef5876fed02d2195b0d0f867139f7cd5074a2880a454a06572aaf2ec"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/artifact_reforging.snbt"
-hash = "7d5f33a28ca3c16ae0ffae53318b0c6494d86df91d146b482efb7878132566d2"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/backpacks.snbt"
-hash = "35ef544eb543960213bf6c45e67bcf2342fb9827d313d755253c880eb6a7b813"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/botania.snbt"
-hash = "ed08aae413583160c931433526cdee76f54f0eaf4e87f628683c7e93cf842634"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/c_bewitchment.snbt"
-hash = "d7822741916e04349cf7a378fde3cf0fecf5ac512c407981f9ea9455b4a8e843"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/collectibles.snbt"
-hash = "21ad7a6358f2d18121b3c04c048b6657bd886b28280e0e7852b9536a65376456"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/collectibles_2.snbt"
-hash = "bd7d0f4adfb3afbf714bf1797d145e6444003a265587d8c3eec88ef69acf2876"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/create.snbt"
-hash = "54fbb9531263b0e0e14d1daa23ddca892566201867a06b6c2ba47b293abbf022"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/d_the_art_of_transmogrification.snbt"
-hash = "4504e0c39d689a229e5521ad291c5e77a733e378c598673ec4824a011babee4a"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/deeper_and_darker.snbt"
-hash = "04e596622399184ad8e14d33c757b021736f121616cea2547e78ac2eda6d52e7"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/dmastering_fatew.snbt"
-hash = "ad3a0ba6e6578253dcbefa6797c311ff8489b3fcc5487a9f982b986f45607f9e"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/dplanets_and_space.snbt"
-hash = "89d900b713485508ddbee98b65d22ba24031d34d37462f40dbefa1c442b6d966"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/e_spell_books.snbt"
-hash = "d6a28ffef97cfd513ebdd0f99d2ffd6a71695f0105331cfaf817af522c93e41f"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/eenchanting.snbt"
-hash = "0c87b36157d9b1f5a3d00799a98af0f5a1292eb76d71e82b01bdb5027caace72"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/einformation_7new_mechanics.snbt"
-hash = "09deb1ee4508d7c14cba3da542eb2fcd4a3fd0f2ac6df0d80365a07c588b0786"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/elhasturian_era.snbt"
-hash = "38e7ceecb3f8cc0ebef968a7eb00149572c9841f7fc9df5e6235c1cc1f7d121b"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/gadgets.snbt"
-hash = "ad78ddd2b09fb78bb5f7b9ba6e8b9cd664c6878c9a2d95994b02d3035f729d60"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/gear_mariums_soulslike_weaponry.snbt"
-hash = "692e805bff2d034dc00982ba498c0fdce712879c81bcb95aabc41a089de98ccd"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/getting_started.snbt"
-hash = "bcc298974427c9d138de9dad5bb133647b362e870582c098eec9bed3296119b8"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/main_story.snbt"
-hash = "3e9dbb0f17c58acf7f4f8b49c4a55f01346751025621ef5a46bc652afadd556c"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/modern_industrialization.snbt"
-hash = "1abc4c7f6fb3fd66429166d19eaf5ee4cc1e5eb99b78f85a94ccfa5f03eb88b6"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/powah.snbt"
-hash = "881ca3d99764515f5d99a573e22c30b04e514f9b34031c1e054a8824a3a9a269"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/reforging.snbt"
-hash = "726e20ef2bb8e7ac7758092fdb5ab0be7335b583c5ef7e9f8635b4ef62ce28c1"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/simply_swords.snbt"
-hash = "2bdd22743f4a663ae6dfe0bdcbe789d20a8188470d5da4fe3ff39f9badb5cb39"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/tech_reborn.snbt"
-hash = "6e4ace7c86920bb6892f4445986323d076d188c4f72a4c5795736d78935254b6"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/the_bumblezone.snbt"
-hash = "f69f9c66d5e11afac40af97bf434bf5a5f4627d297a3ca5ec48f5325cc70d69e"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/the_nether.snbt"
-hash = "388a732ed4e9028910b89c8f3b577735f09132f5f05d3a8a7ddf024b151228e1"
-
-[[files]]
-file = "config/ftbquests.PACK-ORIGINAL/quests/chapters/to_the_end.snbt"
-hash = "fe930be4dca5b9eb52e15ccc78a025dd2b7cc91595caae84b426ec32462a5f55"
-
-[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "cba69f7cdb23234ebf7f94eb140fa0ec39bfefeadca97fcc1083874f9fcf53fe"
 
@@ -2039,14 +1915,6 @@ hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
 [[files]]
 file = "config/konkrete/locals/pt_br.local"
 hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
-
-[[files]]
-file = "config/ktnilcks/nodes/SP/Mundo nuevo.ilcks"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/ktnilcks/nodes/SP/Mundo nuevo.ilcks.old"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -3703,10 +3571,6 @@ hash = "cd5428966b529748e9ba8785cf7a01d19db50ddb3f7f257226baed6defc54af5"
 [[files]]
 file = "config/testosterone.json5"
 hash = "7d4e9dc303f7a2e8899269b1a0990780799fc6b53e1a154b5335b1a7df5acae3"
-
-[[files]]
-file = "config/tfq_glossary.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/the_bumblezone.json"

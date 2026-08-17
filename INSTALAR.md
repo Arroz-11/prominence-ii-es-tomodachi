@@ -11,11 +11,15 @@ probá con la 17 antes que nada.)
 
 ## 2. Bajate este archivo
 
-👉 **[Prominence-II-ES-Tomodachi.zip](../../raw/master/Prominence-II-ES-Tomodachi.zip)** (89 KB)
+👉 **[Prominence-II-ES-Tomodachi.zip](../../raw/master/Prominence-II-ES-Tomodachi.zip)** (3,7 MB)
 
 ## 3. Importalo en Prism
 
 `Añadir instancia` → `Importar` → `Navegar` → elegí el zip que bajaste → `Aceptar`
+
+> ⚠️ **Si ya importaste una versión anterior, borrá esa instancia primero**
+> (click derecho → `Eliminar`) y volvé a importar. Las primeras versiones del pack
+> quedaban incompletas y no se arreglan solas.
 
 ## 4. Dale a Jugar
 

@@ -6,3 +6,8 @@ INSTALAR.md
 /Prominence-II-ES-Tomodachi.zip
 .gitattributes
 .gitignore
+
+# Todo lo que ignore .gitignore tiene que estar TAMBIEN aca, o packwiz lo mete
+# en el index, git no lo sube y el instalador se come un 404 al bajarlo.
+*.tmp
+config/spark/tmp/

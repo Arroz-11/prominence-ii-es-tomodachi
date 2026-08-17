@@ -4053,18 +4053,6 @@ file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
-file = "config/spark/tmp/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
-
-[[files]]
-file = "config/spark/tmp/spark-e74c3c4153672-libasyncProfiler.so.tmp"
-hash = "13c034cb1f6452de2892278de4c49df7d910499c37c275a32895e67a4fb2bc54"
-
-[[files]]
-file = "config/spark/tmp/spark-e79c90b270749-profile-data.jfr.tmp"
-hash = "470434308f69ab6838fe97a0aead774d69e671a31cbab0895422edcd1d993a52"
-
-[[files]]
 file = "config/spell_engine/client.json5"
 hash = "b2114d65e9a85dd6d9ea5bb89c6a62c995a78038d0dd6f72d5185d8f41e3f20f"
 

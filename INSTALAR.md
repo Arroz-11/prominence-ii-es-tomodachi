@@ -4,7 +4,10 @@
 
 https://prismlauncher.org/download/
 
-Necesitás **Java 17 o 21**. Si no tenés ninguno: https://adoptium.net (Temurin 21).
+Necesitás **Java 17**. Si no lo tenés: https://adoptium.net → **Temurin 17 (LTS)**.
+
+(Es la versión que pide el modpack. Java 21 suele andar, pero si algo falla,
+probá con la 17 antes que nada.)
 
 ## 2. Bajate este archivo
 

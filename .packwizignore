@@ -11,3 +11,8 @@ INSTALAR.md
 # en el index, git no lo sube y el instalador se come un 404 al bajarlo.
 *.tmp
 config/spark/tmp/
+
+# Mundo generado al jugar, no viene con el modpack: cada jugador genera el
+# suyo en el primer arranque. Son ~400 MB y ademas serian LAS DIMENSIONES DE
+# ESTA PC, ya exploradas.
+config/prominent/dimensions/

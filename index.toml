@@ -4889,6 +4889,10 @@ file = "config/yigd.json"
 hash = "a0588302c077e2fe9140669a30bfd7dcdd0f2a77af172e85b296deafbb26a600"
 
 [[files]]
+file = "config/yosbr/config/maplink/general.json5"
+hash = "8245b1a316998a0e44592125d9780917fd2da2c2559e3b794de1d4cc8c7e4e96"
+
+[[files]]
 file = "config/yosbr/essential/config.toml"
 hash = "6c41f5767c6b6ffa5d7db7107d04fc9094b6b303b2a8d419662e0f9eefa1876a"
 

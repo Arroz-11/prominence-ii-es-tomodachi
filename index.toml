@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "INSTALAR.md"
-hash = "d982d98c94e2a9315d0677efd663f671e9ba46a062bd71593f7083122ddaf071"
-
-[[files]]
-file = "README.md"
-hash = "bfbf94ff4db917a5730922dae65df36afe0e99a2bac55b0bf6b37611ef9ce087"
-
-[[files]]
 file = "config/fancymenu/assets/cc/bg.png"
 hash = "3aab3f5bebc561f25fde814f66d1a40cabd1dcdccdf14a81eab822cbd824c6c8"
 

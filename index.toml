@@ -4886,7 +4886,7 @@ hash = "a0588302c077e2fe9140669a30bfd7dcdd0f2a77af172e85b296deafbb26a600"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "951b61743382a10914e373db26c9da120624e05ce4755479947179e4e70ae383"
+hash = "468ac6018f77320a15cfec8a475cde02edbf3891aed0e54f6feae4aeaa8537d5"
 
 [[files]]
 file = "config/yosbr/config/maplink/general.json5"

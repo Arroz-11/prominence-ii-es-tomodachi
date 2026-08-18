@@ -1,0 +1,27 @@
+{
+  "name": "Agua Caliente",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_boiler",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Las máquinas de vapor necesitan vapor para funcionar, y eso es exactamente lo que proporciona la caldera.$(br2)Usará combustible lentamente para calentarse. Cuando esté lo suficientemente caliente, comenzará a producir vapor."
+    },
+    {
+      "type": "smelting",
+      "recipe": "modern_industrialization:vanilla_recipes/steam_bucket",
+      "text": "También puedes fundir cubos de agua en cubos de vapor. ¡Haz tu primera $(l:modern_industrialization:steam_age/steam_machines)Compresora de Bronce$() antes de la caldera para ahorrar mucho en las placas!$(br2)¡Pasa la página para la caldera en sí..."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/boiler_asbl",
+      "text": "Probablemente te parezca caro ahora mismo, pero no olvides que puedes triplicar los minerales con el Martillo de Forja. Además, en cuanto tengas tus dos primeras máquinas, ¡será más de dos veces menos caro!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/fire_clay_dust",
+      "text": "Para hacer ladrillos de arcilla refractaria, necesitarás cocinar polvo de arcilla refractaria y, para craftearlos, necesitarás polvo de ladrillo. Para hacer algo, coloca ladrillos en el Martillo de Forja. La eficiencia del proceso se puede mejorar en máquinas de vapor o con un Martillo."
+    }
+  ],
+  "sortnum": 2
+}

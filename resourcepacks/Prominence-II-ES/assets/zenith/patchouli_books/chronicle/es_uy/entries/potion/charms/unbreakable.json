@@ -1,0 +1,17 @@
+{
+    "name": "Amuletos Irrompibles",
+    "icon": "minecraft:enchanting_table",
+    "category": "zenith:potion/charms",
+	"flag": "&zenith:potion,zenith:enchanting",
+	"sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A través de $(l:zenith:enchanting/table/infusion)Encantamiento de Infusión$(), los amuletos pueden volverse Irrompibles.$(p)Con esto, puedes tener duración ilimitada de cualquier efecto de poción."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "La receta de infusión para amuletos Irrompibles es bastante difícil.$(p)Necesitarás un buen entendimiento de las $(l:zenith:enchanting/table/stats)Estadísticas de Encantamiento$() para poder completarla."
+        }
+	]
+}

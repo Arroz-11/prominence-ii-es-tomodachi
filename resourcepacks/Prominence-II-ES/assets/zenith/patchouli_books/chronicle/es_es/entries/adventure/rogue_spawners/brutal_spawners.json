@@ -1,0 +1,17 @@
+{
+    "name": "Generadores brutales",
+    "icon": "minecraft:zombie_head",
+    "category": "zenith:adventure/rogue_spawners",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Un generador brutal es un subtipo de generador rebelde que genera mobs más fuertes de lo habitual.$(p)Estos mobs tendrán más salud, armadura y daño que sus contrapartes típicas, y son resistentes al fuego."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "La única ventaja es que estos generadores tienen un retraso significativo antes de invocar refuerzos."
+        }
+	]
+}

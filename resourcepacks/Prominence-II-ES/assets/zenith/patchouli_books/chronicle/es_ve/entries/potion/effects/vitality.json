@@ -1,0 +1,17 @@
+{
+    "name": "Vitalidad Rebosante",
+    "icon": "zenith_attributes:textures/mob_effect/vitality.png",
+    "category": "zenith:potion/effects",
+	"flag": "zenith:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La Poción de $(9)Vitalidad Rebosante$() es un efecto beneficioso.$(p)Mientras estés bajo sus efectos, toda curación recibida aumenta."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "El aumento de curación es igual al 20% por nivel."
+        }
+	]
+}

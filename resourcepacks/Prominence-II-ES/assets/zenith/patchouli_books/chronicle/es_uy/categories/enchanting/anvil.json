@@ -1,0 +1,7 @@
+{
+    "name": "Yunques",
+    "description": "Esta sección detalla todos los cambios en el yunque.$(p)Los yunques ahora son encantables, no tienen límites de nivel y se pueden reparar (en un yunque) con Bloques de Hierro.",
+    "icon": "minecraft:anvil",
+	"flag": "zenith:enchanting",
+	"parent": "zenith:enchanting/enchanting"
+}

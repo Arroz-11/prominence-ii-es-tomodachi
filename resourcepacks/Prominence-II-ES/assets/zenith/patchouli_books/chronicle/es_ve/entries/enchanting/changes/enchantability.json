@@ -1,0 +1,17 @@
+{
+    "name": "Encantabilidad",
+    "icon": "minecraft:golden_sword",
+    "category": "zenith:enchanting/changes",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "En Vainilla, todos los objetos sin una $(l:zenith:enchanting/table/enchantability)Encantabilidad de objeto$() explícita tienen un valor predeterminado de cero.$(p).zenith. cambia el valor predeterminado a uno.$(p)Esto tiene el efecto secundario de hacer que algunos objetos sean encantables sin querer."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Este ajuste no cambia la encantabilidad de los objetos que tienen un valor explícito.$(p)Los objetos con una encantabilidad de cero nunca pueden ser encantados."
+        }
+	]
+}

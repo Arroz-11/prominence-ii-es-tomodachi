@@ -1,0 +1,28 @@
+{
+  "name": "Mejor Combustible",
+  "icon": "ad_astra:cryo_freezer",
+  "sortnum": 6,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Congelador Criogénico",
+      "item": "ad_astra:cryo_freezer",
+      "text": "El combustible es difícil de conseguir; requiere aventurarse al océano y buscar surtidores de petróleo. El Congelador Criogénico introduce una nueva forma de obtener un mejor combustible: el Criocombustible. El Criocombustible es mucho más eficiente que el combustible refinado, permitiéndote lanzar un cohete con solo un cubo."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Se crea recolectando fragmentos de hielo, que se encuentran como mineral bajo tierra en planetas fríos. Luego, el fragmento de hielo debe insertarse en un Congelador Criogénico, y se convertirá en 25 mB de Criocombustible. Alternativamente, puedes convertir hielo, hielo compacto y hielo azul en combustible. Una vez que hayas hecho al menos dos cubos (uno para el lanzamiento y otro para el regreso), coloca los cubos en la ranura de combustible del cohete."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:cryo_freezer"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Criocombustible",
+      "item": "ad_astra:cryo_fuel_bucket",
+      "text": "Además de ser un excelente combustible, el criocombustible tiene otras características. Cuando se coloca, dañará cualquier cosa en su interior, similar a la lava. También congela el agua, permitiendo una fuente infinita de hielo."
+    }
+  ]
+}

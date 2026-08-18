@@ -1,0 +1,17 @@
+{
+  "name": "Fabricando cables",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:tin_wire",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Mezcla Polvo de coque con Agua en una mezcladora y obtendrás Aceite sintético crudo, que puedes quemar en un Alto Horno de vapor para obtener Aceite sintético. ¡Mezclarlo con papel te da láminas de caucho!$(br2)¡Se recomienda encarecidamente automatizar este proceso! Nota que el papel se puede hacer de madera usando pulpa de madera."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/steel/wiremill_asbl",
+      "text": "Para los cables, ¡necesitarás la Trefiladora! ¡Combina estos cables con láminas de caucho para obtener cables!"
+    }
+  ],
+  "sortnum": 100
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Cómo Empezar",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:forge_hammer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Antes de hacer bronce, necesitaremos crear un Martillo de Forja. Se usa para procesos básicos de procesamiento.$(br2)Puedes poner mineral de hierro, cobre y estaño en el martillo de forja y recibirás 2 minerales en bruto por mineral. Puedes aumentar esta proporción usando un Martillo. Cada mineral en bruto puede fundirse en un lingote."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/iron/craft/hammer",
+      "text": "El Martillo aumenta la proporción en el Martillo de Forja y desbloquea más recetas, a costa de algo de durabilidad"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:forge_hammer",
+      "text": "Ahora, quizás quieras considerar hacer un Taladro de Minería de Vapor para obtener los minerales directamente sin necesidad de un pico con Toque de Seda."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/steam_mining_drill",
+      "text": "El Taladro de Minería de Vapor puede minar bloques de 3x3 a la vez, ¡perfecto para tus necesidades mineras de principios del juego! También tiene Toque de Seda, que se combina bien con el Martillo de Forja."
+    },
+    {
+      "type": "text",
+      "text": "El Taladro de Minería de Vapor requiere tanto agua como combustible sólido (por ejemplo, carbón).$(br2)Haz clic derecho en una fuente de agua para llenarlo con agua, y asegúrate de poner siempre algo de combustible en tu taladro haciendo clic derecho en los ítems de combustible sobre él en tu inventario. El combustible se consumirá lentamente cuando mines."
+    }
+  ],
+  "sortnum": 0
+}

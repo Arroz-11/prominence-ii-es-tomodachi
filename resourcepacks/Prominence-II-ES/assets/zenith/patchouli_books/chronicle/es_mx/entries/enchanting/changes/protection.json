@@ -1,0 +1,25 @@
+{
+    "name": "Protección",
+    "icon": "minecraft:netherite_chestplate",
+    "category": "zenith:enchanting/changes",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+		{
+            "type": "patchouli:text",
+            "text": "$(9)Protección$() ya no es exclusiva con los subtipos de protección.$(p)Esto significa que ahora puedes tener $(9)Protección$() y otro encantamiento defensivo que normalmente es exclusivo."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Para tener en cuenta esto, la efectividad de los encantamientos de protección se modifica ligeramente.$(p)Entender cómo significa aprender un poco sobre cómo funciona la protección, y algo de matemáticas.$(p)Para comenzar, introducimos el concepto de punto de Reducción de Daño (RD), que es la estadística de la que se benefician todos los encantamientos defensivos."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "El encantamiento $(9)Protección$() proporciona 1 punto contra todos los tipos de daño.$(p)Los encantamientos especializados proporcionan 2 puntos contra un tipo específico.$(p)$(9)Caída de Pluma$() proporciona 3 puntos contra el daño por caída."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "En .zenith., cada punto de Protección proporciona un 2.5% de reducción de daño, hasta un 85%.$(p)En Vainilla, cada punto proporciona un 4% de reducción de daño, hasta un 80%."
+        }
+	]
+}

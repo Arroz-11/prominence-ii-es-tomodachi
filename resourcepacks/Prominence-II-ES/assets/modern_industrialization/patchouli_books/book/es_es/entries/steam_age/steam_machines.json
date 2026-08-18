@@ -1,0 +1,46 @@
+{
+  "name": "Máquinas de Vapor",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_furnace",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ahora es momento de construir algunas máquinas de bronce. La caldera producirá y enviará vapor automáticamente a las máquinas adyacentes, hasta 8 milibarriles por tick.$(br2)Las máquinas de bronce solo pueden procesar recetas de hasta 2 EU/t, lo que significa que la receta usará 2 Unidades de Energía por Tick. Como 1 milibarril de vapor = 1 EU, ¡una caldera a máxima temperatura puede alimentar 4 máquinas simultáneamente!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/compressor_asbl",
+      "text": "El Compresor convertirá lingotes en placas en una proporción de 1:1. También puede convertir cada lingote doble en 2 placas. ¡Esta es probablemente la primera máquina que querrás construir!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/mixer_asbl",
+      "text": "La Mezcladora te ayudará a mezclar polvos, dándote una mejor proporción para bronce, arcilla refractaria y más tarde acero crudo. También puede crear roca y arcilla."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/macerator_asbl",
+      "text": "La Maceradora convertirá 3 polvos triturados/minerales crudos en 4.5 polvos. ¡Cuadruplicado de minerales para ganar! También puede reciclar todo tipo de materiales convirtiéndolos en polvo."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/cutting_machine_asbl",
+      "text": "La Máquina de Corte te dará mejores proporciones para pernos, engranajes, anillos y varillas. Usa un poco de lubricante cada vez."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/furnace_asbl",
+      "text": "El Horno es... bueno... un Horno. Es tan lento como los Hornos normales, pero usa 10 veces menos combustible porque el vapor es muy eficiente."
+    },
+    {
+      "type": "text",
+      "text": "Las máquinas de vapor aceptarán entradas desde cualquier lado, ya sean objetos, vapor u otro fluido.$(br2)Puedes bloquear sus ranuras haciendo clic en el candado en la interfaz. Las ranuras bloqueadas solo aceptan un tipo de objeto o fluido.$(br2)Cada máquina tiene un lado de salida, y puedes habilitar la auto-salida desde la interfaz. Las tolvas, tuberías y otra automatización pueden extraer objetos de salida desde cualquier lado, por supuesto. También puedes reducir el número máximo de objetos en una ranura desplazándote."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/wrench",
+      "text": "Usando una llave inglesa, puedes rotar cualquier máquina haciendo clic derecho. Puedes rotar el lado de salida agachándote mientras haces clic derecho.$(br2)Ten en cuenta que romper una máquina con la llave inglesa no la soltará. ¡Usa un pico para eso!"
+    }
+  ],
+  "sortnum": 3
+}

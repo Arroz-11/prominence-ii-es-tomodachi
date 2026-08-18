@@ -1,0 +1,24 @@
+{
+  "name": "Fabricando Acero",
+  "icon": "ad_astra:etrionic_blast_furnace",
+  "sortnum": 2,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Alto Horno Etriónico",
+      "item": "ad_astra:etrionic_blast_furnace",
+      "text": "El Alto Horno Etriónico es una versión mejorada del alto horno. Tiene dos modos: fundición y aleación. La fundición funciona como un alto horno, pero con 4 ranuras para una eficiencia 4x. La aleación combina materiales para crear una aleación."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:etrionic_blast_furnace"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Acero",
+      "item": "ad_astra:steel_ingot",
+      "text": "El acero se fabrica en un alto horno etriónico combinando hierro y carbón. Esto producirá 1 lingote de acero por cada hierro y carbón. El acero es esencial para la mayoría de las recetas y es el material principal de tu primer cohete."
+    }
+  ]
+}

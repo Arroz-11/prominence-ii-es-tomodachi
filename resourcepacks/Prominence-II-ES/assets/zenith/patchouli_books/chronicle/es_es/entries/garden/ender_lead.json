@@ -1,0 +1,18 @@
+{
+    "name": "Rienda de Ender",
+    "icon": "zenith:ender_lead",
+    "category": "zenith:garden/garden",
+	"flag": "zenith:garden",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La Rienda de Ender es un objeto que te permite capturar animales de granja.$(p)Golpea a un animal con la rienda para capturarlo, y haz clic derecho para soltarlo.$(p)Los animales de granja suelen ser solo aquellos que se pueden criar."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "zenith:ender_lead",
+			"text": ""
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "E = mc²",
+  "category": "modern_industrialization:endgame",
+  "icon": "modern_industrialization:uu_matter_bucket",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:uu_matter_bucket",
+      "text": "Con una configuración adecuada de Electrolizador y una Singularidad, grandes cantidades de energía pueden convertirse, a través de la Radiación de Hawking Cuántica, en Materia Universalmente Utilizable, también conocida como Materia UU, el tejido mismo del universo."
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:replicator",
+      "text": "Con 100 mB de Materia UU, el replicador puede duplicar (casi) cualquier objeto del juego!$(br2)Felicidades, ahora es TuCraft. Gracias por jugar Modern Industrialization."
+    }
+  ],
+  "sortnum": 303
+}

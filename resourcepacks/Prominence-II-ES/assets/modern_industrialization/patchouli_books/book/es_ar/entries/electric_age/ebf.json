@@ -1,0 +1,28 @@
+{
+  "name": "Horno de Arco Eléctrico",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:electric_blast_furnace",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/electric_blast_furnace_asbl",
+      "text": "El Horno de Arco Eléctrico es la versión eléctrica del Horno de Arco de Vapor. Desbloquea nuevas recetas y, como otras máquinas eléctricas multibloque, su sobreaceleración está limitada a 128 EU/t por defecto."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/cupronickel/craft/coil",
+      "text": "El Horno de Arco Eléctrico se compone de una capa de Carcasas de Máquina Resistentes al Calor, dos capas huecas de Bobinas de Cuproníquel y otra capa de Carcasas de Máquina Resistentes al Calor. El controlador debe ir en la capa inferior, y las escotillas en la capa superior o inferior."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:hatches/basic/energy_input_hatch",
+      "text": "¡No olvides añadir Escotillas de Entrada de Energía o el Horno de Arco Eléctrico no tendrá energía! La Escotilla de Entrada de Energía de Baja Tensión solo se conectará a cables de Baja Tensión."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:hatches/advanced/energy_input_hatch",
+      "text": "Las Escotillas de Entrada de Energía de Media Tensión solo se conectarán a cables de Media Tensión, lo que puede ser útil si necesitas mucha energía para tu Horno de Arco Eléctrico. Aún no puedes craftearlas, pero ten en cuenta que existen..."
+    }
+  ],
+  "sortnum": 106
+}

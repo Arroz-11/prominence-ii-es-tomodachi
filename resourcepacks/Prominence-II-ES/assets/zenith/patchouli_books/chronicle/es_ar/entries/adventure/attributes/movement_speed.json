@@ -1,0 +1,13 @@
+{
+    "name": "Velocidad de movimiento",
+    "icon": "minecraft:leather_boots",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tu $(9)Velocidad de movimiento$() es qué tan rápido te mueves, en relación con la velocidad de caminata normal de un jugador.$(p)Este atributo puede ser proporcionado por casi cualquier objeto."
+        }
+	]
+}

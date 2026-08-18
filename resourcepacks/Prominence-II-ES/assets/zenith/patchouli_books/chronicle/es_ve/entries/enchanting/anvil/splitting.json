@@ -1,0 +1,17 @@
+{
+    "name": "Divisor",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/anvil",
+	"flag": "zenith:enchanting",
+	"sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Divisor$() es un encantamiento exclusivo de yunque.$(p)Un yunque divisor es capaz de \"dividir\" libros encantados con múltiples encantamientos en una serie de libros individuales."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Para usar un yunque divisor, lanza un libro encantado al mundo y coloca el yunque de modo que caiga sobre el libro.$(p)Un libro con Filo III y Botín II que sea dividido se convertiría en dos libros, uno con Filo III y otro con Botín II."
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Fragmentación",
+    "icon": "zenith_attributes:textures/mob_effect/sundering.png",
+    "category": "zenith:potion/effects",
+	"flag": "zenith:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La Poción de $(c)Fragmentación$() es un efecto negativo.$(p)Mientras estés bajo sus efectos, todo el daño recibido aumenta en un 20% por nivel."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Sirve como un contador directo a la resistencia, y es aditivo con la resistencia.$(p)Si tuvieras Fragmentación II y Resistencia II, recibirías daño normal."
+        }
+	]
+}

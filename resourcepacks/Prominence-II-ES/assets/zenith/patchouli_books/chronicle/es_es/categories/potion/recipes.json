@@ -1,0 +1,7 @@
+{
+    "name": "Recetas de Pociones",
+	"parent": "zenith:potion/potion",
+    "description": "Esta sección detalla todas las nuevas recetas de pociones vanilla que se añaden.",
+    "icon": "minecraft:nether_wart",
+	"flag": "zenith:potion"
+}

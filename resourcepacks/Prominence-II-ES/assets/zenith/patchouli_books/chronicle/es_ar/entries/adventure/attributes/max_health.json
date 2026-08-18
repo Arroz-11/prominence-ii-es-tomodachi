@@ -1,0 +1,13 @@
+{
+    "name": "Salud Máxima",
+    "icon": "minecraft:apple",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Salud Máxima$() controla la cantidad de puntos de salud (PS) que tienes. Un punto es medio corazón.$(p)Generalmente lo proporcionan armaduras o escudos."
+        }
+	]
+}

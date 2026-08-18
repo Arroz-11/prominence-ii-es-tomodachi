@@ -1,0 +1,29 @@
+{
+    "name": "Tomo de Desguace",
+    "icon": "zenith:scrap_tome",
+    "category": "zenith:enchanting/utility",
+	"flag": "zenith:enchanting",
+	"sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "El Tomo de Desguace es una forma de recuperar encantamientos de un objeto.$(p)Combinarlo con otro objeto en un yunque destruirá el otro objeto, y creará un libro con algunos de los encantamientos al azar."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "zenith:scrap_tome",
+			"text": "Siempre recibirás la mitad de los encantamientos (redondeado hacia arriba).$(p)Los encantamientos seleccionados se basan en tu $(l:zenith:enchanting/table/seed)Semilla de Encantamiento$()."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Desguace Superior",
+			"item": "zenith:improved_scrap_tome",
+			"text": "El $(9)Tomo de Desguace Superior$() es una versión mejorada del Tomo de Desguace.$(p)Extrae todos los encantamientos del objeto, en lugar de la mitad."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"item": "zenith:extraction_tome",
+			"text": "El $(9)Tomo de Extracción$() es una versión perfeccionada del Tomo de Desguace.$(p)Extrae todos los encantamientos de un objeto, y no destruye el objeto en el proceso."
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "¡Tu Primer Bronce!",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_dust",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Primero, necesitas hacer polvos (diminutos) de cobre y estaño martillando lingotes (pepitas) de cobre y estaño en el martillo de forja. Luego puedes combinar los polvos (diminutos) de cobre y estaño para hacer polvo (diminuto) de bronce. Este proceso es más eficiente en una $(l:modern_industrialization:steam_age/steam_machines)Mezcladora$().$(br2)Recuerda siempre que 9 polvos diminutos equivalen a un polvo."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/bronze_dust",
+      "recipe2": "modern_industrialization:materials/bronze_tiny_dust"
+    },
+    {
+      "type": "smelting",
+      "recipe": "modern_industrialization:materials/bronze/smelting/dust_to_ingot_smelting",
+      "text": "Fundir el polvo de bronce te dará un lingote de bronce."
+    }
+  ],
+  "sortnum": 1
+}

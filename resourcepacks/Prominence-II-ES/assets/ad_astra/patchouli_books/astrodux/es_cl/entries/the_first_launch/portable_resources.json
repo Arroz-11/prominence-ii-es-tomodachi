@@ -1,0 +1,29 @@
+{
+  "name": "Recursos Portátiles",
+  "icon": "ad_astra:gas_tank",
+  "sortnum": 6,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Tanques de Gas",
+      "item": "ad_astra:gas_tank",
+      "text": "Los tanques de oxígeno te permiten almacenar oxígeno en una forma portátil conveniente. A pesar del nombre, pueden almacenar cualquier fluido. Mantener presionado el clic derecho distribuirá el oxígeno en los objetos de tu inventario, con preferencia hacia la armadura."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:gas_tank",
+      "recipe2": "ad_astra:large_gas_tank"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Capacitor Etriónico",
+      "item": "ad_astra:etrionic_capacitor",
+      "text": "El Capacitor Etriónico es un objeto similar a una batería para almacenar energía en forma portátil. Se puede colocar en la ranura de energía de las máquinas para alimentarlas, y como los tanques de gas, se puede distribuir en tu inventario manteniendo presionado el clic derecho. Tiene dos modos: Secuencial y Redondeo equitativo. El modo Secuencial distribuirá la energía de una en una, mientras que el modo Redondeo equitativo la distribuirá uniformemente. El modo se puede cambiar haciendo clic derecho mientras estás agachado."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:etrionic_capacitor"
+    }
+  ]
+}

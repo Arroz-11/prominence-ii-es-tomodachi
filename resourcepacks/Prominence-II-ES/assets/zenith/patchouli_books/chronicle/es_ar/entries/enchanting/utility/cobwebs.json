@@ -1,0 +1,18 @@
+{
+    "name": "Telarañas",
+    "icon": "minecraft:cobweb",
+    "category": "zenith:enchanting/utility",
+	"flag": "zenith:enchanting",
+  "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Las telarañas se pueden combinar con un objeto en un yunque para eliminar todos los encantamientos.$(p)Las Telarañas Prismáticas se pueden combinar con un objeto en un yunque para eliminar todas las maldiciones."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "zenith:cobweb",
+			"recipe2": "zenith:prismatic_web"
+		}
+	]
+}

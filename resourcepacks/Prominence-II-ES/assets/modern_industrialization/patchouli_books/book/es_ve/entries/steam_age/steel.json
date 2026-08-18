@@ -1,0 +1,17 @@
+{
+  "name": "Tu Primer Acero",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:steel_ingot",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Puedes macerar coque para obtener Polvo de Coque, que puedes combinar con hierro para obtener Polvo de Acero Crudo. Usando la mezcladora obtendrás una mejor proporción, por supuesto. Ahora, necesitarás un Alto Horno de Vapor para convertirlo en acero.$(br2)Craftea el controlador, 29 Ladrillos de Arcilla Refractaria y las mismas tres tolvas que en el Horno de Coque."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/fireclay/steam_blast_furnace",
+      "text": "La estructura del Alto Horno es la misma que la del Horno de Coque, con Ladrillos reemplazados por Ladrillos de Arcilla Refractaria y una capa hueca adicional en la parte superior."
+    }
+  ],
+  "sortnum": 10
+}

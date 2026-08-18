@@ -1,0 +1,29 @@
+{
+  "name": "Puertas Correderas",
+  "icon": "ad_astra:ostrum_sliding_door",
+  "sortnum": 3,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Puertas Correderas",
+      "item": "ad_astra:airlock",
+      "text": "Las puertas correderas son puertas grandes de 3x3. Sellan el oxígeno cuando están cerradas, lo que las convierte en excelentes candidatas para esclusas de aire. Pueden bloquearse con clic derecho y shift usando una llave inglesa. Las puertas bloqueadas solo pueden abrirse con redstone."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:iron_sliding_door",
+      "recipe2": "ad_astra:steel_sliding_door"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:desh_sliding_door",
+      "recipe2": "ad_astra:ostrum_sliding_door"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:airlock",
+      "recipe2": "ad_astra:reinforced_door"
+    }
+  ]
+}

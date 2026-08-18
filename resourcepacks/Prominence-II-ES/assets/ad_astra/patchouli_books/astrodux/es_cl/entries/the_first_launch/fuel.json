@@ -1,0 +1,30 @@
+{
+  "name": "Combustible",
+  "icon": "ad_astra:fuel_bucket",
+  "sortnum": 4,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Incluso después de colocar tu cohete, no podrás volar todavía. Para volar, necesitarás llenar el cohete con combustible."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Obteniendo Combustible",
+      "item": "ad_astra:oil_bucket",
+      "text": "El petróleo se encuentra en grandes cantidades brotando sobre la superficie del océano. Recoge todo el petróleo que puedas, ya que el petróleo no es renovable, y necesitas mucho para cada lanzamiento de cohete."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Obteniendo Combustible",
+      "item": "ad_astra:fuel_bucket",
+      "text": "Después de recolectar suficiente petróleo (al menos seis cubos para un lanzamiento y regreso), necesitarás refinar el petróleo en combustible. Para hacer esto, necesitarás craftear una refinería de combustible. Dale energía, luego coloca el petróleo en la ranura izquierda, y se refinará en combustible."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Refinería de Combustible",
+      "recipe": "ad_astra:fuel_refinery",
+      "text": "Haz clic con Mayús izdo. en el cohete para abrir su inventario, luego coloca tres cubos de combustible en la ranura de entrada. Coloca los otros tres cubos en el inventario del cohete para el viaje de regreso."
+    }
+  ]
+}

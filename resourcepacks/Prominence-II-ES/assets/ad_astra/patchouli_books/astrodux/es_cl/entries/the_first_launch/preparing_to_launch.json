@@ -1,0 +1,16 @@
+{
+  "name": "Preparación para el lanzamiento",
+  "icon": "ad_astra:tier_1_rocket",
+  "sortnum": 8,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#ff0000)¡Sigue estos pasos con mucho cuidado! $()Si te falta aunque sea una sola cosa aquí, tu vida podría volverse difícil o, peor aún, ¡podrías quedar varado en la Luna!$(br2)Para regresar a la Tierra desde la Luna, necesitas dos cosas básicas: una plataforma de lanzamiento y tres cubos de combustible."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Coloca estos objetos en el inventario de tu cohete y asegúrate de tenerlos siempre cada vez que lances un cohete. Finalmente, deberías llevar varios tanques de gas llenos, mucha comida, antorchas de almas o piedra luminosa (las antorchas normales se apagarán), armas y herramientas. ¡Una vez que tengas esto, estás listo para lanzarte! ¡Entra al cohete y presiona $(k:jump)!"
+    }
+  ]
+}

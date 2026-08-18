@@ -1,0 +1,33 @@
+{
+  "name": "¡Alta presión!",
+  "category": "modern_industrialization:midgame",
+  "icon": "modern_industrialization:pressurizer",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/pressurizer_asbl",
+      "text": "El Presurizador es un nuevo multibloque hecho de titanio que puede convertir agua en agua de alta presión (AP), vapor en vapor de AP, y viceversa."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/high_pressure_large_steam_boiler_asbl",
+      "text": "Una vez que tengas acceso al agua de AP, puedes usar una Caldera de Vapor Grande de Alta Presión para producir vapor de AP.$(br2)Un milibucket de vapor de AP equivale a 8 mb de vapor regular, es decir, 8 EU."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/large_steam_turbine_asbl",
+      "text": "Una Turbina de Vapor Grande aceptará tanto vapor regular (1 mb = 1 EU) como vapor de AP (1 mb = 8 EU) para convertirlo en EU, ¡y generará hasta 16384 EU/t! $(l)Sin embargo, no te devolverá agua regular ni de AP.$()"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/heat_exchanger_asbl",
+      "text": "Recuerda que presurizar agua en agua de AP cuesta mucha energía, ¡pero la turbina no te la devolverá! Puedes usar un Intercambiador de Calor para recuperar el agua de AP para otro ciclo."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/hv_steam_turbine_asbl",
+      "text": "Otra opción para configuraciones pequeñas es usar una turbina de vapor de alto voltaje. Como otros generadores de alto voltaje, producirá 512 EU/t. Esta solo aceptará vapor regular."
+    }
+  ],
+  "sortnum": 202
+}

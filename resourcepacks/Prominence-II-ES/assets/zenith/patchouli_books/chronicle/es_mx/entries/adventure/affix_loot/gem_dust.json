@@ -1,0 +1,21 @@
+{
+    "name": "Polvo de Gema",
+    "icon": "zenith:gem_dust",
+    "category": "zenith:adventure/affix_loot",
+	"flag": "zenith:adventure",
+	"sortnum": 2,
+    "pages": [
+		{
+            "type": "patchouli:spotlight",
+			"item": "zenith:gem_dust",
+			"link_recipe": true,
+            "text": "Todas las Gemas Apoteóticas pueden reducirse a $(br)$(9)Polvo de Gema$() mediante trituración.$(p)Un método es triturarlas con un yunque $(br)en el mundo."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "zenith:salvaging_table",
+			"title": "Recuperar Gemas",
+            "text": "Una vez que hayas triturado algunas Gemas con un yunque, puedes crear y usar la $(9)Mesa de Recuperación$() en su lugar."
+        }
+	]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Creando Placas",
+  "icon": "ad_astra:compressor",
+  "sortnum": 1,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Compresor",
+      "item": "ad_astra:compressor",
+      "text": "Una vez que tengas energía, querrás craftear un compresor. Esta máquina puede comprimir lingotes y bloques en placas, que se necesitan para craftear muchas cosas."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:compressor"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Módulo de Aventura",
+    "description": "Antes conocido como el $(4)Módulo Mortal$(), el Módulo de Aventura te permite equiparte con objetos de botín generados proceduralmente que tienen poderosos bonos.$(p)Pero ten cuidado, también hay nuevos enemigos.",
+    "icon": "minecraft:netherite_sword",
+	"flag": "zenith:adventure"
+}

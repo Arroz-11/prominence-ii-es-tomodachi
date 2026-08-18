@@ -1,0 +1,18 @@
+{
+  "name": "Unidad de Almacenamiento Portátil",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:portable_storage_unit",
+
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/battery/portable_storage_unit_asbl",
+      "text": "La Unidad de Almacenamiento Portátil (PSU) se puede craftear para transportar energía en tu inventario. Se puede cargar y descargar haciendo clic derecho en cualquier unidad de almacenamiento."
+    },
+    {
+      "type": "text",
+      "text": "Por defecto, no tiene capacidad de almacenamiento de energía. Para agregar capacidad, debes llenarla con baterías haciendo clic derecho en la PSU con baterías o haciendo clic derecho en una batería con ella. Cuanto mayor sea el nivel de las baterías, más capacidad agregarán al almacenamiento. Puedes recuperar la batería haciendo clic derecho en un espacio vacío, pero cualquier exceso de energía se perderá."
+    }
+  ],
+  "sortnum": 112
+}

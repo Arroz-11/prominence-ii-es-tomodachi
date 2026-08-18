@@ -1,0 +1,29 @@
+{
+  "name": "Tuberías de Fluidos",
+  "icon": "ad_astra:ostrum_fluid_pipe",
+  "sortnum": 4,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Tuberías de Fluidos",
+      "item": "ad_astra:ostrum_fluid_pipe",
+      "text": "Las tuberías de fluidos son similares a los cables, pero transfieren fluidos en lugar de energía. Para usarlas, craftea algunas tuberías de fluidos y una llave inglesa. Luego, haz clic derecho en una de las tuberías con la llave inglesa para cambiar entre sus modos: 'ninguno', 'normal', 'insertar' y 'extraer'."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Las tuberías configuradas en 'insertar' recibirán fluidos de la red, mientras que las configuradas en 'extraer' bombearán fluidos hacia la red.",
+      "recipe": "ad_astra:desh_fluid_pipe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:ostrum_fluid_pipe",
+      "recipe2": "ad_astra:wrench"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:fluid_pipe_duct",
+      "text": "Al igual que los cables, las tuberías de fluidos también tienen un conducto para transferir fluidos de forma segura dentro y fuera de estructuras selladas."
+    }
+  ]
+}

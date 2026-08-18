@@ -1,0 +1,6 @@
+{
+    "name": "Módulo de Aldeas",
+    "description": "El Módulo de Aldeas añade varias cosas relacionadas con aldeas y aldeanos.",
+    "icon": "minecraft:textures/mob_effect/hero_of_the_village.png",
+	"flag": "zenith:village"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Próxima Centauri",
+  "icon": "ad_astra:/textures/painting/alpha_centauri.png",
+  "sortnum": 1,
+  "category": "ad_astra:the_hot_planets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Próxima Centauri",
+      "text": "Una vez que hayas encontrado suficiente Calorita para craftear un cohete de nivel cuatro, podrás salir de este sistema solar y entrar en uno nuevo. El primer planeta al que te dirigirás en Próxima Centauri es Glacio. Glacio es brutalmente frío; sin embargo, tiene oxígeno, lo que te permite sobrevivir allí sin traje espacial."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Este es el final de la progresión de Ad Astra por ahora. Esta guía se ampliará a medida que se agregue más contenido. ¡Gracias por jugar Ad Astra!"
+    }
+  ]
+}

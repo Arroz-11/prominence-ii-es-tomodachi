@@ -1,0 +1,55 @@
+{
+    "name": "Estadísticas de Encantamiento",
+    "icon": "minecraft:bookshelf",
+    "category": "zenith:enchanting/table",
+	"flag": "zenith:enchanting",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Con .zenith., el encantamiento depende de más que solo niveles.$(p)Actualmente hay cinco nuevas estadísticas de encantamiento.$(p)Los bloques que proporcionan estadísticas de encantamiento las mostrarán en su descripción."
+        },
+		{
+			"type": "patchouli:text",
+			"title": "Eterna",
+			"text": "$(eterna) es la estadística principal del encantamiento.$(p)Cada punto de $(eterna) aumenta el nivel máximo de encantamiento en dos.$(p)Algunos bloques solo pueden proporcionar $(eterna) hasta un cierto valor máximo."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Quanta",
+			"anchor": "quanta",
+			"text": "$(quanta) es una estadística secundaria. Controla la varianza del encantamiento.$(p)Durante el encantamiento, tienes un $(bpower), que es el nivel que gastaste para encantar, y luego un $(fpower), después de todas las modificaciones.$(p)$(quanta) es uno de los factores en el proceso de modificación."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Se selecciona un valor, entre $(4)1 - Quanta$() y $(9)1 + Quanta$().$(p)Tu $(fpower) es igual a ese valor multiplicado por tu $(bpower).$(p)Valores más altos de $(quanta) aumentan el rango de poder, lo que significa que tus encantamientos son menos consistentes en su $(fpower)."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Arcana",
+			"text": "$(arcana) es una estadística secundaria. Controla los pesos de rareza, y en ciertos umbrales te garantizará obtener encantamientos adicionales.$(p)Con 25% de $(arcana), siempre recibirás al menos dos encantamientos. Con 75%, siempre recibirás tres."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Por defecto, las rarezas tienen los siguientes pesos:$(p)Común: 10$(br)Poco común: 5$(br)Raro: 3$(br)Muy Raro: 1$(p)Cada 10% de $(arcana) cambia los pesos, eventualmente invirtiéndose por completo.$(p)Al pasar el cursor sobre la barra de $(arcana) se mostrarán los pesos actuales."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Rectificación",
+			"anchor": "rectification",
+			"text": "La rectificación es una estadística terciaria. Impacta directamente el límite inferior de las modificaciones de $(quanta).$(p)Recuerda que tu $(4)Poder Mínimo$() es igual a $(4)1 - Quanta$().$(p)Con Rectificación (R), tu $(4)Poder Mínimo$() es igual a $(4)1 - (1 - R) * Quanta$()."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Si eso no tiene mucho sentido, no te preocupes.$(p)Solo debes saber que valores más altos de Rectificación siempre son algo bueno.$(p)También puedes tener Rectificación negativa, lo cual siempre es malo."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Pistas",
+			"text": "Las pistas son otra estadística terciaria.$(p)Cada pista te permite ver un elemento adicional en la ventana de vista previa.$(p)Cuando puedes ver todos los encantamientos disponibles, el texto cambiará ligeramente."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "También puedes bajar a cero pistas y no poder ver nada."
+		}
+	]
+}

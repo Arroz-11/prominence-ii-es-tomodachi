@@ -1,0 +1,13 @@
+{
+    "name": "Perforar Protección",
+    "icon": "zenith:textures/mob_effect/sundering.png",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Perforar Protección$() te permite ignorar una cantidad fija de los puntos de protección de tu objetivo al atacar.$(p)El exceso de Perforar Protección no hace que tu objetivo tenga protección negativa."
+        }
+	]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Tanques y Barriles",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_tank",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Los tanques de bronce pueden almacenar 4 cubos de fluido cada uno, puedes usarlos para interactuar con máquinas y puedes colocarlos en el mundo.$(br2)Los barriles de bronce se pueden usar para almacenar y mover 32 pilas de un solo objeto. ¡Revisa las siguientes páginas para más información!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/bronze/craft/tank",
+      "text": "Cuando se colocan en el mundo, puedes hacer clic derecho con cubos u otros tanques para transferir fluidos.$(br2)Además, puedes apilarlos en tu inventario si tienen el mismo contenido. ¡Qué práctico!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/bronze/craft/barrel",
+      "text": "Clic izquierdo para dar una pila a un barril colocado (shift para dar tanto como sea posible).$(br2)Clic derecho para tomar una pila de un barril colocado (shift para tomar solo 1 objeto)."
+    },
+    {
+      "type": "text",
+      "text": "Si rompes un barril, conservará su contenido almacenado y obtendrás un objeto con el que puedes interactuar.$(br2)Clic izquierdo en un objeto de barril con un objeto para insertarlo en el barril.$(br2)Clic izquierdo en el objeto de barril en una ranura vacía para extraer algunos objetos de él."
+    }
+  ],
+  "sortnum": 7
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Tijeras",
+    "icon": "minecraft:shears",
+    "category": "zenith:enchanting/changes",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Junto con los nuevos encantamientos, las Tijeras ahora también pueden recibir $(9)Irrumpir$(), $(9)Eficiencia$() y $(9)Fortuna$()."
+        }
+	]
+}

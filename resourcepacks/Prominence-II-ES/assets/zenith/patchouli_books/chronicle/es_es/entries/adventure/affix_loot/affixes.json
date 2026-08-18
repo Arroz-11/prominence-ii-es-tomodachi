@@ -1,0 +1,38 @@
+{
+    "name": "Afijos",
+    "icon": "minecraft:experience_bottle",
+    "category": "zenith:adventure/affix_loot",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Un $(6)Afijo$() es la fuerza impulsora detrás de los Objetos con Afijos. Cada afijo es muy similar a un encantamiento, proporcionando un bonus específico al objeto al que está unido.$(p)Este libro no listará todos los afijos, ya que eso es para que tú lo descubras, pero te ayudará a explicarlos."
+        },
+		{
+			"type": "patchouli:text",
+			"title": "Tipos de Afijos",
+			"text": "Hay algunos tipos diferentes de afijos, cada tipo teniendo un conjunto específico de funcionalidad que puede proporcionar.$(p)Qué tipos de afijos se aplican a un objeto dependen de la $(l:zenith:adventure/affix_loot/rarities)Rareza$() del objeto."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Afijos de Estadísticas",
+			"text": "El tipo más común de afijos son los afijos de estadísticas. Estos afijos proporcionan un bonus simple a un atributo específico, y están disponibles en todas las rarezas. Las rarezas más altas reciben afijos de estadísticas adicionales."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Afijos de Efectos",
+			"text": "Los afijos de efectos son el tipo más interesante de afijo. Tienen libre albedrío para añadir todo tipo de funcionalidad adicional a tus objetos, desde bonificaciones de utilidad simples hasta fuertes efectos de combate.$(p)Estos solo se pueden encontrar en objetos Raros+."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Enchufes",
+			"text": "Un Enchufe es un tipo especial de afijo que simplemente proporciona un recipiente para una $(l:zenith:adventure/affix_loot/gems)Gema$().$(p)Las Gemas pueden transmitir grandes bonificaciones, pero pueden ser difíciles de encontrar."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "El Afijo de Durabilidad",
+			"text": "El Afijo de Durabilidad hace que un objeto sea más resistente al daño, y está presente en todos los objetos Raros+.$(p)Se aplica después de todas las otras resistencias al daño, haciéndolo multiplicativo con Irrompibilidad."
+		}
+	]
+}

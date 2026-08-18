@@ -1,0 +1,20 @@
+{
+  "name": "¡Mejoras!",
+  "category": "modern_industrialization:midgame",
+  "icon": "modern_industrialization:basic_upgrade",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Mejoras de Overclock",
+      "item": "modern_industrialization:basic_upgrade",
+      "text": "¿Sabías que las máquinas eléctricas normales tienen un overclock limitado a 32 EU/t, y los multibloques eléctricos tienen un overclock limitado a 128 EU/t?$(br2) ¡En el menú de la máquina o multibloque, añade mejoras para aumentar su overclock máximo! Consulta REI para las cantidades exactas."
+    },
+    {
+      "type": "spotlight",
+      "title": "Mejoras de Carcasa de Máquina",
+      "item": "modern_industrialization:advanced_machine_hull",
+      "text": "¡Sí puedes! Haz clic derecho en una máquina con una Carcasa de Máquina Avanzada para cambiarla a nivel MV: ahora solo aceptará conexiones de cable MV. La carcasa de la máquina también se puede configurar o limpiar a través de la interfaz de usuario."
+    }
+  ],
+  "sortnum": 200
+}

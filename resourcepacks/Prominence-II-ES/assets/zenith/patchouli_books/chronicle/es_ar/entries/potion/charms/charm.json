@@ -1,0 +1,28 @@
+{
+    "name": "Amuletos de Poción",
+    "icon": "zenith:potion_charm",
+    "category": "zenith:potion/charms",
+	"flag": "zenith:potion",
+	"sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Un $(9)Amuleto de Poción$() es un objeto nuevo que te ayuda a aprovechar al máximo tus pociones.$(p)Verás, mientras que una poción normal requiere que la bebas y uses todo el efecto de una vez, el $(9)Amuleto de Poción$() te permite dosificarlo."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "zenith:potion_charm",
+			"title": "Crafteo de Amuleto de Poción",
+            "text": "Un amuleto se hace con tres pociones del mismo tipo y un poco de polvo de blaze.$(p)Un solo amuleto dura más que las tres pociones combinadas."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Usando Amuletos de Poción",
+            "text": "Un $(9)Amuleto de Poción$() solo está activo cuando está habilitado.$(p)Para habilitar un amuleto, simplemente haz clic derecho con él en la mano.$(p)Un amuleto habilitado comenzará a brillar."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Mientras el amuleto esté activo y en tu inventario, te aplicará la poción, consumiendo durabilidad.$(p)El amuleto solo aplicará un par de segundos de poción a la vez.$(p)Cuando el amuleto se quede sin durabilidad, se romperá."
+        }
+	]
+}

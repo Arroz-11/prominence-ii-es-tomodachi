@@ -1,0 +1,13 @@
+{
+    "name": "Robo de vida",
+    "icon": "zenith:textures/mob_effect/bleeding.png",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tu $(9)Robo de vida$() es el porcentaje de tu daño físico infligido que se añade directamente a tu salud.$(p)Generalmente, solo las armas proporcionan esta estadística."
+        }
+	]
+}

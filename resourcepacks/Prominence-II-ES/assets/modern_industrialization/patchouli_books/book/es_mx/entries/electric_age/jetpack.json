@@ -1,0 +1,28 @@
+{
+  "name": "Jetpack de Diesel y Herramientas",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:diesel_jetpack",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:armor/diesel_jetpack",
+      "text": "Jetpack a toda máquina... ¡Cuanto más potente sea el combustible, más rápido irá el jetpack! Recomendamos Botas de Goma y un Casco de Goma...$(br2)¡No olvides activarlo usando la tecla de $(o)Alternar Vuelo$()!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:armor/rubber_helmet",
+      "recipe2": "modern_industrialization:armor/rubber_boots"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/diesel_mining_drill",
+      "text": "Este Taladro de Minería puede finalmente reemplazar tus Picos y Palas. ¡Llénalo con combustible potente para obtener la mejor velocidad!$(br2)Alterna entre Toque de Seda y Fortuna III con clic derecho en mayúsculas."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/diesel_chainsaw",
+      "text": "¡Tala árboles con estilo!"
+    }
+  ],
+  "sortnum": 110
+}

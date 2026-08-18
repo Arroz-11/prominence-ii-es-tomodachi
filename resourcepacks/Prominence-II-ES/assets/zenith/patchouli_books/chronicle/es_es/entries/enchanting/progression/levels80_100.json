@@ -1,0 +1,32 @@
+{
+    "name": "Niveles 80 - 100",
+    "icon": "zenith:endshelf",
+    "category": "zenith:enchanting/progression",
+	"flag": "zenith:enchanting",
+    "pages": [
+		{
+            "type": "patchouli:spotlight",
+			"title": "Alcanzando el Nivel 90",
+			"item": "zenith:infused_breath",
+			"text": "Acceder al penúltimo nivel requiere una mesa de Nivel 80 y acceso a la $(9)Respiración de Dragón$().$(p)Con esto, puedes crear $(9)Respiración de Dragón Infundida$(), un componente central de las $(9)Librerías del End$()."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzando el Nivel 90",
+			"recipe": "zenith:endshelf",
+			"recipe2": "zenith:pearl_endshelf"
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Alcanzando el Nivel 100",
+			"item": "minecraft:dragon_head",
+			"text": "El nivel más alto que puede alcanzar una Mesa de Encantamientos es el Nivel 100, pero solo una estantería puede proporcionar tanto poder.$(p)Crear tal estantería requiere aventurarse en el End exterior para obtener una $(9)Cabeza de Dragón$()."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzando el Nivel 100",
+			"recipe": "zenith:draconic_endshelf",
+			"text": "Una sola $(9)Librería Dracónica$() proporciona suficiente fuerza bruta para elevar una mesa del Nivel 90 al Nivel 100.$(p)Sin embargo, no proporciona otras bonificaciones de estadísticas."
+		}
+	]
+}

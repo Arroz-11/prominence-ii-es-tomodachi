@@ -1,0 +1,13 @@
+{
+    "name": "Daño de Fuego",
+    "icon": "minecraft:blaze_powder",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Daño de Fuego$() es daño mágico adicional aplicado a los ataques cuerpo a cuerpo. También prende fuego al objetivo por un corto tiempo. Un mayor daño aumenta la duración del fuego.$(p)Se encuentra en armas cuerpo a cuerpo."
+        }
+	]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Jefes",
+    "description": "Un $(9)Jefe$() es un enemigo que ha aprovechado el poder de los afijos.$(p)Por lo general, puedes identificarlo por su nombre único y su equipo poderoso.",
+    "icon": "zenith:boss_summoner",
+	"flag": "zenith:adventure",
+	"parent": "zenith:adventure/adventure"
+}

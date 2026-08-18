@@ -1,0 +1,19 @@
+{
+  "name": "¿Recursos Infinitos?",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:steam_quarry",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:steam_quarry",
+      "title": "La Cantera de Vapor",
+      "text": "La Cantera de Vapor es una máquina multibloque de vapor que consume brocas de bronce, las usa para cavar más profundo que la roca base y te devuelve algunos minerales, como puedes ver en REI.$(br2)Se recomienda que tengas varios SBFs funcionando antes de intentar construirla porque requiere $(l)mucho acero$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:quarry/drill/bronze_drill_asbl",
+      "text": "Si este es el primer multibloque que estás construyendo, asegúrate de leer $(l:modern_industrialization:steam_age/coke_oven)la entrada de la Horno de Coque$()! Explica cómo funcionan los multibloques, cómo verificar si la estructura es correcta y cómo usar las compuertas."
+    }
+  ],
+  "sortnum": 12
+}

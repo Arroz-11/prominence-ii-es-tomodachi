@@ -1,0 +1,39 @@
+{
+    "name": "Gemas",
+    "icon": "zenith:gem",
+    "category": "zenith:adventure/affix_loot",
+	"flag": "zenith:adventure",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Una $(9)Gema$() es un cristal de fuerza condensada.$(p)Cuando se engarza en un objeto con afijos, una Gema proporcionará un poderoso beneficio.$(p)Las Gemas pueden dar diferentes beneficios en diferentes objetos, y pueden mejorarse."
+        },
+		{
+			"title": "Rareza",
+            "type": "patchouli:text",
+            "text": "Como un Objeto con Afijos, cada gema tiene una $(l:zenith:adventure/affix_loot/rarities)Rareza$().$(p)La rareza por sí sola determina la fuerza de la gema, y las gemas de mayor rareza son más caras de mejorar.$(p)Las Gemas no pueden mejorarse más allá de la rareza Antigua."
+        },
+		{
+			"type": "patchouli:text",
+			"title": "Obtener Gemas",
+			"text": "Las Gemas se pueden encontrar en el botín de cofres, y raramente pueden aparecer al matar mobs. Sin embargo, para que una gema caiga, el asesino debe ser un jugador real, no una máquina u otra fuente de automatización.$(p)Las Gemas tienen más probabilidades de caer de los Jefes."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Engarzar Gemas",
+			"text": "Para engarzar una gema en un objeto, combina los dos en una Mesa de Herrería.$(p)Cada gema indica en qué objetos puede encajar.$(p)Algunas gemas son $(#C73912)Únicas$(), lo que significa que solo una copia de esa gema puede estar engarzada en un objeto."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Quitar Gemas",
+			"text": "Quitar gemas de un objeto era un proceso difícil, pero algunos alquimistas inteligentes descubrieron cómo hacerlo.$(p)Sus notas se detallan en la siguiente página."
+		},
+		{
+            "type": "patchouli:crafting",
+			"recipe": "zenith:sigil_of_withdrawal",
+			"title": "Sello de Extracción",
+			"text": "Combina un objeto engarzado con un $(9)Sello de Extracción$() en una mesa de herrería para quitar las gemas engarzadas de un objeto. El objeto y todas las gemas serán devueltos."
+		}
+	]
+}

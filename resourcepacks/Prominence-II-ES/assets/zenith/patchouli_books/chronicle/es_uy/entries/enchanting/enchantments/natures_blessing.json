@@ -1,0 +1,13 @@
+{
+    "name": "Bendición de la Naturaleza",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Bendición de la Naturaleza$() es un encantamiento para azadas.$(p)Permite usar la azada como polvo de hueso, a costa de durabilidad.$(p)Niveles más altos del encantamiento reducen el costo de durabilidad."
+        }
+	]
+}

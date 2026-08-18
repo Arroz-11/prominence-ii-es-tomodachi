@@ -1,0 +1,31 @@
+{
+  "name": "Caldera de vapor grande",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:large_steam_boiler",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/large_steam_boiler_asbl",
+      "text": "La Caldera de vapor grande es una versión mejorada de las calderas de bronce y acero más pequeñas. Usa combustible 8 veces más rápido que el Horno, pero produce 256 mb/t de vapor cuando está completamente calentada."
+    },
+    {
+      "type": "text",
+      "text": "A diferencia de su contraparte de un solo bloque, en la Caldera de vapor grande, el 80% del calor no consumido se perderá. Esto significa que la proporción de energía producida por combustible consumido disminuirá drásticamente cuando la producción baje del máximo. Esto sucederá cuando la Caldera no se use continuamente a máxima producción."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/casing/bronze_plated_bricks_asbl",
+      "text": "El bloque principal que necesitarás son los Ladrillos chapados en bronce, pero también necesitarás Carcasas de tubería de bronce y Carcasas de máquina resistentes al calor."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/casing_pipe_asbl",
+      "recipe2": "modern_industrialization:electric_age/casing/heatproof_machine_casing_asbl"
+    },
+    {
+      "type": "text",
+      "text": "La Caldera de vapor grande se compone de una capa de Carcasas de máquina resistentes al calor y tres capas de Ladrillos chapados en bronce.$(br2)El controlador va en la segunda capa (es decir, la primera capa de Ladrillos chapados en bronce).$(br2)Los dos bloques del medio son Carcasas de tubería de bronce.$(br2)Las escotillas deben colocarse en la capa inferior."
+    }
+  ],
+  "sortnum": 103
+}

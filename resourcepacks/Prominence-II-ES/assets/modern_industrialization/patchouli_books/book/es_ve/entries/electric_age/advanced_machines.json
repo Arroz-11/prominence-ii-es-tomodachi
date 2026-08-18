@@ -1,0 +1,39 @@
+{
+  "name": "Máquinas Avanzadas",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:advanced_machine_hull",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Aluminio",
+      "item": "modern_industrialization:aluminum_ingot",
+      "text": "El aluminio es un material que se usa para fabricar máquinas más avanzadas. Al igual que las otras máquinas eléctricas, estas nuevas máquinas solo se conectarán a cables de bajo voltaje. Pon polvo de bauxita en un Alto Horno Eléctrico y obtendrás pepitas de aluminio."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/centrifuge_asbl",
+      "text": "La Centrífuga separa los objetos haciéndolos girar muy rápido. Puedes usarla para hacer polvo de carbono y desbloquear mejores recetas para el acero y el silicio."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/chemical_reactor_asbl",
+      "text": "El Reactor químico puede hacer reaccionar objetos y fluidos."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/distillery_asbl",
+      "text": "La Destilería convertirá varios fluidos en sus partes más ligeras. Eso será muy útil para el Procesamiento de Petróleo."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/electrolyzer_asbl",
+      "text": "El Electrolizador puede separar materiales en sus diferentes partes usando fuertes corrientes eléctricas. Puedes electrolizar polvo de bauxita para obtener polvo de aluminio, que luego puedes fundir directamente en lingotes de aluminio en el EBF."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/configurable_tank_asbl",
+      "text": "El Tanque Configurable es el equivalente de fluidos del Cofre Configurable.$(br2)Tiene 9 ranuras configurables que pueden contener 16 cubos cada una, ¡y funcionalidad de extracción automática! ¡Útil para la automatización con muchos fluidos diferentes!"
+    }
+  ],
+  "sortnum": 107
+}

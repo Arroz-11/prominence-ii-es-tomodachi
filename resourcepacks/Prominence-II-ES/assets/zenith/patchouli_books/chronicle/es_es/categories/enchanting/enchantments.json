@@ -1,0 +1,7 @@
+{
+    "name": "Nuevos Encantamientos",
+    "description": "Cada entrada en esta sección detalla un nuevo encantamiento añadido por este módulo.$(p)Los encantamientos añadidos por otros módulos no se cubrirán aquí.",
+    "icon": "minecraft:enchanted_book",
+	"flag": "zenith:enchanting",
+	"parent": "zenith:enchanting/enchanting"
+}

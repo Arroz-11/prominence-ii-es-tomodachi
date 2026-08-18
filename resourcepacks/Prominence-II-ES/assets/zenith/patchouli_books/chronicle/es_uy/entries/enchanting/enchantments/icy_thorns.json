@@ -1,0 +1,13 @@
+{
+    "name": "Espinas Heladas",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Espinas Heladas$() es un encantamiento para petos.$(p)Aplica lentitud a los atacantes. La duración y la fuerza aumentan con el nivel del encantamiento.$(p)Es exclusivo con $(9)Espinas$()."
+        }
+	]
+}

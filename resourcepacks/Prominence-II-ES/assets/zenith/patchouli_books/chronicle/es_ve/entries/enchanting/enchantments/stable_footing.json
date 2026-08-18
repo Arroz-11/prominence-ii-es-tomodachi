@@ -1,0 +1,17 @@
+{
+    "name": "Pie Firme",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Pie Firme$() es un encantamiento para botas.$(p)Hace que la penalización de velocidad de excavación al volar se invierta.$(p)Esto incluye todas las penalizaciones por no estar parado en el suelo."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Cuando se combina con $(9)Afinidad Acuática$(), puedes tener velocidad de excavación completa al nadar."
+		}
+	]
+}

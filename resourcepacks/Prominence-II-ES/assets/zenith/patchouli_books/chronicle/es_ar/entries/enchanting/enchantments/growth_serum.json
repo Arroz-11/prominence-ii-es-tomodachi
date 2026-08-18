@@ -1,0 +1,13 @@
+{
+    "name": "Suero de Crecimiento",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Suero de Crecimiento$() es un encantamiento de Maestría para tijeras.$(p)Hace que las ovejas tengan un 50% de probabilidad de regenerar su lana inmediatamente."
+        }
+	]
+}

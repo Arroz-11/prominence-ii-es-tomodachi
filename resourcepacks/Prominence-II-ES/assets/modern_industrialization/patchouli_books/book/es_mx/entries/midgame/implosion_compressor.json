@@ -1,0 +1,19 @@
+{
+  "name": "¡Compresor de implosión!",
+  "category": "modern_industrialization:midgame",
+  "icon": "modern_industrialization:implosion_compressor",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Una gema azul familiar",
+      "item": "minecraft:diamond",
+      "text": "Usando TNT industrial, el Compresor de implosión puede comprimir polvos y lingotes de los materiales más resistentes. Esto incluye tungsteno, aleación a prueba de explosiones, berilio (estos materiales son muy importantes para la fisión nuclear) y ¡por fin diamantes!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/implosion_compressor_asbl",
+      "text": "Con suerte ya aprendiste a revisar cada receta de REI, así que deberías encontrar fácilmente que los Lingotes Mezclados a Prueba de Explosiones y las Pepitas de tungsteno se pueden hacer con un Compresor... ¡hasta que tengas tu primer Compresor de implosión, claro!"
+    }
+  ],
+  "sortnum": 205
+}

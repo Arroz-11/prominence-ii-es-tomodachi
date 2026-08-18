@@ -1,0 +1,19 @@
+{
+  "name": "Encantamientos de Tesoro",
+  "icon": "zenith:treasure_shelf",
+  "category": "zenith:enchanting/utility",
+  "flag": "zenith:enchanting",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los encantamientos de tesoro son encantamientos especiales que normalmente no están disponibles en la Mesa de Encantamientos.$(p)Sin embargo, esto se puede remediar con una $(9)Estantería Profunda de Tesoros Arcanos$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "zenith:treasure_shelf",
+      "title": "Tesoros Arcanos",
+      "text": "Colocar esta estantería en una ranura válida hará que aparezcan encantamientos de tesoro mientras encantas.$(p)Ten en cuenta que la mayoría de las $(4)Maldiciones$() son encantamientos de tesoro."
+    }
+  ]
+}

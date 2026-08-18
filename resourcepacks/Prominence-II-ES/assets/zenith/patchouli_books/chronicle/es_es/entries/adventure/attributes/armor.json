@@ -1,0 +1,25 @@
+{
+    "name": "Armadura",
+    "icon": "minecraft:iron_chestplate",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La $(9)Armadura$() es una medida de qué tan resistente eres al daño físico.$(p)Generalmente la proporcionan los objetos de armadura y los escudos.$(p)La cantidad de daño que recibes es una función del daño entrante y tu armadura."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "El primer componente de la fórmula es el $(br)valor A, igual a $(9)10 + (daño - 20) / 2$(), con un valor mínimo de $(9)10$().$(p)Luego reduces el daño en una cantidad igual a $(br)$(9)A / (A + armadura)$().$(p)La fórmula mencionada no es la que usa Minecraft Vanilla, ya que Zenith la reemplaza."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Para valores de armadura y daño de vainilla, te encontrarás recibiendo ligeramente menos daño.$(p)Para valores altos de armadura y daño, la armadura será significativamente menos efectiva."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "El objetivo de este cambio es reducir la invulnerabilidad en niveles altos y hacer que $(9)Protección$() y $(9)Resistencia$() sean más impactantes.$(p)También hace que las peleas donde ambas partes están fuertemente armadas sean significativamente más activas."
+		}
+	]
+}

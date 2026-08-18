@@ -1,0 +1,17 @@
+{
+    "name": "Sangrado",
+    "icon": "zenith_attributes:textures/mob_effect/bleeding.png",
+    "category": "zenith:potion/effects",
+	"flag": "zenith:potion",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(c)Sangrado$() es un efecto negativo aplicado por las $(l:zenith:village/fletching#broadhead)Flechas de Cabeza Ancha$().$(p)Hace que recibas daño cada dos segundos."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "El daño aumenta con el nivel de $(c)Sangrado$().$(p)El daño de $(c)Sangrado$() ignora la armadura."
+        }
+	]
+}

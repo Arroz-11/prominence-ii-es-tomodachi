@@ -1,0 +1,17 @@
+{
+    "name": "Probabilidad de crítico",
+    "icon": "minecraft:netherite_sword",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Probabilidad de crítico$() es la probabilidad de que cualquier daño que inflijas se convierta en un golpe crítico. Valores superiores al 100% te permiten realizar multicríticos.$(p)Se encuentra en armas."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "La cantidad de daño que infligen tus golpes críticos depende de tu $(l:zenith:adventure/attributes/crit_damage)Daño crítico$()."
+		}
+	]
+}

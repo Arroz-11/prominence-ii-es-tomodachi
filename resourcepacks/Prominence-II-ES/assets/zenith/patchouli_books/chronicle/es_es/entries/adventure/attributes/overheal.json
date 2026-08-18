@@ -1,0 +1,13 @@
+{
+    "name": "Sobrecuración",
+    "icon": "minecraft:experience_bottle",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tener $(9)Sobrecuración$() significa que parte del daño físico que inflijas se convertirá en un escudo de absorción. A diferencia del robo de vida, la Sobrecuración funciona cuando estás con salud completa.$(p)Este atributo solo se encuentra en armas pesadas."
+        }
+	]
+}

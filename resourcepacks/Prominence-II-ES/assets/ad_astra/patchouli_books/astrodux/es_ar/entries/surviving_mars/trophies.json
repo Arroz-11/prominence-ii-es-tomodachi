@@ -1,0 +1,20 @@
+{
+  "name": "Trofeos",
+  "icon": "ad_astra:mars_globe",
+  "sortnum": 0,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Globos",
+      "item": "ad_astra:earth_globe",
+      "text": "Los globos son bloques de trofeo que se encuentran como recompensa al final de una mazmorra. Los globos no ofrecen ninguna función práctica y son en cambio un bloque decorativo. Se pueden girar haciendo clic derecho o pueden girar para siempre cuando se alimentan con redstone. Solo el globo de la Luna se puede obtener en supervivencia por ahora."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Pinturas Espaciales",
+      "item": "ad_astra:space_painting",
+      "text": "Las pinturas espaciales se encuentran en cofres a lo largo de las mazmorras. Funcionan exactamente como las pinturas normales, pero solo colocan pinturas de este mod. Hay 14 piezas que buscar."
+    }
+  ]
+}

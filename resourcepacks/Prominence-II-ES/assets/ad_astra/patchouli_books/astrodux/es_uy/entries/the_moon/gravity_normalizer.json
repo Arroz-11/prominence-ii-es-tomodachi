@@ -1,0 +1,19 @@
+{
+  "name": "Normalizador de gravedad",
+  "icon": "ad_astra:gravity_normalizer",
+  "sortnum": 3,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Normalizador de gravedad",
+      "item": "ad_astra:gravity_normalizer",
+      "text": "El normalizador de gravedad te permite crear gravedad artificial en un área sellada, similar al distribuidor de oxígeno. Cuenta con un control deslizante para establecer la gravedad objetivo, desde 0-G hasta 2-G. Los normalizadores de gravedad usan una cantidad considerable de energía para funcionar, así que evítalos si tu estructura no lo necesita."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Receta del Normalizador de gravedad",
+      "recipe": "ad_astra:gravity_normalizer"
+    }
+  ]
+}

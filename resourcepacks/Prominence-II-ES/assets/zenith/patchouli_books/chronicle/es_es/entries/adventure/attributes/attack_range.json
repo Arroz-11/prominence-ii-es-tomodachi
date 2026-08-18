@@ -1,0 +1,13 @@
+{
+    "name": "Alcance de golpe",
+    "icon": "minecraft:skeleton_skull",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tu $(9)Alcance de golpe$() es la distancia máxima a la que puedes atacar objetivos con un arma cuerpo a cuerpo.$(p)Generalmente se encuentra en armas."
+        }
+	]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Velocidad de Nado",
+    "icon": "minecraft:kelp",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Velocidad de Nado$() es un modificador a tu velocidad de nado real. Si tu velocidad de nado fuera 200%, nadarías el doble de rápido.$(p)Solo se encuentra en botas."
+        }
+	]
+}

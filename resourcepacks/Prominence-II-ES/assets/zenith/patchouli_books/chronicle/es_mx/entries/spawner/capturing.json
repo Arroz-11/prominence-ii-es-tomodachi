@@ -1,0 +1,19 @@
+{
+    "name": "Captura",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:spawner/spawner",
+	"flag": "zenith:spawner",
+	"sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Los Generadores de criaturas pueden cambiar su entidad usando un $(9)Huevo de aparición$().$(p)Normalmente, estos son imposibles de obtener. Para remediarlo, Zenith añade el encantamiento $(9)Captura$() para espadas."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "minecraft:cow_spawn_egg",
+			"title": "Huevos de aparición",
+            "text": "Cada nivel del encantamiento $(9)Captura$() te da un 0.4% de probabilidad de que las entidades suelten su huevo de aparición al morir.$(p)Las entidades sin un huevo de aparición (como se ve en JEI) no pueden soltar uno."
+        }
+	]
+}

@@ -1,0 +1,64 @@
+{
+    "name": "El Menú de Información",
+    "icon": "zenith:textures/gui/book/question_mark.png",
+    "category": "zenith:enchanting/table",
+	"flag": "zenith:enchanting",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La mesa de encantamientos tiene una pantalla útil para que aprendas qué encantamientos están disponibles.$(p)Para acceder a ella, coloca un objeto en la mesa de encantamientos y haz clic en el signo de interrogación en la esquina superior derecha."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "El propósito de este capítulo es presentar esta pantalla y ayudarte a navegarla.$(p)Si la entiendes por completo, nunca más te confundirás con el encantamiento."
+		},
+		{
+            "type": "patchouli:image",
+			"title": "El Selector de Ranuras",
+			"images": [
+				"zenith:textures/gui/book/slot_selector.png"
+			],
+			"text": "Esto te permite seleccionar qué ranura de encantamiento inspeccionar."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "La ranura seleccionada actualmente se resaltará, y las ranuras que no estén disponibles se atenuarán.$(p)Al pasar el cursor sobre la ranura, verás el nivel, el $(4)Poder Mínimo$() y el $(9)Poder Máximo$()."
+		},
+		{
+            "type": "patchouli:image",
+			"title": "Ventana de Encantamientos",
+			"images": [
+				"zenith:textures/gui/book/enchantments_window.png"
+			],
+			"text": "Esto te muestra qué encantamientos están disponibles."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Dado el objeto actual y el nivel de poder seleccionado, hay una cierta variedad de encantamientos disponibles.$(p)Esta ventana te muestra cada encantamiento, su nivel, rareza y probabilidad de ser seleccionado.$(p)También mostrará qué encantamientos son exclusivos entre sí."
+		},
+		{
+            "type": "patchouli:image",
+			"title": "El Control de Poder",
+			"images": [
+				"zenith:textures/gui/book/power_slider.png"
+			],
+			"text": "Esto te permite cambiar el nivel de poder simulado."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Cuando seleccionas una ranura, el Control de Poder selecciona automáticamente el nivel de poder justo en el medio del rango de poder.$(p)El control solo puede bajar hasta el $(4)Poder Mínimo$() y subir hasta el $(9)Poder Máximo$() para la ranura actual."
+		},
+		{
+            "type": "patchouli:image",
+			"title": "Pesos de Rareza",
+			"images": [
+				"zenith:textures/gui/book/weights.png"
+			],
+			"text": "Esto muestra el peso de cada rareza."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Cada encantamiento tiene una rareza, y cada rareza tiene un peso.$(p)La probabilidad de seleccionar un encantamiento es su peso individual dividido por el grupo total (de los pesos de todos los encantamientos disponibles).$(p)$(arcana) puede cambiar los pesos de rareza."
+		}
+	]
+}

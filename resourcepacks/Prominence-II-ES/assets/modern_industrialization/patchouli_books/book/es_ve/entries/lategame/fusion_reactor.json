@@ -1,0 +1,18 @@
+{
+  "name": "FUUUUUSIÓN",
+  "category": "modern_industrialization:endgame",
+  "icon": "modern_industrialization:fusion_reactor",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/fusion_reactor_asbl",
+      "text": "¡El Reactor de Fusión es la fuente de energía definitiva! Puede combinar Deuterio, Tritio y/o Helio-3 en Plasma de Helio, ¡el combustible más poderoso del juego! Sin embargo, requiere una gran cantidad de energía para iniciar la reacción."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/plasma_turbine_asbl",
+      "text": "La Turbina de Plasma puede convertir Plasma de Helio en EU, a una tasa de 100 kEU por milibalde. Su tasa máxima de producción es aproximadamente 1 MEU/t."
+    }
+  ],
+  "sortnum": 302
+}

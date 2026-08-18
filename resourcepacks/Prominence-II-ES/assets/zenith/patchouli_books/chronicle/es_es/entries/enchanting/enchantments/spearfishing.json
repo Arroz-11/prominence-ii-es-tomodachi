@@ -1,0 +1,13 @@
+{
+    "name": "Pesca Submarina",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Pesca Submarina$() es un encantamiento para tridentes.$(p)Da a los asesinatos con un tridente lanzado un 3.5% de probabilidad por nivel de soltar algunos peces al azar."
+        }
+	]
+}

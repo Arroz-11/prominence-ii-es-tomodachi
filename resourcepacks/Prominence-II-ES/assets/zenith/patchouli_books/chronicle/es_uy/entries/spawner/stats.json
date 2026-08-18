@@ -1,0 +1,67 @@
+{
+    "name": "Estadísticas del Generador",
+    "icon": "minecraft:writable_book",
+    "category": "zenith:spawner/spawner",
+	"flag": "zenith:spawner",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Cada Generador de Criaturas tiene $(9)Estadísticas del Generador$(), que dictan su funcionamiento.$(p)Cuánto tiempo entre apariciones, cuántas criaturas aparecen, etc.$(p)Este capítulo detalla todas ellas."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Retraso de Aparición",
+            "text": "Después de que un Generador de Criaturas genera una entidad, hay un retraso hasta la siguiente aparición.$(p)Ese retraso es un número aleatorio entre el $(9)Retraso Mínimo de Aparición$() y el $(9)Retraso Máximo de Aparición$().$(p)Si el Retraso Máximo está por debajo del Retraso Mínimo, se usa el Retraso Mínimo."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Cantidad de Aparición",
+            "text": "La $(9)Cantidad de Aparición$() dicta cuántas criaturas aparecen a la vez.$(p)No todas las apariciones tendrán éxito, así que a veces aparecerán menos entidades.$(p)La aparición se cuenta como exitosa (y el retraso se reinicia) siempre que aparezca al menos una entidad."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Máximo de Entidades",
+            "text": "Los Generadores de Criaturas rastrean el número de entidades cercanas.$(p)Si ese número excede el $(9)Máximo de Entidades$(), la aparición se detiene.$(p)Solo se cuentan las entidades del mismo tipo que la generada."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Rango de Activación",
+            "text": "Los Generadores de Criaturas requieren un jugador cercano para funcionar.$(p)Ese jugador debe estar dentro del $(9)Rango de Activación$(), que es un radio en bloques, para que el generador funcione."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Rango de Aparición",
+            "text": "El $(9)Rango de Aparición$() es un radio en bloques de qué tan lejos pueden aparecer las entidades.$(p)Intenta asegurarte de que esta área sea adecuada para las entidades, de lo contrario algunas apariciones pueden fallar."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Ignorar Jugadores",
+            "text": "Un generador que $(9)Ignora Jugadores$() no necesita un jugador dentro del $(9)Rango de Activación$().$(p)Funcionará con o sin uno."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Ignorar Condiciones",
+            "text": "Un generador que $(9)Ignora Condiciones$() ya no requerirá ciertas condiciones de aparición específicas de la criatura.$(p)Estas incluyen cosas como el requisito de hierba para los animales.$(p)Solo necesitará espacio suficiente y una falta de entidades cercanas."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Control de redstone",
+            "text": "Un generador con $(9)Control de redstone$() requiere una señal de redstone para funcionar.$(p)Esto te permite controlar cuándo está operando el generador."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Ignorar Luz",
+            "text": "Un generador que $(9)Ignora Luz$() funcionará en todos los niveles de luz.$(p)Esto significa que las criaturas pueden aparecer a la luz del día.$(p)Si ya $(9)Ignora Condiciones$(), entonces este modificador no hace nada."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Sin IA",
+            "text": "Un generador con $(9)Sin IA$() habilitado generará criaturas sin ninguna IA.$(p)Normalmente, estas criaturas simplemente flotarán allí, inmóviles, sin hacer nada.$(p)Sin embargo, las creadas por Zenith aún pueden ser movidas."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Si estás haciendo granjas de criaturas grandes, siempre deberías utilizar la mejora $(9)Sin IA$().$(p)Causa una carga de servidor significativamente reducida y hace que las criaturas sean más fáciles de controlar."
+        }
+	]
+}

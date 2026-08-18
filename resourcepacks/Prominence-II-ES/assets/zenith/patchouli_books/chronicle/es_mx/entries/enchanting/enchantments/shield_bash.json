@@ -1,0 +1,13 @@
+{
+    "name": "Golpescudo",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Golpescudo$() es un encantamiento para escudos.$(p)Hace que los ataques cuerpo a cuerpo con ese escudo hagan daño extra.$(p)Sin embargo, atacar con $(9)Golpescudo$() causa daño adicional de durabilidad."
+        }
+	]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Módulo de Generadores",
+    "description": "El Módulo de Generadores te permite mover y modificar $(9)Generadores de Mobs$().",
+    "icon": "minecraft:spawner",
+	"flag": "zenith:spawner"
+}

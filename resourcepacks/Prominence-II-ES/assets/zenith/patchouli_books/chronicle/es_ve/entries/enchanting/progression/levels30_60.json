@@ -1,0 +1,44 @@
+{
+    "name": "Niveles 30 - 60",
+    "icon": "zenith:hellshelf",
+    "category": "zenith:enchanting/progression",
+	"flag": "zenith:enchanting",
+    "pages": [
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzando el Nivel 45",
+			"recipe": "zenith:hellshelf",
+			"text": "Para alcanzar el nivel 45, querrás crear algunas $(9)Librerías Infernales$() y añadirlas a tus Estanterías existentes."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzando el Nivel 45",
+			"recipe": "zenith:seashelf",
+			"text": "Si no te agrada el Nether, también puedes aventurarte al Océano y crear $(9)Librerías Marinas$() en su lugar."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Alcanzando el Nivel 60",
+			"item": "zenith:infused_hellshelf",
+			"text": "Una vez que alcances el Nivel 45, necesitarás explorar $(l:zenith:enchanting/table/infusion)Encantamiento de Infusión$() para mejorar tus estanterías."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Alcanzando el Nivel 60",
+			"item": "zenith:infused_seashelf",
+			"text": "Crea algunas más del tipo de estantería que estabas usando, infúndelas y mejóralas.$(p)Estas nuevas estanterías, junto con las antiguas, te permitirán alcanzar el Nivel 60."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Otras Estadísticas",
+			"item": "zenith:sightshelf",
+			"text": "Ahora tienes acceso a mejores opciones para aumentar otras estadísticas.$(p)Además de las bonificaciones de las Librerías Infernales y Marinas, ahora también puedes crear $(9)Librerías de Visión$() para aumentar tus $(clues)."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Otras Estadísticas",
+			"recipe": "zenith:rectifier",
+			"text": "Si tienes un suministro estable de Amatista, también puedes hacer $(9)Rectificadores$() para aumentar aún más tu $(rectification)."
+		}
+	]
+}

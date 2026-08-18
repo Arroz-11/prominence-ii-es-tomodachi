@@ -1,0 +1,17 @@
+{
+    "name": "Endless Quiver",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Endless Quiver$() es un encantamiento de Maestría para arcos.$(p)Al disparar un arco, las flechas no se consumen, sin importar el tipo.$(p)Se considera una mejora directa de $(9)Infinito$()."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Este encantamiento debería incluso hacer infinitas las flechas de otros mods."
+        }
+	]
+}

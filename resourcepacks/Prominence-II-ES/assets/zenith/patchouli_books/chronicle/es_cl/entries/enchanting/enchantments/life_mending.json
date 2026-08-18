@@ -1,0 +1,17 @@
+{
+    "name": "Reparación Vital",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(4)Reparación Vital$() es un encantamiento corrupto aplicable a todos los objetos dañables.$(p)Mientras que $(9)Reparación$() convierte la experiencia recibida en durabilidad, $(4)Reparación Vital$() convierte la curación recibida en durabilidad.$(p)La durabilidad por punto de salud aumenta con el nivel."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Además, este encantamiento se puede encontrar en la Mesa de Encantamientos."
+        }
+	]
+}

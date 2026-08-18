@@ -1,0 +1,17 @@
+{
+  "name": "¿Agua Infinita?",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_water_pump",
+  "pages": [
+    {
+      "type": "text",
+      "text": "¿Te has estado preguntando si quizás había una manera de insertar agua automáticamente en la caldera? ¡La hay! Eso es exactamente lo que hace la bomba de agua. Rodéala horizontalmente con bloques de agua, y comenzará a producir agua por 1 EU/t.$(br)Transferirá automáticamente el agua a la máquina en su lado de salida."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/water_pump_asbl",
+      "text": "La Bomba de Agua de Bronce producirá 1/8 de cubo de agua por cada fuente de agua adyacente cada 5 segundos, con una salida máxima de 1 cubo / 5 segundos."
+    }
+  ],
+  "sortnum": 8
+}

@@ -1,0 +1,24 @@
+{
+  "name": "La Luna",
+  "icon": "ad_astra:/textures/environment/moon.png",
+  "sortnum": 9,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "La Luna",
+      "item": "ad_astra:desh_ingot",
+      "text": "¡Felicidades por llegar a la Luna! La Luna es un páramo estéril, gris y muerto, hasta donde alcanza la vista; sin embargo, bajo tierra es donde encontrarás el siguiente recurso importante en Ad Astra: ¡Desh! El Desh se usa para craftear máquinas avanzadas, estaciones espaciales y el cohete de nivel dos."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "El entorno",
+      "text": "El entorno de la Luna es muy diferente al de la Tierra. Como la Luna no tiene oxígeno y está helada, intentar colocar agua la congelará y los bloques encendidos como las antorchas se romperán. Cualquier vida vegetal y cultivos también morirán muy rápido. Para combatir estos efectos, puedes construir un distribuidor de oxígeno, que cubriremos más adelante."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Regreso a casa",
+      "text": "Para regresar a la Tierra, abre tu módulo de aterrizaje (shift + clic derecho) y recoge el cohete, el combustible y la plataforma de lanzamiento. Para quitar el módulo de aterrizaje, golpéalo. Coloca la plataforma de lanzamiento, pon el cohete encima y llénalo con combustible. Presiona $(k:jump) y vuela de regreso a la Tierra."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Costos de Experiencia",
+    "icon": "minecraft:experience_bottle",
+    "category": "zenith:enchanting/changes",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "En Vainilla, las cosas que cuestan niveles (mesas de encantamiento y yunques) te quitan una cantidad fija de niveles, sin importar cuántos niveles tengas.$(p)Zenith cambia ambas para que cuesten la cantidad \"óptima\" de experiencia."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Para las mesas de encantamiento, se te cobrará la cantidad de experiencia como si siempre tuvieras exactamente la cantidad de niveles que necesitas para realizar ese encantamiento.$(p)Similar para los yunques, excepto que el costo es desde cero (en lugar de solo los niveles superiores)."
+        }
+	]
+}

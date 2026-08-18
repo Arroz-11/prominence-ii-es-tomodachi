@@ -1,0 +1,17 @@
+{
+    "name": "Mazmorras de Jefes",
+    "icon": "minecraft:spawner",
+    "category": "zenith:adventure/bosses",
+	"flag": "zenith:adventure",
+	"sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "En las profundidades de las antiguas cavernas de la tierra se esconden estructuras que albergan el poder incalculable de los afijos. Sería una grata sorpresa si ese poder fuera gratis, pero lamentablemente está defendido por un Jefe."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Bajo tierra se encuentran algunas variantes de estructuras conocidas como Mazmorras de Jefes. Cada mazmorra contiene un generador de jefe y algunos cofres de botín. El generador se activará al acercarte, liberando al jefe encerrado."
+		}
+	]
+}

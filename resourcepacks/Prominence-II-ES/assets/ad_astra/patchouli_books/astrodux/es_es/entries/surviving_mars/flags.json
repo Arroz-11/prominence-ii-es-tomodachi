@@ -1,0 +1,18 @@
+{
+  "name": "Banderas",
+  "icon": "ad_astra:blue_flag",
+  "sortnum": 1,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Banderas",
+      "item": "ad_astra:lime_flag",
+      "text": "Las banderas son bloques decorativos disponibles en 16 colores. Por defecto, cuando se colocan, mostrarán la cara del dueño de la bandera. Se pueden configurar para mostrar una imagen personalizada desde una URL haciendo clic derecho e ingresando la URL en la interfaz. Esto mostrará la imagen de internet en la bandera."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:black_flag"
+    }
+  ]
+}

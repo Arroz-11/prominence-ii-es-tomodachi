@@ -1,0 +1,13 @@
+{
+    "name": "Velocidad de minería",
+    "icon": "minecraft:netherite_pickaxe",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Aumentar tu $(9)Velocidad de minería$() incrementa la velocidad a la que rompes bloques. Con el valor base de 1.0, rompes bloques con normalidad.$(p)Se encuentra en picos y palas."
+        }
+	]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Panel Solar",
+  "icon": "ad_astra:solar_panel",
+  "sortnum": 1,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Panel Solar",
+      "item": "ad_astra:solar_panel",
+      "text": "El panel solar es una versión mejorada del generador de carbón, produciendo más energía por tick y siendo autosuficiente. Su generación de energía depende de la distancia del planeta al sol y de la niebla. Debido a esto, es más eficiente colocar paneles solares cerca del sol. Los paneles solares también producen más energía en órbita, ya que no hay atmósfera que bloquee la luz."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Panel Solar",
+      "text": "Revisa la interfaz para ver cuánta energía se está produciendo en el mundo actual.",
+      "recipe": "ad_astra:solar_panel"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Mesa de flechas",
+    "icon": "minecraft:fletching_table",
+    "category": "zenith:village/village",
+	"flag": "zenith:village",
+	"sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Zenith introduce un nuevo tipo de crafteo llamado $(9)Mesa de flechas$().$(p)Te permite hacer flechas de manera más eficiente.$(p)Junto con el tipo de crafteo, también hay nuevas flechas."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "zenith:obsidian_arrow",
+			"link_recipe": true,
+            "text": "La $(9)Flecha de obsidiana$() es una mejora directa de la flecha estándar.$(p)Hace que todos los ataques a distancia inflijan 20% de daño extra."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "zenith:broadhead_arrow",
+			"anchor": "broadhead",
+			"link_recipe": true,
+            "text": "La $(9)Flecha desgarradora$() es mejor para peleas prolongadas.$(p)Cada golpe aplica sangrado. Cada golpe adicional refresca la duración y aumenta el nivel de sangrado en el objetivo."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "zenith:explosive_arrow",
+			"link_recipe": true,
+            "text": "La $(9)Flecha explosiva$() es mejor contra grupos.$(p)Causa una explosión al impactar."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "zenith:iron_mining_arrow",
+			"link_recipe": true,
+            "text": "La $(9)Flecha minera de hierro$() es como un pico volador.$(p)Todos los bloques golpeados con esta flecha se minan como si se hubieran roto con un Pico de Hierro."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "zenith:diamond_mining_arrow",
+			"link_recipe": true,
+            "text": "La $(9)Flecha minera de diamante$() es un mejor pico volador.$(p)Todos los bloques golpeados con esta flecha se minan como si se hubieran roto con un Pico de Diamante."
+        }
+	]
+}

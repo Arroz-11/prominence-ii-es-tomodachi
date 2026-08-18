@@ -1,0 +1,7 @@
+{
+    "name": "Atributos",
+    "description": "Además de los atributos de vainilla, Zenith añade una gran cantidad de nuevos.$(p)Esta sección detalla todos ellos.",
+    "icon": "minecraft:diamond_chestplate",
+	"flag": "zenith:adventure",
+	"parent": "zenith:adventure/adventure"
+}

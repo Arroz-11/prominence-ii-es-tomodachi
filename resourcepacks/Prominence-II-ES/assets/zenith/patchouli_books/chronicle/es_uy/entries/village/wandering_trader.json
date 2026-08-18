@@ -1,0 +1,21 @@
+{
+    "name": "Comerciante errante",
+    "icon": "minecraft:emerald",
+    "category": "zenith:village/village",
+	"flag": "zenith:village",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "¿Alguna vez has conocido a uno de esos comerciantes sospechosos que aparecen en tu jardín?$(p)Se llaman $(9)Comerciantes errantes$().$(p)Normalmente solo venden basura."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Sin embargo, Zenith añade un montón de nuevos trueques a sus tablas, así que realmente vale la pena interactuar con ellos.$(p)Estos trueques incluyen objetos como $(9)Beacons$() o $(9)Tótems de Inmortal$(), y equipo de diamante muy encantado."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Zenith también mejora las tasas de aparición de los Comerciantes errantes, y les permite aparecer bajo tierra, en lugar de solo en la superficie."
+        }
+	]
+}

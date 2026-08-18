@@ -1,0 +1,16 @@
+{
+  "name": "Velocidad de Tuberías de Fluidos",
+  "category": "modern_industrialization:midgame",
+  "icon": "minecraft:water_bucket",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Quizás te preguntes cómo puedes transferir todos esos miles de milibarriles de vapor cada tick. La respuesta es: ¡con tuberías de fluidos normales!$(br2)Cada tubería de fluidos tiene un búfer interno de exactamente un cubo (= 1000 milibarriles). Cuando conectas varias tuberías directamente, se enlazan y comparten su almacenamiento interno."
+    },
+    {
+      "type": "text",
+      "text": "La cantidad de fluido transferida cada tick está limitada por la capacidad total de la red. Por ejemplo, 25 tuberías de fluidos enlazadas pueden transferir hasta 25000 mb/t de fluido, ¡asumiendo que puedas producir esa cantidad de fluido, claro!$(br2)Ten en cuenta que podrías estar limitado por las tasas de transferencia de los tanques/máquinas a los que están conectadas las tuberías."
+    }
+  ],
+  "sortnum": 203
+}

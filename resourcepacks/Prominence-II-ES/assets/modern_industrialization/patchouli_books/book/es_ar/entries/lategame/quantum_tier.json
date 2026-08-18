@@ -1,0 +1,38 @@
+{
+  "name": "Nivel Cuántico",
+  "category": "modern_industrialization:endgame",
+  "icon": "modern_industrialization:quantum_upgrade",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:singularity",
+      "text": "¿Qué sucede cuando los científicos intentan construir un agujero negro en miniatura en su laboratorio?$(br2)La Singularidad es la respuesta: esta bola de materia inmensamente poderosa tiene aplicaciones muy útiles de física cuántica con los materiales estabilizadores adecuados."
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:quantum_upgrade",
+      "text": "La Mejora Cuántica es la mejora de máquina más poderosa jamás creada. Échale un vistazo."
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:quantum_sword",
+      "text": "La Espada Cuántica usa el poder bruto de la ecuación de Schrödinger para vaporizar al instante a cualquier enemigo (¡o amigo!) que golpees con ella."
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:quantum_chestplate",
+      "text": "Mediante el efecto gravitacional del principio de incertidumbre de Heisenberg, el conjunto completo de Armadura Cuántica te hace inmune a todo daño y te otorga vuelo creativo. Cada nueva pieza de armadura aumenta en un 25% la probabilidad de anular cualquier daño recibido."
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:quantum_barrel",
+      "text": "El Barril Cuántico es el nivel definitivo de barril: ¡puede contener 2,147,483,647 stacks de un solo objeto!"
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:quantum_tank",
+      "text": "El Tanque Cuántico es el nivel de tanque más poderoso: ¡puede contener 2,147,483,647 cubos de un solo fluido!"
+    }
+  ],
+  "sortnum": 301
+}

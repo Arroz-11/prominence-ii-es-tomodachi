@@ -1,0 +1,36 @@
+{
+  "name": "Lunarians",
+  "icon": "ad_astra:moon_stone_bricks",
+  "sortnum": 7,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Lunariano",
+      "item": "ad_astra:moon_stone_bricks",
+      "text": "En toda la luna, hay grandes aldeas subterráneas habitadas. Estas aldeas contienen una forma alienígena del aldeano terrestre, que se hacen llamar Lunarianos. A diferencia de sus contrapartes terrestres, los Lunarianos no necesitan oxígeno y pueden sobrevivir al gélido entorno de la luna."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "ad_astra:lunarian",
+      "default_rotation": 45
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Los Lunarianos tienen diferentes trueques que los aldeanos terrestres, presentando materiales específicos de cada planeta, trajes espaciales y equipo de oxígeno."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Comerciante errante",
+      "item": "ad_astra:lunarian_wandering_trader_spawn_egg",
+      "text": "Los Comerciantes errantes Lunarianos aparecen en cada luna y planeta. Tienen muchos trueques relacionados con cohetes que pueden salvar tu vida, incluyendo plataformas de lanzamiento, oxígeno, combustible, antorchas de alma y agua. Aceptan esmeraldas, que se encuentran comúnmente en las diversas estructuras de la luna y los planetas."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Comerciante errante",
+      "entity": "ad_astra:lunarian_wandering_trader",
+      "default_rotation": 45,
+      "scale": 0.8
+    }
+  ]
+}

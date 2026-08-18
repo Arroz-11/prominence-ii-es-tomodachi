@@ -1,0 +1,17 @@
+{
+    "name": "Empuje hacia atrás de ataque",
+    "icon": "minecraft:piston",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Empuje hacia atrás de ataque$() es qué tan lejos empujas a los enemigos cuando los atacas.$(p)Cada punto hará que los enemigos golpeados sean empujados medio bloque.$(p)Las armas y escudos pueden proporcionar esta estadística."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "El encantamiento Empuje hacia atrás proporciona una bonificación equivalente a esta estadística, pero no cuenta para el límite máximo de valor."
+		}
+	]
+}

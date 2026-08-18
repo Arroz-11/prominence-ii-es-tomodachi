@@ -1,0 +1,24 @@
+{
+  "name": "Acero inoxidable",
+  "category": "modern_industrialization:midgame",
+  "icon": "modern_industrialization:stainless_steel_dust",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Acero inoxidable",
+      "item": "modern_industrialization:stainless_steel_ingot",
+      "text": "El acero inoxidable es el siguiente material del que querrás una gran cantidad. ¡Sigue leyendo para saber por qué!$(br2)Fundir polvo de acero inoxidable en un EBF te dará lingotes calientes, que puedes enfriar de nuevo a lingotes regulares con un Congelador de vacío."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/vacuum_freezer_asbl",
+      "text": "¡Puedes revisar los materiales base con REI y la forma exacta con una llave inglesa!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/distillation_tower_asbl",
+      "text": "Una vez que tengas algunos circuitos digitales funcionando, asegúrate de construir una Torre de destilación. La Destilería solo te da un resultado del procesamiento de petróleo, ¡pero la torre te da UNO POR CAPA!"
+    }
+  ],
+  "sortnum": 201
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Mejorando a Acero",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:steel_boiler",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ahora que tienes acero, puedes mejorar tus máquinas de bronce si quieres. Las máquinas de acero pueden procesar recetas hasta 4 EU/t, y procesarán recetas al doble de velocidad siempre que el uso de energía no supere 4 EU/t. Básicamente, son el doble de rápidas que las de bronce y también pueden desbloquear nuevas recetas."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/steel/steel_upgrade_asbl",
+      "text": "Para mejorar una máquina de bronce, craftea una Mejora de Acero y aplícala en una Mesa de Herrería."
+    },
+    {
+      "type": "text",
+      "text": "Las tolvas de acero tienen más capacidad que las de bronce, y una multiestructura con al menos una tolva de acero se mejorará a nivel de acero. Esto significa que irá el doble de rápido si su uso de energía no excede 4 EU/t.$(br2)Una caldera de acero producirá el doble de vapor que una de bronce, es decir, hasta 16 EU/t, y una bomba de agua de acero producirá el doble de agua que su contraparte de bronce, así que hasta 2 cubos / 5 segundos."
+    },
+    {
+      "type": "text",
+      "text": "Los tanques de acero almacenan hasta 8 cubos.$(br2)¡Puedes revisar todas las recetas en REI!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/steel/packer_asbl",
+      "text": "La Empaquetadora, una nueva máquina solo disponible en acero, puede realizar crafteos simples por ti. ¡Ahora puedes automatizar lingotes dobles y tuberías, por ejemplo! De nuevo, revisa REI."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/steel/unpacker_asbl",
+      "text": "La Desempaquetadora, una nueva máquina solo disponible en acero... Adivina qué hace. o_O"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:trash_can",
+      "text": "Con unas pocas placas de acero, ¡ahora puedes craftear un bloque muy útil!$(br2)¡El Bote de Basura Automático destruirá cualquier objeto o fluido que se le introduzca por tubería!"
+    },
+    {
+      "type": "text",
+      "text": "Además, mientras sostienes el bote de basura sobre el tanque de fluido de una máquina, puedes hacer clic para vaciar ese tanque directamente en el bote."
+    }
+  ],
+  "sortnum": 11
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Desgarrar Armadura",
+    "icon": "zenith:textures/mob_effect/sundering.png",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Desgarrar Armadura$() te permite ignorar un porcentaje de la armadura de tu objetivo al atacar.$(p)$(9)Desgarrar Armadura$() se aplica antes que $(9)Perforar Armadura$()."
+        }
+	]
+}

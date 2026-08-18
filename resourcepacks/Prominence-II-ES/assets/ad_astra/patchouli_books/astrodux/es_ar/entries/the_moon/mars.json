@@ -1,0 +1,19 @@
+{
+  "name": "Marte",
+  "icon": "ad_astra:/textures/environment/mars.png",
+  "sortnum": 8,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Marte",
+      "text": "Ahora que has explorado la luna y trabajado con desh, quieres ir más lejos y llegar al planeta rojo. Construir un cohete de nivel dos capaz de viajar a Marte es similar a construir el cohete de nivel uno, pero con materiales de desh en lugar de acero. Construye las partes, arma el cohete en el banco de trabajo de la NASA, ponle combustible y ¡allá vas a Marte!"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Ostrum",
+      "item": "ad_astra:ostrum_ingot",
+      "text": "Ostrum es el siguiente material que buscas en el planeta rojo. Se usa para fabricar armadura espacial más poderosa, construir máquinas excepcionales y para construir un cohete capaz de soportar calor extremo, permitiéndote viajar a planetas calientes."
+    }
+  ]
+}

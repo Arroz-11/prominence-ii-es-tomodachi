@@ -1,0 +1,20 @@
+{
+    "name": "Encantamiento de Infusión",
+    "icon": "zenith:infused_hellshelf",
+    "category": "zenith:enchanting/table",
+	"flag": "zenith:enchanting",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)El Encantamiento de Infusión$() es un nuevo método de crafteo a través de la Mesa de Encantamientos.$(p)Cada receta de infusión tiene una entrada de objeto única y tres requisitos de estadísticas."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Cada requisito de estadística típicamente requerirá al menos algún valor, y opcionalmente tendrá un valor máximo.$(p)Los encantamientos de infusión solo usan la tercera ranura y te permitirán gastar experiencia de más."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Para realizar un encantamiento de infusión, simplemente coloca el objeto en la ranura.$(p)Si tienes las estadísticas correctas, la tercera ranura se iluminará y hacer clic en ella realizará la infusión."
+		}
+	]
+}

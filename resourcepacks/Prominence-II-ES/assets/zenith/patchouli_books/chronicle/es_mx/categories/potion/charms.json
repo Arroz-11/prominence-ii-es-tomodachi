@@ -1,0 +1,8 @@
+{
+    "name": "Talismanes de Poción",
+	"parent": "zenith:potion/potion",
+    "description": "Esta sección detalla los $(9)Talismanes de Poción$() y todos sus usos y matices.$(p)Si otros módulos están desactivados, o algunos mods no están instalados, esta sección podría estar un poco vacía.",
+    "icon": "zenith:potion_charm",
+	"flag": "zenith:potion",
+	"sortnum": 1
+}

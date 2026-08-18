@@ -1,0 +1,17 @@
+{
+    "name": "Carroña",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Carroña$() es un encantamiento de Maestría para espadas.$(p)Da un 2.5% de probabilidad por nivel de duplicar el botín al matar a un mob.$(p)Cuando tiene éxito, será como si hubieras matado a dos de la misma entidad."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Este encantamiento funciona en todas las entidades, incluidos jefes como los $(8)Withers$().$(p)También se acumula con $(9)Saqueo$()."
+        }
+	]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Niveles 1 - 30",
+    "icon": "minecraft:bookshelf",
+    "category": "zenith:enchanting/progression",
+	"flag": "zenith:enchanting",
+    "pages": [
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzando el Nivel 30",
+			"recipe": "minecraft:bookshelf",
+			"text": "Alcanzar el Nivel 30 se hace de la manera habitual, con quince estanterías."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Otras Estadísticas",
+			"item": "minecraft:skeleton_skull",
+			"text": "En esta etapa, hay algunas opciones básicas para aumentar otras estadísticas.$(p)Puedes usar Velas para aumentar $(arcana), Calaveras para aumentar $(quanta), y Racimos de Amatista para aumentar $(rectification)."
+		}
+	]
+}

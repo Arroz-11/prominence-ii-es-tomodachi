@@ -1,0 +1,18 @@
+{
+  "name": "Venus y Mercurio",
+  "icon": "ad_astra:/textures/environment/venus.png",
+  "sortnum": 8,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Calorita",
+      "item": "ad_astra:calorite_ingot",
+      "text": "Una vez que tengas suficiente Ostrum para craftear un conjunto completo de traje espacial de Netherita y todos los componentes del cohete de tercera categoría, podrás viajar a Venus y Mercurio. Ten en cuenta que si entras en estos planetas sin un traje espacial de Netherita o resistencia al fuego, morirás muy rápido. El siguiente material que buscas es la Calorita."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La Calorita se usa para craftear el cohete definitivo capaz de viajar a un nuevo sistema solar."
+    }
+  ]
+}

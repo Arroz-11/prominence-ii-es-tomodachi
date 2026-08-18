@@ -1,0 +1,7 @@
+{
+    "name": "Botín de Afijos",
+    "description": "Mientras exploras, puedes encontrar objetos con varios bonos.$(p)Estos son Objetos de Afijos, reliquias del pasado con distintos grados de poder.",
+    "icon": "minecraft:chest",
+	"flag": "zenith:adventure",
+	"parent": "zenith:adventure/adventure"
+}

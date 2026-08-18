@@ -1,0 +1,35 @@
+{
+  "name": "Electricidad",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:lv_steam_turbine",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/lv_steam_turbine_asbl",
+      "text": "La Turbina de Vapor usa vapor para producir electricidad. Convierte cada mb de vapor en 1 EU, hasta 32 mb convertidos por tick."
+    },
+    {
+      "type": "text",
+      "text": "La Turbina de Vapor enviará automáticamente electricidad a cualquier máquina conectada directamente a su lado de salida. Solo se conectará a cables colocados en su lado de salida. Tiene el $(thing)Nivel$() de Baja Tensión (BT).$(br2)Cada cable eléctrico tiene un Nivel que determina cuántos EU/t puede transferir y a qué máquinas puede conectarse. El Cobre, la Plata y el Estaño son de BT, el Cuproníquel y el Electrum son de MT, y así sucesivamente..."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/lv_diesel_generator_asbl",
+      "text": "El Generador de Diesel es una alternativa a la Turbina de Vapor. Usa varios combustibles para producir electricidad. Por ahora, puedes quemar Creosota. (Consulta REI para la lista de combustibles quemables)."
+    },
+    {
+      "type": "text",
+      "text": "Las redes de cables tienen limitaciones en la cantidad de energía que extraerán a la red: como máximo 256 EU/t para cables de BT, 1024 EU/t para cables de MT y 8192 EU/t para cables de AT. Debido a que no hay límite de salida para la red y a que los cables tienen un pequeño almacenamiento interno, una red de BT puede proporcionar más de 256 EU/t durante un corto período de tiempo.$(br2)Sin embargo, ten en cuenta que las máquinas eléctricas de un solo bloque solo se conectarán a cables de BT."
+    },
+    {
+      "type": "text",
+      "text": "Para transferir más energía, necesitas crear múltiples redes de tuberías o usar Transformadores.$(br2)Un Transformador de nivel bajo a nivel alto (por ejemplo, de BT a MT) tiene 5 entradas y 1 salida. Un Transformador de nivel alto a nivel bajo (por ejemplo, de MT a BT) tiene 1 entrada y 5 salidas."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/transformer/lv_mv/up_asbl",
+      "recipe2": "modern_industrialization:electric_age/transformer/lv_mv/down_asbl"
+    }
+  ],
+  "sortnum": 104
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Rarezas",
+    "icon": "minecraft:nether_star",
+    "category": "zenith:adventure/affix_loot",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Cada objeto con afijos tiene una $(9)Rareza$() asociada. La rareza del objeto determina qué tan fuerte será y qué afijos se le aplicarán.$(p)Una rareza más alta siempre es más fuerte que la anterior."
+        },
+		{
+			"type": "patchouli:text",
+			"title": "Común",
+			"text": "Un objeto $(#808080)Común$() es el tipo más básico de objeto con afijos. Cada uno siempre tendrá un único bono de estadística y tiene una baja probabilidad de obtener un segundo."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Poco común",
+			"text": "Un objeto $(#33FF33)Poco común$() es un paso por encima de un objeto común, pero aún no obtiene efectos únicos. Estos objetos siempre tienen dos bonos de estadística y pueden recibir un tercero.$(p)También pueden recibir un único engarce."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Raro",
+			"text": "Los objetos $(#5555FF)Raros$() son donde los afijos comienzan a brillar. Estos objetos reciben tres bonos de estadística y un efecto especial, y pueden recibir un segundo efecto.$(p)También pueden recibir un engarce y siempre tienen un ligero bono de durabilidad."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Épico",
+			"text": "Los objetos $(#BB00BB)Épicos$() están al borde de la grandeza. Reciben tres estadísticas y un efecto, y pueden recibir una cuarta estadística y un segundo efecto.$(p)También pueden recibir hasta dos engarces y tienen un bono de durabilidad más fuerte."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Mítico",
+			"text": "Los objetos $(#ED7014)Míticos$() fueron forjados por una entidad perdida de gran poder. Reciben cuatro estadísticas y dos efectos, y pueden recibir un tercer efecto además de tres engarces.$(p)También llevan un bono de durabilidad significativo."
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Resistencia de Armadura",
+    "icon": "minecraft:netherite_chestplate",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Resistencia de Armadura$() es una estadística que reduce la efectividad de la reducción de armadura entrante.$(p)Generalmente la proporcionan las piezas de armadura o los escudos."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Cada punto de Resistencia de Armadura reduce la efectividad de Perforar Armadura y Desgarrar Armadura en un 2%, hasta un 60%.$(p)Esta función es única de .zenith.. En Minecraft Vanilla, la Resistencia de Armadura contribuye a la reducción de daño."
+		}
+	]
+}

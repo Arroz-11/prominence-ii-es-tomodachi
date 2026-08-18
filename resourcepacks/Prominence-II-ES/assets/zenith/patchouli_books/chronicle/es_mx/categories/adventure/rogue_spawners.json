@@ -1,0 +1,7 @@
+{
+    "name": "Generadores Errantes",
+    "description": "En las cuevas se encuentran escasamente generadores individuales, coronados con un bloque resistente y ocultando un cofre debajo.$(p)Como no tienen origen, propósito ni dueño conocidos, nos referimos a ellos como $(9)Generadores Errantes$().",
+    "icon": "minecraft:spawner",
+	"flag": "zenith:adventure",
+	"parent": "zenith:adventure/adventure"
+}

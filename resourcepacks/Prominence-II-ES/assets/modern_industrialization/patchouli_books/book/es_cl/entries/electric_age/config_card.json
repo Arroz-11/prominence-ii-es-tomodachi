@@ -1,0 +1,17 @@
+{
+  "name": "Configuración Avanzada de Tuberías",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:config_card",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/config_card",
+      "text": "La tarjeta de configuración se puede usar para camuflar tuberías y para copiar la configuración de las Tuberías de Objetos."
+    },
+    {
+      "type": "text",
+      "text": "Estando en una mano, la tarjeta aplicará automáticamente su configuración a cualquier Tubería de Objetos que coloques."
+    }
+  ],
+  "sortnum": 102
+}

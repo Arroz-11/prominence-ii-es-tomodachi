@@ -1,0 +1,17 @@
+{
+    "name": "Generadores de Criaturas",
+    "icon": "minecraft:spawner",
+    "category": "zenith:spawner/spawner",
+	"flag": "zenith:spawner",
+	"sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Un $(9)Generador de Criaturas$() es un bloque mágico que puede canalizar entidades desde el vacío.$(p)Pero eso ya lo sabías, así que pasemos a lo nuevo.$(p)En Zenith, los generadores se pueden recoger con $(9)Toque de Seda$()."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Cosechar un generador de esa manera incurrirá en un costo adicional de durabilidad.$(p)Los generadores de criaturas tienen una serie de $(l:zenith:spawner/stats)Estadísticas del Generador$() que controlan su funcionalidad.$(p)Estas estadísticas se pueden cambiar usando $(l:zenith:spawner/modifiers)Modificadores de Generador$()."
+        }
+	]
+}

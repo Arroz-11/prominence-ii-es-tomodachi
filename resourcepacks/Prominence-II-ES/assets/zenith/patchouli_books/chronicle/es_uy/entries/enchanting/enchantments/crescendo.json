@@ -1,0 +1,13 @@
+{
+    "name": "Crescendo of Bolts",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Crescendo of Bolts$() es un encantamiento de Maestría para ballestas.$(p)Por cada nivel de este encantamiento, obtienes un disparo extra por recarga.$(p)Los disparos adicionales no gastan munición."
+        }
+	]
+}

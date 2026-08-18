@@ -1,0 +1,49 @@
+{
+    "name": "Reformado",
+    "icon": "zenith:reforging_table",
+    "category": "zenith:adventure/affix_loot",
+	"flag": "zenith:adventure",
+	"sortnum": 4,
+    "pages": [
+		{
+            "type": "patchouli:text",
+            "text": "A través del potencial crudo de los $(9)Materiales de rareza$() y la versatilidad del $(9)Polvo de gema$(), ahora es posible reformar un objeto con afijos completamente nuevos.$(p)El reformado no se limita a objetos que ya tienen afijos, y se puede realizar con cualquier objeto válido."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "zenith:simple_reforging_table",
+			"text": "Para comenzar a reformar, fabrica una $(#5555FF)Mesa de reformado simple$(), que te permite reformar objetos hasta la rareza $(#5555FF)Rara$()."
+		},
+		{
+            "type": "patchouli:text",
+			"title": "Ranuras de entrada",
+			"text": "La Mesa de reformado tiene tres ranuras de entrada.$(p)La ranura central contiene el objeto que deseas reformar.$(p)La ranura superior izquierda contiene los $(9)Materiales de rareza$() para la rareza con la que deseas reformar."
+        },
+		{
+			"type": "patchouli:crafting",
+			"recipe": "zenith:sigil_of_rebirth",
+			"title": "Ranuras de entrada",
+			"text": "La ranura inferior derecha contiene $(9)Sellos de renacimiento$(), un objeto de combustible único utilizado durante el proceso de reformado."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Reformado",
+			"text": "Similar a una Mesa de encantamientos, al reformar se ofrecen tres opciones.$(p)Cada opción representa una forma potencial nueva del objeto que se está reformando.$(p)Ninguna opción es inherentemente más fuerte que las demás."
+        },
+		{
+			"type": "patchouli:text",
+			"title": "Reformado",
+			"text": "Para cada rareza, hay un costo base de experiencia, sellos y materiales. Las ranuras de opción extra cuestan el doble y el triple del costo base.$(p)Para reformar tu objeto, simplemente haz clic en la opción deseada."
+		},
+        {
+            "type": "patchouli:crafting",
+			"recipe": "zenith:reforging_table",
+			"text": "Para reformar objetos de rareza $(#BB00BB)Épica$() o superior, necesitarás mejorar tu $(#5555FF)Mesa de reformado simple$() en una $(#BB00BB)Mesa de reformado$()."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Notas",
+			"text": "Los objetos que aún no tienen afijos pueden ser reformados.$(p)Los objetos pueden ser reformados múltiples veces.$(p)Los modpacks pueden cambiar los costos o impedir el reformado en ciertas rarezas."
+		}
+	]
+}

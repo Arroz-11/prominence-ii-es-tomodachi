@@ -1,0 +1,17 @@
+{
+    "name": "Minibosses",
+    "icon": "minecraft:skeleton_skull",
+    "category": "zenith:adventure/bosses",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Ocasionalmente, puedes ver mobs con nombre o mejorados en tu mundo.$(p)Probablemente sean $(9)Minibosses Apothic$()."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Estos mobs aparecerán al azar en lugar de sus contrapartes normales.$(p)Mantente alerta."
+		}
+	]
+}

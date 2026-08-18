@@ -1,0 +1,26 @@
+{
+  "name": "Procesamiento de petróleo",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:diesel_bucket",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:oil/oil_drilling_rig_asbl",
+      "text": "La Plataforma de perforación de petróleo es un multibloque enorme que puede extraer Petróleo crudo bajo la roca base usando tuberías de fluido. Sí, es básicamente una cantera de petróleo. ¡El procesamiento de petróleo te dará un montón de subproductos y energía!"
+    },
+    {
+      "type": "text",
+      "text": "La estructura del multibloque está hecha de: Carcasas de máquina de acero, Carcasas de tubería de acero y Cadenas, como puedes ver al colocar el controlador y sostener una Llave inglesa. Las escotillas pueden ser reemplazadas por Carcasas de máquina de acero, ¡pero asegúrate de tener al menos Escotilla de entrada de ítems, Escotilla de salida de fluidos y Escotilla de entrada de energía!$(br2)El Petróleo crudo se puede convertir en varios combustibles y usarse para una producción más eficiente de láminas de caucho."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/mv_diesel_generator_asbl",
+      "text": "Varios combustibles se pueden quemar en el Generador de diesel, y puedes verificar en REI cuántos EU produce cada combustible. El Generador de diesel producirá hasta 256 EU/t y solo se conectará a cables de MV."
+    },
+    {
+      "type": "text",
+      "text": "Los Generadores de diesel solo usarán combustible cuando lo necesiten, pero si necesitas un suministro constante de energía, puedes poner combustibles líquidos en la Caldera de vapor grande en lugar de ítems.$(br2)Una Caldera de vapor grande completamente calentada producirá aproximadamente el doble de energía que un Generador de diesel usando la misma cantidad de combustible."
+    }
+  ],
+  "sortnum": 109
+}

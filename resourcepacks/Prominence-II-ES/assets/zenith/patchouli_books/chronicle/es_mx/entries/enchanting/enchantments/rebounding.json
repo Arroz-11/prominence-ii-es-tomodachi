@@ -1,0 +1,13 @@
+{
+    "name": "Rechazo",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Rechazo$() es un encantamiento para petos y grebas.$(p)Hace que todos los atacantes cuerpo a cuerpo sean lanzados lejos del usuario.$(p)Niveles más altos aumentan la distancia."
+        }
+	]
+}

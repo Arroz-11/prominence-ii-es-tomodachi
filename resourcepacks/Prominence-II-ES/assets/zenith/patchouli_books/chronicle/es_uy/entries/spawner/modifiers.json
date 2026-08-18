@@ -1,0 +1,37 @@
+{
+    "name": "Modificadores de Generador",
+    "icon": "minecraft:clock",
+    "category": "zenith:spawner/spawner",
+	"flag": "zenith:spawner",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Después de leer sobre las $(l:zenith:spawner/stats)Estadísticas del Generador$(), quizás te preguntes cómo cambiarlas.$(p)Presentamos los $(9)Modificadores de Generador$(), un sistema para editar generadores.$(p)Un modificador consiste en hasta dos objetos, y produce un cambio determinado en las estadísticas de un generador."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Ver Modificadores",
+            "text": "Cada modificador es visible en JEI.$(p)Puedes acceder a ellos mirando tanto los usos como las recetas de los $(9)Generadores de Criaturas$(), o los usos de los objetos modificadores.$(p)Hay muchos tooltips ahí, así que echa un vistazo."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Notación",
+            "text": "En JEI, los cambios de estadísticas se indican como$(br)$(9)+/- X Estadística$().$(p)Algunas estadísticas no tienen valores numéricos, por lo que se mostrarán como $(9)+/- Estadística$().$(p)En los tooltips, las estadísticas no numéricas no se muestran a menos que estén habilitadas."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Límites de Modificador",
+            "text": "Ciertos modificadores no pueden reducir o aumentar estadísticas más allá de un valor determinado.$(p)Estos se indicarán en el tooltip de esa estadística en particular en JEI.$(p)Estos límites son específicos del modificador, por lo que un modificador puede tener un límite diferente al de otro para la misma estadística."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Aplicar Modificadores",
+            "text": "Para aplicar un modificador, simplemente sostén los objetos respectivos en tus manos y haz clic derecho en el $(9)Generador de Criaturas$().$(p)Si la modificación es exitosa, los objetos se consumirán.$(p)El objeto principal siempre se consume, pero el objeto secundario puede que no."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Aunque JEI indique que los objetos deben sostenerse en manos particulares, eso no es necesario.$(p)Puedes aplicar un modificador siempre que sostengas los objetos en tus manos, sin importar en qué mano."
+        }
+	]
+}

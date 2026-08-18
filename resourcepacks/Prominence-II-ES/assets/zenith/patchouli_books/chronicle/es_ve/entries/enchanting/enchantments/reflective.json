@@ -1,0 +1,17 @@
+{
+    "name": "Defensa Reflectiva",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Defensa Reflectiva$() es un encantamiento para escudos.$(p)Hace que todos los ataques bloqueados inflijan una parte del daño de vuelta al atacante.$(p)Más específicamente, el 15% del daño bloqueado se refleja."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "El daño reflejado se transforma en daño mágico.$(p)Niveles suficientemente altos de $(9)Defensa Reflectiva$() infligirán más que el daño original."
+        }
+	]
+}

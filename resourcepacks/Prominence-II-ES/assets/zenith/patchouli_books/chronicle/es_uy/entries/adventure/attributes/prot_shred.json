@@ -1,0 +1,13 @@
+{
+    "name": "Desgarrar Protección",
+    "icon": "zenith:textures/mob_effect/sundering.png",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Desgarrar Protección$() te permite ignorar un porcentaje de los puntos de protección de tu objetivo al atacar.$(p)$(9)Desgarrar Protección$() se aplica antes que $(9)Perforar Protección$()."
+        }
+	]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Semilla de Encantamiento",
+    "icon": "minecraft:wheat_seeds",
+    "category": "zenith:enchanting/table",
+	"flag": "zenith:enchanting",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Todo en el encantamiento (y algunas otras mecánicas) se basa en tu $(9)Semilla de Encantamiento$().$(p)La semilla cambia cada vez que encantas un objeto en una mesa de encantamientos."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "A menos que tu semilla cambie, todos los resultados aleatorios basados en la semilla permanecerán igual.$(p)Por ejemplo, qué encantamientos se seleccionan para un espacio particular es un resultado aleatorio basado en la semilla."
+		}
+	]
+}

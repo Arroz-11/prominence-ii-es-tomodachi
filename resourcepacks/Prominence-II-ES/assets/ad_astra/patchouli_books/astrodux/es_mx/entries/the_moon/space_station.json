@@ -1,0 +1,38 @@
+{
+    "name": "Estación Espacial",
+    "icon": "ad_astra:/textures/gui/sprites/space_station.png",
+    "sortnum": 0,
+    "category": "ad_astra:the_moon",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Estación Espacial",
+            "text": "Una estación espacial es una estructura preconstruida que se crea en la pantalla del planeta, siempre que tengas los materiales necesarios. Las estaciones espaciales siempre se encuentran en la órbita de una luna o planeta y brindan la capacidad de colocar bloques en esa dimensión orbital."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Estación Espacial",
+            "text": "Las estaciones espaciales están diseñadas para expandirse, permitiéndote construir la base de tus sueños sobre una luna/planeta. Todas tus estaciones espaciales están presentes en la pantalla del planeta. Otros jugadores no pueden generar nuevas estaciones espaciales en la misma área que la tuya, por lo que tu estructura está a salvo."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Moviéndose en el Espacio",
+            "text": "La física en el espacio es muy diferente a la de la Tierra. En este entorno de gravedad cero, flotarás y no te afectarán la gravedad ni la fricción. Esto puede dificultar el movimiento. Una herramienta que puede ayudarte es la pistola de aire. Esta consume oxígeno y lo consumirá rápidamente para impulsarte hacia adelante. Esto te permite moverte en el espacio. Ten cuidado de controlar tu velocidad. Como no hay fricción, puedes salir volando y perderte."
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Pistola de Aire",
+            "recipe": "ad_astra:zip_gun"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Cadmus",
+            "text": "Si $(l:https://modrinth.com/mod/cadmus)Cadmus$(/l) está instalado, los 3x3 chunks de tu estación espacial serán reclamados. Además, los jugadores no podrán crear nuevas estaciones espaciales en ninguno de tus chunks reclamados."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Argonauts",
+            "text": "Si $(l:https://modrinth.com/mod/argonauts)Argonauts$(/l) está instalado, otros jugadores de tu grupo o gremio podrán aterrizar en tu estación espacial, y tú podrás aterrizar en la de ellos."
+        }
+    ]
+}

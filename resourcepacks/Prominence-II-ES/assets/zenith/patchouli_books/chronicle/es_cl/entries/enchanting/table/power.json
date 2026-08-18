@@ -1,0 +1,24 @@
+{
+  "name": "Poder de Encantamiento",
+  "icon": "minecraft:experience_bottle",
+  "category": "zenith:enchanting/table",
+  "flag": "zenith:enchanting",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Durante el proceso de encantamiento, gastas experiencia y Lapislázuli para encantar un objeto.$(p)A partir de esto, los encantamientos se seleccionan aleatoriamente usando algunas fórmulas complejas.$(p)Este capítulo explica ese proceso."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Primero, repasaremos cómo se seleccionan los encantamientos.$(p)Cada encantamiento tiene una $(5)Función de Poder$(), que controla qué $(fpower) hará que un nivel específico esté disponible.$(p)Una vez que se reúnen todos los encantamientos disponibles, algunos se seleccionan aleatoriamente según sus pesos."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(fpower) se calcula usando los siguientes pasos:$(p)Inicialmente, tienes un $(bpower), que es el nivel que gastaste al encantar.$(p)Luego, $(quanta) y Rectificación modifican tu $(bpower) para producir tu $(fpower)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Los detalles de cómo cada estadística modifica tu $(bpower) se pueden encontrar en las entradas de $(l:zenith:enchanting/table/stats#quanta)$(quanta) y $(l:zenith:enchanting/table/stats#rectification)Rectificación$().$(p)Normalmente, un $(fpower) más alto te dará acceso a encantamientos de nivel más alto."
+    }
+  ]
+}

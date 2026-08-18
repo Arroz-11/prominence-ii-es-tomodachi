@@ -1,0 +1,20 @@
+{
+    "name": "Suerte",
+    "icon": "minecraft:textures/mob_effect/luck.png",
+    "category": "zenith:potion/recipes",
+	"flag": "zenith:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(6)Suerte$() es un efecto muy peculiar.$(p)Tener más suerte significa que puedes recibir mejor botín de ciertas fuentes.$(p)Desafortunadamente, no hay forma de saber qué fuentes de botín se ven afectadas por $(6)Suerte$()."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"title": "Receta de crafteo",
+			"item": "zenith:lucky_foot",
+			"link_recipe": true,
+            "text": "Esta poción se puede craftear con una Poción Incómoda y una Pata de Conejo de la Suerte.$(p)La Pata de Conejo de la Suerte es una gota rara de los conejos."
+        }
+	]
+}

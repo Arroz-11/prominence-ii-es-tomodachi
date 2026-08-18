@@ -1,0 +1,17 @@
+{
+    "name": "Obliteración",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/anvil",
+	"flag": "zenith:enchanting",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Obliteración$() es otro encantamiento exclusivo de yunque.$(p)Un yunque de obliteración puede convertir un solo libro encantado con exactamente un encantamiento en dos libros encantados, cada uno un nivel más bajo."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Para usar un yunque de obliteración, lanza un libro encantado al mundo y coloca el yunque de modo que caiga sobre el libro.$(p)Un libro con Filo III que sea obliterado se convertiría en dos libros, cada uno con Filo II."
+		}
+	]
+}

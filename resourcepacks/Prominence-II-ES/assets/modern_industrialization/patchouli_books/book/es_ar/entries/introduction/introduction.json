@@ -1,0 +1,27 @@
+{
+  "name": "Introducción",
+  "category": "modern_industrialization:introduction",
+  "icon": "minecraft:writable_book",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Modern Industrialization es un mod sobre automatización. Significa que, en algún punto, cualquier recurso puede (y debe) ser automatizado."
+    },
+
+    {
+      "type": "text",
+      "text": "La progresión se divide entre la Era de Vapor (inicio del juego) y el resto. En la Era de Vapor, crearás tus primeras fábricas que producirán los recursos necesarios para la segunda parte. El desafío de esta etapa viene de la gestión de recursos y la optimización del tiempo de procesamiento.$(br2)Ten en cuenta que la mayoría de las configuraciones quedarán obsoletas una vez que termines la Era de Vapor, así que no inviertas demasiado esfuerzo en ellas."
+    },
+
+    {
+      "type": "text",
+      "text": "La segunda parte de la progresión es la Era Eléctrica. En esta etapa, se te recomienda encarecidamente automatizar cada línea de procesamiento.$(br2)Las configuraciones que construyas en esta etapa se espera que sean permanentes, ya que pueden mejorarse continuamente. El sistema de overclock para máquinas eléctricas significará que tu producción se adaptará automáticamente a tu consumo."
+    },
+
+    {
+      "type": "text",
+      "text": "El desafío vendrá de construir líneas de procesamiento eficientes y equilibradas, y priorizar las más útiles.$(br2)El poder completo de las Máquinas Eléctricas se alcanza cuando operan continuamente. Por eso, se DESACONSEJA ENCARECIDAMENTE usar Modern Industrialization junto con un mod de automatización bajo demanda como AE2 o Refined Storage, ya que hará que tu progreso sea extremadamente lento e ineficiente."
+    }
+  ],
+  "sortnum": 0
+}

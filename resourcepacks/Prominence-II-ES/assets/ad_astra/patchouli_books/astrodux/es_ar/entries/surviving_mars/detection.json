@@ -1,0 +1,18 @@
+{
+  "name": "Detección",
+  "icon": "ad_astra:oxygen_sensor",
+  "sortnum": 7,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Sensor de Oxígeno",
+      "item": "ad_astra:oxygen_sensor",
+      "text": "El sensor de oxígeno es un bloque que emitirá una señal de redstone cuando detecte oxígeno. Puedes hacer clic derecho con shift para invertir la señal. A pesar de su nombre, también puedes cambiar su tipo de detección haciendo clic derecho con una llave inglesa. Tiene la opción de detectar oxígeno, temperatura segura y gravedad normal."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:oxygen_sensor"
+    }
+  ]
+}

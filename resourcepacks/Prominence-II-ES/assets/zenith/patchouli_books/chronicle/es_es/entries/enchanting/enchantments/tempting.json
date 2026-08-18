@@ -1,0 +1,13 @@
+{
+    "name": "Tentador",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Tentador$() es un encantamiento para azadas.$(p)Al sostener una azada con este encantamiento, todos los animales te seguirán como si sostuvieras su objeto de reproducción."
+        }
+	]
+}

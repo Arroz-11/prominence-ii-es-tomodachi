@@ -1,0 +1,13 @@
+{
+    "name": "Velocidad de Tiro",
+    "icon": "minecraft:bow",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Velocidad de Tiro$() es qué tan rápido puedes cargar un arma a distancia, en relación con la velocidad original. 1 = 100%, 2 = 200%, etc.$(p)Se encuentra en armas a distancia."
+        }
+	]
+}

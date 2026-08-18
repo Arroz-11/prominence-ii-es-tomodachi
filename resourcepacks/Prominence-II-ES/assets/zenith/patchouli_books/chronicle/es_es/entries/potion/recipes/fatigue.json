@@ -1,0 +1,19 @@
+{
+    "name": "Fatiga Minera",
+    "icon": "minecraft:textures/mob_effect/mining_fatigue.png",
+    "category": "zenith:potion/recipes",
+	"flag": "zenith:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(c)Fatiga Minera$() es un efecto negativo que normalmente solo aplican los Guardianes.$(p)Mientras está activo, tu velocidad de minería se reduce en un 20% por nivel.$(p)Es el opuesto directo de $(9)Celeridad$()."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"title": "Receta de crafteo",
+			"item": "minecraft:fermented_spider_eye",
+            "text": "Esta poción se puede craftear con una $(9)Poción de Celeridad$() y un Ojo de Araña Fermentado.$(p)Se puede extender, fortalecer o convertir en poción arrojadiza con los ingredientes habituales."
+        }
+	]
+}

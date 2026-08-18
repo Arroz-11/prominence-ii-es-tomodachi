@@ -1,0 +1,42 @@
+{
+  "name": "Tu Primer Cohete",
+  "icon": "ad_astra:nasa_workbench",
+  "sortnum": 3,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Mesa de Trabajo de la NASA",
+      "item": "ad_astra:nasa_workbench",
+      "text": "Para construir un cohete, primero debes reunir todas las piezas: cono, placas, aletas, tanques y motor. Luego puedes hacer el cohete en una Mesa de Trabajo de la NASA, una mesa de trabajo especialmente diseñada solo para cohetes."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Mesa de Trabajo de la NASA",
+      "recipe": "ad_astra:nasa_workbench"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "pattern": [
+          [
+            "   ",
+            " 0 ",
+            "   "
+          ]
+        ],
+        "mapping": {
+          "0": "ad_astra:launch_pad"
+        },
+        "symmetrical": true
+      },
+      "text": "Para colocar tu cohete recién creado, debes construir una plataforma de lanzamiento."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Plataforma de lanzamiento",
+      "recipe": "ad_astra:launch_pad",
+      "text": "Después de construir la plataforma de lanzamiento, coloca el cohete en el centro. Si quieres, puedes dar energía a cualquier parte de la plataforma de lanzamiento para lanzar el cohete automáticamente una vez que tenga combustible."
+    }
+  ]
+}

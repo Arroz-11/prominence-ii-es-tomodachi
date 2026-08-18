@@ -1,0 +1,17 @@
+{
+    "name": "Suerte",
+    "icon": "minecraft:rabbit_foot",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Suerte$() te hace tener suerte! Es decir, aumenta la probabilidad de obtener mejores botines.$(p)Todo puede otorgar suerte."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Puedes tener suerte negativa, lo que hace que sea aún más difícil obtener mejores botines."
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Fervor de Minero",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(5)Fervor de Minero$() es un encantamiento Retorcido que se puede aplicar a todas las herramientas.$(p)Hace que rompas bloques muy rápido, pero nunca instantáneamente.$(p)Es exclusivo con $(9)Eficiencia$()."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "A pesar de tener un límite de velocidad, el aumento por nivel es mucho mayor que el de $(9)Eficiencia$().$(p)Esto lo convierte en una opción ideal para herramientas con una velocidad base lenta."
+        }
+	]
+}

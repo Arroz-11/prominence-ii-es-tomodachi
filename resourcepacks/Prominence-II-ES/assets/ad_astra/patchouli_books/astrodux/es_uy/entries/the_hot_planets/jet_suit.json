@@ -1,0 +1,28 @@
+{
+  "name": "Jet Suit",
+  "icon": "ad_astra:jet_suit_helmet",
+  "sortnum": 0,
+  "category": "ad_astra:the_hot_planets",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Jet Suit",
+      "item": "ad_astra:jet_suit_helmet",
+      "text": "El Jet Suit es una versión mejorada del Traje Espacial de Netherita, con más protección, almacenamiento adicional de oxígeno y vuelo. Es costoso de craftear, pero ofrece vuelo a alta velocidad, lo que facilita los viajes."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Tiene dos modos de vuelo: ascendente ($(k:jump)) y potenciado ($(k:jump) + $(k:sprint)). El ascendente hace que el usuario vuele hacia arriba, mientras que el potenciado es similar a un élitro que es propulsado constantemente por fuegos artificiales. El Jet Suit funciona con energía y debe cargarse para volar. Puede cargarse con un energizador haciendo clic derecho con el Jet Suit. Activa/desactiva el traje presionando ($(k:ad_astra.toggle_suit_flight))."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:jet_suit_helmet",
+      "recipe2": "ad_astra:jet_suit"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:jet_suit_pants",
+      "recipe2": "ad_astra:jet_suit_boots"
+    }
+  ]
+}

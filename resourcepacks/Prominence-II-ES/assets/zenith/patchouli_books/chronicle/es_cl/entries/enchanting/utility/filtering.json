@@ -1,0 +1,27 @@
+{
+  "name": "Filtrado de Encantamientos",
+  "icon": "zenith:filtering_shelf",
+  "category": "zenith:enchanting/utility",
+  "flag": "zenith:enchanting",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A veces, es deseable evitar ciertos encantamientos por completo durante el proceso de encantamiento.$(p)La $(9)Librería Oceánica de Filtración Acuática$() te permite hacer exactamente eso."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "zenith:filtering_shelf",
+      "title": "Filtración Acuática",
+      "text": "La librería te permite insertar hasta seis libros de un solo encantamiento en ella, evitando que esos encantamientos aparezcan."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Para usarla, simplemente inserta un libro de un solo encantamiento de un encantamiento que desees poner en la lista negra.$(p)Ese encantamiento ya no estará disponible en la Mesa de Encantamientos.$(p)La librería también ganará $(eterna) y $(arcana) según la cantidad de libros insertados."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Nota: los libros se pueden insertar de la misma manera que usas una librería tallada, y la librería debe estar en un espacio de librería válido para funcionar.$(p)Los encantamientos en la lista negra se reflejarán en la $(l:zenith:enchanting/table/info)Pantalla de Información de Encantamiento$()."
+    }
+  ]
+}

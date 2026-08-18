@@ -1,0 +1,36 @@
+{
+  "name": "Máquinas Eléctricas",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:assembler",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Las máquinas eléctricas funcionan exactamente igual que las máquinas de vapor, excepto que requieren electricidad en lugar de vapor y sobreaceleran las recetas progresivamente hasta 32 EU/t.$(br2)Puedes usar REI para ver las recetas de la versión eléctrica de las máquinas que ya conoces."
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:lubricant_bucket",
+      "text": "El lubricante es un fluido que se puede obtener mezclando creosota y redstone. Haz clic derecho en una máquina eléctrica con un contenedor de lubricante, como un cubo de lubricante, para sobreacelerarla manualmente.$(br2)Cada 25 mb de lubricante agregará 1 tick de eficiencia (sobreaceleración) a la máquina."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/configurable_chest_asbl",
+      "text": "El Cofre Configurable no es una máquina, pero una vez que tengas Circuitos Analógicos, ¡puedes fabricarlo!$(br2)Tiene 27 ranuras configurables y funcionalidad de extracción automática. ¡Muy útil para la automatización!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/polarizer_asbl",
+      "text": "El Polarizador polariza cosas. Todavía no tiene muchas recetas, pero ya es útil para automatizar Motores."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/assembler_asbl",
+      "text": "¡La primera máquina de la que querrás hacer muchas! La Ensambladora te permite automatizar casi todas las recetas, hasta 3 por Ensambladora si usas el bloqueo de ranuras."
+    },
+    {
+      "type": "text",
+      "text": "Te sugerimos encarecidamente que automatices el Carcasa de Máquina, los Circuitos Analógicos, los Motores, los Pistones, los Brazos Robóticos y las Cintas Transportadoras usando Ensambladoras lo antes posible, ¡eso hará que fabricar máquinas eléctricas sea prácticamente gratis!"
+    }
+  ],
+  "sortnum": 105
+}

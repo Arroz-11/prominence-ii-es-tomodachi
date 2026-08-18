@@ -1,0 +1,13 @@
+{
+    "name": "Altura de Paso",
+    "icon": "minecraft:iron_boots",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Altura de Paso$() cambia qué tan alto puedes subir bloques automáticamente.$(p)Solo se encuentra en botas."
+        }
+	]
+}

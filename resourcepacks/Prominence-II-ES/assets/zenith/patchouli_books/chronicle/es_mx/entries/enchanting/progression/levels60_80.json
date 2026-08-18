@@ -1,0 +1,43 @@
+{
+    "name": "Niveles 60 - 80",
+    "icon": "zenith:dormant_deepshelf",
+    "category": "zenith:enchanting/progression",
+	"flag": "zenith:enchanting",
+    "pages": [
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzando el Nivel 70",
+			"recipe": "zenith:dormant_deepshelf",
+			"text": "Alcanzar el Nivel 70 requiere una Mesa de Encantamientos de Nivel 60 y acceso a la Pizarra Profunda."
+		},
+		{
+            "type": "patchouli:text",
+			"title": "Alcanzando el Nivel 70",
+			"text": "Una vez que hayas creado una $(9)Librería Profunda Latente$(), necesitas infundirla.$(p)Esta receta de infusión requerirá algunos bloques extra para alcanzar el umbral de estadísticas.$(p)Completar la infusión te dará una $(9)Librería Profunda$(), que puede llevarte al Nivel 70."
+		},
+		{
+            "type": "patchouli:text",
+			"title": "Alcanzando el Nivel 75",
+			"text": "Para alcanzar el nivel 75, necesitarás mejorar tus Librerías Profundas.$(p)Hacer esto requiere materiales que solo se encuentran en las $(9)Profundidades Oscuras$().$(p)Los $(9)Fragmentos de Eco$() pueden obtenerse como botín de la Ciudad Antigua, y el $(9)Sculk$() puede recolectarse con Toque de Seda."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzando el Nivel 75",
+			"recipe": "zenith:echoing_deepshelf",
+			"recipe2": "zenith:soul_touched_deepshelf"
+		},
+		{
+            "type": "patchouli:entity",
+			"entity": "minecraft:warden",
+			"title": "Alcanzando el Nivel 80",
+			"scale": 0.95,
+			"text": "El último paso para el Nivel 80 requiere derrotar al $(9)Warden$(), lo que permite crear $(9)Librerías de Sculk$()."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzando el Nivel 80",
+			"recipe": "zenith:echoing_sculkshelf",
+			"recipe2": "zenith:soul_touched_sculkshelf"
+		}
+	]
+}

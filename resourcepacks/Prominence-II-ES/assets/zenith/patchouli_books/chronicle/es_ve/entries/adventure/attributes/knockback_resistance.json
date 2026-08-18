@@ -1,0 +1,13 @@
+{
+    "name": "Resistencia al empuje hacia atrás",
+    "icon": "minecraft:shulker_shell",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Resistencia al empuje hacia atrás$() es qué tan resistente eres a ser empujado por ataques. En el valor máximo, eres inmune al empuje hacia atrás.$(p)Generalmente lo proporcionan armaduras o escudos."
+        }
+	]
+}

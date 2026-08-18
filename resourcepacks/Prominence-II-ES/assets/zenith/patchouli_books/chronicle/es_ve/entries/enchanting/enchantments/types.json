@@ -1,0 +1,28 @@
+{
+    "name": "Tipos de Encantamientos",
+    "icon": "minecraft:emerald",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Puedes notar que algunos encantamientos tienen nombres de colores diferentes.$(p)Esto se debe a que Zenith introduce tres nuevas subcategorías de encantamientos.$(p)Cada subcategoría tiene algunas reglas impuestas sobre ellos."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Obra Maestra",
+            "text": "$(2)Obra Maestra$() Los encantamientos representan los encantamientos más fuertes y raros.$(p)Siempre requieren al menos 55 $(fpower) para recibirlos."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Retorcido",
+            "text": "$(5)Retorcido$() Los encantamientos siempre tienen un efecto bueno y uno malo.$(p)Siempre requieren al menos 45 $(fpower) para recibirlos."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Corrupto",
+            "text": "$(4)Corrupto$() Los encantamientos tienen un costo de salud asociado con su efecto.$(p)Siempre requieren al menos 65 $(fpower) para recibirlos.$(p)Se consideran $(c)maldiciones$()."
+        }
+	]
+}

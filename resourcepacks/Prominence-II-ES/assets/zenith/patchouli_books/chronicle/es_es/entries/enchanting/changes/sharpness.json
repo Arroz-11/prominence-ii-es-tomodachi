@@ -1,0 +1,13 @@
+{
+    "name": "Filo",
+    "icon": "minecraft:netherite_sword",
+    "category": "zenith:enchanting/changes",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Filo$() ya no es exclusivo con otros encantamientos de daño.$(p)Esto significa que ahora puedes tener $(9)Filo$() y otro encantamiento de daño que normalmente es exclusivo."
+        }
+	]
+}

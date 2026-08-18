@@ -1,0 +1,17 @@
+{
+    "name": "Objetos de Jefes",
+    "icon": "minecraft:ender_chest",
+    "category": "zenith:adventure/bosses",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Cada jefe está equipado con exactamente un objeto de afijo, junto con el resto de su equipo totalmente encantado.$(p)Este objeto de afijo tiene garantizado caer al morir, y tiene una mayor probabilidad de ser de rareza más alta que otras fuentes de botín de afijos."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Este objeto por sí solo es el trofeo que obtendrás al derrotar a un jefe, y probablemente valga la pena.$(p)Como recuerdo del dueño original, cada objeto de jefe tendrá el nombre del jefe prefijado al nombre del objeto."
+		}
+	]
+}

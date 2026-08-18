@@ -1,0 +1,42 @@
+{
+    "name": "Tomos",
+    "icon": "zenith:other_tome",
+    "category": "zenith:enchanting/utility",
+	"flag": "zenith:enchanting",
+	"sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Los Tomos son un tipo especial de Libro.$(p)Un Tomo se puede encantar igual que un libro, pero solo puede recibir encantamientos específicos.$(p)La excepción es el $(l:zenith:enchanting/utility/scrapping)Tomo de Desguace$(), que tiene otro propósito."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "zenith:other_tome",
+			"text": "Una vez que encantes un tomo, se transformará en un libro encantado."
+		},
+		{
+            "type": "patchouli:crafting",
+			"recipe": "zenith:helmet_tome",
+			"recipe2": "zenith:chestplate_tome",
+			"text": ""
+		},
+		{
+            "type": "patchouli:crafting",
+			"recipe": "zenith:leggings_tome",
+			"recipe2": "zenith:boots_tome",
+			"text": ""
+		},
+		{
+            "type": "patchouli:crafting",
+			"recipe": "zenith:weapon_tome",
+			"recipe2": "zenith:pickaxe_tome",
+			"text": ""
+		},
+		{
+            "type": "patchouli:crafting",
+			"recipe": "zenith:fishing_tome",
+			"recipe2": "zenith:bow_tome",
+			"text": ""
+		}
+	]
+}

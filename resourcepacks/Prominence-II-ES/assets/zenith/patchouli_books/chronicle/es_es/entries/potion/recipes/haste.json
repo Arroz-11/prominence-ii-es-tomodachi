@@ -1,0 +1,19 @@
+{
+    "name": "Celeridad",
+    "icon": "minecraft:textures/mob_effect/haste.png",
+    "category": "zenith:potion/recipes",
+	"flag": "zenith:potion",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Celeridad$() es otro efecto útil que no tiene receta en el vanilla.$(p)Cada nivel otorga +20% de velocidad de minería."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"title": "Receta de crafteo",
+			"item": "minecraft:mushroom_stew",
+            "text": "Esta poción se puede craftear con una Poción Incómoda y un poco de Estofado de Champiñones.$(p)Se puede extender, fortalecer o convertir en poción arrojadiza con los ingredientes habituales."
+        }
+	]
+}

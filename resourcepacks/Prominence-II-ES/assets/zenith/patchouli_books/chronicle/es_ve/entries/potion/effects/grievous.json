@@ -1,0 +1,17 @@
+{
+    "name": "Heridas Graves",
+    "icon": "zenith_attributes:textures/mob_effect/grievous.png",
+    "category": "zenith:potion/effects",
+	"flag": "zenith:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La Poción de $(c)Heridas Graves$() es un efecto negativo.$(p)Mientras estés bajo sus efectos, toda curación recibida se reduce."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "La reducción de curación es igual al 40% por nivel.$(p)En el nivel III o superior, se previene toda curación."
+        }
+	]
+}

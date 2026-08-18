@@ -1,0 +1,45 @@
+{
+  "name": "Distribuidor de Oxígeno",
+  "icon": "ad_astra:oxygen_distributor",
+  "sortnum": 2,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Distribuidor de Oxígeno",
+      "item": "ad_astra:oxygen_distributor",
+      "text": "El distribuidor de oxígeno es una máquina poderosa que distribuye oxígeno en una habitación sellada, permitiendo que cualquier vida en su interior sobreviva. Funciona exactamente como un cargador de oxígeno, donde insertas agua en el tanque, pero en lugar de darte oxígeno, el oxígeno se distribuye en el aire."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Bomba de Agua",
+      "item": "ad_astra:water_pump",
+      "text": "La bomba de agua es esencial para mantener el distribuidor de oxígeno funcionando infinitamente. Para usarla, coloca una fuente de agua infinita debajo, luego coloca la bomba de agua sobre uno de los bloques de agua, y luego coloca el distribuidor de oxígeno adyacente a ella. Asegúrate de suministrar tanto a la bomba como al distribuidor de oxígeno con suficiente energía."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Distribuidor y Bomba",
+      "recipe": "ad_astra:oxygen_distributor",
+      "recipe2": "ad_astra:water_pump"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Usando el Distribuidor",
+      "text": "Una vez que hayas suministrado al distribuidor de oxígeno con una fuente de agua infinita, suficiente energía y una habitación completamente sellada, distribuirá oxígeno en esa habitación. Para comprobar que el oxígeno se está distribuyendo, haz clic en \"mostrar\" en la interfaz del distribuidor. Si la habitación está resaltada, eso significa que el oxígeno se ha distribuido con éxito."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Si hay un agujero en tu estructura que está causando que el oxígeno se escape, la interfaz del distribuidor proporcionará una advertencia. Tapa el agujero para evitar un consumo innecesario de energía y oxígeno. Después de eso, deberías poder quitarte el traje de oxígeno y sobrevivir. Cada distribuidor de oxígeno puede soportar hasta 6,000 bloques, permitiéndote construir una estación espacial o base de tamaño moderado. Si necesitas más, puedes colocar más distribuidores de oxígeno."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Ventilación",
+      "text": "Dentro de tu estructura oxigenada, debes proporcionar una ventilación adecuada para asegurar que el oxígeno no se bloquee cuando una puerta está cerrada. Para hacer esto, puedes crear un espacio de un bloque entre las paredes o usar un bloque de ventilación para permitir el flujo de oxígeno."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Despresurización rápida",
+      "text": "Cuando tu estructura está completamente sellada y se crea un agujero, tu estructura se despresurizará rápidamente. Esto puede ser un evento catastrófico. Todas las entidades en el interior serán succionadas violentamente por el agujero y morirán sin un traje espacial. El distribuidor de oxígeno también drenará rápidamente oxígeno y energía. Evita esto tapando los agujeros lo antes posible y previniendo que se creen agujeros accidentales."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "GraviChestPlate",
+  "category": "modern_industrialization:endgame",
+  "icon": "modern_industrialization:gravichestplate",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:gravichestplate",
+      "text": "La GraviChestPlate utiliza tecnología avanzada de superconductores para invertir el campo gravitacional alrededor del jugador que la lleva puesta.$(br2)Usa EU y se puede cargar haciendo clic derecho en un bloque que pueda emitir energía."
+    },
+    {
+      "type": "text",
+      "text": "Nota que la tecnología GSP actual otorga vuelo y previene el daño por caída, pero no protege contra otros tipos de daño.$(br2)Los ingenieros de Modern Industrialization están tratando de encontrar una solución, pero la I+D está tomando más tiempo de lo esperado."
+    }
+  ],
+  "sortnum": 300
+}

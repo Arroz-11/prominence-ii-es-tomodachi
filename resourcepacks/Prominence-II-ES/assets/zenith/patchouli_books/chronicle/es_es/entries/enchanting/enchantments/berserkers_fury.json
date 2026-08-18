@@ -1,0 +1,17 @@
+{
+    "name": "Furia de Berserker",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(4)Furia de Berserker$() es un encantamiento corrupto que se puede aplicar a petos.$(p)Mientras uses este encantamiento, si recibes daño, recibirás daño adicional y obtendrás Resistencia, Gracia terrible y Fuerza."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "El daño recibido y la fuerza de la poción dependen del nivel del encantamiento."
+		}
+	]
+}

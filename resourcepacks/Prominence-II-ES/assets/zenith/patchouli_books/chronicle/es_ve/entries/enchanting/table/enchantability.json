@@ -1,0 +1,12 @@
+{
+    "name": "Encantabilidad de Objetos",
+    "icon": "minecraft:golden_sword",
+    "category": "zenith:enchanting/table",
+	"flag": "zenith:enchanting",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "En el vanilla, la encantabilidad de un objeto contribuye a tu $(fpower).$(p).zenith. la cambia para proporcionar un impulso directo de $(arcana) en su lugar.$(p)$(arcana) se incrementa en un 50% de la encantabilidad del objeto."
+        }
+	]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Resistencia",
+    "icon": "minecraft:textures/mob_effect/resistance.png",
+    "category": "zenith:potion/recipes",
+	"flag": "zenith:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Resistencia$() es un efecto bastante útil que no tiene receta en el vanilla.$(p)Cada nivel otorga +20% de reducción de daño contra todas las fuentes.$(p)También lo necesitarás para craftear pociones de $(l:zenith:potion/effects/sundering)Sundering$()."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"title": "Receta de crafteo",
+			"item": "minecraft:shulker_shell",
+            "text": "Esta poción se puede craftear con una Poción Incómoda y una Concha de Shulker.$(p)Se puede extender, fortalecer o convertir en poción arrojadiza con los ingredientes habituales."
+        }
+	]
+}

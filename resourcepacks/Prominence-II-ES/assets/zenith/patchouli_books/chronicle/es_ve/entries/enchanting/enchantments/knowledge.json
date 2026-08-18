@@ -1,0 +1,17 @@
+{
+    "name": "Conocimiento de las Eras",
+    "icon": "minecraft:enchanted_book",
+    "category": "zenith:enchanting/enchantments",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Conocimiento de las Eras$() es un encantamiento de Maestría$(br)que se puede aplicar a espadas.$(p)Cuando matas a un mob, todos los botines se convertirán en experiencia.$(p)Cada objeto individual vale la misma cantidad de experiencia."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Esto hace que sea más eficiente matar mobs que sueltan una gran cantidad de objetos.$(p)La experiencia por objeto aumenta con el nivel del encantamiento.$(p)Como precaución, matar a un jugador no convertirá sus objetos."
+		}
+	]
+}

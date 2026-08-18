@@ -1,0 +1,47 @@
+{
+  "name": "¿Te Gusta el Coque?",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:coke_oven",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Una vez que hayas tenido suficiente de las máquinas de bronce, puedes empezar a trabajar para hacer acero. El objetivo final es poder construir la cantera, ¡un multibloque que excavará minerales por ti!$(br2)El primer paso es hacer coque, calentando carbón sin oxígeno. Para eso, necesitarás construir un multibloque de Horno de Coque."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/fireclay/coke_oven",
+      "text": "Para este primer multibloque, necesitarás el Horno de Coque en sí, por supuesto, 21 Ladrillos y 3 $(thing)Compuertas$(): una entrada de ítems, una salida de ítems y una entrada de fluidos."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:hatches/bronze/item_input_hatch",
+      "recipe2": "modern_industrialization:hatches/bronze/item_output_hatch"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:hatches/bronze/fluid_input_hatch",
+      "recipe2": "modern_industrialization:hatches/bronze/fluid_output_hatch"
+    },
+    {
+      "type": "text",
+      "text": "El bloque Horno de Coque aquí tiene el rol de un $(thing)Controlador$(). Cada multibloque es gestionado por un controlador, pero normalmente no puedes interactuar directamente con el controlador: toda la entrada y salida pasa a través de las compuertas. Necesitamos una entrada de fluidos porque el horno de coque funciona con vapor, necesitamos una entrada de ítems para el carbón y una salida para el coque.$(br2)¡Si olvidamos una de las compuertas, el horno de coque no podrá arrancar!"
+    },
+    {
+      "type": "text",
+      "text": "$(l)¡Mantén una Llave inglesa para ver los bloques faltantes y los errores!$() También puedes mantener una Compuerta para saber dónde puede ir.$(br2)¡Necesitamos 21 Ladrillos para este multibloque! Consulta REI, dice 24 en total, pero tenemos 3 compuertas, así que solo necesitamos ladrillos para los 21 bloques restantes."
+    },
+    {
+      "type": "image",
+      "title": "¡Horno de Coque!",
+      "images": [
+        "modern_industrialization:textures/guidebook/coke_oven.png"
+      ],
+      "text": "Hay muchas formas de colocar las compuertas, ¡esta es una de ellas!"
+    },
+    {
+      "type": "text",
+      "text": "Una vez que el Horno de Coque diga $(o)Forma Válida$(), llena la compuerta de entrada de fluidos con vapor, pon carbón en la compuerta de entrada de ítems y ¡listo!$(br2)El coque será muy útil para el acero, pero también es un combustible poderoso. ¡Dura 4 veces más que el carbón!"
+    }
+  ],
+  "sortnum": 9
+}

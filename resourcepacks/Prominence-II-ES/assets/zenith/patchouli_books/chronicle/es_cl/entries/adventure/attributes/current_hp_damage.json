@@ -1,0 +1,13 @@
+{
+    "name": "Daño por Vida Actual",
+    "icon": "minecraft:dragon_head",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Daño por Vida Actual$() es un tipo de daño al golpear. Cada golpe, infligirás un porcentaje de la vida actual del objetivo como daño físico adicional.$(p)Esta estadística solo se encuentra en armas pesadas."
+        }
+	]
+}

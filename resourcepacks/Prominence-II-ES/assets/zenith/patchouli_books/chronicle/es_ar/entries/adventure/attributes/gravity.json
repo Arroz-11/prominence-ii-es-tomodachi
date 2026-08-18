@@ -1,0 +1,13 @@
+{
+    "name": "Gravedad",
+    "icon": "minecraft:elytra",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Gravedad$() es la velocidad a la que caes, en bloques por segundo al cuadrado.$(p)Se puede encontrar en cualquier cosa, o en nada, quién sabe.$(p)Nota: La gravedad puede ser negativa. Con gravedad negativa, flotas hacia arriba."
+        }
+	]
+}

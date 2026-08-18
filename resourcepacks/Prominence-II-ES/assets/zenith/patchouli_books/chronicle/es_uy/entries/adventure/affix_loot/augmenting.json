@@ -1,0 +1,39 @@
+{
+  "name": "Mejora",
+  "icon": "zenith:augmenting_table",
+  "category": "zenith:adventure/affix_loot",
+  "flag": "zenith:adventure",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La $(9)Mesa de Mejora$() es una estación de crafteo de fin de juego que se usa para mejorar los afijos individuales de un objeto.$(p)A través de ella, puedes mejorar o re-tirar afijos individuales, dejando el resto intacto."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "zenith:augmenting_table",
+      "text": "Crear una Mesa de Mejora requiere enfocar la energía de una $(9)Estrella del Nether$() a través de dos $(9)Perlas Forjadas por Dios$(), usando una $(9)Mesa de Encantamientos$() como base."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Ranuras de entrada",
+      "text": "La Mesa de Mejora tiene dos ranuras de entrada.$(p)La ranura superior contiene el objeto que deseas mejorar, que debe ser un objeto con afijos.$(p)Normalmente, solo deberías mejorar objetos de rareza al menos $(#ED7014)Mítica$(), aunque podrías considerar mejorar también los $(#BB00BB)Épicos$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "zenith:sigil_of_enhancement",
+      "title": "Ranuras de entrada",
+      "text": "La ranura inferior contiene $(9)Sellos de Mejora$(), el objeto combustible que se usa para mejorar.$(p)Finalmente, necesitarás seleccionar el afijo deseado del menú desplegable."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Mejora",
+      "text": "La primera operación que se puede realizar en la mesa de mejora es mejorar un afijo.$(p)Esto cuesta dos $(9)Sellos de Mejora$(), y mejorará la fuerza interna del afijo actual en un 25%.$(p)Cuánto impulso proporciona esto varía según el afijo."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Re-tirar",
+      "text": "La segunda operación de la mesa de mejora es re-tirar un afijo.$(p)Esto cuesta un $(9)Sello de Mejora$() y cambia el afijo seleccionado por otro del mismo tipo.$(p)Las opciones alternativas se mostrarán a la izquierda."
+    }
+  ]
+}

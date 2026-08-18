@@ -1,0 +1,6 @@
+{
+    "name": "Módulo de Poción",
+    "description": "El Módulo de Poción se encarga de nuevas pociones y nuevas recetas de poción.$(p)Casi todas las cosas de pociones.",
+    "icon": "minecraft:potion",
+	"flag": "zenith:potion"
+}

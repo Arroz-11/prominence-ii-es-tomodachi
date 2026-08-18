@@ -1,0 +1,22 @@
+{
+  "name": "Tanque grande",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:large_tank",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/large_tank_asbl",
+      "text": "El Tanque grande es una estructura multibloque que te permite almacenar grandes cantidades de algún fluido, por ejemplo vapor. Puede almacenar 64 cubos de fluido por cada bloque en la estructura (incluyendo los lados)."
+    },
+    {
+      "type": "text",
+      "text": "El Tanque grande tiene muchos tamaños posibles dependiendo de cuánto almacenamiento necesites. Puedes abrir el panel de configuración de tamaño haciendo clic en un botón en el controlador.$(br2)Solo las tuberías pueden acceder al tanque, ya sea a través del controlador o a través de una Escotilla de tanque grande (ver página siguiente).$(br2)¡No rompas el controlador o perderás todo el fluido almacenado!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/large_tank_hatch_asbl",
+      "text": "La Escotilla de tanque grande actúa como una extensión del bloque Tanque grande. Puedes hacer clic derecho para abrir el menú del Tanque grande, y las tuberías conectadas a ella accederán directamente al almacenamiento del Tanque grande."
+    }
+  ],
+  "sortnum": 101
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Tuberías",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:wrench",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Las tuberías se usan en las recetas de algunas máquinas, pero también se pueden colocar en el mundo. Hasta 3 tuberías pueden caber en un solo bloque.$(br2)Las tuberías de diferentes colores no se conectarán.$(br2)Al hacer clic derecho en una tubería con una llave inglesa cambiarás el tipo de conexión, y al hacer clic derecho mientras agachas la soltarás."
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:fluid_pipe",
+      "title": "Tuberías de Fluidos",
+      "text": "Las tuberías de fluidos solo pueden contener un tipo de fluido, y por defecto no se conectarán a tuberías o bloques vacíos. Puedes forzar una conexión haciendo clic derecho en el centro de la tubería con la llave inglesa, o haciendo clic derecho en un bloque con una tubería en la mano: se conectará, pero no consumirá el objeto de tu mano."
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:item_pipe",
+      "title": "Tuberías de Objetos",
+      "text": "Las tuberías de objetos no se conectarán a inventarios por defecto, pero de nuevo puedes forzar una conexión.$(br2)Haz clic derecho en una conexión sin sostener una llave inglesa y verás un filtro. Por defecto, el modo de lista blanca está activado, así que no se insertarán ni extraerán objetos directamente."
+    },
+    {
+      "type": "text",
+      "text": "Los diferentes tipos de tuberías no funcionan exactamente igual.$(br2)Cada tick, las tuberías de fluidos intentarán extraer uniformemente de todos los bloques conectados, y luego intentarán insertar uniformemente. $(l:modern_industrialization:midgame/fluid_transfer)Lee más sobre su velocidad aquí.$()$(br2)Las tuberías de objetos insertarán objetos en prioridades más altas primero, y transferirán 16 objetos cada pocos segundos. $(l)Pueden mejorarse con motores.$()"
+    },
+    {
+      "type": "text",
+      "title": "Nota",
+      "text": "Las tuberías de objetos están en lista blanca por defecto (lo que significa que solo se moverán los objetos en el filtro). Necesitas cambiar a lista negra (solo se moverán los objetos que NO están en el filtro) o agregar el objeto que quieres mover al filtro. Ten cuidado de configurar ambos lados de la tubería, de lo contrario los objetos no se moverán."
+    }
+  ],
+  "sortnum": 4
+}

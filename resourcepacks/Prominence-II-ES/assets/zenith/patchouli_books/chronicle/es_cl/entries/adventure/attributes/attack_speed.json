@@ -1,0 +1,13 @@
+{
+    "name": "Velocidad de ataque",
+    "icon": "minecraft:golden_sword",
+    "category": "zenith:adventure/attributes",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Velocidad de ataque$() controla la frecuencia con la que puedes atacar. Si tu velocidad de ataque es 2, puedes atacar dos veces por segundo.$(p)Varios objetos pueden aumentar tu velocidad de ataque."
+        }
+	]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Conocimiento Antiguo",
+    "icon": "minecraft:experience_bottle",
+    "category": "zenith:potion/effects",
+	"flag": "zenith:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La Poción de $(9)Conocimiento Antiguo$() es un efecto beneficioso.$(p)Mientras estés bajo sus efectos, cualquier experiencia generada por los mobs que mates se multiplica."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "En el Nivel I, cuadruplica las gotas de experiencia.$(p)En el Nivel II, las multiplica por 8."
+        }
+	]
+}

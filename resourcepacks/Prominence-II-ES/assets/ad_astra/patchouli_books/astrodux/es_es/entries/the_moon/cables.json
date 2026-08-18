@@ -1,0 +1,32 @@
+{
+  "name": "Cables",
+  "icon": "ad_astra:desh_cable",
+  "sortnum": 6,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Cables",
+      "item": "ad_astra:desh_cable",
+      "text": "Los cables permiten la transferencia de energía a larga distancia. Hay dos variantes: acero y desh – desh, que tiene una mayor tasa de transferencia. Cuando se usan con una llave inglesa, los cables se pueden configurar para extenderse en direcciones o para desconectarse de los nodos de la red."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:steel_cable",
+      "recipe2": "ad_astra:desh_cable"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:wrench"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Conductos de cable",
+      "text": "Los cables no son bloques sólidos. Como tales, no sellarán una estructura, lo que impide que los distribuidores de oxígeno y los normalizadores de gravedad funcionen. El conducto de cable es un bloque completo que funciona exactamente como los cables mientras previene fugas."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:cable_duct"
+    }
+  ]
+}

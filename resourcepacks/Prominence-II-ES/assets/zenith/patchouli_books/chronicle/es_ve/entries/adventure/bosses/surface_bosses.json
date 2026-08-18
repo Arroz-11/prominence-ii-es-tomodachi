@@ -1,0 +1,17 @@
+{
+    "name": "Jefes invasores",
+    "icon": "minecraft:beacon",
+    "category": "zenith:adventure/bosses",
+	"flag": "zenith:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Un ruido extraño, un mensaje peculiar y un enorme rayo de luz desde el cielo...$(p)Todas las señales apuntan a un Jefe, invadiendo activamente tu mundo."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "A diferencia de los jefes que se encuentran en mazmorras, los jefes invasores pueden aparecer raramente en la superficie donde los mobs normalmente pueden aparecer.$(p)Su llegada será marcada por un ruido fuerte, un mensaje de estado y un beacon que emana brevemente desde su punto de aparición."
+		}
+	]
+}

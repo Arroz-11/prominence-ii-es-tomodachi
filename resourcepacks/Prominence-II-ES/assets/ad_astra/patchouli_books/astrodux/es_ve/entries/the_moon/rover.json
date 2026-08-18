@@ -1,0 +1,29 @@
+{
+  "name": "Rover",
+  "icon": "ad_astra:tier_1_rover",
+  "sortnum": 5,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Rover",
+      "item": "ad_astra:tier_1_rover",
+      "text": "El rover es un vehículo terrestre capaz de conducir en el terreno accidentado de lunas y planetas. Es excepcionalmente rápido, tiene un inventario capaz de almacenar 16 objetos y tiene dos asientos para múltiples pasajeros. También puedes atropellar mobs y causar daño serio. Para usarlo, llena el rover con combustible (shift-clic y coloca cubos de combustible en la ranura de entrada izquierda)."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "ad_astra:tier_1_rover",
+      "scale": 0.36
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Receta del Rover",
+      "recipe": "ad_astra:tier_1_rover"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Radio",
+      "text": "El rover tiene una radio integrada para reproducir estaciones de radio reales transmitidas por internet. Úsala interactuando con la radio en el rover o presionando ($(k:ad_astra.open_radio)). Si hay varios jugadores en el rover, también escucharán la misma radio."
+    }
+  ]
+}

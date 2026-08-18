@@ -1,0 +1,19 @@
+{
+    "name": "Wither",
+    "icon": "minecraft:textures/mob_effect/wither.png",
+    "category": "zenith:potion/recipes",
+	"flag": "&zenith:potion,zenith:wstloaded",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(c)Wither$() es un efecto hostil que normalmente no se puede craftear.$(p)Mientras lo padeces, recibirás daño cada tick.$(p)A diferencia del Veneno, este daño es letal."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"title": "Receta de crafteo",
+			"item": "wstweaks:fragment",
+            "text": "Esta poción se puede craftear con una Poción Incómoda y un Fragmento de Cráneo Marchito.$(p)Se puede extender, fortalecer o convertir en poción arrojadiza con los ingredientes habituales."
+        }
+	]
+}

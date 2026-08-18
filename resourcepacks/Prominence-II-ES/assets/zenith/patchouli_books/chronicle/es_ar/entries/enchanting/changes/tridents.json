@@ -1,0 +1,20 @@
+{
+    "name": "Tridentes",
+    "icon": "minecraft:trident",
+    "category": "zenith:enchanting/changes",
+	"flag": "zenith:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Junto con los nuevos encantamientos, los tridentes ahora también pueden recibir $(9)Nitidez$(), $(9)Saqueo$() y $(9)Perforación$().$(p)Nitidez y Saqueo funcionan como en las espadas.$(p)Perforación hace que los tridentes lanzados puedan golpear a enemigos adicionales."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"title": "Creando Tridentes",
+			"item": "zenith:inert_trident",
+			"link_recipe": true,
+            "text": "$(l:zenith:enchanting/table/infusion)Encantamiento de Infusión$()."
+        }
+	]
+}

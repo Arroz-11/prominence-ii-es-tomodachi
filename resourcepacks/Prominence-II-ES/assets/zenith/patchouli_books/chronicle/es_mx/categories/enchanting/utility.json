@@ -1,0 +1,7 @@
+{
+    "name": "Objetos Útiles",
+    "description": "Esta sección detalla todas las herramientas aleatorias que se usan para facilitar el encantamiento.",
+    "icon": "zenith:library",
+	"flag": "zenith:enchanting",
+	"parent": "zenith:enchanting/enchanting"
+}

@@ -1,0 +1,88 @@
+{
+  "name": "El Reactor nuclear",
+  "category": "modern_industrialization:midgame",
+  "icon": "modern_industrialization:uranium_fuel_rod_quad",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/nuclear_reactor_asbl",
+      "text": "El Reactor nuclear es un multibloque grande cuyo propósito es generar cantidades masivas de energía consumiendo combustible nuclear. Puede producir cientos de veces más EU/t que el diésel. Viene en varios tamaños, desde pequeño hasta grande."
+    },
+
+    {
+      "type": "text",
+      "text": "Para producir energía con el Reactor nuclear, necesitas colocar algo de Agua en una Compuerta de Fluido Nuclear. Se convertirá en Vapor que luego se puede usar para producir energía, posiblemente pasándolo primero por un Intercambiador de Calor.$(br2)El Reactor nuclear también es la única forma de producir algunos materiales como el Plutonio.$(br2)Finalmente, puede producir fluidos utilizados para la fusión nuclear: Deuterio y Tritio."
+    },
+
+    {
+      "type": "text",
+      "text": "Cómo funciona internamente puede ser un poco abrumador, a pesar de que las siguientes páginas intentan explicarlo. Sin embargo, no necesitas entender los detalles para poder diseñar un reactor potente.$(br2)Te recomendamos que experimentes con varios diseños en modo creativo hasta encontrar uno que te convenga."
+    },
+
+    {
+      "type": "text",
+      "text": "Nota que el Reactor nuclear no puede explotar, emitir radiación ni dañar el mapa de ninguna manera. Lo único que puede dañar son los objetos que pongas en él si la temperatura sube demasiado (más sobre esto después).$(br2)Siéntete libre de experimentar y disfruta tu nueva vida como científico nuclear."
+    },
+
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/casing/nuclear_casing_asbl",
+      "text": "El componente principal es el Revestimiento Nuclear, que se fabrica con Aleación Nuclear: una mezcla de cadmio, berilio y aleación a prueba de explosiones."
+    },
+
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/casing/nuclear_item_hatch_asbl",
+      "text": "La parte superior de la estructura acepta Compuertas de Objetos o Fluidos Nucleares (o revestimientos simples). Esas son las entradas y salidas del reactor."
+    },
+
+
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/casing/nuclear_fluid_hatch_asbl",
+      "text": "Cada compuerta tiene una entrada (ya sea de objeto o fluido) y dos salidas. Las ranuras de entrada formarán una cuadrícula, que se muestra en la GUI del reactor (accesible haciendo clic derecho en el controlador)."
+    },
+
+    {
+      "type": "text",
+      "text": "Cada compuerta tiene una temperatura y almacena calor que se puede disipar de varias maneras. El calor se moverá naturalmente a una compuerta adyacente o al exterior si la compuerta está en el borde (entonces el calor se pierde). La velocidad de este proceso es igual al coeficiente de transferencia de calor del contenido de la compuerta (mostrado en REI) multiplicado por la diferencia de temperatura. El calor también se puede extraer en una compuerta de fluido produciendo vapor. Una temperatura superior a la temperatura máxima de un objeto lo destruirá."
+    },
+
+    {
+      "type": "text",
+      "text": "Los elementos centrales del reactor nuclear son los neutrones. Estos son producidos por el combustible nuclear. Hay dos tipos de neutrones: rápidos y térmicos. Los rápidos llevan energía, mientras que los térmicos no. Los neutrones se mueven en línea recta hasta que encuentran un elemento o salen del reactor (para los neutrones rápidos, su energía se pierde entonces). El flujo de neutrones se muestra en la GUI del reactor."
+    },
+
+    {
+      "type": "text",
+      "text": "Cuando un neutrón encuentra una compuerta no vacía, pueden pasar dos cosas: el neutrón es absorbido o dispersado. Un neutrón dispersado cambiará de dirección aleatoriamente. Si el neutrón dispersado es rápido, tiene una probabilidad de frenarse y convertirse en uno térmico. Esto transfiere la energía del neutrón a la compuerta en forma de calor. Un neutrón absorbido detiene su curso y también transfiere su energía si era un neutrón rápido."
+    },
+
+    {
+      "type": "text",
+      "text" : "El número de neutrones absorbidos en una sola compuerta se puede ver en la GUI. La probabilidad de cada proceso se muestra en REI. Estas dependerán en gran medida del contenido de la compuerta y del tipo de neutrón (rápido o térmico). Los combustibles nucleares absorben mucho mejor los neutrones térmicos."
+    },
+
+    {
+      "type": "text",
+      "text": "Cuando un neutrón, ya sea rápido o térmico, es absorbido en combustible nuclear, se generan más neutrones. Estos son siempre neutrones rápidos y tienen dirección aleatoria. Su generación va acompañada de la liberación directa de energía en forma de calor adicional en la compuerta."
+    },
+
+    {
+      "type": "text",
+      "text": "Por encima de cierto umbral, el número de neutrones generados disminuirá con la temperatura hasta llegar a cero. Este proceso desperdicia algo de energía, pero garantiza la estabilidad del reactor. El número de neutrones generados (y la eficiencia efectiva), la energía directa y el umbral de temperatura están en REI."
+    },
+
+    {
+      "type": "text",
+      "text": "Cada componente nuclear tiene un número máximo de absorciones. Cuando se alcanza, el objeto se destruye o se transforma en una versión agotada. Esto es particularmente útil para el combustible nuclear, porque parte del U238 se transforma en Plutonio en la versión agotada, lo que significa que parte de él se puede transformar de nuevo en combustible."
+    },
+
+    {
+      "type": "text",
+      "text": "Lo mismo ocurre con los fluidos: un poco de fluido se transforma después de cada absorción de neutrones. Esto se puede usar para producir en masa isótopos útiles como deuterio y tritio. En ambos casos, el resultado se muestra en REI."
+    }
+
+  ],
+  "sortnum": 206
+}

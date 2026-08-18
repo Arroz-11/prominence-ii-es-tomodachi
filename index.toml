@@ -9073,6 +9073,486 @@ file = "resourcepacks/Prominence-II-ES/assets/ae2-emi-crafting/lang/es_ve.json"
 hash = "0b39a47feba5deddc3c01d4f5b427115b146fb0c7be61c4b9bfb6e6165c920e3"
 
 [[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/ae2-mechanics-index.md"
+hash = "684afb23969b35617abbee54cca6406db398bb3e2a04f8ea9c681e279f825b7e"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/autocrafting.md"
+hash = "35c638da30cb8177a4ae8d3c72e4f49690e1aad76397db78e8e08d3a00c438cb"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/bytes-and-types.md"
+hash = "93e69a93aac1b5579696bdf04bb04cf99ffbe2fdc9d2a1b2bd22a3dabc69b27c"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/cable-subparts.md"
+hash = "fa8624dddeea4ef0466d07546be4c703a85560d68f20d9ff8f4a93ff7f36fd9e"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/certus-growth.md"
+hash = "aa16589cf8e16e64131b72c1574021faa3b25cfe6c688af7c20a17eed97fd8de"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/channels.md"
+hash = "6a7e67b47c3a1765d091085d42fe238b417b016e7550c98a2ab24f749a86a96a"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/devices.md"
+hash = "5fc73ba3dd3cef2afad9b9fa30eba8aad850842e2787bcb2297b58be871f54e8"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/energy.md"
+hash = "437823db77bface9667b09fb5cfc5a2abe62c273aa3c8573124e58c70eb6b77f"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/import-export-storage.md"
+hash = "950218435ff45c0de01e0bfa5adff1655ab3beecf4a45a08e5d5b48e08a2fd0d"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/me-network-connections.md"
+hash = "8b859a78019cda24fe5767bbb21a3ced0af196e1fa63c3a8cba55fb6b915b138"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/meteorites.md"
+hash = "3f8165f14c772a8b8c229da0d8d911f2d06c0fcab671f5e80e957c385fb341d8"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/p2p-tunnels.md"
+hash = "ee8264b6c757b12acdc07511826062ceb8f3a1481314416648c3a639b21f0d2d"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/quantum-bridge.md"
+hash = "153f070805e04fe5c389cd49cd4ade0e729d03f8ce742e7b7fc5f48c297e0515"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/spatial-io.md"
+hash = "acf35adc29ebdae56a4d0e8e95ec5ab9812921ec0b7c4ef3624b77d4a0dcd939"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/ae2-mechanics/subnetworks.md"
+hash = "acf1a37f9f533cf21320463d67397a873594aeee04d7eb67e7d55e695cbbaa02"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/advanced-certus-farm.md"
+hash = "c7c67e6f3864820b41ba8e8c2881f12a5fe331639238a4fd9dc2f48e08e43c23"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/amethyst-farm.md"
+hash = "85f515e3526032e986fb488bed01cafcea069bf5f5bf234cd4745bab02d3efb2"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/cell-dumper-filler.md"
+hash = "5c4f7c0491fd6f5ca2ec47fb851aa41d9c54ef41499f8df341184dfced516b83"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/charger-automation.md"
+hash = "845ff5bc73706320ec4b7559c57d860fdbb1f40c94de8e7b064ee0193588aa11"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/example-setups-index.md"
+hash = "d607ff053841e41274fc173caa13d5170a008ea7ea75b8e5816584d6e206c783"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/furnace-automation.md"
+hash = "7b09879cc330476b97bbf0060573113a5a7382169961ebd811acc7b6d7a3fabc"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/interface-autostocking.md"
+hash = "5c249e37a68a9badfb0e691d39e9f11618c7cc43bb701b7174339a3c245e66fb"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/level-emitter-autostocking.md"
+hash = "fee32471014332e2ce8b4d5d8af2aa31536951fc2ef23f614a2d89177932405d"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/main-network.md"
+hash = "fd5ad290fa4ef8835082b7176f54d0d37b50831f112451290a2ee0bbea684a97"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/ore-fortuner.md"
+hash = "654555ead2f53a7fe72a03404b28ad323dd9567fabc26b8bd7e90b0c0a1bba5e"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/pipe-subnet.md"
+hash = "b29e92f62289f420645c201def91c5ee48cb85f16b97cb8f624e40703fd22cc3"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/processor-automation.md"
+hash = "801b31516fc8b3b7459bf4b61a950dcff98c83997ea69b6839393a5740210ba5"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/regulated-cobble-gen.md"
+hash = "ae9a39e7ecdecfd1cea9ca3fcef7c785dc49b3da739d41290b4667cb40f79490"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/semiauto-certus-farm.md"
+hash = "19af2c9b9e5c8ea179dd0614ae582fca7cefac6004c3bbd68623e1bf8abab02d"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/simple-certus-farm.md"
+hash = "3bb492fc87e9f727ae0ae8ebdcda2b86407c90d20d071f62fa0d0eee2f375abf"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/specialized-local-storage.md"
+hash = "e1c31feb458e8eff87b734ab761e6bf8e48ce0b9c51cfede0a23107035b3643f"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/example-setups/throw-in-water-automation.md"
+hash = "e437edaaace6e81eec42e527fd153f9d6d0c62cc214511006fee1ef2b13f4474"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/getting-started.md"
+hash = "6afa503257f9eaf4cc873d11df2d19ea15e6c8ab2b9ae1844ed214e9cbd32fc2"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/index.md"
+hash = "6660f0d839cd354ae807eb496033055c5f005aa83897f1cd86263e0f1e401df2"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/annihilation_plane.md"
+hash = "4d030c4875557cf0ca551cd4207ff0642b0c70508ab774e2cfc71104e045e8cb"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/budding_certus.md"
+hash = "78969868e3745b73e1eccf04545709fa1f9e323e135b1c1aa044c724b6a5410a"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/cable_anchor.md"
+hash = "af3fa3f47a1cddba54f79c654ad1f005283e3d5d8e5bdaa72d599cb2b80b4470"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/cables.md"
+hash = "bb94a22a9b482bb965551571c0f73529fb1a3133aa034a8452fba8a6786e55ac"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/cell_workbench.md"
+hash = "136dbd8e0818ccb8a6aa9da992cf1f817e8e4245fcdec41da774737b28f69f49"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/certus_quartz_crystal.md"
+hash = "05b810a8637ca93dd217e931efd23d0b915d50e61a18ba9f7222ce40f47a9fe2"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/certus_quartz_crystal_charged.md"
+hash = "1fd605b5776aac4f853516ab091eafda9ab88077b707a1f90c3ae2a1cb15b26d"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/certus_quartz_dust.md"
+hash = "482a38ccc2cfbe299d385a52afb7921083f545e7b5648d00facef9f7a27dfa32"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/charged_staff.md"
+hash = "c4ed4d65c01e3e473eec7cfe125d87f8198fa635da2ec40eb6919fa34efb53af"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/charger.md"
+hash = "8255975516bb1c00d42f14ea5e9d3b3ba8b7d126beb4b536373af7d094d43dab"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/chest.md"
+hash = "1c85a1394ecc02468e5f5324f7624ae9a7f18f857f779c1bf4513eb824eb0aa9"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/color_applicator.md"
+hash = "e6407526b732c6c533b8e78ddf9040ca323f2e8729d7a232c3c1add61d66e4a7"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/condenser.md"
+hash = "cb2cfcbe1f517a7d060390ad5f13acf84bc1a10fb72183956969472d17199c19"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/controller.md"
+hash = "353e3240f9f34c6ad537d1db90aedab398dd5a6e733b747d5ebf428820640456"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/crafting_cpu_multiblock.md"
+hash = "c23c3d5e88080e282c7271623231d0f6adc436aeee8d4bde6a7ded0f29d574dd"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/crank.md"
+hash = "0094fb36f60e55053fe1beabca5b6ca78d254c39fd09ea8490ff19875846e4d0"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/crystal_resonance_generator.md"
+hash = "caf4d61aa7e4dffae3972dffbd032795d693ee672eb3375f380a3ba8005e526b"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/cutting_knives.md"
+hash = "64bffed1779974d156655ddaf0b2c57131971a376f83b0012d291befb381d4e5"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/decorative_certus.md"
+hash = "9c4e4207a26c7cd9721dde83f3f4baed48bfcfc6c98171375e669e0b303ba46e"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/decorative_fluix.md"
+hash = "ea8552a9c3da1fef11ee05d325f663c00eb46c5bf11e0fbb1f6aad2e3f2dd4ce"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/decorative_sky_stone.md"
+hash = "780cd1d18e7fe0d8ff42ffc35fd49ff06b56f57c23b92fbcaf42fa89c0b6a334"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/drive.md"
+hash = "2e6b34bfd15a8c1f5dca5efa0a7291e010b46b88e17ad28d7e5e43db113a2bab"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/ender_dust.md"
+hash = "a31c68bd1d1e576388815a4835552e1f1c1b4aad28c68df9aec3ee225d9702e3"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/energy_acceptor.md"
+hash = "64d8bb090a3493a5624e00cb84e54294983f06f6cdb311437cdb2eb25b658f7e"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/energy_cells.md"
+hash = "9c5cad5374dfedd875708cf13f68f96a92508c8464c2c52c829b132c38ab08e1"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/entropy_manipulator.md"
+hash = "0b871468816ec6ed39b97be724b06712f425dbc7717ed48b548bb3f632454916"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/export_bus.md"
+hash = "851d754e15e2acd4ca6f7f1b76cb6560cb9372aa53eb7d7fbc08f48d50c1b837"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/facades.md"
+hash = "dedb3fd2b9e28725222e43e81a0881496221aea68852b86908eadbb3d3cf3937"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/fluix_block.md"
+hash = "4fd379bc2a70a850c4b1be0176607c323f1b7410541a3b87b456b5e107c777c6"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/fluix_crystal.md"
+hash = "ca33a15d0c00edac49b85b7937458258655575044ba4ccb38dedebb40deb0338"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/fluix_dust.md"
+hash = "ff36a1ac668bcc8e32a91f763abee859f7b7a6f3a98fca54620ffb5f9821e0c5"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/fluix_pearl.md"
+hash = "a5781e3a8b88804cffcf7c4dc7aacb60df66349017cc0d260f6c3a785683d6f5"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/fluix_tools.md"
+hash = "02441cc2372bf41ae55342736f5c62cf31370dc0bd1e86bcc29f3a07191a06d6"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/fluix_upgrade_smithing_template.md"
+hash = "7612ba5746ff58960d383ceaa207a837ab43b382bc12383e573b483181f79a3e"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/formation_annihilation_core.md"
+hash = "3738f049d952d8886eeec9a1ea5f251ef86a8cc20fe238aef5d07d68c8ba2e4b"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/formation_plane.md"
+hash = "30b90ffa8ae25923e33c8b8da82c6de4d9e040a57eaef184659437f8a97ed9bd"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/growth_accelerator.md"
+hash = "129558bdee6166f3cf11a0796a3b8c29a4b9199df69ba07762da7f1097e5707e"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/guide.md"
+hash = "795d65bd3a5ddace350810065a8e4b47a5e52777a96a35d2fce220dfb79965d4"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/illuminated_panels.md"
+hash = "cbb829a8b14a737f461be3fb2f0812afcb895f1f242e5f2c6fba3763d0deb5fc"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/import_bus.md"
+hash = "9d3db35cba074da70e8d6780fb248a076ef9f6356e70855b4f389af9f8757d8e"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/inscriber.md"
+hash = "0cfdb258f7ffc393aeed2a6d7f052d8894d8c3eaf6332fc4a9f5ec4142ab48db"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/interface.md"
+hash = "c9159ee31cf868fca741fbb6b3454a34056680552474003af44787cbd879b702"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/io_port.md"
+hash = "5f287370c8098123e1fd2d274040fe47c8c83f4f3d010d2292dc08afa62418a7"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/items-blocks-machines-index.md"
+hash = "755d735cae2e93821cedabe8b8ceeddbdc21ad7400f7ab90aa32ff3d23be4bc0"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/level_emitter.md"
+hash = "71d90193aa47cfb1d53cdcda4dbb2760e09f7ea10eee36df8c3ae5fd7a70da57"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/matter_ball.md"
+hash = "3bf39110e4f710f7dcd14cd8a8f4b703919861c1539719c0b17f16a1325dd3d4"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/matter_cannon.md"
+hash = "752ea12873928dc27b584ab1e8e34d0ece496610f6bea84c294741d5d15d5c0b"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/memory_card.md"
+hash = "0459e9692858518b04d85d8f61da148bea90ae7dc56e049434a48bd7543996c2"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/meteorite_compass.md"
+hash = "f55c36d244ca3abe5706f8fc59fa07f75f0571e34212efeab12d4f0d6816aa19"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/molecular_assembler.md"
+hash = "4fcebad8e5963b6f4efca9c834654fb68eaad14fdd1e4d244ebeafb8e854c41f"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/monitors.md"
+hash = "94fec3c6d8ac7da3a95345b266db66cd76a7e182808c7cc57f841f4fcc3e2a56"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/mysterious_cube.md"
+hash = "2a79bd6da94da83eb909c743bcb1d70c9e35af42e0f4e2b64f184e526245fb47"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/network_tool.md"
+hash = "15df41bc258867643ee3aff39dbcdd12bc3abbb3d740a0892385f0c70fb39d54"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/p2p_tunnels.md"
+hash = "49f60a7999d75a7e80c463a80a030a6d32dce6e4e8fc231644127a7ad5358666"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/paintballs.md"
+hash = "85031da25a112b10f7b80f7322f0ec38ba2ddc5a69f961189a6030b0c0df9ac7"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/pattern_provider.md"
+hash = "fef3a5c687edd50a90aa1d0aab3055d55c06f65187013d6f1bc233bf28cdf66c"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/patterns.md"
+hash = "b753e449ff879db37bee51be2b7554dfac45d0ee6ccd971bfcbdded8b2ea5439"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/presses.md"
+hash = "7553fb6f704457e61e9336caa676349d773b7ca7a4a3f96737b82222f7994208"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/processors.md"
+hash = "042039a746b6e6416066274bb1f5685af3b22327a5795e3eecb0a87f015ef221"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/quantum_bridge.md"
+hash = "f6e1c4df75f1d03125f0e91e57b227d8f9a2edc82ca68f2c6d641346b5b9045c"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/quartz_block.md"
+hash = "72251d4814f30a03d2106ba609dbc39e34fc05e8818b841bcc230df34b44106d"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/quartz_fiber.md"
+hash = "f259a075c89cba1e05278247c487d8bf7ed24778cfde17069577acfd4b1579b6"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/quartz_fixture.md"
+hash = "685e407d3985990e62c603e1c63397593114790eecf00f0a0c0a341b13d24ede"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/quartz_glass.md"
+hash = "ece86261b52c9a049ffb46d1492c68d22783fcf0eac202f70b6f4b27b94618a8"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/quartz_tools.md"
+hash = "2b70d4b3f75e8738c25d47c7975d7cedb3fabbdd6cd0fe0017da6b1b80327fb7"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/singularities.md"
+hash = "d20eb2177129fa10b78dd2d87f44c17eebf3af4d2a2a1c853a88960c9ff49dbe"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/sky_dust.md"
+hash = "77d5cb19acdaf331b8daa9345ec00ed22c5db098a9f82587b927cceb8b88a755"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/sky_stone.md"
+hash = "d7410d9c5954df1d77dcc94a790025863e8e5663102d6650737342d7cf018ba4"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/sky_stone_tank.md"
+hash = "b15556aeb710ac51b124c74bd2d704b8cf12e3357e0a906e58cd143ef0aff28b"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/spatial_anchor.md"
+hash = "46bc93bf55eb19f50e3a747a143b40dae49fb86c95c488b98e6c09f93df3ec5c"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/spatial_cells.md"
+hash = "744e7b1ac5402453d06b1bd2025797544b8a5c37bad3372d73dcb35b9bc69064"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/spatial_io_port.md"
+hash = "47da3bff934f9238ca12e5cfef3b10fffb80fc2754817b34b93a66ca8922be87"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/spatial_pylon.md"
+hash = "17c054483e89f07f57efabc4aaa50bb090ee353db5305e423901591f23e67414"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/storage_bus.md"
+hash = "2c9f5a0168786600cec086bbab174e903c14ccea14bd6ed1d39fb50ec5cf9c7c"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/storage_cells.md"
+hash = "461670b2242488ca65be705d310b3c176df73c6a77447edf5b95cc97863bc32e"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/terminals.md"
+hash = "4a9b7b01d0e31621b352fe0e457d3f0c5c2cc6669f0f21a508537b6aee27388b"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/tiny_tnt.md"
+hash = "37d73022f9f2c0fbc5c29c16d8a7de3c2eeb2297c4cde7a3f243dcf1bfe41249"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/toggle_bus.md"
+hash = "ba4ee345b1d7bc348deb7d1b5a659b549af10fc49cb52bf46d7f410bf4cd572b"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/upgrade_cards.md"
+hash = "fdf27d6ff921b841e0b94cd42816a5838b5358a2393c283842571e73fbf39035"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/vibration_chamber.md"
+hash = "b900c1420cf63f6ea67ef39a44c70060f2fb7c7d5d02b669853442a2759ca674"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/view_cell.md"
+hash = "193768456e9d34fb7d06e5685d580e667eb2db30959b2d82368fb222e260b56c"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/wireless_access_point.md"
+hash = "46bb32bdd312250f172b42017511b798e1825278677fa105af8b625c203c6ed6"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/wireless_receiver.md"
+hash = "9532ccb6e93936ea3211b7070bd61fa65fab36b199fbc2736d17466bec5257e6"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/wireless_terminals.md"
+hash = "e85ded05d53c9b8f1399ed7123d1d5572fe1ddcc08f22fedd1d5dd4a59fc900b"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/items-blocks-machines/wrench.md"
+hash = "f1477d63cc1a3033bf51be5c21b63341af51bf716a2ce56b4976bc2f86b11bf2"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/ae2/ae2guide/tips-and-tricks.md"
+hash = "5cfec29b8684241c040675432b8953a7c51efac4b0560e2bd1fe892b0507443c"
+
+[[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ae2/lang/en_us.json"
 hash = "a4c26a049ab7f6d8428ed06024d33e50ee1070b740943261a8fb8e0f14f50056"
 

@@ -2501,6 +2501,134 @@ file = "config/paxi/datapacks/paladins_all_the_smites-1.20.1_1.0.zip"
 hash = "c323cd605e86e7269b4c8c2a1b482bf9b81cba344616254997b3cc583fd033f4"
 
 [[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/assets/railways/ponder/coupler.nbt"
+hash = "226b6e41136877dc95711f48c2b05e72cf8869ab484d2747547a14f4c9a64c6b"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/dungeons_arise/structures/aviary/aviary_part_5.nbt"
+hash = "319626c98aec95c577c8b666c0ea7dd027a9590aa8850dbe9d457843ec017ec8"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/dungeons_arise/structures/aviary/aviary_part_7.nbt"
+hash = "f58975847962771dde310c3ab258837e5ec2086c2368db898d68fb83af94cd37"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/dungeons_arise/structures/bathhouse/bathhouse_middle_1.nbt"
+hash = "49f2368e850bf7f2fa5940021823ac8e5f3aac5321ad8890b9a282a8193a6bcd"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/dungeons_arise/structures/illager_windmill/illager_windmill_part_0.nbt"
+hash = "0329d40bd96f42db5388c3730b210080672e6f084558fd5ef11153677c958ac9"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/dungeons_arise/structures/keep_kayra/keep_kayra_main_0.nbt"
+hash = "743100458584cdb000ca24abf83217cf188d0a3322d8d55d3bc6d52ea7978e0b"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/dungeons_arise/structures/mushroom_village/mushroom_village_house_big_0.nbt"
+hash = "aa9b3e0857e007b7ffc79585a85a7d5dc43777d56bf151145e11db4f759e9ec8"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/graveyard/structures/crypt/corridor_pool/trap_02.nbt"
+hash = "c14ea4f338321b8e327d137775180ff799412e72b88ef6c5f82ca0c5426c4083"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/graveyard/structures/crypt/corridor_pool/trap_03.nbt"
+hash = "00461c9a5ff3de5c60adee9220268a70df025584988e3f7c1ce3f9c3977061ac"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/graveyard/structures/large_graveyard/branch_pool/branch_willow.nbt"
+hash = "c3b350fca448c9c69df12cb0a92ddb9508b8fd9ef9ba3cb3e2fa7b11430b86c0"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/graveyard/structures/large_graveyard/feature_pool/wither_skeleton_mill.nbt"
+hash = "5e43ebcbcf88421e0295fd3ede242ef2ddc83776186f286fd205724a82b45fc6"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/graveyard/structures/large_graveyard/street_pool/graveyard_entrance.nbt"
+hash = "3aa6bf1e6d3bcf4073ce0b79df95d14713742e1605fe8136f299b7f8c6135b48"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/graveyard/structures/medium_graveyard/medium_graveyard_01.nbt"
+hash = "8fa201480b1684a22a30a8f2019316f3a1c648478859f07e307599fc342dcda0"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/graveyard/structures/medium_graveyard/medium_graveyard_02.nbt"
+hash = "899c06f8845b2896ee66651e05fc919c633e9126227558f98d0dd84bb15f0e70"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/graveyard/structures/ruins/ruins_01.nbt"
+hash = "eabca104f8fc41a264a0bd1bc0578c80b44b7e853d8aa294aed7d2994d9fe03a"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/graveyard/structures/small_graveyard/small_graveyard_01.nbt"
+hash = "c3e05868a7f381b01fd808f16311945a59d180556660f018da9851b31a0328f2"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/graveyard/structures/small_graveyard/small_graveyard_03.nbt"
+hash = "fec56230fabbbda1b52ce3868c4321b56695b7ee19d1576951299a5e0ec5fb55"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/graveyard/structures/small_graveyard/small_graveyard_04.nbt"
+hash = "d6d1bbf27c76c61fab7981db102483045f1d143b40c5a75513593397dcee08ef"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/graveyard/structures/small_graveyard/small_graveyard_05.nbt"
+hash = "e2c5473e9226d9738b27b053ccc51ad991f976eb63686c48155299ae193c3704"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/graveyard/structures/small_graveyard/small_graveyard_06.nbt"
+hash = "48e5cf5e278c0c9bf0d6c2d3d8c55d57301fd3831e08825ac8c32204ed8ff1cb"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/integrated_stronghold/structures/elevator/elevator.nbt"
+hash = "c260e7ae3131bf14984555bef5486a34132adf8de69f059809047d4dba2f0c44"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/integrated_stronghold/structures/grand_library/grand_library.nbt"
+hash = "12c3bf4791278fcf4e02ce9eb3889dd1fb486344b2f3877e92826f031ef5c7f6"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/kaisyn/structures/outpost/towers/snowy_slopes/base_plate.nbt"
+hash = "6bd490700a4a85f3506c1e30ec7ff8a455a591559521c5964411a18fe266e6e2"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/kaisyn/structures/village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1.nbt"
+hash = "d35fd257659fd17839551a4a055c84875db2731ca982cdfc67386bfa521763fe"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/kaisyn/structures/village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1.nbt"
+hash = "33db1aee66ad3eb983b5efb46a8685a5b1c92e35957a192aa30775eba3c94983"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/philipsruins/structures/end_gate_fortress.nbt"
+hash = "88523d86bf22ac485fe91115d7a7d5eb33c9387e9b65399a6ff7f0c5c2d6b48c"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/philipsruins/structures/pumpkin_ruin_five.nbt"
+hash = "362c9ce594a513d08757a223533d694c31679a74338973b4f438651d734574c8"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/philipsruins/structures/pumpkin_ruin_six.nbt"
+hash = "9b9d6ba86b0577f145dec81fc260aff6b8cb0d520b623a3af2d2157653f96a0f"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/philipsruins/structures/run_down_house_left_side.nbt"
+hash = "d4701a17bfd0d36163e94755bfae1e1e5a8b41506411679b12ba6b9ad98d152f"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/simply_houses/structures/taiga_forge/taiga_forge.nbt"
+hash = "ba102b336bee4982498102276caf1e7383902a89ef25c4c72b038cfdad069444"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/data/simply_houses/structures/taiga_inn/taiga_inn.nbt"
+hash = "45fabd5f0bff33d5e9406987e4ef913df31b4125ee583471ed348ccd5f36dfe7"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-carteles/pack.mcmeta"
+hash = "892df5ee77d6bfd7f7ee20a11079b6fc9fd40f1e0a0d8564bd09f06eb06d862f"
+
+[[files]]
 file = "config/paxi/datapacks/prominence-es-logros/data/betterarcheology/advancements/used_bomb_item.json"
 hash = "66204ad7d3e1090e4c589f54f9ff6913b151a0d09d7222f074194566e4f3c63b"
 

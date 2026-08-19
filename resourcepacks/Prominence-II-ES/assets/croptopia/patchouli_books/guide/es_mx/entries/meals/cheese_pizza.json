@@ -1,0 +1,12 @@
+{
+  "name": "Pizza de queso",
+  "icon": "croptopia:cheese_pizza",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cheese_pizza",
+      "text": "Receta para una pizza de queso."
+    }
+  ]
+}

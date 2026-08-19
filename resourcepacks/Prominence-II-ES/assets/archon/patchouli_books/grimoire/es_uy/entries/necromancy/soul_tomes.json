@@ -1,0 +1,12 @@
+{
+  "name": "Tomos de Almas",
+  "icon": "archon:hound_pack_soul_tome",
+  "category": "archon:necromancy",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los Tomos de Almas son clave para añadir invocaciones a tu Báculo de los No Muertos. Tienes la oportunidad de encontrar Tomos de Almas en cofres de Bastiones y Ciudades Antiguas, o una oportunidad garantizada en $(l:archon:world/wither_tombs)Tumbas del Wither$(). Combínalos en una mesa de crafteo con un Báculo de los No Muertos para añadir la invocación específica a tu báculo."
+    }
+  ]
+}

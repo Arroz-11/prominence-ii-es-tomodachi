@@ -1,0 +1,17 @@
+{
+  "name": "Frostfall",
+  "icon": "simplyswords:frostfall",
+  "advancement": "simplyswords:frostfall",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:frostfall",
+      "text": "Frostfall es un poderoso martillo que aprovecha el poder del hielo para congelar a sus enemigos. El martillo está forjado con un metal raro capaz de soportar el frío intenso del hielo. La cabeza del martillo está imbuida con el poder del hielo, lo que le permite congelar cualquier cosa que golpee."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La habilidad única del martillo es la capacidad de envolver a su portador en una capa protectora de hielo, otorgándole mayor regeneración y resistencia. Se dice que el martillo fue creado por un poderoso mago que lo imbuyó con el poder del invierno, convirtiéndolo en un arma temible en el campo de batalla."
+    }
+  ]
+}

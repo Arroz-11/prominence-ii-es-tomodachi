@@ -138,5 +138,98 @@
   "text.config.things.category.effectLevels": "Efectos de Estado de Amuletos",
   "text.config.things.option.effectLevels.miningGloveMomentum": "Nivel de Impulso del Guante de Minería",
   "text.config.things.option.effectLevels.mossNecklaceRegen": "Nivel de Regeneración del Collar Musgoso",
-  "text.config.things.option.effectLevels.riotGauntletStrength": "Nivel de Fuerza del Guante de Revuelta"
+  "text.config.things.option.effectLevels.riotGauntletStrength": "Nivel de Fuerza del Guante de Revuelta",
+  "item.things.ender_pouch.tooltip": [
+    {
+      "text": "Envía ",
+      "color": "gray"
+    },
+    {
+      "index": 0,
+      "color": "white"
+    },
+    " para abrir el inventario del Pecho de Ender"
+  ],
+  "item.things.displacement_tome.tooltip.charges": [
+    {
+      "text": "Cargas: ",
+      "color": "gray"
+    },
+    {
+      "index": 0,
+      "color": "#5800FF"
+    }
+  ],
+  "item.things.item_magnet.tooltip": [
+    {
+      "text": "⚡ ",
+      "color": "#8000ff"
+    },
+    {
+      "text": "Carga: ",
+      "color": "gray"
+    },
+    {
+      "index": 0,
+      "color": "dark_gray"
+    }
+  ],
+  "item.things.consolation_cake": [
+    {
+      "italic": false,
+      "text": ""
+    },
+    {
+      "text": "❤",
+      "color": "#EB1D36"
+    },
+    {
+      "text": " Pastel de Consuelo "
+    },
+    {
+      "text": "❤",
+      "color": "#EB1D36"
+    }
+  ],
+  "item.things.socks.tooltip": [
+    "Proporciona mayor velocidad al caminar y opcionalmente Salto Mejorado, incluida asistencia de paso. Envía ",
+    {
+      "index": 0,
+      "color": "white"
+    },
+    " para alternar Salto Mejorado"
+  ],
+  "gui.things.displacement_tome.charges": [
+    {
+      "text": "Cargas: ",
+      "color": "gray"
+    },
+    {
+      "index": 0,
+      "color": "white"
+    }
+  ],
+  "gui.things.displacement_tome.no_pages": [
+    "",
+    {
+      "text": "! ",
+      "color": "yellow",
+      "bold": true
+    },
+    {
+      "text": "Sin Páginas de Desplazamiento",
+      "color": "gray"
+    }
+  ],
+  "text.things.tooltip_hint": [
+    {
+      "text": "Mantener ",
+      "color": "gray"
+    },
+    {
+      "text": "Mayús izdo.",
+      "color": "gold"
+    },
+    " para más información"
+  ]
 }

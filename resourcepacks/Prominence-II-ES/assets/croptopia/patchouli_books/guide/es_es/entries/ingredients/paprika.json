@@ -1,0 +1,12 @@
+{
+  "name": "Pimentón",
+  "icon": "croptopia:paprika",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:paprika",
+      "text": "Receta para pimentón."
+    }
+  ]
+}

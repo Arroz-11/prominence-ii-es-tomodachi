@@ -1,0 +1,17 @@
+{
+  "name": "Robaalmas",
+  "icon": "simplyswords:soulstealer",
+  "advancement": "simplyswords:soulstealer",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:soulstealer",
+      "text": "El Robaalmas es un arma poderosa y misteriosa que se dice tiene la capacidad de robar las almas de sus víctimas y manipular sus percepciones. Se cree que es una poderosa herramienta de manipulación y reubicación, capaz de nublar las mentes de aquellos a los que apunta para que se vuelvan ciegos a la presencia de su portador."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La naturaleza exacta y las capacidades del Robaalmas son escasamente comprendidas, ya que es un arma muy codiciada y esquiva que se dice es empuñada solo por los individuos más poderosos y siniestros."
+    }
+  ]
+}

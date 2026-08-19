@@ -237,5 +237,6 @@
   "attribute.name.generic.archon.earth": "Poder de Tierra",
   "attribute.name.generic.earth": "Poder de Tierra",
   "attribute.archon.generic.earth": "Poder de Tierra",
-  "attribute.name.earth": "Poder de Tierra"
+  "attribute.name.earth": "Poder de Tierra",
+  "text.archon.obj": "%s"
 }

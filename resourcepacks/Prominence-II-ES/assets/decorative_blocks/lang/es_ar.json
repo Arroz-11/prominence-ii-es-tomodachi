@@ -1,0 +1,16 @@
+{
+  "block.decorative_blocks.mangrove_beam": "Viga de Mangle",
+  "block.decorative_blocks.mangrove_palisade": "Empalizada de Mangle",
+  "block.decorative_blocks.mangrove_seat": "Asiento de Mangle",
+  "block.decorative_blocks.mangrove_support": "Soporte de Mangle",
+  "block.decorative_blocks.bamboo_beam": "Viga de Bambú",
+  "block.decorative_blocks.bamboo_palisade": "Empalizada de Bambú",
+  "block.decorative_blocks.bamboo_seat": "Asiento de Bambú",
+  "block.decorative_blocks.bamboo_support": "Soporte de Bambú",
+  "block.decorative_blocks.cherry_beam": "Viga de Cerezo",
+  "block.decorative_blocks.cherry_palisade": "Empalizada de Cerezo",
+  "block.decorative_blocks.cherry_seat": "Asiento de Cerezo",
+  "block.decorative_blocks.cherry_support": "Soporte de Cerezo",
+  "wiki.decorative_blocks.shift": "Envía §lMayús izdo.§r para más información",
+  "key.decorative_blocks.switch_item_state": "Cambiar estado del objeto"
+}

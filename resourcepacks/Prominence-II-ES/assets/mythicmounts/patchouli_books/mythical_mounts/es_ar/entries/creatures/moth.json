@@ -1,0 +1,47 @@
+{
+  "name": "Polilla gigante",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Se dice que habitan en los bosques más oscuros, estas polillas buscan ansiosamente objetos brillantes.$(br2)Aunque son gigantescas, son bastante frágiles y deben tener cuidado de no dañar sus delicadas alas al volar entre matorrales de ramas de árboles.$(br2)Están cubiertas de un pelaje grueso y suave."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "mythicmounts:moth",
+      "title": "Polilla",
+      "text": "$(br)$(o)Para $(l)@Sushi$()$(o), ¡gracias por toda tu ayuda! ^_^",
+      "scale": 0.5,
+      "offset": 0.3,
+      "rotate": true,
+      "border": true
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Hábitats",
+      "entity_id": "mythicmounts:moth"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos de domesticación",
+      "entity_id": "mythicmounts:moth"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Comida",
+      "entity_id": "mythicmounts:moth"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos de cría",
+      "entity_id": "mythicmounts:moth"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Estadísticas base",
+      "entity_id": "mythicmounts:moth"
+    }
+  ]
+}

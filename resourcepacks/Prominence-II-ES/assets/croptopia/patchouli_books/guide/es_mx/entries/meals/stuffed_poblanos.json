@@ -1,0 +1,12 @@
+{
+  "name": "Pimiento relleno",
+  "icon": "croptopia:stuffed_poblanos",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:stuffed_poblanos",
+      "text": "Guía de receta."
+    }
+  ]
+}

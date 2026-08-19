@@ -1,0 +1,13 @@
+{
+  "name": "Equipo de Montura",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:gear",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Antes de que una montura pueda ser montada correctamente, debe estar equipada con una silla de montar$(br2)Las riendas también se pueden usar para guiar y atar monturas.$(br2)Las monturas que pueden volar no despegarán si están atadas."
+    }
+  ],
+  "sortnum": 0
+}

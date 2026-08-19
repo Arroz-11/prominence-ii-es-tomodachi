@@ -110,5 +110,6 @@
   "advancement.sortilege.get_knowledge_book": "¡Esto tiene que ir en una biblioteca!",
   "advancement.sortilege.get_knowledge_book.desc": "Crea un libro de conocimientos para aprender de los botines encantados.",
   "advancement.sortilege.fill_knowledge_book": "El conocimiento es poder",
-  "advancement.sortilege.fill_knowledge_book.desc": "Rellena un libro de conocimientos con todos y cada uno de los encantamientos."
+  "advancement.sortilege.fill_knowledge_book.desc": "Rellena un libro de conocimientos con todos y cada uno de los encantamientos.",
+  "tooltip.press_shift.right": "]"
 }

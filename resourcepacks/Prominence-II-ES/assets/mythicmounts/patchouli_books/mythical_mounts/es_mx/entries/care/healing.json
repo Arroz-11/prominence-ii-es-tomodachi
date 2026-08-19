@@ -1,0 +1,17 @@
+{
+  "name": "Artes de Curación",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:care",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La capacidad de administrar primeros auxilios es un conocimiento imprescindible para cualquier cuidador de criaturas míticas. Hay muchos peligros que se pueden encontrar durante las actividades de montar, y es esencial que un buen caballerizo sepa cómo proporcionar tratamiento de manera oportuna.$(br2)"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)Las técnicas básicas de primeros auxilios incluyen pociones de salud arrojadizas y alimentos.$(br2)Las monturas también pueden ser tratadas permitiéndoles descansar, ya que recuperarán salud lentamente cuando tengan la oportunidad de dormir."
+    }
+  ],
+  "sortnum": 4
+}

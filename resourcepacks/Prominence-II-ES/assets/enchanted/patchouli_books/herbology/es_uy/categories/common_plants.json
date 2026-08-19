@@ -1,0 +1,6 @@
+{
+  "name": "Plantas mágicas comunes",
+  "description": "Esta sección detalla plantas que se encuentran comúnmente y que no requieren mutaciones o magias para adquirirlas.",
+  "icon": "enchanted:textures/item/belladonna_flower.png",
+  "sortnum": 0
+}

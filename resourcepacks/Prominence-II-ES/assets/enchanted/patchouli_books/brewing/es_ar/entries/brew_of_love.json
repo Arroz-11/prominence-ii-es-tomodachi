@@ -1,0 +1,16 @@
+{
+  "name": "Brebaje de amor",
+  "icon": "enchanted:brew_of_love",
+  "category": "enchanted:kettle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Este brebaje puede lanzarse para hacer que todos los animales cercanos se enamoren."
+    },
+    {
+      "type": "enchanted:kettle_recipe",
+      "recipe": "enchanted:kettle/brew_of_love"
+    }
+  ],
+  "read_by_default": true
+}

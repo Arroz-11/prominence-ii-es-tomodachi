@@ -1,0 +1,17 @@
+{
+  "name": "Brujería: Herbología",
+  "icon": "patchouli:textures/item/book_purple.png",
+  "category": "enchanted:additional_resources",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las brujas necesitarán usar varias plantas mágicas y comunes; los métodos para obtenerlas y sus propiedades se detallan en Brujería: Herbología."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:book_herbology"
+    }
+  ],
+  "read_by_default": false,
+  "sortnum": 0
+}

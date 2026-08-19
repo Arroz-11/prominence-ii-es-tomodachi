@@ -1,0 +1,17 @@
+{
+  "name": "Almas",
+  "icon": "archon:soul",
+  "category": "archon:necromancy",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las almas son objetos especiales que se obtienen al matar mobs con una $(l:archon:necromancy/soul_scythe)Guadaña de Ánima$() o con un objeto encantado con $(l:archon:effects_enchants/reaping)Segado$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Uso",
+      "text": "Estas almas se usan con un $(l:archon:necromancy/undead_staff)Báculo de No Muerto$() para obtener Poder de Alma. Cuando tengas un Báculo de No Muerto en tu inventario, consumirá automáticamente las almas que recojas."
+    }
+  ]
+}

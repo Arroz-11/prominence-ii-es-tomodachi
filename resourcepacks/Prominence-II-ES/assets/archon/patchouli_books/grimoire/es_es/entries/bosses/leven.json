@@ -1,0 +1,17 @@
+{
+  "name": "Leven",
+  "icon": "archon:wave_crystal",
+  "category": "archon:bosses",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Leven es un jefe de agua con una variedad de ataques. Leven suelta un Cristal de Ola al morir. Puedes encontrar los objetos necesarios para invocarlo en la página siguiente."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "archon:leven",
+      "text": "Kelp, Pez Globo, 2x Esencia de Agua"
+    }
+  ]
+}

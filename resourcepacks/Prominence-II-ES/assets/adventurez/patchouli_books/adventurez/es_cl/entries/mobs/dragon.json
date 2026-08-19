@@ -1,0 +1,28 @@
+{
+    "name": "Dragón",
+    "icon": "adventurez:blackstone_golem_heart",
+    "category": "adventurez:mob_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "El Dragón es el hijo del conocido Ender Dragon. Tienes que incubar el huevo de dragón y crecerá con el tiempo. Más tarde podrás montarlo y, si es lo suficientemente grande, incluso puede llevar un cofre. Le encanta comer piel de orco, pero tampoco le importa la carne cruda, así que si tiene poca salud, aliméntalo"
+        },
+        {
+            "type": "entity",
+            "name": "Showcase",
+            "entity": "adventurez:dragon",
+            "scale": 1.1,
+            "offset": -1.2
+        },
+        {
+            "type": "text",
+            "title": "Incubación del Huevo",
+            "text": "Después de obtener el huevo de dragón, tendrás que invocar y matar a The Eye para obtener el efecto de fama. Si VoidZ está instalado, tendrás que matar a la Sombra del Vacío en su lugar. Construye un nido en tu base para incubar el huevo de forma segura. Si siente tu fama, comenzará a eclosionar y emitirá partículas"
+        },
+        {
+            "type": "text",
+            "title": "Crecimiento",
+            "text": "Después de que el dragón eclosione, puedes alimentarlo con piel de orco para que crezca más rápido, si tiene suficiente hambre. Crece en tamaño dos veces hasta convertirse en un dragón grande. Después de la primera etapa, puedes ponerle una silla de montar de dragón para montarlo; después de la segunda etapa, puedes ponerle un cofre y es lo suficientemente mayor como para respirar fuego"
+        }
+    ]
+}

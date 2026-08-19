@@ -1,0 +1,17 @@
+{
+  "name": "Salvaguarda",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Salvaguarda",
+      "text": "Salvaguarda es una habilidad poderosa pero arriesgada que proporciona al portador un escudo temporal para protegerse de los ataques entrantes. Al activarse, el portador sacrifica la mitad de su salud actual para crear una barrera de energía pulsante a su alrededor que absorbe el daño entrante."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "El escudo dura seis segundos y pulsa periódicamente, proporcionando una nueva capa de absorción con cada pulso. La fuerza del escudo escala con la cantidad de salud restante, lo que lo convierte en una opción defensiva poderosa para aquellos dispuestos a correr el riesgo."
+    }
+  ]
+}

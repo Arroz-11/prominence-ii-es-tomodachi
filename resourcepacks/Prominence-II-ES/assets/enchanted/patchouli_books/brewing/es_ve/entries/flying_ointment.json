@@ -1,0 +1,16 @@
+{
+  "name": "Ungüento volador",
+  "icon": "enchanted:flying_ointment",
+  "category": "enchanted:kettle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El ungüento volador es un líquido que parece desafiar la gravedad. Cualquier cosa imbuida con él ganará la propiedad de volar, incluidos los jugadores que lo beban.$(br2)Se usa para infundir escobas."
+    },
+    {
+      "type": "enchanted:kettle_recipe",
+      "recipe": "enchanted:kettle/flying_ointment"
+    }
+  ],
+  "read_by_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Maldición de Hundimiento",
+  "icon": "minecraft:water_bucket",
+  "category": "enchanted:curses",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Maldición de Hundimiento",
+      "text": "Maldice al afectado para que se vuelva más pesado tanto en agua como en aire. $(br2)Realízalo durante una tormenta."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:curse_sinking"
+    }
+  ],
+  "read_by_default": true,
+  "sortnum": 2
+}

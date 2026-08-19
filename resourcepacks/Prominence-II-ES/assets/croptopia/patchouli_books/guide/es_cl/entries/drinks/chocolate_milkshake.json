@@ -1,0 +1,12 @@
+{
+  "name": "Malteada de chocolate",
+  "icon": "croptopia:chocolate_milkshake",
+  "category": "croptopia:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:chocolate_milkshake",
+      "text": "Receta de malteadas de chocolate."
+    }
+  ]
+}

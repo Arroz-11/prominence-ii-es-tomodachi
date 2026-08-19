@@ -1,0 +1,25 @@
+{
+  "name": "Árbol de Aliso",
+  "icon": "enchanted:textures/block/alder_sapling.png",
+  "category": "enchanted:mutated_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los árboles de aliso, del género Alnus, son árboles monoicos distribuidos por toda la zona templada del norte, de los que se cree que sangran al cortarlos, ya que la madera blanca puede volverse roja.$(br2)Se cree que este árbol es tanto un portador de desgracias como un repelente de negatividad.$(br2)$(bold)Obtención:$()$(br)Mutado a partir de plantas pequeñas."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:alder_sapling"
+        },
+        "pattern": [
+          [ "0" ],
+          [ " " ]
+        ]
+      }
+    }
+  ],
+  "read_by_default": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Galleta de avena con pasas",
+  "icon": "croptopia:raisin_oatmeal_cookie",
+  "category": "croptopia:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:raisin_oatmeal_cookie",
+      "text": "Receta para una galleta de avena con pasas."
+    }
+  ]
+}

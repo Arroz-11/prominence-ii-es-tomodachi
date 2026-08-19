@@ -1,0 +1,21 @@
+{
+  "name": "Domesticación",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:care",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Si uno tiene la suerte de encontrarse con una criatura mítica en la naturaleza, a menudo es posible hacer amistad con la bestia si se conocen los medios correctos.$(br2)Ofrecer ciertos alimentos o objetos que le gusten a la criatura es una forma segura de hacer amistad con muchos tipos de monturas legendarias, con suficiente tiempo y persistencia."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br)Las monturas salvajes también pueden ser entrenadas para llevar a un jinete usando técnicas tradicionales de equitación.$(br2)Al montar repetidamente una montura salvaje, eventualmente se acostumbrará al jinete. A medida que se desarrolla la confianza con el tiempo, la montura se vinculará con el domador y eventualmente aceptará una silla de montar, permitiendo que se la monte libremente."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br)Se requiere algo de paciencia independientemente del método de domesticación. En consecuencia, el tiempo que toma domesticar una montura dada dependerá en gran medida del temperamento individual de la criatura. Algunas tomarán más tiempo para acostumbrarse a un jinete que otras.$(br2)¡Recuerda recompensar la cooperación con refuerzo positivo, golosinas y caricias!$(br)$(o)(agacharse + clic derecho)."
+    }
+  ],
+  "sortnum": 0
+}

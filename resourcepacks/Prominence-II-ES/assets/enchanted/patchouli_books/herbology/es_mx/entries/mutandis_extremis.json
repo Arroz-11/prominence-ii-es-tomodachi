@@ -1,0 +1,17 @@
+{
+  "name": "Mutandis Extremis",
+  "icon": "enchanted:mutandis_extremis",
+  "category": "enchanted:mutated_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Mutandis Extremis, una forma mejorada de mutandis, es capaz de mutar plantas de múltiples etapas como cactus, caña de azúcar y trigo. Además, puede hacer todo lo que el mutandis normal puede hacer.$(br2)$(br2)$(br)$(bold)Obtención:$()$(br)Se crea con una poción de caldero."
+    },
+    {
+      "type": "enchanted:cauldron_recipe",
+      "recipe": "enchanted:witch_cauldron/mutandis_extremis"
+    }
+  ],
+  "read_by_default": false,
+  "priority": true
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Spinning Wheel",
+  "icon": "enchanted:spinning_wheel",
+  "category": "enchanted:creating_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La rueda de hilar es un dispositivo que se usa para tejer materiales juntos, por ejemplo en un poppet. $(br2)Coloca los objetos requeridos en la rueda de hilar y proporciona suficiente poder desde un altar para tejer los objetos juntos."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:spinning_wheel"
+    }
+  ],
+  "read_by_default": false,
+  "priority": true,
+  "sortnum": -2
+}

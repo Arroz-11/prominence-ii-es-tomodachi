@@ -1,0 +1,17 @@
+{
+  "name": "Triturador de Almas",
+  "icon": "archon:soul_crusher",
+  "category": "archon:necromancy",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:soul_crusher",
+      "text": "El Triturador de Almas es un objeto especial de nigromancia que condensa las almas de aquellos que matas en maná. En lugar de soltar almas, matar mobs te dará 40 de maná por cada mob asesinado."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:soul_crusher"
+    }
+  ]
+}

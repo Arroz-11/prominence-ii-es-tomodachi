@@ -1,0 +1,12 @@
+{
+  "name": "Zumo de Tomate",
+  "icon": "croptopia:tomato_juice",
+  "category": "croptopia:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:tomato_juice",
+      "text": "Receta para zumo de tomate."
+    }
+  ]
+}

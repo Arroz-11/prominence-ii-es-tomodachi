@@ -1,0 +1,16 @@
+{
+  "name": "Tiza ritual",
+  "icon": "enchanted:ritual_chalk",
+  "category": "enchanted:performing_rites",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La tiza ritual es la forma más básica de tiza utilizada en la magia de círculos. Es bastante fácil de obtener y se usa para muchas aplicaciones simples, así como para ritos más complejos."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:ritual_chalk"
+    }
+  ],
+  "read_by_default": true
+}

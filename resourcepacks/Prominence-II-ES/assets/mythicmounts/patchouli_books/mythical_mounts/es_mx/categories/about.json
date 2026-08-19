@@ -1,0 +1,6 @@
+{
+  "name": "Acerca de las Monturas Míticas",
+  "description": "Muchas gracias a los jugadores y seguidores que hacen esto posible <3$(br2)Obtén actualizaciones: $(t:curseforge.com/minecraft/mc-mods/mythic-mounts)$(l:https://www.curseforge.com/minecraft/mc-mods/mythic-mounts)Página de Curseforge$(/l)$(/t).$(br)Obtén ayuda: $(t:discord.gg/ZNMECpNpE9)$(l:https://discord.gg/ZNMECpNpE9)Discord del Mod$(/l)$(/t).$(br)Apoya a los desarrolladores: $(t:patreon.com/chirpycricket)$(l:https://www.patreon.com/chirpycricket)Patreon$(/l)$(/t).$(br2)Otros proyectos interesantes:$(li)$(t:curseforge.com/minecraft/mc-mods/chirpys-wildlife)$(l:https://www.curseforge.com/minecraft/mc-mods/chirpys-wildlife/)Wildlife(/l)$(/t)$(li)$(t:curseforge.com/minecraft/mc-mods/guardians-galore)$(l:https://www.curseforge.com/minecraft/mc-mods/guardians-galore)Guardians Galore$(/l)$(/t)",
+  "icon": "minecraft:writable_book",
+  "sortnum": 5
+}

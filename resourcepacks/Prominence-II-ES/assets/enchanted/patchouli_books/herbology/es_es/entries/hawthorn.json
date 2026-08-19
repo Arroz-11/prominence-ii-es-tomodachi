@@ -1,0 +1,25 @@
+{
+  "name": "Árbol de Espino",
+  "icon": "enchanted:textures/block/hawthorn_sapling.png",
+  "category": "enchanted:mutated_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Esta especie de crataegus, comúnmente conocida como Espino, es nativa del norte de Europa y conocida como un árbol de pureza.$(br2)Además de sus usos herbales, se sabe que el espino es un material efectivo para despachar vampiros.$(br2)$(bold)Obtención:$()$(br)Mutado de plantas pequeñas."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:hawthorn_sapling"
+        },
+        "pattern": [
+          [ "0" ],
+          [ " " ]
+        ]
+      }
+    }
+  ],
+  "read_by_default": true
+}

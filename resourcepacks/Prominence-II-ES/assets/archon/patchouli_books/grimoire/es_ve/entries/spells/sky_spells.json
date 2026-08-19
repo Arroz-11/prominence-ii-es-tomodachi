@@ -1,0 +1,42 @@
+{
+  "name": "Hechizos de Cielo",
+  "icon": "archon:gust_tome",
+  "category": "archon:spells",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los hechizos de cielo se pueden encontrar en las aldeas"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Propulsar",
+      "text": "Lanza al usuario al aire por una corta distancia (adicional por más poder de hechizo) $(li)Costo de Maná: 10"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Ráfaga",
+      "text": "Dispara una ráfaga de viento que empuja hacia atrás al objetivo $(li)Costo de Maná: 20"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Golpe de Trueno",
+      "text": "Invoca un rayo sobre la cabeza del objetivo $(li)Costo de Maná: 30 $(li)Rango: 15"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Tiro de Nube",
+      "text": "Dispara una nube de hechizo que inflige daño alto $(li)Costo de Maná: 30"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Brisa Purificadora",
+      "text": "Permite al usuario despejar el clima $(li)Costo de Maná: 90"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Vacío",
+      "text": "Atrae al objetivo hacia ti rápidamente $(li)Costo de Maná: 50"
+    }
+  ]
+}

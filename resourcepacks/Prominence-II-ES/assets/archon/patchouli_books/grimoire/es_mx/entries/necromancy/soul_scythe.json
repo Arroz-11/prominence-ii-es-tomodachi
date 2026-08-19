@@ -1,0 +1,17 @@
+{
+  "name": "Guadaña de Ánima",
+  "icon": "archon:soul_scythe",
+  "category": "archon:necromancy",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:soul_scythe",
+      "text": "La Guadaña de Ánima es una herramienta crucial en la nigromancia, que te permite recibir $(l:archon:necromancy/souls)almas$() al matar cualquier mob vivo (ej. jugadores, pollos, zombis)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:soul_scythe"
+    }
+  ]
+}

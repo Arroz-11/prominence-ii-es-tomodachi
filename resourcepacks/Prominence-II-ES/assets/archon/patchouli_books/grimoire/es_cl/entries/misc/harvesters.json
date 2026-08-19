@@ -1,0 +1,30 @@
+{
+  "name": "Cosechadores",
+  "icon": "archon:warping_harvester",
+  "category": "archon:misc",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los cosechadores actúan como armas normales, pero con bonificaciones de botín adicionales. Cada elemento de cosechador otorga botines de mobs relacionados con ese elemento."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)Cosechador Rocoso: Zombi -> Carne podrida, Esqueleto -> Hueso, Slime -> Bola de Slime$(li)Cosechador Distorsionante: Enderman -> Perla de Ender, Shulker -> Caparazón de Shulker, Endermite -> Obsidiana$(li)Cosechador Flamígero: Blaze -> Vara de Blaze, Cubo de Magma -> Crema de Magma, Zombi Piglin -> Lingote de Oro$(li)Cosechador Ventoso: Ghast -> Lágrima de Ghast, Fantasma -> Membrana de Fantasma, Vex -> Esmeralda$(li)Cosechador Acuático: Calamar -> Saco de tinta, Ahogado -> Lingote de Cobre, Guardián -> Fragmento de Prismarina"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:rocky_harvester",
+      "recipe2": "archon:warping_harvester"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:flaming_harvester",
+      "recipe2": "archon:breezy_harvester"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:soaking_harvester"
+    }
+  ]
+}

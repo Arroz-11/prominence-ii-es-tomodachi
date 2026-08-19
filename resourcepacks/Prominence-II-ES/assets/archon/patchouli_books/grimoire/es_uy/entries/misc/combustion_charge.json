@@ -1,0 +1,17 @@
+{
+  "name": "Carga de Combustión",
+  "icon": "archon:combustion_charge",
+  "category": "archon:misc",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:combustion_charge",
+      "text": "Las cargas de combustión excavan un área de 7x7 en un piso o pared, dejando también los botines. Pueden ser útiles para minería rápida y a gran escala."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:combustion_charge"
+    }
+  ]
+}

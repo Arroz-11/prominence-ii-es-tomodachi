@@ -1,0 +1,17 @@
+{
+  "name": "Realizar Rituales",
+  "icon": "enchanted:textures/block/glyph_gold.png",
+  "category": "enchanted:performing_rites",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Para realizar un ritual, primero se deben construir los círculos de tiza correctos. Los rituales pueden usar tres tipos de tiza: ritual, infernal y de otro lugar, que se colocan alrededor de un glifo de corazón dibujado con tiza dorada.$(br2)Cada ritual necesita una cantidad adecuada de poder de un altar y objetos de enfoque, esto se muestra en un diagrama."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:charging_stone"
+    }
+  ],
+  "read_by_default": false,
+  "priority": true
+}

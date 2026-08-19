@@ -1,0 +1,16 @@
+{
+  "name": "Sanguijuela de Maná",
+  "icon": "archon:mana_leech_spawn_egg",
+  "category": "archon:misc",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las Sanguijuelas de Maná son criaturas débiles pero ágiles. Infligen el efecto $(l:archon:effects_enchants/obstructed)Obstruido$() a los jugadores y aparecen dentro de las $(l:archon:world/spires)Agujas$()."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "archon:mana_leech"
+    }
+  ]
+}

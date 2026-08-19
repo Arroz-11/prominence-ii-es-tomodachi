@@ -1,0 +1,6 @@
+{
+  "name": "Engranaje",
+  "description": "Este capítulo trata sobre el equipamiento de criaturas legendarias.$(br2)El equipo estándar se puede equipar haciendo doble clic en una montura mientras estás agachado para abrir la pantalla de inventario. Otros tipos de atuendos para monturas se pueden aplicar haciendo clic derecho con el objeto en cuestión.",
+  "icon": "mythicmounts:summoning_staff",
+  "sortnum": 3
+}

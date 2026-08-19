@@ -1,0 +1,16 @@
+{
+  "name": "Cerraduras de mechón",
+  "icon": "enchanted:taglock",
+  "category": "enchanted:crafting_materials",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Un kit de cerradura de mechón se usa para obtener algún tipo de vínculo con otra criatura, puede ser desde sangre hasta cabello. Se puede usar en entidades o en camas usadas."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:taglock_kit"
+    }
+  ],
+  "read_by_default": true
+}

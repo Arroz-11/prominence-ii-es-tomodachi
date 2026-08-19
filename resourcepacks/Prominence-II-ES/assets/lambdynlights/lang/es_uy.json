@@ -1,0 +1,8 @@
+{
+  "lambdynlights.key.toggle_fps_dynamic_lighting": "Alternar Iluminación Dinámica en Primera Persona",
+  "lambdynlights.key.toggle_fps_dynamic_lighting.info": "Iluminación Dinámica en Primera Persona: %s",
+  "lambdynlights.option.light_sources.glowing_effect": "Efecto Luminoso",
+  "lambdynlights.option.light_sources.glowing_effect.tooltip": "Activa la iluminación dinámica de entidades que tienen el efecto Luminoso.",
+  "lambdynlights.option.light_sources.sonic_boom": "Sonic Boom del Warden",
+  "lambdynlights.option.light_sources.sonic_boom.tooltip": "Activa la iluminación dinámica de las partículas del ataque Sonic Boom del warden."
+}

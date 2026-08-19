@@ -1,0 +1,17 @@
+{
+  "name": "Debilitar",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Debilitar",
+      "text": "Debilitar es un poder rúnico que imbuye el arma del portador con la $(#87185d)$(l)esencia de la decadencia$(). $(br2)Otorga al portador una probabilidad de ralentizar y debilitar a su objetivo con cada golpe exitoso."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Debilitar es un poder rúnico poderoso que puede dar al portador una ventaja en la batalla al ralentizar y debilitar a su objetivo. $(br2)Es ideal para personajes centrados en el combate cuerpo a cuerpo, ya que les permite asestar más ataques y hacer que los ataques del objetivo sean menos efectivos."
+    }
+  ]
+}

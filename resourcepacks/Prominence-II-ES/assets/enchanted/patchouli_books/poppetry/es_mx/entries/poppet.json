@@ -1,0 +1,18 @@
+{
+  "name": "Poppets",
+  "icon": "enchanted:poppet",
+  "category": "enchanted:creating_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Un poppet es un muñeco creado para representar a otra persona. Este muñeco puede tejerse con objetos mágicos para obtener un efecto, antes de ser vinculado a un jugador usando el poppet mientras el kit de mechón está en la mano secundaria.$(br2)$(bold)Los poppets básicos tienen un 30% de probabilidad de fallar.$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:poppet"
+    }
+  ],
+  "read_by_default": false,
+  "priority": false,
+  "sortnum": -1
+}

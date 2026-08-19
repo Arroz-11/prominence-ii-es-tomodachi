@@ -1,0 +1,16 @@
+{
+  "name": "Atado de mimbre",
+  "icon": "enchanted:wicker_bundle",
+  "category": "enchanted:crafting_materials",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los brotes se pueden agrupar para crear un atado de mimbre."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:wicker_bundle"
+    }
+  ],
+  "read_by_default": true
+}

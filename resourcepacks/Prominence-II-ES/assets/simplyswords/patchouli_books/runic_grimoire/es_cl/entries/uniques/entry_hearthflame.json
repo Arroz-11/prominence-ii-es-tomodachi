@@ -1,0 +1,17 @@
+{
+  "name": "Hearthflame",
+  "icon": "simplyswords:hearthflame",
+  "advancement": "simplyswords:hearthflame",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:hearthflame",
+      "text": "Hearthflame es un poderoso martillo de guerra imbuido con la habilidad de causar temblores devastadores. Cuando se balancea, envía ondas de fuerza que atraen a los enemigos hacia él antes de prenderlos en una explosión ardiente."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La explosión resultante no solo inflige daño masivo, sino que también lanza a los enemigos lejos del portador, brindando una oportunidad para reposicionarse o perseguir otros objetivos. Se dice que el martillo está forjado con las llamas más calientes de la tierra y que irradia un aura de calor. Esta arma es perfecta para guerreros que quieran infligir daño masivo y controlar el campo de batalla."
+    }
+  ]
+}

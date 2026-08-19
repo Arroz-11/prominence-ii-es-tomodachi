@@ -1,0 +1,16 @@
+{
+  "name": "Espíritu de Otro Lugar",
+  "icon": "enchanted:spirit_of_otherwhere",
+  "category": "enchanted:kettle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El Espíritu de Otro Lugar es otra derivación de la Sopa de Redstone, imbuida con las mismas propiedades que el End y sus habitantes. $(br2)Esta infusión es extremadamente tóxica y no debe ser consumida."
+    },
+    {
+      "type": "enchanted:kettle_recipe",
+      "recipe": "enchanted:kettle/spirit_of_otherwhere"
+    }
+  ],
+  "read_by_default": true
+}

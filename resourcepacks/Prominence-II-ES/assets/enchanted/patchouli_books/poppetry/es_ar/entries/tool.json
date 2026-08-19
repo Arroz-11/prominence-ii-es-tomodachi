@@ -1,0 +1,17 @@
+{
+  "name": "Herramienta",
+  "icon": "enchanted:tool_poppet",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los muñecos de herramienta protegen una herramienta en la mano del beneficiario cuando se rompe.$(br2)$(bold)Firme$() Un uso extra.$(br)$(bold)Infundido$() Devuelve la herramienta a su durabilidad completa."
+    },
+    {
+      "type": "enchanted:spinning_wheel_recipe",
+      "recipe": "enchanted:spinning/tool_poppet"
+    }
+  ],
+  "read_by_default": true,
+  "priority": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Harina de avena",
+  "icon": "croptopia:oatmeal",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:oatmeal",
+      "text": "Receta para hacer harina de avena."
+    }
+  ]
+}

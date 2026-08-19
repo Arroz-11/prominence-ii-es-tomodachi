@@ -1,0 +1,24 @@
+{
+  "name": "Lanzar Maldiciones",
+  "icon": "minecraft:wither_rose",
+  "category": "enchanted:curses",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Lanzar Maldiciones",
+      "text": "Las maldiciones en su núcleo son iguales que cualquier otra magia de círculo, sin embargo, el nivel de la maldición aumenta con la habilidad del lanzador. Las brujas y brujos con un familiar felino o aquellos que realizan el ritual con un aquelarre serán más hábiles para maldecir a otros."
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Eliminar Maldiciones",
+      "text": "Las únicas formas conocidas de levantar una maldición de una persona afligida son realizar el ritual apropiado de eliminación de maldiciones o mediante la intervención divina de la Diosa a través de una estatua."
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Mitigar Maldiciones",
+      "text": "Se sabe que la ropa que usan los cazadores de brujas mitiga la mayoría de los efectos causados por las maldiciones, y también se cree que los muñecos de protección vudú tienen algún efecto para bloquear maldiciones de bajo nivel."
+    }
+  ],
+  "read_by_default": false,
+  "sortnum": 1
+}

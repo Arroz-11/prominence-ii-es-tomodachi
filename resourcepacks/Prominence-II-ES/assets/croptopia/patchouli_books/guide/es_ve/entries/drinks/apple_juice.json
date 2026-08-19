@@ -1,0 +1,12 @@
+{
+  "name": "Zumo de manzana",
+  "icon": "croptopia:apple_juice",
+  "category": "croptopia:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:apple_juice",
+      "text": "Receta de zumo de manzana."
+    }
+  ]
+}

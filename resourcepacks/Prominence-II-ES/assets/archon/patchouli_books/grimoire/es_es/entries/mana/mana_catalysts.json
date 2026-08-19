@@ -1,0 +1,21 @@
+{
+  "name": "Catalizadores de Maná",
+  "icon": "archon:mana_catalyst",
+  "category": "archon:mana",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los Catalizadores de Maná son bloques que aumentan el maná máximo de todos los jugadores dentro de un radio. Cada catalizador tiene un rango y un aumento de maná diferente según el nivel. El Normal tiene un rango de 16 y un aumento de $(#2895CB)50$(), el de Diamante tiene un rango de 22 y un aumento de $(#2895CB)100$(), y el de Netherita tiene un rango de 34 y un aumento de $(#2895CB)200$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:mana_catalyst",
+      "recipe2": "archon:diamond_mana_catalyst"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:netherite_mana_catalyst"
+    }
+  ]
+}

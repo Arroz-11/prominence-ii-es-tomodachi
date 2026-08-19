@@ -1,0 +1,12 @@
+{
+  "name": "Obstruido",
+  "icon": "archon:textures/mob_effect/obstructed.png",
+  "category": "archon:effects_enchants",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El efecto de estado Obstruido impide que el objetivo use maná. Lo infligen las $(l:archon:misc/mana_leech)Sanguijuelas de maná$() o se puede aplicar mediante comandos."
+    }
+  ]
+}

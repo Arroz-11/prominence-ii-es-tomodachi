@@ -1,0 +1,6 @@
+{
+  "name": "Rituales de Carga",
+  "description": "Usar magias para alimentar un objeto imbuido se conoce como carga. Esto funciona en jugadores, criaturas y objetos inanimados.",
+  "icon": "enchanted:attuned_stone_charged",
+  "sortnum": 0
+}

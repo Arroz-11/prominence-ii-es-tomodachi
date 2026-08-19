@@ -1,0 +1,17 @@
+{
+  "name": "Brujería: Magia circular",
+  "icon": "patchouli:textures/item/book_purple.png",
+  "category": "enchanted:additional_resources",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La magia circular es un proceso poderoso que se usa para aprovechar la energía mágica y enfocarla en un efecto específico. Esto se detalla en Brujería: Magia circular."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:book_circle_magic"
+    }
+  ],
+  "read_by_default": false,
+  "sortnum": 3
+}

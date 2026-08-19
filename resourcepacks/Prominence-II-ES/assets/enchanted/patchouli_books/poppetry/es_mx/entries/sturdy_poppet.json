@@ -1,0 +1,17 @@
+{
+  "name": "Muñecos Firmes",
+  "icon": "enchanted:sturdy_poppet",
+  "category": "enchanted:creating_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El muñeco firme es una versión mejorada de un muñeco que permite que la muñeca se use dos veces. Se pueden usar en lugar de un muñeco normal en una rueca.$(br2)Los muñecos firmes no tienen probabilidad de fallo."
+    },
+    {
+      "type": "enchanted:spinning_wheel_recipe",
+      "recipe": "enchanted:spinning/sturdy_poppet"
+    }
+  ],
+  "read_by_default": false,
+  "priority": false
+}

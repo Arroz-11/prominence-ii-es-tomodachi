@@ -1,0 +1,47 @@
+{
+  "name": "Courier Bird",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Nativas de los matorrales tropicales, estas grandes aves parecidas a loros han crecido demasiado pesadas para volar.$(br2)En su lugar, usan sus poderosas patas para saltar entre ramas en busca de bayas y otras frutas.$(br2)Son una montura popular para mensajeros, ya que pueden correr a grandes velocidades con pequeñas cargas."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "mythicmounts:courierbird",
+      "title": "Courier Bird",
+      "text": "$(br)Un ave mensajera.",
+      "scale": 0.55,
+      "offset": 0.45,
+      "rotate": true,
+      "border": true
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Hábitats",
+      "entity_id": "mythicmounts:courierbird"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos para domesticar",
+      "entity_id": "mythicmounts:courierbird"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Comida",
+      "entity_id": "mythicmounts:courierbird"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos para criar",
+      "entity_id": "mythicmounts:courierbird"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Estadísticas base",
+      "entity_id": "mythicmounts:courierbird"
+    }
+  ]
+}

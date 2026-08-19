@@ -1,0 +1,44 @@
+{
+    "name": "Ritual Eterno",
+    "icon": "betterend:eternal_pedestal",
+    "read_by_default": true,
+    "category": "betterend:rituals",
+    "pages": [
+        {
+            "type": "text",
+            "text": "\"Una forma no tan sencilla de regresar a la Superficie.\"$(br2)Mientras viajas por el mundo del End, puedes encontrarte con ruinas antiguas."
+        },
+        {
+            "type": "image",
+            "text": "Hay un marco destruido (o no) de $(bold)Flavolita de Runa$() y seis pedestales a su alrededor.",
+            "border": false,
+            "images": [
+                "betterend:textures/images/eternal_ritual/portal_structure.png"
+            ]
+        },
+        {
+            "type": "text",
+            "text": "Estos son los restos de los majestuosos portales que una vez conectaron los mundos del End y la Superficie.$(br2)Para activar el portal necesitas restaurar el marco (si está roto)."
+        },
+        {
+            "type": "image",
+            "text": "Y colocar 6 $(bold)Cristales Eternos$() en los pedestales.",
+            "border": false,
+            "images": [
+                "betterend:textures/images/eternal_ritual/portal_frame_full.png"
+            ]
+        },
+        {
+            "type": "image",
+            "text": "Después de colocar el último cristal, el portal se activará.",
+            "border": false,
+            "images": [
+                "betterend:textures/images/eternal_ritual/ritual_finished.png"
+            ]
+        },
+        {
+            "type": "text",
+            "text": "$(bold)Flavolita de Runa$() (para restaurar el marco) y $(bold)Cristales Eternos$() se pueden obtener mediante el $(l:rituals/infusion_ritual)Ritual de Infusión$(/l)."
+        }
+    ]
+}

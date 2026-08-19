@@ -1,0 +1,17 @@
+{
+  "name": "Null",
+  "icon": "archon:soulless_eye",
+  "category": "archon:bosses",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Null es un jefe del End y el más poderoso de los cinco. Null suelta un Ojo Sin Alma al morir. Puedes encontrar los objetos necesarios para invocarlo en la página siguiente."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "archon:null",
+      "text": "Perla de Ender, Cristal del End, 2x Esencia del End"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Slumbering Lichblade",
+  "icon": "simplyswords:slumbering_lichblade",
+  "advancement": "simplyswords:slumbering_lichblade",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:slumbering_lichblade",
+      "text": "La Espada del Lich Adormecido es una espada grande que exuda un aura de almas atormentadas que daña a los enemigos que se acercan demasiado. Se dice que la espada fue forjada con los restos de un poderoso Lich, e imbuida con el poder de las almas que consumió. A veces, se puede escuchar un susurro siniestro emanando de la hoja."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La espada, sin embargo, se encuentra actualmente en un estado latente y su verdadero poder está encerrado. A través de un ritual especial o proceso de crafteo, el portador puede despertar la espada y desbloquear sus habilidades superiores. Una vez despierta, el aura de la espada puede ser comandada para atacar a un enemigo, drenando su fuerza vital y otorgándola al portador. Es un arma de gran poder y debe usarse con precaución."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:waking_lichblade",
+      "recipe2": "simplyswords:awakened_lichblade"
+    }
+  ]
+}

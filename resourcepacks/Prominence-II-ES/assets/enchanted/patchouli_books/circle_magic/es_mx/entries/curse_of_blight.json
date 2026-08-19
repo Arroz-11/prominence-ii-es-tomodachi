@@ -1,0 +1,18 @@
+{
+  "name": "Maldición de la Plaga",
+  "icon": "minecraft:spider_eye",
+  "category": "enchanted:curses",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Maldición de la Plaga",
+      "text": "Hace que las plantas en un área grande mueran, que la hierba y la tierra se degraden, enferma a los animales y convierte a los aldeanos en zombis."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:blight"
+    }
+  ],
+  "read_by_default": true,
+  "sortnum": 2
+}

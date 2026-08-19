@@ -1,0 +1,17 @@
+{
+  "name": "Infusión de escoba",
+  "icon": "enchanted:enchanted_broomstick",
+  "category": "enchanted:infusion",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Infusión de escoba",
+      "text": "Imbuye una escoba estándar con el poder del vuelo, permitiendo que la bruja o el brujo la monten.$(br2)Los controles predeterminados son WASD, Espacio/LControl y C/V."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:infusion_broom"
+    }
+  ],
+  "read_by_default": true
+}

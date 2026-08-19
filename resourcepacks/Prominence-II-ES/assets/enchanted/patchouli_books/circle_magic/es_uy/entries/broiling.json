@@ -1,0 +1,17 @@
+{
+  "name": "Asado",
+  "icon": "minecraft:beef",
+  "category": "enchanted:world",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Asado",
+      "text": "Cocina rápidamente todos los alimentos crudos dentro del círculo. $(br2)Como el calor es tan intenso, existe la posibilidad de que parte de la comida se queme."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:broiling"
+    }
+  ],
+  "read_by_default": true
+}

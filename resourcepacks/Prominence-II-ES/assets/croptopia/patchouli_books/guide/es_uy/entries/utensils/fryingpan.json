@@ -1,0 +1,12 @@
+{
+  "name": "Olla de Cocina",
+  "icon": "croptopia:cooking_pot",
+  "category": "croptopia:utensils",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cooking_pot",
+      "text": "Receta para una olla de cocina."
+    }
+  ]
+}

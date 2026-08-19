@@ -1,0 +1,13 @@
+{
+  "name": "Whisperwind",
+  "icon": "simplyswords:whisperwind",
+  "advancement": "simplyswords:whisperwind",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:whisperwind",
+      "text": "Whisperwind, la hoja etérea que danza con el viento, otorga a su portador una agilidad sin igual y un poder enigmático. Mientras la katana corta el aire, una melodía tenue resuena, como si la llevara una brisa suave. Con cada embestida rápida, los sentidos del enemigo son asaltados, dejándolos desorientados y vulnerables."
+    }
+  ]
+}

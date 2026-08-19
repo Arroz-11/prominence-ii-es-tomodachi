@@ -32,5 +32,6 @@
   "item.philipsruins.sculk_bone_meal": "Harina de hueso de Sculk",
   "item.philipsruins.frozen_prismarine_shard": "Fragmento de prismarina congelado",
   "item.philipsruins.frozen_prismarine_crystals": "Cristales de prismarina congelados",
-  "itemGroup.philipsruins.philipsruins": "Las ruinas de Philip"
+  "itemGroup.philipsruins.philipsruins": "Las ruinas de Philip",
+  "block.philipsruins.obsidian_brick_slab": "Losa de ladrillo de obsidiana"
 }

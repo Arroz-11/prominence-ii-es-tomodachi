@@ -1,0 +1,23 @@
+{
+  "name": "Reliquia inactiva",
+  "icon": "simplyswords:dormant_relic",
+  "advancement": "simplyswords:dormant_relic",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:dormant_relic",
+      "text": "La Reliquia inactiva es una espada peculiar que guarda un misterioso secreto en su hoja. A simple vista, parece una espada común y corriente, pero posee una energía latente que espera ser despertada mediante el proceso de crafteo."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:righteous_relic",
+      "recipe2": "simplyswords:tainted_relic"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:sunfire",
+      "recipe2": "simplyswords:harbinger"
+    }
+  ]
+}

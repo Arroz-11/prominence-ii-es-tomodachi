@@ -1,0 +1,12 @@
+{
+  "name": "Sombra",
+  "icon": "archon:textures/mob_effect/shadow.png",
+  "category": "archon:effects_enchants",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El efecto de estado Sombra le da al usuario la capacidad de volar y atravesar paredes. Al agacharte, atravesarás bloques. Se puede obtener usando el hechizo Sombra o mediante comandos."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de Maná",
+  "icon": "archon:textures/mob_effect/mana_boost.png",
+  "category": "archon:effects_enchants",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El Efecto de Estado Aumento de Maná aumenta el maná máximo del usuario en $(#2895CB)50$() por nivel. Lo añaden los $(l:archon:mana/mana_catalysts)Catalizadores de Maná$() o se puede aplicar mediante comandos."
+    }
+  ]
+}

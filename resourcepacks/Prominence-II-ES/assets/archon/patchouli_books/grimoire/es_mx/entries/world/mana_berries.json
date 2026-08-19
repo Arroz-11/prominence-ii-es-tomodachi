@@ -1,0 +1,17 @@
+{
+  "name": "Parches de Bayas de Maná",
+  "icon": "archon:textures/block/mana_berry_bush_stage3.png",
+  "category": "archon:world",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los arbustos de Bayas de Maná se generan en grandes grupos en biomas de Taiga, similares a las Bayas Dulces. Cuando se cosechan en su edad máxima, sueltan 2-3 Bayas de Maná."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:mana_berries",
+      "text": "Las Bayas de Maná son un alimento que otorgan 0.1 de saturación y 2 de hambre. También reponen 10 de Maná al consumirlas."
+    }
+  ]
+}

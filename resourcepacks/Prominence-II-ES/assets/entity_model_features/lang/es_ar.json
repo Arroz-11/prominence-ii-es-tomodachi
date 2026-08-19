@@ -1,0 +1,4 @@
+{
+  "entity_model_features.config.export_rotations": "Exportar rotaciones",
+  "entity_model_features.config.export_rotations.tooltip": "los modelos jem exportados no deben incluir los valores de rotación, ya que heredarán estos de las partes de vainilla\n sin embargo, algunos editores de modelos pueden querer tener estos valores incluidos\n esta opción los incluirá en los archivos jem exportados"
+}

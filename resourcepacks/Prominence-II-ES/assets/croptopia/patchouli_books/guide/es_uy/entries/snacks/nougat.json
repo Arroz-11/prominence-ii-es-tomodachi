@@ -1,0 +1,12 @@
+{
+  "name": "Turrón",
+  "icon": "croptopia:nougat",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:nougat",
+      "text": "Receta para hacer turrón."
+    }
+  ]
+}

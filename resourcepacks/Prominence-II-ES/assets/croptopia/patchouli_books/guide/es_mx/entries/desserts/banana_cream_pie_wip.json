@@ -1,0 +1,12 @@
+{
+  "name": "Tarta de crema de plátano",
+  "icon": "croptopia:banana_cream_pie",
+  "category": "croptopia:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:banana_cream_pie",
+      "text": "Receta de una tarta de crema de plátano."
+    }
+  ]
+}

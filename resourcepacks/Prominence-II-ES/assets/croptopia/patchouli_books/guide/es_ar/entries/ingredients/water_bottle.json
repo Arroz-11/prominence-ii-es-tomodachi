@@ -1,0 +1,12 @@
+{
+  "name": "Botella de Agua",
+  "icon": "croptopia:water_bottle",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_water_bottle",
+      "text": "Receta para botellas de agua. Estas son diferentes de las botellas de agua de vainilla, ya que esas son en realidad pociones sin preparar."
+    }
+  ]
+}

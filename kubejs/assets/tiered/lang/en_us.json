@@ -228,5 +228,6 @@
   "commands.tiered.tier": "%s por niveles de %s",
   "item.tiered.limestone_chunk": "Trozos de piedra caliza",
   "item.tiered.pyrite_chunk": "Trozos de pirita",
-  "item.tiered.galena_chunk": "Trozos de galena"
+  "item.tiered.galena_chunk": "Trozos de galena",
+  "text.autoconfig.tiered-client.category.client_settings": "Configuración del Cliente"
 }

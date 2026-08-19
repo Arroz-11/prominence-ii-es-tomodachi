@@ -112,5 +112,6 @@
   "tooltip.bclib.place_underwater": "Sobrevive bajo el agua",
   "tooltip.bclib.place_underwater_depth": "profundidad mín.: %d",
   "tooltip.bclib.pottable_on": "Colocable en maceta sobre: %s",
-  "warning.config.bclib.client.ui.forceBetterXPreset": "LO MÁS PROBABLE ES QUE QUIERAS MANTENER ESTA OPCIÓN ACTIVADA."
+  "warning.config.bclib.client.ui.forceBetterXPreset": "LO MÁS PROBABLE ES QUE QUIERAS MANTENER ESTA OPCIÓN ACTIVADA.",
+  "message.bclib.filesync.progress.stage.empty": ""
 }

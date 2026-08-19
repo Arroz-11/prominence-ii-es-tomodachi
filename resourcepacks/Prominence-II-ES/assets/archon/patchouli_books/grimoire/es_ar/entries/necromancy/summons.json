@@ -1,0 +1,37 @@
+{
+  "name": "Invocaciones",
+  "icon": "archon:textures/gui/book/skelt_head.png",
+  "category": "archon:necromancy",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las siguientes páginas enumeran todas las invocaciones posibles que puedes crear con un $(l:archon:necromancy/undead_staff)Báculo de No Muerto$(). La 'duración base' se refiere a la cantidad de segundos que duran las invocaciones con 0 Poder de Alma."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Manada de Sabuesos",
+      "text": "Invoca una manada de cinco lobos furiosos para que luchen a tu lado. Duración base: 20"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "El Titán",
+      "text": "Invoca al Titán, un gólem de movimiento rápido con un ataque devastador. Duración base: 25"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Caballeros Gemelos",
+      "text": "Invoca a dos caballeros no muertos con espadas encantadas aleatoriamente y un escudo. Duración base: 20"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Enjambre Plateado",
+      "text": "Invoca un enjambre de lepismas que roban vida para atacar a tus enemigos. Duración base: 10"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Arquero",
+      "text": "Invoca a un arquero no muerto con un poderoso arco de fuego que puede escalar el daño con el poder de alma. Duración base: 15"
+    }
+  ]
+}

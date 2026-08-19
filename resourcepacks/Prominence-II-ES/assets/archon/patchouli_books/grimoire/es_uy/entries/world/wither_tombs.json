@@ -1,0 +1,12 @@
+{
+  "name": "Tumbas del Wither",
+  "icon": "minecraft:nether_bricks",
+  "category": "archon:world",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las Tumbas del Wither son estructuras perdidas que contienen la posesión más preciada de los nigromantes caídos: $(l:archon:necromancy/soul_tomes)Tomos de Almas$(). Estas estructuras se pueden encontrar en cualquier parte del Nether. Puedes encontrar pequeños botines dentro de la tumba, pero ten cuidado con los guardias no muertos."
+    }
+  ]
+}

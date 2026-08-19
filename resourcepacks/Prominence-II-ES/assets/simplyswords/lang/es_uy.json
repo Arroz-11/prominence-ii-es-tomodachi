@@ -1528,5 +1528,6 @@
   "text.autoconfig.simplyswords_main.option.gem_effects.enableSpellStandard": "Activa las gemas de «Estandarte de hechizos»",
   "text.autoconfig.simplyswords_main.option.gem_effects.enableWarStandard": "Activa las gemas de «Estandarte de guerra»",
   "text.autoconfig.simplyswords_main.option.gem_effects.enableDeception": "Activa las gemas de engaño",
-  "text.autoconfig.simplyswords_main.option.status_effects.echoDamage": "Daño base de «Echo»"
+  "text.autoconfig.simplyswords_main.option.status_effects.echoDamage": "Daño base de «Echo»",
+  "item.simplyswords.caelestissworditem.tooltip7": "%ds"
 }

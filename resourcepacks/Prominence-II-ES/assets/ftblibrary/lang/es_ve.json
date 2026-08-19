@@ -96,5 +96,6 @@
   "ftblibrary.panel.position.bottom_right": "Abajo a la derecha",
   "dimension.minecraft.overworld": "Overworld",
   "dimension.hyperbox.hyperbox": "Hyperbox",
-  "dimension.ae2.spatial_storage": "AE2 Almacenamiento espacial"
+  "dimension.ae2.spatial_storage": "AE2 Almacenamiento espacial",
+  "gui.rename": "Renombrar"
 }

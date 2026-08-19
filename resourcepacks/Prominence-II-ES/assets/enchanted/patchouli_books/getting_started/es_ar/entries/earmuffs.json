@@ -1,0 +1,16 @@
+{
+  "name": "Orejeras",
+  "icon": "enchanted:earmuffs",
+  "category": "enchanted:tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las orejeras brindan un nivel de protección contra enemigos que usan ataques basados en audio, como gritos, e incluso podrían considerarse esenciales al tratar con Mandrágoras y Banshees."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:earmuffs"
+    }
+  ],
+  "read_by_default": true
+}

@@ -15,5 +15,6 @@
   "text.jamlib.renamed_2.4": "CurseForge",
   "text.jamlib.renamed_2.5": "Modrinth",
   "text.jamlib.renamed_3": "Este mensaje solo aparecerá una vez. %s.",
-  "text.jamlib.renamed_3.1": "Si crees que se trata de un falso positivo, ponte en contacto con el autor del mod."
+  "text.jamlib.renamed_3.1": "Si crees que se trata de un falso positivo, ponte en contacto con el autor del mod.",
+  "config.jamlib.reset": "Reiniciar"
 }

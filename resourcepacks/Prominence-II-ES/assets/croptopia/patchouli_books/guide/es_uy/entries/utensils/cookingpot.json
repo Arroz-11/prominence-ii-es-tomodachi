@@ -1,0 +1,12 @@
+{
+  "name": "Sartén",
+  "icon": "croptopia:frying_pan",
+  "category": "croptopia:utensils",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:frying_pan",
+      "text": "Receta para una sartén."
+    }
+  ]
+}

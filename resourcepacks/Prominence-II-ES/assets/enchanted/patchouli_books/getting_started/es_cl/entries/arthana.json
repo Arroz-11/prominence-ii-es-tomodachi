@@ -1,0 +1,16 @@
+{
+  "name": "Arthana",
+  "icon": "enchanted:arthana",
+  "category": "enchanted:tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El arthana es un cuchillo ritual que se usa típicamente para sacrificios, y permite que las criaturas suelten materiales mágicos raros. Los materiales posibles se enumeran a continuación:$(br2)$(bold)Lobo$() Lengua de perro$(br)$(bold)Creeper$() Corazón de creeper$(br)$(bold)Murciélago$() Lana de murciélago"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:arthana"
+    }
+  ],
+  "read_by_default": true
+}

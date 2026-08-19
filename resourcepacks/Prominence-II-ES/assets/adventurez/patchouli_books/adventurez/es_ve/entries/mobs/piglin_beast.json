@@ -1,0 +1,18 @@
+{
+    "name": "Bestia Piglin",
+    "icon": "adventurez:blackstone_golem_heart",
+    "category": "adventurez:mob_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "¡Una Bestia de los Piglins! Los Piglins la invocarán si has matado a demasiados de sus amigos, y a veces la invocan cuando extraes oro. Puede soltar la Bandera Piglin"
+        },
+        {
+            "type": "entity",
+            "name": "Showcase",
+            "entity": "adventurez:piglin_beast",
+            "scale": 0.9,
+            "offset": 0.3
+        }
+    ]
+}

@@ -289,5 +289,7 @@
   "gui.xaero_wm_display_tracked_players": "Mostrar jugadores seguidos",
   "gui.xaero_wm_reset_config_profile_default": "Restablecer los valores predeterminados del perfil",
   "gui.xaero_wm_reset_config_profile_default_message": "¿Seguro que quieres restablecer los valores predeterminados en el perfil de configuración?",
-  "gui.xaero_wm_reset_config_profile_default_message2": "¡Esta acción no se puede deshacer! Las opciones que no sean del perfil no se ven afectadas."
+  "gui.xaero_wm_reset_config_profile_default_message2": "¡Esta acción no se puede deshacer! Las opciones que no sean del perfil no se ven afectadas.",
+  "gui.xaero_rename": "Renombrar",
+  "gui.xaero_wm_unit_s": "s"
 }

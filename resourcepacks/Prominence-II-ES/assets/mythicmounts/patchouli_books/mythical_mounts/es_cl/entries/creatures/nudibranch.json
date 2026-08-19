@@ -1,0 +1,47 @@
+{
+  "name": "Nudibranquio",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Provenientes de océanos tropicales, estos invertebrados blandos reman alrededor de arrecifes de coral pastando algas marinas y quelpos.$(br2)Fuera del agua, exudan continuamente un limo restaurador que les permite tomar el sol sin secarse, aunque rara vez se aventuran lejos del agua."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "mythicmounts:nudibranch",
+      "title": "Polilla",
+      "text": "$(br)Un nudibranquio tropical.",
+      "scale": 0.5,
+      "offset": 0.65,
+      "rotate": true,
+      "border": true
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Hábitats",
+      "entity_id": "mythicmounts:nudibranch"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos de domesticación",
+      "entity_id": "mythicmounts:nudibranch"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Comida",
+      "entity_id": "mythicmounts:nudibranch"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos de cría",
+      "entity_id": "mythicmounts:nudibranch"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Estadísticas base",
+      "entity_id": "mythicmounts:nudibranch"
+    }
+  ]
+}

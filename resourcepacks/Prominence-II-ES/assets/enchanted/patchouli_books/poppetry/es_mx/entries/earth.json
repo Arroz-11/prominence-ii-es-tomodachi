@@ -1,0 +1,17 @@
+{
+  "name": "Tierra",
+  "icon": "enchanted:earth_poppet",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los talismanes de tierra protegen al beneficiario de morir por caídas.$(br2)$(bold)Firme$() Un uso extra.$(br)$(bold)Infundido$() Otorga 10 segundos de resistencia a caídas."
+    },
+    {
+      "type": "enchanted:spinning_wheel_recipe",
+      "recipe": "enchanted:spinning/earth_poppet"
+    }
+  ],
+  "read_by_default": true,
+  "priority": false
+}

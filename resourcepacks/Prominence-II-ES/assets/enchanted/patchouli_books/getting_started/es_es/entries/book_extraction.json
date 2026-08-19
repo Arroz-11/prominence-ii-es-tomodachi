@@ -1,0 +1,17 @@
+{
+  "name": "Brujería: Extracción",
+  "icon": "patchouli:textures/item/book_purple.png",
+  "category": "enchanted:additional_resources",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Para ser efectivo en el arte de la brujería, uno debe ser capaz de extraer sustancias o propiedades mágicas de otros materiales."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:book_extraction"
+    }
+  ],
+  "read_by_default": false,
+  "sortnum": 1
+}

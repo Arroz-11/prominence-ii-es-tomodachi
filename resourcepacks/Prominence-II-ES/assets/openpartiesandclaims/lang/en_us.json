@@ -588,5 +588,8 @@
   "gui.xaero_pac_player_config_playerConfig.parties.shareLocationWithParty": "Compartir posición con el grupo",
   "gui.xaero_pac_player_config_playerConfig.parties.shareLocationWithMutualAllyParties": "Compartir posición con aliados comunes",
   "gui.xaero_pac_player_config_playerConfig.parties.receiveLocationsFromParty": "Recibir posiciones de los miembros del grupo",
-  "gui.xaero_pac_player_config_playerConfig.parties.receiveLocationsFromMutualAllyParties": "Recibir las posiciones de los aliados mutuos"
+  "gui.xaero_pac_player_config_playerConfig.parties.receiveLocationsFromMutualAllyParties": "Recibir las posiciones de los aliados mutuos",
+  "gui.xaero_pac_config_option_sub_inherited": "-",
+  "gui.xaero_pac_config_sub_list_separator": ", ",
+  "gui.xaero_pac_config_sub_list_there_is_more": "..."
 }

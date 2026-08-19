@@ -1,0 +1,26 @@
+{
+  "name": "Eclipse Total",
+  "icon": "minecraft:clock",
+  "category": "enchanted:world",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Eclipse Total",
+      "text": "Cubre el cielo con oscuridad y bloquea el sol. $(br2)(Establece la hora a medianoche)"
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:total_eclipse"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Eclipse Total",
+      "text": "Cubre el cielo con oscuridad y bloquea el sol. $(br2)(Establece la hora a medianoche)"
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:total_eclipse_charged"
+    }
+  ],
+  "read_by_default": true
+}

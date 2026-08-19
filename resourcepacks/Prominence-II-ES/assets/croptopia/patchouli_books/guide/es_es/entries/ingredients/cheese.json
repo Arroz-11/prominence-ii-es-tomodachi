@@ -1,0 +1,12 @@
+{
+  "name": "Queso",
+  "icon": "croptopia:cheese",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cheese",
+      "text": "Receta para hacer queso."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Canalizador",
+  "icon": "archon:channeler",
+  "category": "archon:mana",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:channeler",
+      "text": "El Canalizador es un objeto clave que te permite canalizar maná en bloques, lo que resulta en objetos específicos. La canalización requiere diferentes cantidades de maná según la receta, y los objetos producidos se usan para distintas cosas. Para ver todas las recetas de canalización, se recomienda usar REI."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:channeler"
+    }
+  ]
+}

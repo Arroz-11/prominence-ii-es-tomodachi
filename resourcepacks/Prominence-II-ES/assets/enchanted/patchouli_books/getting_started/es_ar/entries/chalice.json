@@ -1,0 +1,16 @@
+{
+  "name": "Mejoras de Cáliz",
+  "icon": "enchanted:chalice_filled",
+  "category": "enchanted:altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Un cáliz puede colocarse en un altar para aumentar la capacidad de poder. $(br2)$(bold)Cáliz$() +1x Capacidad de Poder$(br)$(bold)Cáliz Lleno$() +2x Capacidad de Poder.$(br2)Un cáliz puede llenarse usando Sopa de Redstone sobre él."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:chalice"
+    }
+  ],
+  "read_by_default": true
+}

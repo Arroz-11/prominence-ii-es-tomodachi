@@ -1,0 +1,18 @@
+{
+  "name": "Exhalación del Cornudo",
+  "icon": "enchanted:exhale_of_the_horned_one",
+  "category": "enchanted:collecting_fumes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El Dios Cornudo, a veces llamado El Rey Roble, es una deidad wiccana basada en Cernunnos, que simboliza sabiduría, juventud y fuerza. $(br2)Se dice que los vapores producidos por los robles son la exhalación del Dios Cornudo, portando algunas de las propiedades asociadas con él."
+    },
+    {
+      "type": "enchanted:witch_oven_recipe_single",
+      "recipe": "enchanted:byproduct/exhale_of_the_horned_one_oak_sapling",
+      "itemIn": "minecraft:oak_sapling",
+      "resultItem": "enchanted:wood_ash"
+    }
+  ],
+  "read_by_default": true
+}

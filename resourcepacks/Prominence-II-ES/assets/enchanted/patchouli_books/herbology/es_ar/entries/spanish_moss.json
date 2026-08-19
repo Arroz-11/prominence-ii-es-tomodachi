@@ -1,0 +1,25 @@
+{
+  "name": "Musgo español",
+  "icon": "enchanted:textures/block/spanish_moss.png",
+  "category": "enchanted:mutated_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Una planta con flores epífita, similar a un musgo o liquen, que crece en árboles en climas tropicales o subtropicales. El Musgo español se usa a menudo en la creación de Poppets.$(br2)Debe cosecharse con tijeras para mantenerse intacto.$(br2)$(bold)Obtención:$()$(br)Se obtiene por mutación de plantas pequeñas."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:spanish_moss[south=true]"
+        },
+        "pattern": [
+          [ "0" ],
+          [ " " ]
+        ]
+      }
+    }
+  ],
+  "read_by_default": true
+}

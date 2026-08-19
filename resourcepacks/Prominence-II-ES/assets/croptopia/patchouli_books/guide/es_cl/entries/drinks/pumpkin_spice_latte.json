@@ -1,0 +1,12 @@
+{
+  "name": "Latte de especias de calabaza",
+  "icon": "croptopia:pumpkin_spice_latte",
+  "category": "croptopia:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:pumpkin_spice_latte",
+      "text": "Receta para un latte de especias de calabaza."
+    }
+  ]
+}

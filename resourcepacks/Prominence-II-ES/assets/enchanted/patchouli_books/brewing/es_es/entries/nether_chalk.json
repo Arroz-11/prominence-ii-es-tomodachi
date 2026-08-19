@@ -1,0 +1,16 @@
+{
+  "name": "Tiza Infernal",
+  "icon": "enchanted:nether_chalk",
+  "category": "enchanted:cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La tiza infernal es una tiza de color rojo profundo que parece estar ardiendo. $(br2)La tiza infernal se usa para la mayoría de los rituales que involucran el Nether, seres demoníacos o fuego. Debe crearse en un caldero."
+    },
+    {
+      "type": "enchanted:cauldron_recipe",
+      "recipe": "enchanted:witch_cauldron/nether_chalk"
+    }
+  ],
+  "read_by_default": true
+}

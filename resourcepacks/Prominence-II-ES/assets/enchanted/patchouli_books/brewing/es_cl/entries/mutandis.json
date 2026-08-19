@@ -1,0 +1,16 @@
+{
+  "name": "Mutandis",
+  "icon": "enchanted:mutandis",
+  "category": "enchanted:cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Mutandis es un mutágeno que se usa para mutar plantas en otras especies que normalmente no podrías obtener. Usar esta sustancia en una planta pequeña como pasto, retoños y flores la mutará en otra.$(br2)$(br2)$(br)$(bold)Obtención:$()$(br)Se crea con una poción de caldero."
+    },
+    {
+      "type": "enchanted:cauldron_recipe",
+      "recipe": "enchanted:witch_cauldron/mutandis"
+    }
+  ],
+  "read_by_default": true
+}

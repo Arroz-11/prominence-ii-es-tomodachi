@@ -1,0 +1,17 @@
+{
+  "name": "Bramblethorn",
+  "icon": "simplyswords:bramblethorn",
+  "advancement": "simplyswords:bramblethorn",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:bramblethorn",
+      "text": "La Espina de zarza es una estoque única y mortal que parece ser una simple ramita, pero guarda un poderoso secreto en su interior. Forjada con una madera rara y encantada, ligera y duradera a la vez, la Espina de zarza es capaz de asestar golpes rápidos y letales."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La capacidad de la estoque para liberar una nube de esporas tóxicas con un movimiento de muñeca puede envenenar e incapacitar a cualquier enemigo que se atreva a acercarse a su alcance. Aparte de su portador, las esporas no discriminan, así que ten cuidado al usarla cerca de aquellos cuyas vidas valoras."
+    }
+  ]
+}

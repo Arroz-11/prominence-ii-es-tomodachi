@@ -1,0 +1,16 @@
+{
+  "name": "Insertar Gemas",
+  "icon": "simplyswords:netherfused_gem",
+  "category": "simplyswords:category_gem_socketing",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:netherfused_gem",
+      "text": "Para insertar una gema, debes tener en tu inventario tanto la gema como un arma única con un enchufe vacío del mismo tipo (runefused / netherfused)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Con tu inventario abierto, haz clic izquierdo en la gema para que se ancle a tu cursor. Luego, simplemente haz clic izquierdo en el arma en la que deseas insertarla. La gema desaparecerá de tu cursor y tu arma única quedará encajada."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Nodos",
+  "icon": "archon:end_node",
+  "category": "archon:world",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:earth_node",
+      "text": "Las vetas de Nodo de Tierra se generan bajo tierra en la Superficie entre los niveles y -64 y 0 (configurable). Sueltan 1 Esencia de Tierra."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:water_node",
+      "text": "Las vetas de Nodo de Agua se generan bajo tierra en biomas de Océano entre los niveles y 40 y 27 (configurable). Sueltan 1 Esencia de Agua."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:fire_node",
+      "text": "Las vetas de Nodo de Fuego se generan en el Nether entre los niveles y 10 y 117 (configurable). Sueltan 1 Esencia de Fuego."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:end_node",
+      "text": "Las vetas de Nodo del End se generan en cualquier lugar dentro de las islas del End. Sueltan 1 Esencia del End."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:sky_node",
+      "text": "Las vetas de Nodo de Cielo se generan en pequeñas nubes en la Superficie. Las nubes se generan entre y 192 y 196, también conteniendo trozos de hierro. Los nodos sueltan 1 Esencia de Cielo. Las vetas de Nodo de Cielo se generarán en biomas de montaña entre y 128 y 192 si la generación de nubes está deshabilitada en la configuración."
+    }
+  ]
+}

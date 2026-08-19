@@ -1,0 +1,12 @@
+{
+  "name": "Mortero y Maja",
+  "icon": "croptopia:mortar_and_pestle",
+  "category": "croptopia:utensils",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:mortar_and_pestle",
+      "text": "Receta para un mortero y una maja."
+    }
+  ]
+}

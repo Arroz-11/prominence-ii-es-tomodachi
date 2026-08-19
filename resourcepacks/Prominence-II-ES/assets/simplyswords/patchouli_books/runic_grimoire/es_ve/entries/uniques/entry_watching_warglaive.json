@@ -1,0 +1,17 @@
+{
+  "name": "Watching Warglaive",
+  "icon": "simplyswords:watching_warglaive",
+  "advancement": "simplyswords:watching_warglaive",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:watching_warglaive",
+      "text": "El Viendo Warglaive es un arma poderosa y letal diseñada para ser empuñada por guerreros hábiles y feroces. Con dos ojos parpadeantes en el centro, las hojas están hechas de un metal oscuro, casi negro, que parece absorber la luz a su alrededor."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "El Viendo Warglaive tiene el poder de drenar salud de los enemigos cercanos y transferirla a su portador, manteniéndolo en la lucha por más tiempo. El Warglaive también tiene la oportunidad de ejecutar inmediatamente a sus oponentes, asestando un golpe crítico y poderoso que puede terminar la pelea al instante."
+    }
+  ]
+}

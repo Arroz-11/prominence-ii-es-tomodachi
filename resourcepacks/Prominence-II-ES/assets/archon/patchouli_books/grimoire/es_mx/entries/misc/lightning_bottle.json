@@ -1,0 +1,13 @@
+{
+  "name": "Rayo en una Botella",
+  "icon": "archon:lightning_bottle",
+  "category": "archon:misc",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:lightning_bottle",
+      "text": "El Rayo en una Botella se puede lanzar a corta distancia, invocando un rayo donde aterrice. También se puede usar en creepers para cargarlos. Se pueden obtener de aldeanos $(l:archon:world/wizard)Mago$() o lanzando una botella vacía en un rayo."
+    }
+  ]
+}

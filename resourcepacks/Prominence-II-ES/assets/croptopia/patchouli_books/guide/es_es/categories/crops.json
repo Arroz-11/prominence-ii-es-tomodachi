@@ -1,0 +1,6 @@
+{
+  "name": "Cultivos",
+  "description": "Información sobre los cultivos que puedes encontrar en Croptopia.",
+  "icon": "croptopia:kiwi",
+  "sortnum": -100
+}

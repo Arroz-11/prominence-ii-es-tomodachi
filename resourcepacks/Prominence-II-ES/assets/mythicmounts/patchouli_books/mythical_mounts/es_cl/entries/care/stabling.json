@@ -1,0 +1,17 @@
+{
+  "name": "Estabulación",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:care",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Hay varias cosas a considerar al construir una habitación para una montura. Muchas monturas apreciarán un entorno que proporcione tanto suficiente espacio para deambular como un lugar para resguardarse de los elementos.$(br2)En este sentido, cuando no acompañan a un jinete o descansan, las monturas deambularán naturalmente cerca del último lugar donde el jinete se desmontó."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)Esto es especialmente relevante para las monturas voladoras, ya que se les puede permitir volar libremente alrededor de su corral sin riesgo de que se alejen demasiado y se pierdan.$(br2)$(o)(Todas las monturas deambularán dentro de un cuadrado de 16x16 bloques vertical centrado en su último punto de desmontaje si no están sentadas o siguiendo a su dueño)"
+    }
+  ],
+  "sortnum": 3
+}

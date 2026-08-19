@@ -821,5 +821,7 @@
   "tooltip.ad_astra.side_config": "Configuración Lateral",
   "tooltip.ad_astra.space_station_land": "Aterrizar en la estación espacial en %s en [%s, %s]",
   "tooltip.ad_astra.space_station_owner": "Propietario: %s",
-  "tooltip.ad_astra.ticks_per_iteration": "Toma %s ticks por iteración"
+  "tooltip.ad_astra.ticks_per_iteration": "Toma %s ticks por iteración",
+  "text.ad_astra.oxygen_false": "✘",
+  "text.ad_astra.oxygen_true": "✔"
 }

@@ -1,0 +1,12 @@
+{
+  "name": "Tarta de manzana",
+  "icon": "croptopia:apple_pie",
+  "category": "croptopia:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:apple_pie",
+      "text": "Receta de una tarta de manzana."
+    }
+  ]
+}

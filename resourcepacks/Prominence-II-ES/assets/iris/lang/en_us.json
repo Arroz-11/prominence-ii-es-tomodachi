@@ -1,0 +1,10 @@
+{
+  "iris.load.failure.shader": "¡El paquete de shaders no pudo cargarse! Por favor, reporta el error al desarrollador del shader. ",
+  "iris.load.failure.generic": "Iris encontró un problema al intentar cargar el shader; por favor, reporta esto a los desarrolladores de Iris. ",
+  "iris.shaders.ssbofailure": "El shader solicitó una característica específica (SSBO) que no es compatible con tu GPU, puede que no funcione correctamente.",
+  "iris.keybind.wireframe": "Malla alámbrica (solo SP)",
+  "iris.unsupported.pack.macos": "\nmacOS es conocido por tener problemas con muchos paquetes de shaders.",
+  "options.iris.shadowDistance.sodium_tooltip": "La distancia de renderizado de sombras controla qué tan lejos el terreno puede ser renderizado en el pase de sombras. Distancias más bajas significan que se renderizará menos terreno, mejorando las tasas de fotogramas. Esta opción no se puede cambiar en paquetes que especifiquen explícitamente una distancia de renderizado de sombras. La distancia real de renderizado de sombras está limitada por el ajuste de Distancia de visión.",
+  "options.iris.colorSpace": "Espacio de color",
+  "options.iris.colorSpace.sodium_tooltip": "El espacio de color al que se transforma la pantalla. Funciona sobre los paquetes de shaders. Usa SRGB si no estás seguro."
+}

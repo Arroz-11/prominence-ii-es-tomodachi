@@ -1,0 +1,47 @@
+{
+  "name": "Lobo gigante",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Se dice que son los ancestros de los lobos modernos, las leyendas hablan de criaturas tan grandes como caballos de tiro que merodean los bosques profundos.$(br2)En tiempos antiguos, se aparecían a viajeros perdidos y los acompañaban de regreso a un lugar seguro.$(br2)Aunque se cree que están extintos, los pastores en áreas especialmente remotas a veces encuentran huellas gigantescas en zonas boscosas cerca de los pastizales..."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "mythicmounts:direwolf",
+      "title": "Lobo gigante",
+      "text": "$(br)Un lobo gigante.",
+      "scale": 0.75,
+      "offset": 0.25,
+      "rotate": true,
+      "border": true
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Hábitats",
+      "entity_id": "mythicmounts:direwolf"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos para domesticar",
+      "entity_id": "mythicmounts:direwolf"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Comida",
+      "entity_id": "mythicmounts:direwolf"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos para criar",
+      "entity_id": "mythicmounts:direwolf"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Estadísticas base",
+      "entity_id": "mythicmounts:direwolf"
+    }
+  ]
+}

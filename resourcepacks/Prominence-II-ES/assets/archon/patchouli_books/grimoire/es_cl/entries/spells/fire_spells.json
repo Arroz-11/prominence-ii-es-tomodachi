@@ -1,0 +1,32 @@
+{
+  "name": "Hechizos de Fuego",
+  "icon": "archon:fireball_tome",
+  "category": "archon:spells",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los hechizos de Fuego se pueden encontrar en Fortalezas del Nether y Bastiones"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Bola de Fuego",
+      "text": "Dispara una bola de fuego explosiva $(li)Costo de Maná: 20"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Incombustible",
+      "text": "Otorga resistencia al fuego durante 1 minuto + 2 segundos por poder de hechizo $(li)Costo de Maná: 50"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Quemadura",
+      "text": "Prende fuego al objetivo durante 10 segundos $(li)Costo de Maná: 30 $(li)Rango: 30"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Rayo Infernal",
+      "text": "Dispara un rápido rayo de calor que inflige daño a los objetivos $(li)Costo de Maná: 10"
+    }
+  ]
+}

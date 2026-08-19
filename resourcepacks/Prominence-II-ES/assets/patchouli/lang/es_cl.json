@@ -85,5 +85,8 @@
   "patchouli.gui.lexicon.button.visualize.info": "(Clic de nuevo para borrar)",
   "patchouli.gui.lexicon.button.history": "Historia",
   "patchouli.gui.lexicon.button.mark_all_read": "Marcar todo como leído",
-  "patchouli.gui.lexicon.button.mark_category_read": "Marcar esta categoría como leída"
+  "patchouli.gui.lexicon.button.mark_category_read": "Marcar esta categoría como leída",
+  "item.patchouli:pamphlet.name": "Folleto de prueba",
+  "item.patchouli:pamphlet.landing": "Un folleto de prueba, que es un libro con una sola categoría.",
+  "patchouli.gui.lexicon.button.toggle_mock_header": "Alternar cabecera simulada"
 }

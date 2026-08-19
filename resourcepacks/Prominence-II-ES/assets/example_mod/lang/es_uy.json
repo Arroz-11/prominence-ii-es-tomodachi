@@ -1,4 +1,6 @@
 {
   "welcomescreen.configuration.client": "cliente",
-  "welcomescreen.configuration.example": "ejemplo"
+  "welcomescreen.configuration.example": "ejemplo",
+  "example_mod.configuration.client": "cliente",
+  "example_mod.configuration.example": "ejemplo"
 }

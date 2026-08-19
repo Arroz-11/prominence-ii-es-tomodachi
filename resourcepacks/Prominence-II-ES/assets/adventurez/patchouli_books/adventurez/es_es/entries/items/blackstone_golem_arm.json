@@ -1,0 +1,17 @@
+{
+    "name": "Brazo de Gólem",
+    "icon": "adventurez:blackblackstone_golem_arm",
+    "category": "adventurez:item_category",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "adventurez:blackstone_golem_arm",
+            "link_recipe": true,
+            "text": "El Brazo de Piedra Negra es un arma creada con el Corazón del Gólem de Piedra Negra y desbloquea la habilidad de lanzar rocas a tus enemigos. Cárgalo manteniendo presionado el clic derecho hasta que brille en rojo y lanza una roca al soltar el botón"
+        },
+        {
+            "type": "crafting",
+            "recipe": "adventurez:blackstone_golem_arm"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Nigromante",
+    "icon": "adventurez:blackstone_golem_heart",
+    "category": "adventurez:mob_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "El oscuro Nigromante hizo de las fortalezas del Nether su hogar. Aprendió a usar magia oscura y convocará Títeres Marchitos para protegerse de sus enemigos."
+        },
+        {
+            "type": "entity",
+            "name": "Showcase",
+            "entity": "adventurez:necromancer",
+            "offset": 0.2
+        },
+        {
+            "type": "text",
+            "title": "Títere Marchito",
+            "text": "El Títere Marchito es controlado por su líder e infecta a sus enemigos con el efecto de marchitamiento. Mata a su líder para destruir su voluntad."
+        },
+        {
+            "type": "entity",
+            "name": "Showcase",
+            "entity": "adventurez:wither_puppet",
+            "scale": 1.1
+        }
+    ]
+}

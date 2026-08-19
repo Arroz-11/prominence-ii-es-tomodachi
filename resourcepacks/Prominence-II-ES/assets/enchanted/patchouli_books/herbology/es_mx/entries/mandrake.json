@@ -1,0 +1,30 @@
+{
+  "name": "Mandrágoras",
+  "icon": "enchanted:textures/item/mandrake_root.png",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las mandrágoras son un grupo de plantas herbáceas perennes con raíces largas en forma de chirivía.$(br2)Los gritos de esta planta pueden causar lesiones o la muerte. Usa orejeras y cosecha de noche para reducir el riesgo.$(br2)$(bold)Obtención:$()$(br)Se sabe que las sueltan los pastos altos."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:mandrake[age=4]"
+        },
+        "pattern": [
+          [ "0" ],
+          [ " " ]
+        ]
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:earmuffs",
+      "text": "Usar orejeras te protegerá de los gritos de la mandrágora."
+    }
+  ],
+  "read_by_default": true
+}

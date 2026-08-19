@@ -1,0 +1,62 @@
+{
+  "name": "Piedra guía",
+  "icon": "enchanted:bound_waystone",
+  "category": "enchanted:binding",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Piedra guía",
+      "text": "Realiza este rito para vincular la ubicación del círculo usado a una piedra guía, para usarse en otros ritos basados en ubicación."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:waystone"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Piedra guía",
+      "text": "Realiza este rito para vincular la ubicación del círculo usado a una piedra guía, para usarse en otros ritos basados en ubicación."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:waystone_charged"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Duplicación de piedra guía",
+      "text": "Transfiere la ubicación vinculada de una piedra guía a otra, para crear dos piedras guía idénticas."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:duplicate_waystone"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Duplicación de piedra guía",
+      "text": "Transfiere la ubicación vinculada de una piedra guía a otra, para crear dos piedras guía idénticas."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:duplicate_waystone_charged"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Hito sangriento",
+      "text": "Este rito vincula una piedra guía a la ubicación de un jugador, la cual se moverá conforme el jugador se mueve."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:waystone_blooded"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Hito sangriento",
+      "text": "Este rito vincula una piedra guía a la ubicación de un jugador, la cual se moverá conforme el jugador se mueve."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:waystone_blooded_charged"
+    }
+  ],
+  "read_by_default": true
+}

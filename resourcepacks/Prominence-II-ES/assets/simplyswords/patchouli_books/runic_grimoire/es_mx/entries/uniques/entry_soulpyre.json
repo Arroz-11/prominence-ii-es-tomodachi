@@ -1,0 +1,18 @@
+{
+  "name": "Hoguera de las almas",
+  "icon": "simplyswords:soulpyre",
+  "advancement": "simplyswords:soulpyre",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:soulpyre",
+      "text": "La Hoguera de las almas es un hacha poderosa y ancestral que se dice contiene el poder de las almas, la transposición y el fuego. Se dice que el hacha fue forjada con un metal raro y místico infundido con la energía de innumerables almas."
+
+    },
+    {
+      "type": "patchouli:text",
+      "text": "El hacha tiene la capacidad de transponer las almas de sus víctimas, permitiendo al portador intercambiar su ubicación con la de sus enemigos. También tiene el poder de liberar las almas atrapadas en su interior, desatando una devastadora ola de energía ígnea que puede incinerar un campo de batalla entero."
+    }
+  ]
+}

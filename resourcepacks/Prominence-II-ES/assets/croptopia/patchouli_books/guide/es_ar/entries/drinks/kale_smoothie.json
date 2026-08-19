@@ -1,0 +1,12 @@
+{
+  "name": "Batido de col rizada",
+  "icon": "croptopia:kale_smoothie",
+  "category": "croptopia:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:kale_smoothie",
+      "text": "Receta de batido de col rizada."
+    }
+  ]
+}

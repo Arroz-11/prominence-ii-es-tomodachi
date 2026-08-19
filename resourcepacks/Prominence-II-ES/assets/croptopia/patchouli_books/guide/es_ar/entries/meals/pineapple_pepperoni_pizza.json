@@ -1,0 +1,12 @@
+{
+  "name": "Pizza de piña y pepperoni",
+  "icon": "croptopia:pineapple_pepperoni_pizza",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:pineapple_pepperoni_pizza",
+      "text": "Receta para una pizza de piña y pepperoni. La piña sí va en la pizza."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Galleta de azúcar",
+  "icon": "croptopia:snicker_doodle",
+  "category": "croptopia:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:snicker_doodle",
+      "text": "Receta para galletas de azúcar. (WIP)"
+    }
+  ]
+}

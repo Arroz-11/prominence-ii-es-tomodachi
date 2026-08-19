@@ -1,0 +1,25 @@
+{
+  "name": "Hierba reluciente",
+  "icon": "enchanted:textures/block/glint_weed.png",
+  "category": "enchanted:mutated_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Esta hierba mágica emite un resplandor a su alrededor, actuando como una antorcha, y puede sobrevivir en casi cualquier superficie, pero solo se propaga en césped, tierra y arena.$(br2)No se necesitan requisitos especiales de cosecha.$(br2)$(br2)$(bold)Obtención:$()$(br)Se obtiene mutando plantas pequeñas."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:glint_weed"
+        },
+        "pattern": [
+          [ "0" ],
+          [ " " ]
+        ]
+      }
+    }
+  ],
+  "read_by_default": true
+}

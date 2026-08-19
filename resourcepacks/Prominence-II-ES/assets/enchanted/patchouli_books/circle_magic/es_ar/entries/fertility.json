@@ -1,0 +1,26 @@
+{
+  "name": "Fertilidad",
+  "icon": "minecraft:emerald",
+  "category": "enchanted:world",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Fertilidad",
+      "text": "Hace que las plantas en un área grande crezcan, cura animales enfermos y cura a los aldeanos zombi."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:fertility"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Fertilidad",
+      "text": "Hace que las plantas en un área grande crezcan, cura animales enfermos y cura a los aldeanos zombi."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:fertility_charged"
+    }
+  ],
+  "read_by_default": true
+}

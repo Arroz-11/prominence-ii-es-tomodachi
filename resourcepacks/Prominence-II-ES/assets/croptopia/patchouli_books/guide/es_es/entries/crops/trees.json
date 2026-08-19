@@ -1,0 +1,11 @@
+{
+  "name": "Árboles",
+  "icon": "croptopia:apple_sapling",
+  "category": "croptopia:crops",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "En el mundo puedes encontrar varios árboles con cultivos personalizados creciendo en ellos. Para cosecharlos, puedes hacer clic derecho cuando estén completamente crecidos."
+    }
+  ]
+}

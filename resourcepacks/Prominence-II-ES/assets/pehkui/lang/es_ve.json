@@ -102,5 +102,6 @@
   "pehkui.configgui.scale_limits.projectiles.minimum": "Valor mínimo para el tipo de escala pehkui:projectiles",
   "pehkui.configgui.scale_limits.projectiles.maximum": "Valor máximo para el tipo de escala pehkui:projectiles",
   "pehkui.configgui.scale_limits.explosions.minimum": "Valor mínimo para el tipo de escala pehkui:explosions",
-  "pehkui.configgui.scale_limits.explosions.maximum": "Valor máximo para el tipo de escala pehkui:explosions"
+  "pehkui.configgui.scale_limits.explosions.maximum": "Valor máximo para el tipo de escala pehkui:explosions",
+  "commands.pehkui.scale.modifier.get.message": "%s"
 }

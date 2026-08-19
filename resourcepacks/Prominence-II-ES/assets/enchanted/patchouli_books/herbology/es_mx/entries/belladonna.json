@@ -1,0 +1,25 @@
+{
+  "name": "Flores de Belladona",
+  "icon": "enchanted:textures/item/belladonna_flower.png",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La Atropa Belladona, comúnmente conocida como belladona mortal, es un miembro venenoso de la familia de las solanáceas. $(br2)Se sabe que el follaje y las bayas de esta planta son extremadamente tóxicos para los humanos y deben manipularse con cuidado.$(br2)$(bold)Obtención:$()$(br)Se sabe que la sueltan las hierbas altas"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:belladonna[age=4]"
+        },
+        "pattern": [
+          [ "0" ],
+          [ " " ]
+        ]
+      }
+    }
+  ],
+  "read_by_default": true
+}

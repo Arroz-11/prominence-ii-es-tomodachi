@@ -1,0 +1,27 @@
+{
+  "name": "Pergaminos Antiguos",
+  "icon": "archon:capacity_scroll",
+  "category": "archon:mana",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los Pergaminos Antiguos son objetos especiales que, al usarlos, otorgan al jugador una mejora de maná específica. Ten en cuenta que solo puedes vincular $(#2895CB)1 Pergamino$() a ti mismo a la vez, ¡así que elige con cuidado!"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:capacity_scroll",
+      "text": "El Pergamino de Capacidad se puede obtener como trueque del aldeano $(l:archon:world/wizard)Mago$() o de las $(l:archon:world/spires)Agujas$(), y aumenta el $(#2895CB)maná máximo del jugador a 200 (Configurable)$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:accelerate_scroll",
+      "text": "El Pergamino de Aceleración se puede obtener como trueque del aldeano $(l:archon:world/wizard)Mago$() o de las $(l:archon:world/spires)Agujas$(), y hace que el maná del jugador se regenere mucho más rápido (Configurable)$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:removal_scroll",
+      "text": "El Pergamino de Remoción se puede obtener como trueque del aldeano $(l:archon:world/wizard)Mago$() o de las $(l:archon:world/spires)Agujas$(). Esto eliminará el pergamino actualmente aplicado al jugador."
+    }
+  ]
+}

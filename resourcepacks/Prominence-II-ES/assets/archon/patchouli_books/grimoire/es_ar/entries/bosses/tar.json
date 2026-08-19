@@ -1,0 +1,17 @@
+{
+  "name": "Tar",
+  "icon": "archon:terranite_stone",
+  "category": "archon:bosses",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Tar es un jefe de Tierra y el más débil de los cinco. Tar suelta una Piedra de Terranita al morir. Puedes encontrar los objetos necesarios para invocarlo en la página siguiente."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "archon:tar",
+      "text": "Pizarra Profunda, 2x Esencia de Tierra, Esmeralda"
+    }
+  ]
+}

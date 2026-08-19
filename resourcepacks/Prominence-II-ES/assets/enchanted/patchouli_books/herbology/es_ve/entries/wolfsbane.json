@@ -1,0 +1,25 @@
+{
+  "name": "Flores de Acónito",
+  "icon": "enchanted:textures/item/wolfsbane_flower.png",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El acónito, nombre común del Wolfsbane, se refiere a muchas plantas con flores nativas de áreas montañosas de Europa, América del Norte y Asia.$(br2)Las raíces del acónito contienen una cantidad sustancial de aconitina, una potente neurotoxina y cardiotoxina.$(br2)$(bold)Obtención:$()$(br)Se sabe que la sueltan los pastos altos"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:wolfsbane[age=4]"
+        },
+        "pattern": [
+          [ "0" ],
+          [ " " ]
+        ]
+      }
+    }
+  ],
+  "read_by_default": true
+}

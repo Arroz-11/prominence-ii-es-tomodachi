@@ -1,0 +1,37 @@
+{
+  "name": "Hechizos de Tierra",
+  "icon": "archon:rumble_tome",
+  "category": "archon:spells",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los hechizos de Tierra se pueden encontrar en minas abandonadas o Templos del Desierto"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Retumbo",
+      "text": "Crea un terremoto que ralentiza a los objetivos y sacude la pantalla (configurable) de los jugadores afectados. $(li)Costo de Maná: 40 $(li)Rango: 20"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Aplastamiento",
+      "text": "Destruye instantáneamente y suelta el bloque objetivo. Solo funciona con bloques minables con pico hasta nivel de hierro. $(li)Costo de Maná: 2"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Púa",
+      "text": "Crea una púa debajo del objetivo que lo lanza hacia arriba y le hace daño si cae sobre ella. $(li)Costo de Maná: 20 $(li)Rango: 20"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Lanzamiento de Terreno",
+      "text": "Lanza un trozo de terreno que inflige daño y alto retroceso $(li)Costo de Maná: 10"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Rabia",
+      "text": "Otorga el efecto de estado Rabia durante 7 segundos + 2 por poder de hechizo $(li)Costo de Maná: 40"
+    }
+  ]
+}

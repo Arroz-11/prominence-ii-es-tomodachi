@@ -1,0 +1,12 @@
+{
+  "name": "Nuez confitada",
+  "icon": "croptopia:candied_nuts",
+  "category": "croptopia:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:candied_nuts",
+      "text": "Receta para nuez confitada."
+    }
+  ]
+}

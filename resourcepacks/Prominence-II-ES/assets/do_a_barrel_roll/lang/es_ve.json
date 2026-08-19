@@ -1,0 +1,9 @@
+{
+  "config.do_a_barrel_roll.banking.automatic_righting": "Enderezado Automático",
+  "config.do_a_barrel_roll.banking.automatic_righting.description": "Aplica una entrada de balanceo artificial para reorientar la cámara hacia arriba cuando está inclinada 90 grados o menos en cualquier dirección. Activar esto junto con intercambiar los ejes de balanceo y guiñada hará que el vuelo sea más parecido al vanilla, mientras aún permite balanceo manual y loopings. También puede encontrar esta opción útil para reducir el mareo por movimiento.\n",
+  "config.do_a_barrel_roll.banking.righting_strength": "Fuerza de Enderezado",
+  "config.do_a_barrel_roll.smoothing.smoothing_enabled": "Habilitar Suavizado",
+  "config.do_a_barrel_roll.smoothing.smoothing_pitch": "Inclinación",
+  "config.do_a_barrel_roll.smoothing.smoothing_yaw": "Guiñada",
+  "config.do_a_barrel_roll.smoothing.smoothing_roll": "Balanceo"
+}

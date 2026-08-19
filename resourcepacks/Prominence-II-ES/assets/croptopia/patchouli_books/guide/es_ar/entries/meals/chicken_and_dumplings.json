@@ -1,0 +1,12 @@
+{
+  "name": "Pollo con Albóndigas",
+  "icon": "croptopia:chicken_and_dumplings",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:chicken_and_dumplings",
+      "text": "Receta de pollo con albóndigas."
+    }
+  ]
+}

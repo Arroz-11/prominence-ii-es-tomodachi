@@ -1,0 +1,47 @@
+{
+  "name": "Acencia",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ágiles y esquivas, estos gatos parecidos a leopardos escalan superficies escarpadas para abalanzarse sobre presas desprevenidas.$(br2)Las Acencias salvajes son expertas en camuflaje y usan esta habilidad para permanecer indetectables tanto para presas como para intrusos.$(br2)A pesar de su naturaleza solitaria, pueden ser bastante cariñosas si uno logra ganarse su confianza."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "mythicmounts:acencia",
+      "title": "Acencia",
+      "text": "$(o)Nota del autor: entrada ganadora para la primera encuesta de mobs de la comunidad, enviada por $(l)@God!",
+      "scale": 0.75,
+      "offset": 0.1,
+      "rotate": true,
+      "border": true
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Hábitats",
+      "entity_id": "mythicmounts:acencia"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos de domesticación",
+      "entity_id": "mythicmounts:acencia"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Comida",
+      "entity_id": "mythicmounts:acencia"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos de cría",
+      "entity_id": "mythicmounts:acencia"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Estadísticas base",
+      "entity_id": "mythicmounts:acencia"
+    }
+  ]
+}

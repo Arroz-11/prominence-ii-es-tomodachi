@@ -1,0 +1,25 @@
+{
+  "name": "Árbol de Serbal",
+  "icon": "enchanted:textures/block/rowan_sapling.png",
+  "category": "enchanted:mutated_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El serbal, o fresno de montaña, un pequeño árbol caducifolio nativo de Europa, tiene muchos usos en la brujería y el ocultismo.$(br2)La afinidad mágica del serbal rara vez es igualada por otros árboles, y se cree que brinda protección contra seres malévolos.$(br2)$(bold)Obtención:$()$(br)Se muta a partir de plantas pequeñas."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:rowan_sapling"
+        },
+        "pattern": [
+          [ "0" ],
+          [ " " ]
+        ]
+      }
+    }
+  ],
+  "read_by_default": true
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ajo",
+  "icon": "enchanted:textures/item/garlic.png",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El ajo, una especie de planta con flor bulbosa del género Allium, es conocido principalmente por su uso como condimento en muchas cocinas. $(br2)Un uso menos conocido de esta planta es que es un fuerte repelente para seres vampíricos.$(br2)$(bold)Obtención:$()$(br)Se sabe que lo sueltan los pastos altos."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:garlic[age=4]"
+        },
+        "pattern": [
+          [ "0" ],
+          [ " " ]
+        ]
+      }
+    }
+  ],
+  "read_by_default": true
+}

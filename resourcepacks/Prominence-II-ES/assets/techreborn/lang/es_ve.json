@@ -1086,5 +1086,16 @@
   "entity.minecraft.villager.techreborn.metallurgist": "Metalúrgico",
   "entity.minecraft.villager.metallurgist": "Metalúrgico",
   "entity.minecraft.villager.techreborn.electrician": "Electricista",
-  "entity.minecraft.villager.electrician": "Electricista"
+  "entity.minecraft.villager.electrician": "Electricista",
+  "item.modifiers.power": "Cuando está en Poder:",
+  "item.modifiers.all_equipment": "Cuando está en Todo el Equipo:",
+  "item.modifiers.full_suit": "Efecto de Conjunto:",
+  "techreborn.jei.recipe.energy": "Energía",
+  "death.attack.fusion": "%s sufrió de enfermedad aguda por radiación",
+  "death.attack.fusion.player": "%s sufrió de enfermedad aguda por radiación tratando de escapar de %s",
+  "techreborn.tooltip.experience": "Experiencia",
+  "gui.techreborn.chunk.radius": "Radio",
+  "gui.techreborn.chunk.hide_loaded_chunks": "Ocultar Chunks Cargados",
+  "gui.techreborn.chunk.show_loaded_chunks": "Mostrar Chunks Cargados",
+  "gui.techreborn.launchpad.launch_speed": "Velocidad de Lanzamiento"
 }

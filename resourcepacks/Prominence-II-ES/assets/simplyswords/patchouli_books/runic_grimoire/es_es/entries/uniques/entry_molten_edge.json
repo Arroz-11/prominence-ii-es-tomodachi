@@ -1,0 +1,17 @@
+{
+  "name": "Molten Edge",
+  "icon": "simplyswords:molten_edge",
+  "advancement": "simplyswords:molten_edge",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:molten_edge",
+      "text": "Molten Edge es un hacha feroz que otorga a su portador mayor fuerza y celeridad cuando está herido. A medida que el portador recibe daño, el hacha se vuelve más poderosa, permitiéndole golpear más fuerte y rápido en la batalla."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Además, el hacha tiene la capacidad de emitir un poderoso grito de guerra al usarse, acelerando enormemente los movimientos del portador y permitiéndole cerrar rápidamente la distancia con sus enemigos. Se dice que el hacha está forjada de lava fundida y exuda un aura ígnea. Esta arma es perfecta para guerreros que quieran luchar ferozmente en la batalla y superar cualquier adversidad."
+    }
+  ]
+}

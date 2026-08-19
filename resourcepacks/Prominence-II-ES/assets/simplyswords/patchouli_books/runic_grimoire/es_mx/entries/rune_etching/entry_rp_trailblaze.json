@@ -1,0 +1,17 @@
+{
+  "name": "Abrecaminos",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Abrecaminos",
+      "text": "Abrecaminos es un poder rúnico que imbuye el arma del portador con la $(#bf4117)$(l)esencia del fuego$(). $(br2)Otorga al portador una probabilidad de incendiarse a sí mismo mientras también aumenta su velocidad con cada golpe exitoso."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Puede ser útil en batallas contra enemigos que dependen de la velocidad y la movilidad, ya que la mayor velocidad puede permitir al portador superarlos. $(br2)El efecto de fuego puede ser una desventaja para personajes que carecen de defensas, pero la mayor velocidad puede compensarlo en ciertas situaciones."
+    }
+  ]
+}

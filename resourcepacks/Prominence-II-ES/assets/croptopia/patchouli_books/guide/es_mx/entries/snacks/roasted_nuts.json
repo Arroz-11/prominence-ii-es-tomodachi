@@ -1,0 +1,12 @@
+{
+  "name": "Nuez tostada",
+  "icon": "croptopia:roasted_nuts",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:roasted_nuts",
+      "text": "Receta para hacer nuez tostada."
+    }
+  ]
+}

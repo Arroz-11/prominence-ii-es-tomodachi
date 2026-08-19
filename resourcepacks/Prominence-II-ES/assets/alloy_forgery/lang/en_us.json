@@ -18,5 +18,12 @@
   "itemGroup.alloy_forgery.alloy_forgery.button.curseforge": "CurseForge",
   "itemGroup.alloy_forgery.alloy_forgery.button.modrinth": "Modrinth",
   "itemGroup.alloy_forgery.alloy_forgery.button.github": "GitHub",
-  "emi.category.alloy_forgery.alloy_forge": "Forja de aleación"
+  "emi.category.alloy_forgery.alloy_forge": "Forja de aleación",
+  "tooltip.alloy_forgery.invalid_tier": "Esta receta requiere un Controlador de Forja de Nivel %d",
+  "tag.item.c.copper_ores": "Menas de Cobre",
+  "tag.item.c.iron_ores": "Menas de Hierro",
+  "tag.item.c.gold_ores": "Menas de Oro",
+  "tag.item.c.raw_copper_blocks": "Bloques de Cobre en Bruto",
+  "tag.item.c.raw_iron_blocks": "Bloques de Hierro en Bruto",
+  "tag.item.c.raw_gold_blocks": "Bloques de Oro en Bruto"
 }

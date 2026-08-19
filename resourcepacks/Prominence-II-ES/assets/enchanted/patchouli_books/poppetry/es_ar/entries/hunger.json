@@ -1,0 +1,17 @@
+{
+  "name": "Hambre",
+  "icon": "enchanted:hunger_poppet",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los talismanes de hambre protegen al beneficiario de morir por inanición.$(br2)$(bold)Firme$() Un uso extra.$(br)$(bold)Infundido$() Otorga 5 segundos de saturación."
+    },
+    {
+      "type": "enchanted:spinning_wheel_recipe",
+      "recipe": "enchanted:spinning/hunger_poppet"
+    }
+  ],
+  "read_by_default": true,
+  "priority": false
+}

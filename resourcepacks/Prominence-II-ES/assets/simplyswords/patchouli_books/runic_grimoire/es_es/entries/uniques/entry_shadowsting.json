@@ -1,0 +1,17 @@
+{
+  "name": "Shadowsting",
+  "icon": "simplyswords:shadowsting",
+  "advancement": "simplyswords:shadowsting",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:shadowsting",
+      "text": "Shadowsting es una espada ropera esbelta imbuida con el poder de las sombras. La habilidad única de la espada ropera le otorga la oportunidad de infligir daño mágico que escala con la armadura a los enemigos, permitiéndole penetrar incluso la armadura más resistente."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La espada ropera también tiene la habilidad de crear una niebla sombría que nubla la visión de sus enemigos; esta habilidad se conoce como Niebla Sombría. El portador puede usar la niebla para crear confusión y desorientación entre sus enemigos, proporcionando una ventaja estratégica en combate."
+    }
+  ]
+}

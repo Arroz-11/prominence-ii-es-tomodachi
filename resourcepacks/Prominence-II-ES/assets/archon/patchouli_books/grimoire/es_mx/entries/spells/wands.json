@@ -1,0 +1,26 @@
+{
+  "name": "Varitas",
+  "icon": "archon:water_wand",
+  "category": "archon:spells",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las varitas son un componente central para lanzar hechizos. Las varitas solo pueden lanzar hechizos que coincidan con su elemento. Para usar una varita, debes conocer al menos un hechizo. Puedes alternar entre hechizos presionando shift + clic derecho. Tu hechizo actual y su costo de maná se mostrarán en la información de la varita."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:fire_wand",
+      "recipe2": "archon:water_wand"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:earth_wand",
+      "recipe2": "archon:sky_wand"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:end_wand"
+    }
+  ]
+}

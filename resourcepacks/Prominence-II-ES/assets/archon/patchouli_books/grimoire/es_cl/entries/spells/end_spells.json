@@ -1,0 +1,42 @@
+{
+  "name": "Hechizos del End",
+  "icon": "archon:ender_tome",
+  "category": "archon:spells",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los hechizos del End se pueden encontrar en Ciudades del End o Bibliotecas de Fortalezas"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Bola Oscura",
+      "text": "Dispara un rayo de vacío que crea una zona de Aliento de Dragón al impactar con un mob. $(li)Costo de Maná: 10"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Intercambiar",
+      "text": "Permite al usuario intercambiar lugares con el objetivo $(li)Costo de Maná: 40 $(li)Rango: 20"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Ender",
+      "text": "Abre instantáneamente el inventario del cofre de ender del usuario $(li)Costo de Maná: 20"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Sombra",
+      "text": "Convierte al usuario en una sombra que puede volar y atravesar paredes durante 10s + 2 por poder de hechizo $(li)Costo de Maná: 50"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Distorsión",
+      "text": "Te teletransporta en la dirección que estás mirando 8 bloques + 1 por poder de hechizo $(li)Costo de Maná: 10"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Caída Astral",
+      "text": "Genera meteoritos cayendo sobre tu objetivo que se estrellan y explotan al impactar $(li)Costo de Maná: 80"
+    }
+  ]
+}

@@ -37,5 +37,7 @@
   "reacharound.config.animation.interpolation.cubic": "Cúbico",
   "reacharound.config.animation.fadeInterpolation": "Interpolación de fundido",
   "reacharound.keybinding.category": "Reacharound",
-  "reacharound.keybinding.toggle": "Activar Reacharound"
+  "reacharound.keybinding.toggle": "Activar Reacharound",
+  "reacharound.config.indicator.axis.both": "Ambos",
+  "reacharound.config.indicator.style3d.both": "Ambos"
 }

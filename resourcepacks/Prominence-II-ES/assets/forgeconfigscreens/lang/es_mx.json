@@ -47,5 +47,6 @@
   "configmenusforge.gui.type.title": "Configuración de %s",
   "configmenusforge.gui.type.client": "La configuración del cliente es para ajustes que afectan ÚNICAMENTE al estado del cliente, como las opciones gráficas. Solo se carga en el lado del cliente. Se guarda en el directorio de configuración global. No se sincroniza.",
   "configmenusforge.gui.type.common": "Configuración común de mods que hay que cargar en ambos entornos. Se carga tanto en los servidores como en los clientes. Se guarda en el directorio de configuración global. No se sincroniza.",
-  "configmenusforge.gui.type.server": "La configuración del tipo de servidor es la configuración asociada a una instancia de servidor. Solo se carga al iniciar el servidor. Se guarda en un directorio específico «serverconfig» dentro de «server/save». Se sincroniza con los clientes al conectarse."
+  "configmenusforge.gui.type.server": "La configuración del tipo de servidor es la configuración asociada a una instancia de servidor. Solo se carga al iniciar el servidor. Se guarda en un directorio específico «serverconfig» dentro de «server/save». Se sincroniza con los clientes al conectarse.",
+  "configmenusforge.gui.tooltip.reset": "Reiniciar"
 }

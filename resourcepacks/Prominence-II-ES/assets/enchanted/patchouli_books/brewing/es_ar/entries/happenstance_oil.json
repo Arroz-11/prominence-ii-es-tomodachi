@@ -1,0 +1,16 @@
+{
+  "name": "Aceite de la casualidad",
+  "icon": "enchanted:happenstance_oil",
+  "category": "enchanted:kettle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Se dice que el aceite de la casualidad permite a las brujas mirar hacia el futuro, y por eso se usa para infundir bolas de cristal.$(br2)Consumirlo otorgará visión nocturna por un corto tiempo."
+    },
+    {
+      "type": "enchanted:kettle_recipe",
+      "recipe": "enchanted:kettle/happenstance_oil"
+    }
+  ],
+  "read_by_default": true
+}

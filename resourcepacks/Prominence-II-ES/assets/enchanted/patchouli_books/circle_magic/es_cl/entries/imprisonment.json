@@ -1,0 +1,17 @@
+{
+  "name": "Encarcelamiento",
+  "icon": "minecraft:iron_bars",
+  "category": "enchanted:creature",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Encarcelamiento",
+      "text": "Evita que los monstruos salgan del círculo. $(br2)Aunque es efectiva, esta barrera ciertamente no es impenetrable. Las altas velocidades o el teletransporte pueden hacer que un monstruo escape. $(br2)Requiere 3 de poder adicionales por tick"
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:imprisonment"
+    }
+  ],
+  "read_by_default": true
+}

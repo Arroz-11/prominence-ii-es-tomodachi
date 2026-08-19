@@ -1,0 +1,16 @@
+{
+  "name": "Escoba",
+  "icon": "enchanted:broom",
+  "category": "enchanted:tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Una escoba se puede usar para barrer la tiza rápidamente, sin tener que pasar tiempo borrándola."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:broom"
+    }
+  ],
+  "read_by_default": true
+}

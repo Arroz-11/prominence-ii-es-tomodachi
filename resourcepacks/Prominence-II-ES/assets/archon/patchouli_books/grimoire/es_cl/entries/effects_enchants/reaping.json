@@ -1,0 +1,12 @@
+{
+  "name": "Encantamiento de Segado",
+  "icon": "minecraft:enchanted_book",
+  "category": "archon:effects_enchants",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El encantamiento de Segado se puede aplicar en armas, hachas o un Báculo de los No Muertos. Se usa para obtener $(l:archon:necromancy/souls)almas$(). Segado es un encantamiento de tesoro, y solo se puede obtener de un $(l:archon:world/wizard)Mago$() o un aldeano bibliotecario."
+    }
+  ]
+}

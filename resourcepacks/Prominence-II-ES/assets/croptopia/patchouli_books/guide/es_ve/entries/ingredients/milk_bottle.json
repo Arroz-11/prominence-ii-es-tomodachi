@@ -1,0 +1,12 @@
+{
+  "name": "Frasco con leche",
+  "icon": "croptopia:milk_bottle",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_milk_bottle",
+      "text": "Receta para frascos con leche."
+    }
+  ]
+}

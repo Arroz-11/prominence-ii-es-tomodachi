@@ -1,0 +1,17 @@
+{
+  "name": "Inigo",
+  "icon": "archon:charred_eye",
+  "category": "archon:bosses",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Inigo es un jefe de fuego que dispara láseres de alto daño. Inigo suelta un Ojo Carbonizado al morir. Puedes encontrar los objetos necesarios para invocarlo en la página siguiente."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "archon:inigo",
+      "text": "Crema de Magma, Polvo de Blaze, 2x Esencia de Fuego"
+    }
+  ]
+}

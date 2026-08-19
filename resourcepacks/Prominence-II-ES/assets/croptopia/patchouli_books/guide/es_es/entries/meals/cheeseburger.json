@@ -1,0 +1,12 @@
+{
+  "name": "Hamburguesa con queso",
+  "icon": "croptopia:cheeseburger",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cheeseburger",
+      "text": "Receta para una hamburguesa con queso."
+    }
+  ]
+}

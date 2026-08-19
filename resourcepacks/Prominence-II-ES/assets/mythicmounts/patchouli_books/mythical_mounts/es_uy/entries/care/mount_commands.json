@@ -1,0 +1,13 @@
+{
+  "name": "Comandos de Montura",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:care",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Una vez vinculadas con su jinete, las monturas podrán entender y seguir comandos básicos.$(br2)Haz clic derecho en una montura con un bastón de invocación u otro objeto de comando para alternar entre sentarse, deambular y seguir a su dueño.$(br2)Nota: solo el dueño de la montura puede ordenarle que lo siga."
+    }
+  ],
+  "sortnum": 1
+}

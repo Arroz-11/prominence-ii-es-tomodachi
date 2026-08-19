@@ -89,5 +89,13 @@
   "advancements.rpg_series.spell_master_rogue.title": "Maestro del Engaño",
   "advancements.rpg_series.spell_master_rogue.description": "Obtén todas las habilidades de Pícaro",
   "advancements.rpg_series.spell_master_warrior.title": "¡Furia Desatada!",
-  "advancements.rpg_series.spell_master_warrior.description": "Obtén todas las habilidades de Guerrero"
+  "advancements.rpg_series.spell_master_warrior.description": "Obtén todas las habilidades de Guerrero",
+  "item.rogues.netherite_assassin_armor_head": "Máscara de Asesino de Netherita",
+  "item.rogues.netherite_assassin_armor_chest": "Túnica de Asesino de Netherita",
+  "item.rogues.netherite_assassin_armor_legs": "Pantalones de Asesino de Netherita",
+  "item.rogues.netherite_assassin_armor_feet": "Botas de Asesino de Netherita",
+  "item.rogues.netherite_berserker_armor_head": "Casco de Berserker de Netherita",
+  "item.rogues.netherite_berserker_armor_chest": "Peto de Berserker de Netherita",
+  "item.rogues.netherite_berserker_armor_legs": "Grebas de Berserker de Netherita",
+  "item.rogues.netherite_berserker_armor_feet": "Botas de Berserker de Netherita"
 }

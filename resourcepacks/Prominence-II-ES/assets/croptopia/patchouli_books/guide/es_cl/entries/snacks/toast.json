@@ -1,0 +1,12 @@
+{
+  "name": "Tostada",
+  "icon": "croptopia:toast",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:toast_from_bread",
+      "text": "Receta para hacer tostadas."
+    }
+  ]
+}

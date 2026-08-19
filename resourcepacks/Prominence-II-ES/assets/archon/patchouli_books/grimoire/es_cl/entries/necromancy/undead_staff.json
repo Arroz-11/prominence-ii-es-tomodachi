@@ -1,0 +1,21 @@
+{
+  "name": "Báculo de No Muerto",
+  "icon": "archon:undead_staff",
+  "category": "archon:necromancy",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:undead_staff",
+      "text": "El Báculo de No Muerto es un objeto utilizado para $(l:archon:necromancy/summons)invocar$(). Para invocar, necesitarás encontrar $(l:archon:necromancy/soul_tomes)Tomos de Alma$() por el mundo y vincularlos a tu báculo en una mesa de crafteo. A medida que recojas $(l:archon:necromancy/souls)almas$(), tu báculo ganará poder de alma para hacer que las invocaciones sean más fuertes. Nota: tus invocaciones están vinculadas solo a tu báculo, no a ti."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Una vez que hayas vinculado invocaciones a tu báculo, puedes hacer clic derecho para invocar, costando 100 de Maná. Las invocaciones desaparecerán después de una corta duración. Puedes alternar entre las invocaciones que posees con agacharte + clic derecho, igual que con las varitas. Las invocaciones tendrán más duración, salud, daño y velocidad a medida que aumentes tu poder de alma."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:undead_staff"
+    }
+  ]
+}

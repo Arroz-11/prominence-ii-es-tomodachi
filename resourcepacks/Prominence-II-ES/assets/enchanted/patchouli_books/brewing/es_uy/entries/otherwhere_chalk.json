@@ -1,0 +1,16 @@
+{
+  "name": "Tiza de Otro Lugar",
+  "icon": "enchanted:otherwhere_chalk",
+  "category": "enchanted:cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La tiza de otro lugar es una tiza de color púrpura intenso, típicamente usada para rituales que involucran teletransportación/transposición, reubicación o el End."
+    },
+    {
+      "type": "enchanted:cauldron_recipe",
+      "recipe": "enchanted:witch_cauldron/otherwhere_chalk"
+    }
+  ],
+  "read_by_default": true
+}

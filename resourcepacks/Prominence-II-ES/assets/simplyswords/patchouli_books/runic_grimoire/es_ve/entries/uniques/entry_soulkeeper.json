@@ -1,0 +1,17 @@
+{
+  "name": "Soulkeeper",
+  "icon": "simplyswords:soulkeeper",
+  "advancement": "simplyswords:soulkeeper",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:soulkeeper",
+      "text": "Se dice que el Soulkeeper está forjado con un material misterioso capaz de absorber las almas de los caídos, creando un vínculo entre el portador y las almas. Las almas absorbidas por el martillo actúan como un escudo protector, absorbiendo parte del daño infligido al portador."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "El martillo también tiene la habilidad de enviar estas almas para debilitar y ralentizar a los enemigos cercanos. El martillo en sí es masivo e imponente, con una ventana que permite vislumbrar un pozo de almas. El martillo tiene un aura inquietante que lo rodea y se dice que es el arma preferida de aquellos que quieren aprovechar el poder de las almas y usarlo a su favor en la batalla."
+    }
+  ]
+}

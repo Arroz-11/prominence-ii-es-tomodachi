@@ -1,0 +1,25 @@
+{
+  "name": "Campanillas de invierno",
+  "icon": "minecraft:textures/item/snowball.png",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La campanilla de invierno, o Styrax, es un género de arbustos grandes de la familia Styracaceae. A pesar del nombre, son nativos de climas cálidos en Asia.$(br2)Su resina se usa para purificación, disipar la ira o calmar la tensión.$(br2)$(bold)Obtención:$()$(br)Se sabe que la sueltan los pastos altos"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:snowbell[age=4]"
+        },
+        "pattern": [
+          [ "0" ],
+          [ " " ]
+        ]
+      }
+    }
+  ],
+  "read_by_default": true
+}

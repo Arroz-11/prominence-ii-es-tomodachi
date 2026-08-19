@@ -1,0 +1,17 @@
+{
+  "name": "Twisted Blade",
+  "icon": "simplyswords:twisted_blade",
+  "advancement": "simplyswords:twisted_blade",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:twisted_blade",
+      "text": "La Hoja retorcida es una espada larga formidable conocida por su diseño único y mortal. La hoja de la espada está hecha de un tipo especial de acero conocido por su capacidad de retorcerse y contorsionarse con cada golpe."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Este movimiento de torsión le da a la espada un nivel de velocidad y poder sin precedentes, convirtiéndola en una de las armas más letales del campo de batalla. La capacidad de la espada para aumentar su velocidad con cada golpe la hace increíblemente mortal, ya que puede desgastar rápidamente las defensas del oponente y asestar un golpe fatal. Además, el diseño único de la espada también la hace increíblemente difícil de bloquear o parar."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Alma del Mundo",
+  "icon": "enchanted:soul_of_the_world",
+  "category": "enchanted:kettle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El Alma del Mundo es una derivación de la Sopa de Redstone imbuida con la energía de la naturaleza, utilizada para infusiones humanas. $(br2)Esta infusión es extremadamente tóxica y no debe ser consumida."
+    },
+    {
+      "type": "enchanted:kettle_recipe",
+      "recipe": "enchanted:kettle/soul_of_the_world"
+    }
+  ],
+  "read_by_default": true
+}

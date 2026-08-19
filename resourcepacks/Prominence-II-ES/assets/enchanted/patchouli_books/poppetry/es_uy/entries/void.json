@@ -1,0 +1,17 @@
+{
+  "name": "Vacío",
+  "icon": "enchanted:void_poppet",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los muñecos de vacío protegen al beneficiario de la muerte por vacío (fuera del mundo) y lo teletransportan muy alto en el cielo.$(br2)$(bold)Firme$() Un uso extra.$(br)$(bold)Infundido$() Otorga 7.5 segundos de resistencia a caídas."
+    },
+    {
+      "type": "enchanted:spinning_wheel_recipe",
+      "recipe": "enchanted:spinning/void_poppet"
+    }
+  ],
+  "read_by_default": true,
+  "priority": false
+}

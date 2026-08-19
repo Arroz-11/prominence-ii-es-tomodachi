@@ -1,0 +1,11 @@
+{
+  "block.copycats.copycat_base": "Base imitadora",
+  "block.copycats.copycat_byte_panel": "Pedazo Imitador",
+  "block.copycats.copycat_corner_slice": "Lámina de esquina imitadora",
+  "block.copycats.copycat_flat_pane": "Panel plano imitador",
+  "block.copycats.copycat_folding_door": "Puerta plegable imitadora",
+  "block.copycats.copycat_pane": "Panel imitador",
+  "block.copycats.copycat_sliding_door": "Puerta corrediza imitadora",
+  "block.copycats.copycat_stacked_half_layer": "Capa media apilada imitadora",
+  "block.copycats.copycat_vertical_half_layer": "Capa media vertical imitadora"
+}

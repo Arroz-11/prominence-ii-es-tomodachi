@@ -84,5 +84,6 @@
   "commands.neruina.clear": "Se han borrado %s entradas de seguimiento de tics.",
   "commands.neruina.clear.none": "No hay entradas de seguimiento pendientes que borrar.",
   "commands.neruina.cancel.not_logging_in": "No hay ninguna solicitud de autenticación activa que cancelar.",
-  "commands.neruina.show_suspended.none": "No hay entradas pendientes de revisión."
+  "commands.neruina.show_suspended.none": "No hay entradas pendientes de revisión.",
+  "neruina.clear": "Limpiar"
 }

@@ -1,0 +1,32 @@
+{
+  "name": "Mermelada",
+  "icon": "croptopia:grape_jam",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:grape_jam",
+      "text": "Estas son las recetas para craftear las diferentes mermeladas en Croptopia."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:peach_jam",
+      "recipe2": "croptopia:apricot_jam"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:blackberry_jam",
+      "recipe2": "croptopia:blueberry_jam"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cherry_jam",
+      "recipe2": "croptopia:elderberry_jam"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:raspberry_jam",
+      "recipe2": "croptopia:strawberry_jam"
+    }
+  ]
+}

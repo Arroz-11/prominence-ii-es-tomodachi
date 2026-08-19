@@ -1,0 +1,13 @@
+{
+  "name": "Inventario",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:gear",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las monturas de carga permiten a las monturas llevar objetos adicionales además de su jinete. Aunque la mayoría de las monturas en este libro son capaces de llevar al menos a una persona, el espacio de inventario está determinado en gran medida por el tamaño y la fuerza general de cada criatura.$(br2)Las monturas normales pueden mejorarse a monturas de carga con la adición de un cofre."
+    }
+  ],
+  "sortnum": 2
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Bosque",
+  "icon": "minecraft:oak_sapling",
+  "category": "enchanted:world",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Bosque",
+      "text": "Crea un bosque de árboles alrededor del círculo usando la plántula que se dejó caer dentro del círculo durante el lanzamiento."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:forest"
+    }
+  ],
+  "read_by_default": true
+}

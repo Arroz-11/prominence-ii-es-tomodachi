@@ -43,5 +43,11 @@
   "reborncore.gui.fluidconfig.recipe_processing": "Elaboración",
   "reborncore.gui.fluidconfig.ignored": "Ignorado",
   "reborncore.gui.fluidconfig.enabled_on": "§cRedstone §aEncendido",
-  "reborncore.gui.fluidconfig.enabled_off": "§cRedstone §4Apagado"
+  "reborncore.gui.fluidconfig.enabled_off": "§cRedstone §4Apagado",
+  "reborncore.gui.slotconfig.NONE": "Ninguno",
+  "reborncore.gui.slotconfig.INPUT": "Entradas",
+  "reborncore.gui.slotconfig.OUTPUT": "Salida",
+  "reborncore.gui.slotconfig.FIRST": "Primero",
+  "reborncore.gui.slotconfig.LAST": "Último",
+  "reborncore.gui.slotconfig.ALL": "Todos"
 }

@@ -1,0 +1,17 @@
+{
+  "name": "Brujería: Muñecos",
+  "icon": "patchouli:textures/item/book_purple.png",
+  "category": "enchanted:additional_resources",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La muñequería es el arte de crear muñecos que actúan como sustituto del objetivo para realizar magia; este conocimiento se describe en Brujería: Muñecos."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:book_poppetry"
+    }
+  ],
+  "read_by_default": false,
+  "sortnum": 3
+}

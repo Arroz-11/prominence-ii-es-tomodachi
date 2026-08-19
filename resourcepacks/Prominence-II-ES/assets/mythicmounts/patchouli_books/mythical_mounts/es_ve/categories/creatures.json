@@ -1,0 +1,6 @@
+{
+  "name": "Criaturas",
+  "description": "Este capítulo describe los hábitos, temperamentos y moradas de varias criaturas míticas que pueden ser amistosas con un individuo con suficiente audacia y paciencia.$(br2)Sin embargo, ten cuidado: aunque las criaturas en este libro pueden ser amistosas, es prudente entender sus gustos/disgustos antes de acercarte, ya que algunas pueden no revelar su naturaleza amigable en el primer encuentro.",
+  "icon": "mythicmounts:textures/gui/book/griffon.png",
+  "sortnum": 0
+}

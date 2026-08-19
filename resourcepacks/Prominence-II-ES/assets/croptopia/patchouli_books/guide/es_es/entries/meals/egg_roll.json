@@ -1,0 +1,12 @@
+{
+  "name": "Rollo de huevo",
+  "icon": "croptopia:egg_roll",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:egg_roll",
+      "text": "Receta para un rollo de huevo."
+    }
+  ]
+}

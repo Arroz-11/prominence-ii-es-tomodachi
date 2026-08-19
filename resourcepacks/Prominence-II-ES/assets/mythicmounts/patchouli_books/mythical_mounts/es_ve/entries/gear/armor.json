@@ -1,0 +1,13 @@
+{
+  "name": "Armadura",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:gear",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las monturas de batalla pueden equiparse con armadura para protección adicional.$(br2)La mayoría de los tipos estándar de armadura de caballo pueden adaptarse para criaturas legendarias."
+    }
+  ],
+  "sortnum": 1
+}

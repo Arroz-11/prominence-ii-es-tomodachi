@@ -1,0 +1,12 @@
+{
+  "name": "Mermelada de ñame",
+  "icon": "croptopia:yam_jam",
+  "category": "croptopia:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:yam_jam",
+      "text": "Receta de mermelada de ñame."
+    }
+  ]
+}

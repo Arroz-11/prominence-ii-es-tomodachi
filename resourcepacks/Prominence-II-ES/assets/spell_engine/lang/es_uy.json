@@ -123,5 +123,7 @@
   "advancements.rpg_series.spellbinder.title": "Vinculador de hechizos",
   "advancements.rpg_series.spellbinder.description": "Vincula un hechizo a un arma mágica compatible",
   "advancements.rpg_series.classes.title": "Elige tu camino",
-  "advancements.rpg_series.classes.description": "¡Acércate a una mesa de encantamiento para crear tu primer libro de hechizos!"
+  "advancements.rpg_series.classes.description": "¡Acércate a una mesa de encantamiento para crear tu primer libro de hechizos!",
+  "gui.spell_engine.reset": "Reiniciar",
+  "hud.action_impaired.stun": "Aturdido"
 }

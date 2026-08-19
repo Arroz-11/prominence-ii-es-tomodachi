@@ -1,0 +1,16 @@
+{
+  "name": "Verruga del Nether",
+  "icon": "minecraft:nether_wart",
+  "category": "enchanted:cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Aunque es costoso, la verruga del Nether se puede sintetizar en un caldero en caso de que la Bruja no pueda encontrar ninguna por medios normales.$(br2)Se recomienda no hacer esto, ya que es tanto costoso como ineficaz."
+    },
+    {
+      "type": "enchanted:cauldron_recipe",
+      "recipe": "enchanted:witch_cauldron/nether_wart"
+    }
+  ],
+  "read_by_default": true
+}

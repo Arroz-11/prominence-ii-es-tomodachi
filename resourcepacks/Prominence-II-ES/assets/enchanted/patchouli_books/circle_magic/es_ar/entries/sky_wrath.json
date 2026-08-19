@@ -1,0 +1,26 @@
+{
+  "name": "Ira del Cielo",
+  "icon": "minecraft:lightning_rod",
+  "category": "enchanted:world",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Ira del Cielo",
+      "text": "Invoca una tormenta de rayos concentrada alrededor del círculo. $(br2)Agregar una piedra guía vinculada permite al lanzador dirigir los rayos a esa ubicación."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:sky_wrath"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Ira del Cielo",
+      "text": "Invoca una tormenta de rayos concentrada alrededor del círculo. $(br2)Agregar una piedra guía vinculada o ensangrentada permite al lanzador dirigir los rayos a esa ubicación."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:sky_wrath_charged"
+    }
+  ],
+  "read_by_default": true
+}

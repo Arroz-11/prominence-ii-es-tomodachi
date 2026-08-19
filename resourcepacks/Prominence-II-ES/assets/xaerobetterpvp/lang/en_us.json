@@ -1,0 +1,14 @@
+{
+  "gui.xaero_item_tooltip": "Información del objeto",
+  "gui.xaero_entity_tooltip_settings": "Ajustes de información del objeto",
+  "gui.xaero_item_tooltip_min_lines": "Líneas mínimas",
+  "gui.xaero_item_tooltip_time": "Mostrar durante",
+  "gui.xaero_potion_effects_blink": "Parpadear al agotarse",
+  "gui.xaero_armour_main_hand": "Objeto en mano principal",
+  "gui.xaero_armour_off_hand": "Objeto en mano secundaria",
+  "gui.xaero_no_durability": "Ninguno",
+  "gui.xaero_held_centered_position": "Objetos en mano al centrar",
+  "gui.xaero_held_centered_position_screen_edges": "Bordes",
+  "gui.xaero_held_centered_position_hotbar": "Barra de acceso rápido",
+  "gui.xaero_better_pvp_server_profiles": "Configuración del servidor Better PVP"
+}

@@ -1,0 +1,11 @@
+{
+  "modmenu.searchTerms.hasUpdate": "actualizaciones versión",
+  "modmenu.experimental": "(¡El verificador de actualizaciones de Mod Menu es experimental!)",
+  "option.modmenu.game_menu_button_style": "Menú del juego",
+  "option.modmenu.game_menu_button_style.below_bugs": "Debajo de Bugs",
+  "option.modmenu.game_menu_button_style.replace_bugs": "Reemplazar Bugs",
+  "option.modmenu.game_menu_button_style.icon": "Icono",
+  "option.modmenu.quick_configure": "Configuración rápida",
+  "option.modmenu.quick_configure.true": "Habilitado",
+  "option.modmenu.quick_configure.false": "Desactivado"
+}

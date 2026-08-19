@@ -1,0 +1,12 @@
+{
+  "name": "Firme",
+  "icon": "archon:textures/mob_effect/sturdy.png",
+  "category": "archon:effects_enchants",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El efecto de estado Firme desvía la mayoría de los proyectiles del cuerpo del usuario. Se puede obtener usando un $(l:archon:weapons/earth#terranean)Hacha Terraniana$() o mediante comandos."
+    }
+  ]
+}

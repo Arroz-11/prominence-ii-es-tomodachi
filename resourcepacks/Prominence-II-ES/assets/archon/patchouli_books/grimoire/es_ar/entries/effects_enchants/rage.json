@@ -1,0 +1,12 @@
+{
+  "name": "Rabia",
+  "icon": "archon:textures/mob_effect/rage.png",
+  "category": "archon:effects_enchants",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El efecto de estado Rabia triplica la velocidad de ataque del usuario. Se puede obtener usando el hechizo de Rabia o mediante comandos."
+    }
+  ]
+}

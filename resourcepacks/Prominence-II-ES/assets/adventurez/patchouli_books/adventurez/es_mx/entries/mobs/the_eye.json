@@ -1,0 +1,17 @@
+{
+    "name": "El Ojo",
+    "icon": "adventurez:blackstone_golem_heart",
+    "category": "adventurez:mob_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Nunca visto antes, El Ojo drenará cualquier energía que tengas hasta que seas un cadáver. Puede ser invocado en el santuario. Si VoidZ está instalado, generará un portal a la dimensión de la Sombra del Vacío"
+        },
+        {
+            "type": "entity",
+            "name": "Showcase",
+            "entity": "adventurez:the_eye",
+            "offset": 0.6
+        }
+    ]
+}

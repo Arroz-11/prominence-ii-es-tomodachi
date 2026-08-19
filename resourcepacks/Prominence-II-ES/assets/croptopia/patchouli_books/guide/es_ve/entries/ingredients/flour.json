@@ -1,0 +1,12 @@
+{
+  "name": "Harina",
+  "icon": "croptopia:flour",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:flour",
+      "text": "Receta para hacer harina."
+    }
+  ]
+}

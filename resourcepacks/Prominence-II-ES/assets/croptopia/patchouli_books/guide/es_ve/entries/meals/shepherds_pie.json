@@ -1,0 +1,12 @@
+{
+  "name": "Pastel de Pastor",
+  "icon": "croptopia:shepherds_pie",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_shepherds_pie",
+      "text": "Receta para un Pastel de Pastor."
+    }
+  ]
+}

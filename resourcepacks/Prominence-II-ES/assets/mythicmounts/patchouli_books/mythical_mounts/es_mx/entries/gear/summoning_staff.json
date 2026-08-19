@@ -1,0 +1,17 @@
+{
+  "name": "Bastón de invocación",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:gear",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Un objeto que se puede usar para teletransportar una montura hacia un jugador.$(br2)Una vez vinculado al hacer clic derecho en una montura con el bastón, la montura puede ser invocada al lado de su jinete en un instante.$(br2)El alcance de un bastón de invocación es extenso, pero fallará si la montura vinculada está demasiado lejos."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mythicmounts:summoning_staff"
+    }
+  ],
+  "sortnum": 3
+}

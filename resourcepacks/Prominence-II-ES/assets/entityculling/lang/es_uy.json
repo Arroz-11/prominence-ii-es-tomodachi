@@ -1,4 +1,6 @@
 {
+  "text.entityculling.forceDisplayCulling": "Forzar ocultación de entidades de visualización",
+  "text.entityculling.forceDisplayCulling.tooltip": "Cuando está activado, las entidades de visualización sin caja de colisión recibirán una caja de colisión predeterminada para fines de ocultación. Esto puede mejorar el rendimiento en mapas/servidores que no configuran correctamente sus entidades de visualización, pero puede causar problemas visuales.",
   "text.entityculling.solidLeaves": "Hojas sólidas",
   "text.entityculling.solidLeaves.tooltip": "Al activarlo, las hojas se tratan como bloques sólidos para el descarte de renderizado. Puede mejorar el rendimiento en los bosques, pero también causar fallos visuales. Útil si tienes «Hojas transparentes» en Off o si usas un pack de texturas con hojas densas."
 }

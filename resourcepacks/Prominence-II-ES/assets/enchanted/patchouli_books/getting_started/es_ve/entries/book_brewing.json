@@ -1,0 +1,17 @@
+{
+  "name": "Brujería: Fabricación de Pociones",
+  "icon": "patchouli:textures/item/book_purple.png",
+  "category": "enchanted:additional_resources",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La fabricación de pociones es una habilidad esencial para cualquier Bruja o Brujo, pero es demasiado extensa para cubrirla en este libro. Consulta el libro Brujería: Fabricación de Pociones como se muestra en la receta de crafteo."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:book_brewing"
+    }
+  ],
+  "read_by_default": false,
+  "sortnum": 2
+}

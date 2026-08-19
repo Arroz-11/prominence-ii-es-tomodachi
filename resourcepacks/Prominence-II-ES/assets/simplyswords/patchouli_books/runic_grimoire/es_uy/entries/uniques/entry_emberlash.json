@@ -1,0 +1,13 @@
+{
+  "name": "Emberlash",
+  "icon": "simplyswords:emberlash",
+  "advancement": "simplyswords:emberlash",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:emberlash",
+      "text": "Emberlash es una daga extraordinaria que desafía las armas convencionales, con una hoja hecha de fuego puro y controlado. Emberlash no es solo un espectáculo visual; la hoja incandescente tiene la habilidad única de cauterizar heridas y presume un alcance mayor que la mayoría de las hojas de su clase de peso."
+    }
+  ]
+}

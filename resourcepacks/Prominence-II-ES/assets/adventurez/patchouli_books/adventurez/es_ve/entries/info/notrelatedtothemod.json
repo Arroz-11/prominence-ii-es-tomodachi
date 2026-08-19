@@ -1,0 +1,31 @@
+{
+    "name": "NRTTM",
+    "icon": "minecraft:paper",
+    "category": "adventurez:info_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Puede que te preguntes qué significa NRTTM... Significa: No relacionado con el mod :D Son solo algunas frases que puse porque me gusta hacerlo^^ Primero que nada, gracias por jugar el mod AdventureZ, espero que le dé a tu mundo un poco más de desafío y que te guste :) Pero lo que realmente quiero decirte es: Eres apreciado y amado tal como eres."
+        },
+        {
+            "type": "text",
+            "text": "Sé que suena un poco cursi, pero así es: ¡Eres amado! Mi nombre es Micha, en algunos juegos tomé el nombre de Globox (porque me gusta el personaje de Rayman ;)), soy una persona normal como tú (sé que todos son especiales, claro, pero entiendes el punto) y espero que creas en lo más profundo de ti que eres una persona amada. Ojalá por personas cercanas a ti; si no, habrá personas que te amarán tal como eres. ¿Por qué escribo esto? Buena pregunta :D"
+        },
+        {
+            "type": "text",
+            "text": "Porque de vez en cuando siento que la gente cree en una mentira sobre este aspecto específico, que no son amados o algo peor. También creo que, aparte de las necesidades humanas, el amor es lo más importante que necesitas en la vida. Me sale del corazón decirte: ¡Eres amado! Quiero decir, no te conozco y quizás no estemos en la misma sintonía en nuestra personalidad y tal vez ni siquiera seríamos amigos si nos conociéramos, pero eso no cambia la verdad sobre ti"
+        },
+        {
+            "type": "text",
+            "text": "(que creo y espero que tú también). Puede que seas joven o un poco mayor; en algún momento de tu vida deberías descubrir por qué y para qué vives en este mundo (básicamente el significado de tu vida). Ojalá ya lo hayas encontrado, pero déjame decirte algo: es un gran proceso por el que todos deben pasar :D (no sé cómo llegué al significado de la vida ahora mismo... mh...). Sin embargo, puede que edite este texto unas cuantas veces^^."
+        },
+        {
+            "type": "text",
+            "text": "Te deseo lo mejor; si tienes preguntas sobre los mods o cualquier otra cosa, contáctame en Discord (Globox_Z #1024) o en cualquier otro lugar."
+        },
+        {
+            "type": "empty",
+            "draw_filler": false
+        }
+    ]
+}

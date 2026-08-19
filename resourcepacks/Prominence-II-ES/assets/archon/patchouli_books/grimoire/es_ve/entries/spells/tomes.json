@@ -1,0 +1,20 @@
+{
+  "name": "Tomos de Hechizos",
+  "icon": "minecraft:book",
+  "category": "archon:spells",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los Tomos de Hechizos son libros especiales que contienen el conocimiento para aprender un hechizo. Para aprender un hechizo, simplemente usa el tomo de hechizo. Un jugador puede aprender tantos hechizos como quiera, pero solo los hechizos que coincidan con el elemento de su $(l:archon:spells/wands)varita$() pueden ser lanzados."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Los tomos se pueden craftear usando una mesa de escrituras o encontrarse en diferentes estructuras. La mesa de escrituras requiere 3 ingredientes, lapislázuli y un libro para escribir un hechizo. Las recetas se pueden ver usando REI o un mod similar."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:scripture_table"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Gota de Suerte",
+  "icon": "enchanted:drop_of_luck",
+  "category": "enchanted:cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La gota de suerte es un líquido que mejora la suerte de cualquiera que lo beba, y puede usarse en rituales o en la creación de objetos mágicos. Sus usos principales son en muñecos y brebajes."
+    },
+    {
+      "type": "enchanted:cauldron_recipe",
+      "recipe": "enchanted:witch_cauldron/drop_of_luck"
+    }
+  ],
+  "read_by_default": true
+}

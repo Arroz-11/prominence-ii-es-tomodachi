@@ -1,0 +1,16 @@
+{
+  "name": "Ungüento místico",
+  "icon": "enchanted:mystic_unguent",
+  "category": "enchanted:kettle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El Ungüento místico es una poción curiosa que permite que un objeto dé forma a los pensamientos. $(br2)Se usa en una infusión de rama mística; consumirlo te debilitará."
+    },
+    {
+      "type": "enchanted:kettle_recipe",
+      "recipe": "enchanted:kettle/mystic_unguent"
+    }
+  ],
+  "read_by_default": true
+}

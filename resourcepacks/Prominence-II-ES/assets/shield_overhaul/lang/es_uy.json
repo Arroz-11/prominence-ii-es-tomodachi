@@ -2,5 +2,6 @@
   "enchantment.shield_overhaul.vigor": "Vigor",
   "enchantment.shield_overhaul.vigor.desc": "El golpe con el escudo provoca un retroceso adicional, que aumenta según el nivel del encantamiento.",
   "effect.shield_overhaul.stun_immunity": "Inmunidad al aturdimiento",
-  "effect.shield_overhaul.stun.description": "El objetivo no puede moverse, usar objetos ni atacar."
+  "effect.shield_overhaul.stun.description": "El objetivo no puede moverse, usar objetos ni atacar.",
+  "effect.shield_overhaul.stun": "Aturdido"
 }

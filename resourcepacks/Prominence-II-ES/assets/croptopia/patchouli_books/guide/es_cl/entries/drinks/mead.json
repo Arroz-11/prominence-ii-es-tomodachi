@@ -1,0 +1,12 @@
+{
+  "name": "Hidromiel",
+  "icon": "croptopia:mead",
+  "category": "croptopia:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:mead",
+      "text": "Receta de hidromiel."
+    }
+  ]
+}

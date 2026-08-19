@@ -3,5 +3,6 @@
   "gui.sollib.config.open": "Abrir",
   "gui.sollib.config.reload": "Recargar",
   "gui.sollib.badge": "Sol",
-  "gui.sollib.config.configs": "Configuraciones"
+  "gui.sollib.config.configs": "Configuraciones",
+  "gui.sollib.config.reset": "Reiniciar"
 }

@@ -1,0 +1,17 @@
+{
+  "name": "Brimstone Claymore",
+  "icon": "simplyswords:brimstone_claymore",
+  "advancement": "simplyswords:brimstone",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:brimstone_claymore",
+      "text": "La Claymore de azufre es un arma temible que aprovecha el poder del azufre fundido para infligir daño devastador a sus enemigos. La hoja de la claymore está imbuida con el poder del azufre, lo que le da la oportunidad de escupir lava fundida con cada golpe."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Esta arma es extremadamente pesada y requiere un portador fuerte para manejarla adecuadamente, y debe usarse con precaución, ya que su poder puede causar daños graves al entorno y a cualquiera que esté cerca. Solo los guerreros más hábiles y poderosos pueden empuñar la Claymore de azufre de manera efectiva."
+    }
+  ]
+}

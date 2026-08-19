@@ -36,5 +36,9 @@
   "attribute.name.generic.recharge": "Voltereta recarga",
   "attribute.combat_roll.generic.recharge": "Voltereta recarga",
   "attribute.combatroll.generic.recharge": "Voltereta recarga",
-  "attribute.name.recharge": "Voltereta recarga"
+  "attribute.name.recharge": "Voltereta recarga",
+  "text.autoconfig.combatroll.option.client.showHUDInCreative": "Mostrar flecha en modo Creativo",
+  "text.autoconfig.combatroll.option.client.showWhenFull": "Mostrar flecha cuando está llena",
+  "text.autoconfig.combatroll.option.client.showKeybinding": "Mostrar tecla en HUD",
+  "text.autoconfig.combatroll.option.client.keybindingLabelPosition": "Posición de la etiqueta de tecla"
 }

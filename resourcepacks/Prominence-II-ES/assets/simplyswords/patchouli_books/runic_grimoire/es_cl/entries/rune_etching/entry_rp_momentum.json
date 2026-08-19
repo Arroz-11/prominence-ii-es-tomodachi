@@ -1,0 +1,17 @@
+{
+  "name": "Momentum",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Momentum",
+      "text": "Momentum es un poder rúnico que imbuye el arma del portador con la $(#389fff)$(l)esencia de la masa y la velocidad$(). $(br2)Genera impulso hacia adelante, impulsando rápidamente al portador hacia adelante."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La oleada de energía creada por Momentum puede usarse con gran efecto en combate, permitiendo al portador cubrir terreno rápidamente y acercarse para rematar."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Encantamiento Arcano",
+  "icon": "minecraft:enchanted_book",
+  "category": "archon:effects_enchants",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El Encantamiento Arcano reduce el costo de maná de las armas en $(#2895CB)10%$() por cada nivel del encantamiento (Ej: Arcano II = 20%). Esto no se puede aplicar a objetos especiales como el Canalizador y el $(l:archon:necromancy/undead_staff)Bastón de los No Muertos$(). Arcano se puede obtener de un $(l:archon:world/wizard)Mago$(), un aldeano bibliotecario, o de una mesa de encantamientos."
+    }
+  ]
+}

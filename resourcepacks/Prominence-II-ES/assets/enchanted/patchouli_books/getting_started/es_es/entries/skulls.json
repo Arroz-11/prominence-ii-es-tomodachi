@@ -1,0 +1,24 @@
+{
+  "name": "Mejoras de Calaveras",
+  "icon": "enchanted:chalice_filled",
+  "category": "enchanted:altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las calaveras pueden mejorar tanto la capacidad como la velocidad de recarga de un altar, con distinta efectividad. $(br2)$(bold)Esqueleto$() +1x Capacidad de Poder +1x Velocidad de Recarga$(br)$(bold)Wither$() +2x Capacidad de Poder +2x Velocidad de Recarga$(br)$(bold)Jugador$() +2.5x Capacidad de Poder +3x Velocidad de Recarga"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "minecraft:skeleton_skull"
+        },
+        "pattern": [
+          [ " 0 " ]
+        ]
+      }
+    }
+  ],
+  "read_by_default": true
+}

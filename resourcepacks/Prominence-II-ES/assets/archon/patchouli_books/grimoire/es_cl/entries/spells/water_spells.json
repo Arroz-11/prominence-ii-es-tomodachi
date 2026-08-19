@@ -1,0 +1,37 @@
+{
+  "name": "Hechizos de Agua",
+  "icon": "archon:freeze_tome",
+  "category": "archon:spells",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los hechizos de agua se pueden encontrar en las Ruinas del Océano o pescando"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Escudo Acuático",
+      "text": "Otorga al usuario Resistencia 4 durante 10 segundos + 2 por poder de hechizo $(li)Costo de Maná: 50"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Congelar",
+      "text": "Dispara un trozo de nieve que congela y ralentiza al objetivo $(li)Costo de Maná: 10"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Remendar",
+      "text": "Cura al usuario 4 corazones (más por poder de hechizo) y elimina todos los efectos negativos $(li)Costo de Maná: 40"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Nublado",
+      "text": "Permite al usuario cambiar el clima a lluvioso $(li)Costo de Maná: 90"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Rayo de Burbujas",
+      "text": "Lanza una burbuja que inflige daño y flota hacia arriba con el tiempo $(li)Costo de Maná: 10"
+    }
+  ]
+}

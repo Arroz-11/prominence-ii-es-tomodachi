@@ -1,0 +1,18 @@
+{
+  "name": "Rastro de Renacimiento",
+  "icon": "enchanted:hint_of_rebirth",
+  "category": "enchanted:collecting_fumes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "En la tradición celta, los abetos se asocian con el nacimiento del niño divino y son, por tanto, un símbolo de renacimiento, un tema común en la mitología de los árboles.$(br2)En cualquier caso, son buena leña."
+    },
+    {
+      "type": "enchanted:witch_oven_recipe_single",
+      "recipe": "enchanted:byproduct/hint_of_rebirth_spruce_sapling",
+      "itemIn": "minecraft:spruce_sapling",
+      "resultItem": "enchanted:wood_ash"
+    }
+  ],
+  "read_by_default": true
+}

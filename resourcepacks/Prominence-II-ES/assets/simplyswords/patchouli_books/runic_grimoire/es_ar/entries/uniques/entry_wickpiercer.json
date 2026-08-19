@@ -1,0 +1,13 @@
+{
+  "name": "Wickpiercer",
+  "icon": "simplyswords:wickpiercer",
+  "advancement": "simplyswords:wickpiercer",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:wickpiercer",
+      "text": "Wickpiercer es una exquisita Lanza que combina a la perfección elegancia y letalidad, reminiscente de un ornamentado candelabro. Wickpiercer tiene la capacidad de influir en la mente y el cuerpo de su portador, sumiéndolos en un ataque de furia y aumentando su agilidad."
+    }
+  ]
+}

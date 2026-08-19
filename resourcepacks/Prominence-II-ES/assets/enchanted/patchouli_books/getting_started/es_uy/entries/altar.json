@@ -1,0 +1,39 @@
+{
+  "name": "Altares",
+  "icon": "enchanted:altar",
+  "category": "enchanted:altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El altar es un dispositivo esencial utilizado por Brujas y Brujos para recolectar energía mágica de la naturaleza que los rodea. Se deben colocar seis bloques de altar en un rectángulo de 3x2 para formar un altar válido.$(br2)Un altar puede mejorarse colocando objetos específicos sobre él; estos se detallan en el resto del capítulo."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "a": "enchanted:altar[formed=p000,facing_x=true]",
+          "0": "enchanted:altar[formed=p100,facing_x=true]",
+          "c": "enchanted:altar[formed=p200,facing_x=true]",
+          "d": "enchanted:altar[formed=p001,facing_x=true]",
+          "e": "enchanted:altar[formed=p101,facing_x=true]",
+          "f": "enchanted:altar[formed=p201,facing_x=true]",
+          "g": "enchanted:chalice_filled",
+          "h": "minecraft:player_head",
+          "t": "enchanted:candelabra"
+        },
+        "pattern": [
+          [ "g h"," t " ],
+          [ "a0c","def" ]
+        ]
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:altar",
+      "text": "Consulta Brujería: Extracción en el capítulo de Recursos Adicionales para obtener más información sobre estos materiales."
+    }
+  ],
+  "read_by_default": false,
+  "priority": true
+}

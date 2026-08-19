@@ -1,0 +1,17 @@
+{
+  "name": "Botas de Druida",
+  "icon": "archon:druid_boots",
+  "category": "archon:misc",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "archon:druid_boots",
+      "text": "Las Botas de Druida son botas de nivel cuero que te permiten fertilizar bloques a tu alrededor. Puedes activarlas agachándote, aunque requieren 30 de maná y tienen un enfriamiento de 3 segundos."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "archon:druid_boots"
+    }
+  ]
+}

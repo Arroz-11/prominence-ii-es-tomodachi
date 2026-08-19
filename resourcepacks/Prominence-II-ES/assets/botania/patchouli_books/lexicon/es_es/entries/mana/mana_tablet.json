@@ -1,0 +1,22 @@
+{
+  "name": "botania.entry.manaTablet",
+  "category": "botania:mana",
+  "icon": "botania:mana_tablet",
+  "priority": true,
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.manaTablet0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.manaTablet1"
+    },
+    {
+      "type": "botania:crafting_multi",
+      "text": "botania.page.manaTablet2",
+      "recipes": ["botania:mana_tablet", "botania:mana_tablet_alt"]
+    }
+  ]
+}

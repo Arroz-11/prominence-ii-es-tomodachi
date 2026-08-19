@@ -1,0 +1,6 @@
+{
+  "name": "Rituales de Criaturas",
+  "description": "Los rituales de criaturas se usan para cambiar o limitar el comportamiento de las criaturas afectadas por el círculo. Los rituales de este tipo a menudo se pueden usar para protección.",
+  "icon": "minecraft:creeper_head",
+  "sortnum": 0
+}

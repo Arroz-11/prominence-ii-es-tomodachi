@@ -1,0 +1,12 @@
+{
+  "name": "Tarta de Melaza",
+  "icon": "croptopia:treacle_tart",
+  "category": "croptopia:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_treacle_tart",
+      "text": "Receta para una tarta de melaza."
+    }
+  ]
+}

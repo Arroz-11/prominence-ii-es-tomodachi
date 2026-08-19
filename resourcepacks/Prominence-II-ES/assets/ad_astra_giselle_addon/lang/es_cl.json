@@ -161,5 +161,21 @@
   "config.ad_astra_giselle_addon.compats.pneumaticcraft.upgades_gravity_normalizing": "Actualización de normalización de gravedad",
   "config.ad_astra_giselle_addon.compats.pneumaticcraft.upgades_gravity_normalizing_air_using": "Uso del aire",
   "config.ad_astra_giselle_addon.compats.pneumaticcraft.upgades_gravity_normalizing_air_using.comment": "Uso de aire como prueba [en cada 10 ticks]",
-  "_eof": "eof"
+  "_eof": "eof",
+  "item.ad_astra_giselle_addon.creative_oxygen_can": "Lata de Oxígeno Creativa",
+  "description.ad_astra_giselle_addon.creative_oxygen": "Oxígeno",
+  "creative_oxygen.ad_astra_giselle_addon.empty": "Vacío",
+  "creative_oxygen.ad_astra_giselle_addon.infinity": "Infinito",
+  "modifier.ad_astra_giselle_addon.space_breathing": "Respiración espacial",
+  "modifier.ad_astra_giselle_addon.space_breathing.flavor": "Respiración espacial",
+  "modifier.ad_astra_giselle_addon.space_breathing.description": "Puede respirar en las dimensiones de Ad Astra\nRequiere 'Lata de Oxígeno' en el inventario",
+  "modifier.ad_astra_giselle_addon.space_fire_proof": "Resistencia al fuego espacial",
+  "modifier.ad_astra_giselle_addon.space_fire_proof.flavor": "Resistencia al fuego espacial",
+  "modifier.ad_astra_giselle_addon.space_fire_proof.description": "No prende fuego al jugador en las dimensiones de Ad Astra",
+  "modifier.ad_astra_giselle_addon.acid_rain_proof": "Resistencia a la lluvia ácida",
+  "modifier.ad_astra_giselle_addon.acid_rain_proof.flavor": "Resistencia a la lluvia ácida",
+  "modifier.ad_astra_giselle_addon.acid_rain_proof.description": "No recibe daño por lluvia ácida en las dimensiones de Ad Astra",
+  "modifier.ad_astra_giselle_addon.gravity_normalizing": "Normalización de la gravedad",
+  "modifier.ad_astra_giselle_addon.gravity_normalizing.flavor": "Normalización de la gravedad",
+  "modifier.ad_astra_giselle_addon.gravity_normalizing.description": "Normaliza la gravedad como en el Overworld en las dimensiones de Ad Astra"
 }

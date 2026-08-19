@@ -59,5 +59,7 @@
   "sodium.console.core_shaders_warn": "Los siguientes paquetes de recursos pueden ser incompatibles con Sodium:",
   "sodium.console.core_shaders_info": "Echa un vistazo al registro del juego para obtener información detallada.",
   "sodium.console.config_not_loaded": "El archivo de configuración de Sodium se ha dañado o no se puede leer ahora mismo. Algunas opciones se han restablecido temporalmente a sus valores predeterminados. Abre la pantalla de ajustes de vídeo para solucionar este problema.",
-  "sodium.console.config_file_was_reset": "El archivo de configuración se ha restablecido a los valores predeterminados que funcionan bien."
+  "sodium.console.config_file_was_reset": "El archivo de configuración se ha restablecido a los valores predeterminados que funcionan bien.",
+  "sodium.option_impact.medium": "Medio",
+  "sodium.option_impact.extreme": "Extremo"
 }

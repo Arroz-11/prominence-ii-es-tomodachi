@@ -1,0 +1,16 @@
+{
+  "name": "Gato",
+  "icon": "enchanted:textures/patchouli/black_cat.png",
+  "category": "enchanted:familiars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los gatos son el familiar más común que puedes ver cerca de las Brujas. Tener un gato como familiar aumenta la potencia de las maldiciones y la eliminación de estas.$(br2)Los gatos se pueden encontrar y domesticar en aldeas y chozas de pantano."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [ "enchanted:textures/patchouli/black_cat.png" ]
+    }
+  ],
+  "read_by_default": true
+}

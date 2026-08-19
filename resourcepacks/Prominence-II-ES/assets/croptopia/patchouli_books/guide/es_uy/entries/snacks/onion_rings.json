@@ -1,0 +1,12 @@
+{
+  "name": "Aros de cebolla",
+  "icon": "croptopia:onion_rings",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:onion_rings",
+      "text": "Receta para hacer aros de cebolla."
+    }
+  ]
+}

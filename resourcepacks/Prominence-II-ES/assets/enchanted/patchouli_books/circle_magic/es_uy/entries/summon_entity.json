@@ -1,0 +1,17 @@
+{
+  "name": "Invocar Entidad",
+  "icon": "minecraft:ender_eye",
+  "category": "enchanted:transposition",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Invocar Entidad",
+      "text": "Invoca al ser bloqueado por el tag, haciendo que se teletransporte al círculo de invocación. Alta probabilidad de fallo en Cazadores de Brujas. $(br2)Las entidades descargadas o despawned no pueden ser invocadas."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:summon_entity"
+    }
+  ],
+  "read_by_default": true
+}

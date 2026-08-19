@@ -1,0 +1,16 @@
+{
+  "name": "Tiza dorada",
+  "icon": "enchanted:golden_chalk",
+  "category": "enchanted:performing_rites",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La tiza dorada se usa para crear el glifo del corazón de un círculo mágico, que debe ser pulsado con clic derecho para activarse. Ningún rito funcionará sin un glifo de corazón."
+    },
+    {
+      "type": "enchanted:cauldron_recipe",
+      "recipe": "enchanted:witch_cauldron/golden_chalk"
+    }
+  ],
+  "read_by_default": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Doughnut",
+  "icon": "croptopia:doughnut",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:doughnut",
+      "text": "El primer modelo 3D que harás en Blender."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Poción de Brote",
+  "icon": "enchanted:brew_of_sprouting",
+  "category": "enchanted:kettle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Esta poción se puede lanzar para hacer brotar una rama del suelo donde aterrice."
+    },
+    {
+      "type": "enchanted:kettle_recipe",
+      "recipe": "enchanted:kettle/brew_of_sprouting"
+    }
+  ],
+  "read_by_default": true
+}

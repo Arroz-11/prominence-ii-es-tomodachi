@@ -1,0 +1,25 @@
+{
+  "name": "Musgo de brasas",
+  "icon": "enchanted:textures/block/ember_moss.png",
+  "category": "enchanted:mutated_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El Musgo de brasas del género Takakia es una planta que tiene un mecanismo de defensa muy peculiar y único: estalla en llamas ante el más mínimo toque o perturbación.$(br2)Se debe cosechar con tijeras para evitar su destrucción.$(br)$(br2)$(bold)Obtención:$()$(br)Se obtiene mutando plantas pequeñas."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:ember_moss"
+        },
+        "pattern": [
+          [ "0" ],
+          [ " " ]
+        ]
+      }
+    }
+  ],
+  "read_by_default": true
+}

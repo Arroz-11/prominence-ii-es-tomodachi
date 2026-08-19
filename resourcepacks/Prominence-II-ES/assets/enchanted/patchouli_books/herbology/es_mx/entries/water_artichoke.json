@@ -1,0 +1,25 @@
+{
+  "name": "Alcachofa de agua",
+  "icon": "enchanted:textures/item/water_artichoke.png",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Esta subespecie de la Alcachofa común solo crece en aguas tranquilas. A diferencia de su prima verde, no se considera comestible.$(br2)El consumo de esta planta saciará el hambre pero vaciará tu estómago.$(br2)$(br)$(bold)Obtención:$()$(br)Se sabe que la sueltan los pastos altos"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:water_artichoke[age=4]"
+        },
+        "pattern": [
+          [ "0" ],
+          [ " " ]
+        ]
+      }
+    }
+  ],
+  "read_by_default": true
+}

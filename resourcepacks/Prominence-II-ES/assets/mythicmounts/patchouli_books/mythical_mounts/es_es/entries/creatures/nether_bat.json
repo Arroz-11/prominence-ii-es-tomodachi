@@ -1,0 +1,47 @@
+{
+  "name": "Murciélago del Nether",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Estos murciélagos pesadillescos acechan los gigantescos bosques de hongos del Nether.$(br2)Son muy oportunistas, y se sabe que se abalanzan y se llevan el botín de las cacerías de hoglins.$(br2)Aunque son principalmente carnívoros, adoran las manzanas."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "mythicmounts:netherbat",
+      "title": "Murciélago",
+      "text": "$(br)Un murciélago del Nether.",
+      "scale": 0.5,
+      "offset": 0.25,
+      "rotate": true,
+      "border": true
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Hábitats",
+      "entity_id": "mythicmounts:netherbat"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos de domesticación",
+      "entity_id": "mythicmounts:netherbat"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Comida",
+      "entity_id": "mythicmounts:netherbat"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos de cría",
+      "entity_id": "mythicmounts:netherbat"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Estadísticas base",
+      "entity_id": "mythicmounts:netherbat"
+    }
+  ]
+}

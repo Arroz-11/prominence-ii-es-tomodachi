@@ -1,0 +1,17 @@
+{
+  "emi_loot.emi_loot_config.splitChestLootByTrial": "Dividir botín de cofres de prueba",
+  "emi_loot.emi_loot_config.splitChestLootByTrial.desc": "Cuando esté activado, las tablas de botín de cofres con 'trial_chamber' en su id se dividirán en una categoría separada de cámara de pruebas",
+  "emi_loot.emi_loot_config.directDrops.chestLoot": "Incluir botín directo de cofres",
+  "emi_loot.emi_loot_config.directDrops.chestLoot.desc": "Si las tablas de botín de cofres incluyen 'botín directo' añadido manualmente",
+  "emi_loot.emi_loot_config.directDrops.blockLoot": "Incluir botín directo de bloques",
+  "emi_loot.emi_loot_config.directDrops.blockLoot.desc": "Si las tablas de botín de bloques incluyen 'botín directo' añadido manualmente",
+  "emi_loot.emi_loot_config.directDrops.gameplayLoot": "Incluir botín directo de jugabilidad",
+  "emi_loot.emi_loot_config.directDrops.gameplayLoot.desc": "Si las tablas de botín de jugabilidad incluyen 'botín directo' añadido manualmente",
+  "emi_loot.emi_loot_config.directDrops.archaeologyLoot": "Incluir botín directo de arqueología",
+  "emi_loot.emi_loot_config.directDrops.archaeologyLoot.desc": "Si las tablas de botín de arqueología incluyen 'botín directo' añadido manualmente",
+  "emi_loot.emi_loot_config.linkFormatting": "Formato de enlace",
+  "emi_loot.emi_loot_config.linkFormatting.desc": "Formato utilizado para tablas de botín que muestran un título de 'enlace'",
+  "emi.category.emi_loot.trial_chamber": "Botín de cámara de pruebas",
+  "emi_loot.condition.raining_true": "Se obtiene cuando está lloviendo",
+  "emi_loot.condition.raining_false": "Se obtiene cuando no está lloviendo"
+}

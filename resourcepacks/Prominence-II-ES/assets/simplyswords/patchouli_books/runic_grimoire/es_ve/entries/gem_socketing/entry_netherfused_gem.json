@@ -1,0 +1,20 @@
+{
+  "name": "Gema de Netherfusion",
+  "icon": "simplyswords:netherfused_gem",
+  "category": "simplyswords:category_gem_socketing",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:netherfused_gem",
+      "text": "Las Gemas de Netherfusion se obtienen combinando un Remanente potenciado y un Lingote de Netherita en una mesa de herrería. Una vez identificadas, estas gemas revelarán un poder aleatorio alojado en su interior."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Las Gemas de Netherfusion pueden engarzarse en armas Únicas que tengan un [ engarce de netherfusion ] vacío."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherfused_gem"
+    }
+  ]
+}

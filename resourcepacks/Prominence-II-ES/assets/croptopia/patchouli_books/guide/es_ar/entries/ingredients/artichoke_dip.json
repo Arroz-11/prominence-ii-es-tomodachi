@@ -1,0 +1,12 @@
+{
+  "name": "Salsa de alcachofa",
+  "icon": "croptopia:artichoke_dip",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:artichoke_dip",
+      "text": "Receta para hacer salsa de alcachofa."
+    }
+  ]
+}

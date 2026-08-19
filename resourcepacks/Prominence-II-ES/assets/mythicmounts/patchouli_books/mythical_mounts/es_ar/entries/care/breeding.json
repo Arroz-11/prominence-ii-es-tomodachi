@@ -1,0 +1,17 @@
+{
+  "name": "Crianza",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:care",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las monturas se pueden criar para transmitir características como salud, velocidad y coloración de los padres, aunque a veces pueden ocurrir mutaciones.$(br2)Para criar monturas:$(li)ambas deben estar domesticadas$(li)ambas deben tener salud completa$(li)ambas deben tener un objeto de cría adecuado$(li)al menos una debe estar de pie"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)Si a una montura bebé se le da un hongo deforme, en realidad crecerá más pequeña en lugar de más grande cuando madure.$(br2)Tales monturas solo pueden ser montadas por jinetes particularmente pequeños.$(br2)El hongo carmesí anulará el efecto de encogimiento si se le da a la montura bebé antes de que madure."
+    }
+  ],
+  "sortnum": 5
+}

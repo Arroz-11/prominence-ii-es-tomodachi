@@ -1,0 +1,16 @@
+{
+  "name": "Conceptos básicos del Maná",
+  "icon": "minecraft:lapis_lazuli",
+  "category": "archon:mana",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Es posible que ya hayas notado el contador en la parte inferior izquierda de tu pantalla. Ese contador representa tu maná y tu maná máximo. El maná fluye a través de todas las entidades vivas y los jugadores pueden usarlo para diferentes cosas."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "El maná se genera pasivamente a una tasa base de $(#2895CB)1 maná por segundo$(). Tu velocidad de regeneración de maná y tu maná máximo se pueden mejorar con el uso de diferentes objetos como $(l:archon:mana/scrolls)Pergaminos$()."
+    }
+  ]
+}

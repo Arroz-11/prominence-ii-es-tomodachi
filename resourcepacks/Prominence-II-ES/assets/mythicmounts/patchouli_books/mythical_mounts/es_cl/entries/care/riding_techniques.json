@@ -1,0 +1,13 @@
+{
+  "name": "Técnicas de Montar",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:care",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las monturas domesticadas se pueden montar equipándolas primero con una silla de montar y luego haciendo clic izquierdo en ellas con la mano vacía.$(br2)Las monturas voladoras despegarán y ganarán altitud si se les indica saltar varias veces seguidas.$(br2)Las monturas acuáticas se lanzarán hacia adelante de manera similar si se les dice que salten mientras nadan."
+    }
+  ],
+  "sortnum": 2
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Agujas",
+  "icon": "minecraft:deepslate_bricks",
+  "category": "archon:world",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las Agujas se generan en biomas de bosque y montaña en niveles de Y más altos. Estas estructuras contienen botín como $(l:archon:mana/scrolls)pergaminos$(), lingotes de glisteel, pan y lapislázuli. También encontrarás algunos $(l:archon:misc/mana_leech)sanguijuelas de maná$() que aparecen desde el techo."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "archon:textures/gui/book/spire.png"
+      ],
+      "title": "Aguja",
+      "border": true
+    }
+  ]
+}

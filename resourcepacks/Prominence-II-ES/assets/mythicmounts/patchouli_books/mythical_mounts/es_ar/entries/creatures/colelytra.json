@@ -1,0 +1,47 @@
+{
+  "name": "Colelytra",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Nativos de las legendarias Islas Champiñón, estos coloridos escarabajos viven pacíficamente junto a las mooshrooms.$(br2)Los escarabajos adultos cuidan de sus crías, protegiéndolas y alimentándolas hasta que sus caparazones se endurecen.$(br2)Se cree que el color de su caparazón está influenciado por los pigmentos naturales presentes en su dieta a base de champiñones."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "mythicmounts:colelytra",
+      "title": "Colelytra",
+      "text": "$(o)Nota del autor: agradecimiento especial a $(l)@Atlan$()$(o), quien documentó por primera vez a esta maravillosa bestia!",
+      "scale": 0.6,
+      "offset": 0.2,
+      "rotate": true,
+      "border": true
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Hábitats",
+      "entity_id": "mythicmounts:colelytra"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos para domesticar",
+      "entity_id": "mythicmounts:colelytra"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Comida",
+      "entity_id": "mythicmounts:colelytra"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos para criar",
+      "entity_id": "mythicmounts:colelytra"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Estadísticas base",
+      "entity_id": "mythicmounts:colelytra"
+    }
+  ]
+}

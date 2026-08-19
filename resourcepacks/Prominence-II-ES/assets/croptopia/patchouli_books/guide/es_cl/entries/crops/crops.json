@@ -1,0 +1,11 @@
+{
+  "name": "Cultivos",
+  "icon": "croptopia:eggplant_seed",
+  "category": "croptopia:crops",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los cultivos se pueden encontrar por todo el mundo. Tienen biomas específicos en los que aparecerán. En la versión 2.0.0, la aparición de cultivos ahora se determina con datapacks en lugar de la 'categoría' del bioma; ahora se determina por el nombre del bioma. Si deseas que ciertos cultivos se agreguen a biomas modificados, crea un issue en mi página de GitHub."
+    }
+  ]
+}

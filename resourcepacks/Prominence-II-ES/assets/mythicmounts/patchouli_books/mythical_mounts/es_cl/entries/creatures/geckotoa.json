@@ -1,0 +1,47 @@
+{
+  "name": "Geckotoa",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Prefieren sistemas de cuevas subterráneas poco profundas, estos dóciles gigantes braman fuerte para localizar a otros de su especie.$(br2)Famosos por sus enormes apetitos, las leyendas dicen que estas criaturas eran tan aficionadas a las calabazas que casi las erradican por completo del mundo.$(br2)Tienen mala vista y pueden intentar consumir objetos no comestibles que solo se parecen vagamente a comida."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "mythicmounts:geckotoalizard",
+      "title": "Polilla",
+      "text": "$(br)Un lagarto Geckotoa.",
+      "scale": 0.5,
+      "offset": 0.2,
+      "rotate": true,
+      "border": true
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Hábitats",
+      "entity_id": "mythicmounts:geckotoalizard"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos para domesticar",
+      "entity_id": "mythicmounts:geckotoalizard"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Comida",
+      "entity_id": "mythicmounts:geckotoalizard"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos para criar",
+      "entity_id": "mythicmounts:geckotoalizard"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Estadísticas base",
+      "entity_id": "mythicmounts:geckotoalizard"
+    }
+  ]
+}

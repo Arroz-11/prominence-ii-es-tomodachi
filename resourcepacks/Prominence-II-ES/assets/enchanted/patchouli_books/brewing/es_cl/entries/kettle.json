@@ -1,0 +1,33 @@
+{
+  "name": "Hervidor",
+  "icon": "enchanted:kettle",
+  "category": "enchanted:kettle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El hervidor, similar al caldero de la bruja, es un tipo de aparato de elaboración que se usa principalmente para crear infusiones, pero puede tener otros usos.$(br2)Los hervidores requieren poder del altar y una fuente de calor suficiente para funcionar.$(br2)La falta de poder o calor suficiente hará que la poción se eche a perder, y debe retirarse antes de usar el hervidor nuevamente."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:kettle[type=2,facing=east]",
+          "1": "minecraft:campfire[lit=true]",
+          "f": "minecraft:cobblestone_wall"
+        },
+        "pattern": [
+          [ "f0f" ],
+          [ "f1f" ]
+        ]
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:kettle",
+      "text": "Se puede crear una poción o infusión llenando el hervidor con agua y arrojando los elementos correctos en el orden correcto dentro del hervidor. Las pociones se pueden recolectar con botellas de vidrio vacías una vez completadas."
+    }
+  ],
+  "read_by_default": false,
+  "priority": true
+}

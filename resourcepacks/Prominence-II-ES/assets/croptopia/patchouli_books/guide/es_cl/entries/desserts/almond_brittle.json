@@ -1,0 +1,12 @@
+{
+  "name": "Almendras con caramelo",
+  "icon": "croptopia:almond_brittle",
+  "category": "croptopia:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:almond_brittle",
+      "text": "Receta de almendras con caramelo."
+    }
+  ]
+}

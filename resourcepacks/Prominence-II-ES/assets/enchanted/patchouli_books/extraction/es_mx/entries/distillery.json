@@ -1,0 +1,30 @@
+{
+  "name": "Destilería",
+  "icon": "enchanted:distillery",
+  "category": "enchanted:distillation",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La destilería permite a las brujas separar un material en sus componentes utilizando diferencias en los puntos de ebullición y condensación. $(br2)Colócala cerca de un Altar con suficiente poder."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:distillery[facing=north,lit=true]"
+        },
+        "pattern": [
+          [ "0" ],
+          [ " " ]
+        ]
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:distillery"
+    }
+  ],
+  "read_by_default": false,
+  "priority": true
+}

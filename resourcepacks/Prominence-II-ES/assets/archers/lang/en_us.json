@@ -50,5 +50,15 @@
   "advancements.rpg_series.obtain_arrow.title": "Camino del Arquero",
   "advancements.rpg_series.obtain_arrow.description": "Obtén una Flecha",
   "advancements.rpg_series.spell_master_archer.title": "Experto en Balística",
-  "advancements.rpg_series.spell_master_archer.description": "Completa el Manual de Arquería"
+  "advancements.rpg_series.spell_master_archer.description": "Completa el Manual de Arquería",
+  "item.archers.aeternium_spear": "Lanza de Aeternium",
+  "item.archers.ruby_spear": "Lanza de Rubí",
+  "item.archers.netherite_ranger_armor_head": "Capucha de Guardabosques de Netherita",
+  "item.archers.netherite_ranger_armor_chest": "Túnica de Guardabosques de Netherita",
+  "item.archers.netherite_ranger_armor_legs": "Grebas de Guardabosques de Netherita",
+  "item.archers.netherite_ranger_armor_feet": "Botas de Guardabosques de Netherita",
+  "advancements.rpg_series.path_choose_archer.title": "Camino de la Arquería",
+  "advancements.rpg_series.path_choose_archer.description": "Crea un Manual de Arquería",
+  "advancements.rpg_series.spell_novice_archer.title": "Disparos Letales",
+  "advancements.rpg_series.spell_novice_archer.description": "Obtén tu primera habilidad de Arquería"
 }

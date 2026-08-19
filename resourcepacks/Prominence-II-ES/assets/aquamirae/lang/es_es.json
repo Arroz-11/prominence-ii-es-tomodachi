@@ -233,5 +233,9 @@
   "subtitles.music.horizon": "Horizon",
   "subtitles.music.ice_maze_theme": "Tema del Laberinto de Hielo",
   "subtitles.record.forsaken_drownage": "Forsaken Drownage",
-  "subtitles.record.horizon": "Horizon"
+  "subtitles.record.horizon": "Horizon",
+  "ability.aquamirae.abyssal_armor_full_1": "Habilidad de conjunto completo > Evita la muerte, pero infliges 80% menos daño y te mueves 40% más lento mientras este efecto está en enfriamiento.",
+  "filled_map.aquamirae.ship": "§fMapa del barco del laberinto de hielo",
+  "filled_map.aquamirae.outpost": "§fMapa del puesto de avanzada del laberinto de hielo",
+  "filled_map.aquamirae.shelter": "§eMapa del refugio del laberinto de hielo"
 }

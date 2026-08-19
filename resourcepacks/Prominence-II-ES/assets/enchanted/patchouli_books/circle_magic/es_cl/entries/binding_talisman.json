@@ -1,0 +1,26 @@
+{
+  "name": "Talismán",
+  "icon": "enchanted:circle_talisman",
+  "category": "enchanted:binding",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Talismán",
+      "text": "Este rito de vinculación se usa para vincular círculos de tiza de la configuración correcta a un Talismán del Círculo. Estos círculos pueden colocarse en otra ubicación usando el talismán, y el círculo vinculado se libera en el mundo."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:bind_talisman"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Talismán",
+      "text": "Este rito de vinculación se usa para vincular círculos de tiza de la configuración correcta a un Talismán del Círculo. Estos círculos pueden colocarse en otra ubicación usando el talismán, y el círculo vinculado se libera en el mundo."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:bind_talisman_charged"
+    }
+  ],
+  "read_by_default": true
+}

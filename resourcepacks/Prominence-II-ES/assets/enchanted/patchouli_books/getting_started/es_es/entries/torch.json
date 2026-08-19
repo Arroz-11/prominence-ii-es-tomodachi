@@ -1,0 +1,16 @@
+{
+  "name": "Mejoras de Antorchas",
+  "icon": "enchanted:candelabra",
+  "category": "enchanted:altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Se puede colocar una mejora de la categoría de antorchas en un altar, los beneficios de cada mejora en esta categoría son los siguientes:$(br2)$(bold)Antorcha$() +0.5x Velocidad de Recarga$(br)$(bold)Vela$() +1x Velocidad de Recarga$(br)$(bold)Candelabro$() +2x Velocidad de Recarga"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:candelabra"
+    }
+  ],
+  "read_by_default": true
+}

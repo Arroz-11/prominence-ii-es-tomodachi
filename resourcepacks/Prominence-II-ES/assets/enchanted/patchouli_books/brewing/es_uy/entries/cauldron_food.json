@@ -1,0 +1,16 @@
+{
+  "name": "Hervir Comida",
+  "icon": "minecraft:cooked_beef",
+  "category": "enchanted:cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Otro uso para el caldero de bruja es hervir comida para cocinarla sin necesidad de combustible. Este es un método efectivo de cocción y funciona con cualquier alimento. $(br2)Actualmente solo funciona con alimentos de vainilla, se agregarán más después."
+    },
+    {
+      "type": "enchanted:cauldron_recipe",
+      "recipe": "enchanted:witch_cauldron/cooked_beef"
+    }
+  ],
+  "read_by_default": true
+}

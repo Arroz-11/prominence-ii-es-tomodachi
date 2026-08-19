@@ -1,0 +1,16 @@
+{
+  "name": "Piedra sintonizada",
+  "icon": "enchanted:attuned_stone",
+  "category": "enchanted:crafting_materials",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La piedra sintonizada es un diamante que ha sido modificado para tener una mayor afinidad mágica. Puede cargarse para usarse como contenedor portátil de Poder de Altar, lo que permite al usuario lanzar magia de círculo sin necesidad de un altar, y también se usa en la creación de muchas herramientas mágicas."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:attuned_stone"
+    }
+  ],
+  "read_by_default": true
+}

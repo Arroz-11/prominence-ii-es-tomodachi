@@ -1,0 +1,35 @@
+{
+  "name": "Protección",
+  "icon": "minecraft:shield",
+  "category": "enchanted:creature",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Protección",
+      "text": "Invoca una cúpula impenetrable que solo puede ser atravesada por jugadores agachados. $(br2)Se puede usar una piedra guía vinculada o ensangrentada para apuntar a una posición diferente. $(br2)Requiere 4 de poder adicional por tick."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:protection"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Protección (Grande)",
+      "text": "Invoca una cúpula impenetrable que solo puede ser atravesada por jugadores agachados. $(br2)Se puede usar una piedra guía vinculada o ensangrentada para apuntar a una posición diferente. $(br2)Requiere 6 de poder adicional por tick."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:protection_large"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Protección (Temporal)",
+      "text": "Invoca una cúpula impenetrable que no puede ser atravesada por nada durante 60 segundos. $(br2)Se puede usar una piedra guía vinculada o ensangrentada para apuntar a una posición diferente."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:protection_temporary"
+    }
+  ],
+  "read_by_default": true
+}

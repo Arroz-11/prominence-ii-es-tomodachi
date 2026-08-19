@@ -1,0 +1,32 @@
+{
+  "name": "Caldero de bruja",
+  "icon": "enchanted:witch_cauldron",
+  "category": "enchanted:cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El caldero de bruja es un caldero mejorado que se usa para crear sustancias mágicas y brebajes personalizados (en desarrollo). $(br2)El caldero debe colocarse sobre una fuente de calor para hervir y puede requerir poder del altar.$(br2)Si un caldero no tiene suficiente calor o poder, el brebaje se pondrá marrón y se echará a perder, y deberá retirarse."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:witch_cauldron",
+          "1": "minecraft:campfire[lit=true]"
+        },
+        "pattern": [
+          [ " 0 " ],
+          [ " 1 " ]
+        ]
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:anointing_paste",
+      "text": "Usa pasta de unción en un caldero normal para convertirlo en un caldero de bruja.$(br2)Se puede crear un brebaje llenando el caldero con agua y arrojando los objetos correctos en el orden correcto dentro del caldero."
+    }
+  ],
+  "read_by_default": false,
+  "priority": true
+}

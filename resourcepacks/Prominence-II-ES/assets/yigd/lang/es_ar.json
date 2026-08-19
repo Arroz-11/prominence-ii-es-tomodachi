@@ -1,0 +1,19 @@
+{
+  "text.yigd.message.grave_relocated": "Tu tumba ha sido reubicada en X: %d / Y: %d / Z: %d / %s",
+  "text.yigd.message.grave_generation_error": "La tumba no se pudo generar. Soltando objetos",
+  "text.autoconfig.yigd.option.inventoryConfig.itemLoss.weightedSelection": "Selección Ponderada",
+  "text.autoconfig.yigd.option.inventoryConfig.itemLoss.lossDropRule": "Regla de Soltado Aplicada a los Objetos",
+  "text.autoconfig.yigd.option.inventoryConfig.itemLoss.includeModdedInventories": "Habilitar Pérdida de Inventarios Modificados",
+  "text.autoconfig.yigd.option.graveConfig.requiredItemCount": "Cantidad de Ítems Requeridos",
+  "text.autoconfig.yigd.option.graveConfig.minimumGraveYLevel": "Coordenada Y Mínima de la Tumba",
+  "text.autoconfig.yigd.option.graveConfig.tryGenerateOnGround": "Intentar Generar en el Suelo",
+  "text.autoconfig.yigd.option.graveConfig.blockUnderGrave.generateInOwnClaim": "Generar en Reclamación Propia",
+  "text.autoconfig.yigd.option.respawnConfig.treatBindingCurse": "Manejar Maldición de Ligadura",
+  "text.autoconfig.yigd.option.compatConfig.enableProtectionApiCompat": "¿Cargar Compatibilidad con API de Protección Común?",
+  "text.autoconfig.yigd.option.compatConfig.standardDropRuleInOwnClaim": "Regla de Soltado Predeterminada en Terreno Reclamado",
+  "text.autoconfig.yigd.option.compatConfig.enableAccessoriesCompat": "¿Cargar Compatibilidad con Accesorios?",
+  "text.autoconfig.yigd.option.compatConfig.defaultAccessoriesDropRule": "Regla de Soltado Predeterminada para Objetos en Ranuras de Accesorios",
+  "text.autoconfig.yigd.option.compatConfig.enableRespawnObelisksCompat": "¿Cargar Compatibilidad con Obeliscos de Reaparición?",
+  "text.autoconfig.yigd.option.extraFeatures.deathScroll.useTime": "Tiempo de Carga",
+  "text.autoconfig.yigd.option.extraFeatures.deathScroll.useCooldown": "Enfriamiento"
+}

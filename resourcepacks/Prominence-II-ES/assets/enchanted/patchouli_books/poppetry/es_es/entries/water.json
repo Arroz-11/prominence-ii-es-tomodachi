@@ -1,0 +1,17 @@
+{
+  "name": "Agua",
+  "icon": "enchanted:water_poppet",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los muñecos de agua protegen al beneficiario de morir ahogado, también evitarán la muerte por ahogamiento durante 5 segundos.$(br2)$(bold)Firme$() Un uso extra.$(br)$(bold)Infundido$() 10 segundos de respiración acuática."
+    },
+    {
+      "type": "enchanted:spinning_wheel_recipe",
+      "recipe": "enchanted:spinning/water_poppet"
+    }
+  ],
+  "read_by_default": true,
+  "priority": false
+}

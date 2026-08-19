@@ -175,5 +175,6 @@
   "text.autoconfig.testosterone.option.server.Conversion_Range": "Rango de conversión",
   "text.autoconfig.testosterone.option.server.Rat_Boost_Multiplier": "Multiplicador de potenciador de rata",
   "pack.testosterone.programmer_art.title": "Arte de programador con testosterona",
-  "pack.testosterone.programmer_art.description": "Arte del programador para el mod «Testosterone»."
+  "pack.testosterone.programmer_art.description": "Arte del programador para el mod «Testosterone».",
+  "text.autoconfig.testosterone.option.client": "Configuración del Cliente"
 }

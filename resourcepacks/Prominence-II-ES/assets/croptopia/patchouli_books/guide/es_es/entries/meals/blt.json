@@ -1,0 +1,12 @@
+{
+  "name": "Sándwich BLT",
+  "icon": "croptopia:blt",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:blt",
+      "text": "Receta para un sándwich BLT."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Thunderbrand",
+  "icon": "simplyswords:thunderbrand",
+  "advancement": "simplyswords:thunderbrand",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:thunderbrand",
+      "text": "El Thunderbrand es una alabarda legendaria que aprovecha el poder del trueno. La alabarda está forjada con un metal raro que conduce la electricidad con facilidad, mientras que el mango está envuelto en un material aislante especial que permite al portador sostenerla de forma segura."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La capacidad de la alabarda para lanzarse hacia adelante con una velocidad increíble permite al portador cerrar la distancia y golpear con precisión letal. El Thunderbrand también puede liberar una poderosa descarga eléctrica que golpea a múltiples enemigos a la vez, convirtiéndola en un arma formidable en el campo de batalla."
+    }
+  ]
+}

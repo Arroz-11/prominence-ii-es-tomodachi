@@ -1,0 +1,16 @@
+{
+  "name": "Aguja de hueso",
+  "icon": "enchanted:bone_needle",
+  "category": "enchanted:crafting_materials",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las agujas de hueso se usan para craftear muchas otras herramientas útiles."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:bone_needle"
+    }
+  ],
+  "read_by_default": true
+}

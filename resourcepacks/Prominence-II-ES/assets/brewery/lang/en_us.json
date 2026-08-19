@@ -174,5 +174,11 @@
   "block.brewery.brew_timer": "Estación de Elaboración",
   "entity.brewery.rope_knot": "Nudo de Cuerda",
   "entity.brewery.rope_collision": "Cuerda",
-  "entity.brewery.hanging_rope": "Cuerda Colgante"
+  "entity.brewery.hanging_rope": "Cuerda Colgante",
+  "tooltip.brewery.cantbeplacedhere": "Este bloque no se puede colocar aquí. Requiere un espacio de 2x2x2",
+  "brewery.sound.brewstation_ambient": "La estación de elaboración zumba",
+  "brewery.sound.brewstation_oven": "El horno crepita",
+  "brewery.sound.brewstation_timer": "El temporizador hace tictac",
+  "brewery.sound.brewstation_kettle": "Las burbujas estallan",
+  "brewery.sound.brewstation_whistle": "El silbato suena"
 }

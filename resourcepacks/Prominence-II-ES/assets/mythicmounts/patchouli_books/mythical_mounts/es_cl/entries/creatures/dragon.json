@@ -1,0 +1,47 @@
+{
+  "name": "Dragón",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Seres inmensamente poderosos, se dice que su ronquido mientras duermen causa terremotos y que el batir de sus alas levanta ciclones.$(br2)Habitan en cavernas subterráneas profundas, estas criaturas legendarias son famosas por su naturaleza avariciosa. Aunque son excepcionalmente inteligentes, su insaciable apetito por los tesoros a menudo lleva a los dragones jóvenes a adentrarse demasiado bajo tierra en busca de riquezas. Si se quedan demasiado tiempo, pueden crecer demasiado para poder salir."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "mythicmounts:dragon",
+      "title": "Dragón",
+      "text": "$(br)Un dragón.",
+      "scale": 0.5,
+      "offset": 1.65,
+      "rotate": true,
+      "border": true
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Hábitats",
+      "entity_id": "mythicmounts:dragon"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos para domesticar",
+      "entity_id": "mythicmounts:dragon"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Comida",
+      "entity_id": "mythicmounts:dragon"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Objetos para criar",
+      "entity_id": "mythicmounts:dragon"
+    },
+    {
+      "type": "mythicmounts:server_page",
+      "page_title": "Estadísticas base",
+      "entity_id": "mythicmounts:dragon"
+    }
+  ]
+}

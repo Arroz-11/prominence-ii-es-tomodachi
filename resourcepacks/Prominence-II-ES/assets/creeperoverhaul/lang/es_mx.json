@@ -1,0 +1,8 @@
+{
+  "entity.creeperoverhaul.ocean_creeper": "Creeper Oceánico",
+  "item.creeperoverhaul.ocean_creeper_spawn_egg": "Generar Creeper Oceánico",
+  "subtitles.creeperoverhaul.entity.ocean.creeper.death": "El creeper muere",
+  "subtitles.creeperoverhaul.entity.ocean.creeper.hurt": "El creeper se lastima",
+  "subtitles.creeperoverhaul.entity.ocean.creeper.inflate": "El Creeper Oceánico se infla",
+  "subtitles.creeperoverhaul.entity.ocean.creeper.deflate": "El Creeper Oceánico se desinfla"
+}

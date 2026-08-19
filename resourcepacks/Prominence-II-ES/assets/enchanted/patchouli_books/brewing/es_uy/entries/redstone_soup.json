@@ -1,0 +1,16 @@
+{
+  "name": "Sopa de Redstone",
+  "icon": "enchanted:redstone_soup",
+  "category": "enchanted:kettle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La Sopa de Redstone actúa como base para otras infusiones y brebajes, parece tener muy pocos efectos fuera de esto. $(br2)Beber Sopa de Redstone puede aumentar tu salud por un corto tiempo."
+    },
+    {
+      "type": "enchanted:kettle_recipe",
+      "recipe": "enchanted:kettle/redstone_soup"
+    }
+  ],
+  "read_by_default": true
+}

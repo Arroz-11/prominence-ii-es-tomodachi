@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyswords:magiscythe"
+    },
+    "title": "Tecnología antigua",
+    "description": "Encuentra el arma única Magiscythe.",
+    "hidden": true,
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "simplyswords:decaying_relic",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simplyswords:magiscythe"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

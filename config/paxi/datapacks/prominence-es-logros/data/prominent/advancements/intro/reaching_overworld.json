@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "prominent:flameborn_stone"
+    },
+    "title": "Primeros Pasos",
+    "description": "Termina el tutorial y llega a la Superficie",
+    "hidden": true,
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "prominent:intro/welcome_to_vaaz",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

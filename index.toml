@@ -2501,6 +2501,330 @@ file = "config/paxi/datapacks/paladins_all_the_smites-1.20.1_1.0.zip"
 hash = "c323cd605e86e7269b4c8c2a1b482bf9b81cba344616254997b3cc583fd033f4"
 
 [[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/betterarcheology/advancements/used_bomb_item.json"
+hash = "66204ad7d3e1090e4c589f54f9ff6913b151a0d09d7222f074194566e4f3c63b"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/1000_years_later.json"
+hash = "9cd9363da1566954db36161e9c07f4d35b41e98059a76e259855eb2c3f84a797"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/ashedar.json"
+hash = "2e9893a14c287bd4c3676655a1e4b8afe8fb1fd2ec64ae1f0b62dfbf6003b84d"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/azhar.json"
+hash = "45a52f497a7bdb6699067dcce6edb18351df6178b848b4d0abb8b9584bed79e0"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/bosses/fallen_archmage.json"
+hash = "ff29f801362785f4b8ef872c87a06f10bce574ead692e7b24e20f6b028e96ee5"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/end_of_voids_invasion.json"
+hash = "c8ec1aeb1f5062139270fbd18a7180aeb4255568eb0a6be30209afdde44b1b5b"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/foatf.json"
+hash = "a8b46a9d6249a911b6edca10269693e219b6186e0e75f7a6c91643b51a222af2"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/frostmourne.json"
+hash = "3272f6c2688c94b9a061369d088c5da38aa2fea0d043e4aad25ea794387c3b21"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/fyralath.json"
+hash = "781cadb6f2f392df578b78114cc2efd9e2ab4d394b83dad76de5b10636994e27"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/intro/reaching_overworld.json"
+hash = "f2f0fa48485b810514fe3864ca56a1d8f835e426793dea11d4d1a716454ea77e"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/intro/welcome_to_vaaz.json"
+hash = "2468901c48e1d7eaf18e3208f9a20ed3a7e6b6407c28bd3852f2799959434485"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/level_10.json"
+hash = "d5497e0160f83752a79943897a28cc8b03dac94bbbc3aa800b84ea9929b2c5af"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/level_50.json"
+hash = "befdcbf7bb7eca15b15835abf1359fff6c57a28014dd95e5b2f23ac447a4daad"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/molten_core.json"
+hash = "c9be4b4b4dc30b14884804792d91406e3493510d776e084b3b846113fb11ba0b"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/supernova.json"
+hash = "a84d6fe75b6e644e82881bbff0cd1e0d732991eeda13462e4c7bdeed252ddf38"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/voids_invasion/dialogue_skellak_chapter_1.json"
+hash = "8730242ecc8114f32bdee1a57450bea6944e022e29325e31edd3c78ad0d7abf5"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/voids_invasion/dialogue_skellak_molten_core.json"
+hash = "7ccf58b6702400b76ecc5a4007ab9f99ae0847d7a17464a15aca0008e5a38ac2"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/prominent/advancements/voids_invasion/killed_eye.json"
+hash = "df0b36a003de70ca830426921c8457d9170220ea015558111b724bdf8d09e360"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/arcanethyst.json"
+hash = "d04f64c2c8df3e16578e1bdfe05afa5d843d1db40f772e12d5ba3d28b5295ca6"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/bramblethorn.json"
+hash = "21b2535093f9c2608ecee859ffef77dd1ac362b712a2d13d4e4eb5e215a60487"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/brimstone.json"
+hash = "4aae0068a45b7229493af2f59462d0a26dbf22c73ba9e5fb49411b031a0a43c2"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/caelestis.json"
+hash = "e1c8fc23deb905889bb556ad9b8f226023e4bf92fa501ce6a9fe4ec4bb2bde4b"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/decaying_relic.json"
+hash = "64a75de4da80c19bf22f52cea7160dde6b1f89c84440cd2c56774e445b03418d"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/dormant_relic.json"
+hash = "357f2e9a8ce5dccab607d92d76bdd5e531bdc9dbfeff971274526acccf25cd8d"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/emberblade.json"
+hash = "5dfdbca98ff270a50c824003eb1ad72a3406ef14a8cb1ef0b34823a7051a2a35"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/emberlash.json"
+hash = "f820b3fc3d7d723d00f12aaf4a4e90e64f1b03c3c16898f4998226777c15381f"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/enigma.json"
+hash = "0ee106e7b1b231033e6faefaa64aee189cb190cb0930c4cd76cdc0eebe2974c3"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/flamewind.json"
+hash = "0332014a1fe496bbf044363965fb599c4aa984d2ac6c5a1479510a89ab18ecd0"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/frostfall.json"
+hash = "b2f8b233fed88ae72b23ec5f642f8871528e7a16892a9c631580278f9cd1fa43"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/harbinger.json"
+hash = "5b48d209361b6d78f65544535e08d4d0f9d2b552bcaddb58736110f9ad0fb439"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/hearthflame.json"
+hash = "a1c7d46a6716ef713edc5e764d8a5583be3b363b3b62b0e425c81762735d7361"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/hiveheart.json"
+hash = "b8c008023a9ca020c163abdc428580408ed34fa598e982913c976ad53de7d38a"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/icewhisper.json"
+hash = "0a40245fa9b69fd76972b90fe1f1258a41f92a5955a04a19f4ef55ccd5e50395"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/livyatan.json"
+hash = "0328143dc33bd8216854ead0dd63d506c8b02b3d7aaa3919b4a97472a36148d2"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/longsword_plague.json"
+hash = "f1632d93977d1b665e2a94e0804fdd729d6c3285821ec11e396a62c4b914d692"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/magiblade.json"
+hash = "0fe071be1b455b4d68526815f8ed8b01f36df3edaee7a2d08bd7b92b39f226b5"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/magiscythe.json"
+hash = "31976a815e9c7c4e744b465341741ffcc7cf4d5fa24b800a0ec7903ae8c0a846"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/magispear.json"
+hash = "37a2d639c281a0e35b342f46803e165148830672b513ef3115738261ba665838"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/mjolnir.json"
+hash = "0cc9382122b17b87c7ce16f5b6bb92b9463eceec82f642cc6d05e799c2212d12"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/molten_edge.json"
+hash = "7c70a749447ebc11b58b89fa9139c05c753f3651947fabd0b4e87e91f0382095"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/ribboncleaver.json"
+hash = "b8df20e5fd3aa48565348396d022b2c81b8a2d91970ecb735f9459d5cae50ae8"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/runic_weapon.json"
+hash = "0bd5ba13119e2c5df827cd9c00faaba418f24dd63750d88ec038c5b6be9060ab"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/shadowsting.json"
+hash = "aa66e6ca8c5a9419d97ecffb9084bedcc99c9d647144685aff878e4dc9d4b41c"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/simplyswords.json"
+hash = "3fc2b27b0f917a4a9b0acc293658e63d9bb7cf63d1596f2378f5d485dd8434ba"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/slumbering_lichblade.json"
+hash = "181f625bfe867a6105a6229d8574077ea9ea54c8fb2e5294edaa37a40339c15c"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/soulkeeper.json"
+hash = "08010b5f1591495413ddcf27d7dc06364814dd309f585806c3e6271ffff3f04e"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/soulpyre.json"
+hash = "f873cb2c0767b4805c3f97130687543e05d3202c52ae9ce50aea30a4447cf990"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/soulrender.json"
+hash = "0359a39305e2919678b38c0f9f002dd83c8af1cbc98a563691e6760ee6705d90"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/soulstealer.json"
+hash = "d3aff9aeceee6d94ab0075a9afffd93379631805f7ae95b9f48212563027f3e5"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/stars_edge.json"
+hash = "a00076550ebd619266062fe815f1b597f39c91f324162fb56ca237e550154758"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/stormbringer.json"
+hash = "50c429c69d014238b119b0ddd24e87f24d2dc88ae23016c478ba4499d1da3558"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/storms_edge.json"
+hash = "34d91020131bd1edfbfddc970d5ae568e5e018dc3263bd30da1e1ff1469e9d03"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/sunfire.json"
+hash = "94b315a3485aeecffcf962cb8017ce4c58e8acaaa62dbfacff7a99d864a14abe"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/sword_on_a_stick.json"
+hash = "de072c8c81046bf5ef42aa4f98610836ac65310a360c8c715add104ffa46221f"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/tempest.json"
+hash = "5386af7d19961dceb2caa9c65b67c5c8c6c6dc6829082006d4ca8c997797609b"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/the_watcher.json"
+hash = "b2b7ba57488362111241f656a25ad68d662fef723c8fc6fb2dd3c9f78a78959f"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/thunderbrand.json"
+hash = "4e4e38f6696fc085aa0ca7b6791c71602839fbd0a1fd3808208c65fef3bcad2a"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/twisted_blade.json"
+hash = "76593b2e9143bc33848ca5e8b8625e04eb0980f7f4711e8d145df7f577b740eb"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/watching_warglaive.json"
+hash = "bbfde3ff96a10c2c56f79ac13731961d0f8f4241cef597260c4d7916fdf802bb"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/waxweaver.json"
+hash = "de53cc00d57871790b2887770a5af34d6fbf78098d1a5dbecd7c175bd7fd49e1"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/whisperwind.json"
+hash = "72c88ee225fd666ae663e11e3e928f79deb3c873c8fb919de68c405069e41fd4"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/simplyswords/advancements/wickpiercer.json"
+hash = "a0dbe2d498fd1ca970727279a51559d56129ad74ea8122ba842026bb9c5c11cf"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/ashes.json"
+hash = "d6b9dee7b518ddbf9ae2d289464fa0660a69e315ef7735051fdfddfb22a70b61"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/claymores.json"
+hash = "5161ecb7cc09f3b0c31fb6e39ae98627f9c72520f46437db16188bb2c5065a65"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/falchion.json"
+hash = "d8392783a0474dbff83e6931ce06198a3ce3a01459262e6e29d63ca3917200c7"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/gladius.json"
+hash = "0345d34cb0f75af244194a6d942d699da09f1914917803411dea5facd97f30fe"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/glassocean.json"
+hash = "4710929a8750c6d621e94c9bf2a03737e98c779a4a80803c62b453aadbf61b91"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/hexblade.json"
+hash = "0b101cf731839fb3f9de23dd90dfb181b06886e8947246ca9058d468deabfdd4"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/magebane.json"
+hash = "264f6f1e29258dd82f8a7cf164d62d154d3cea28e00348066d226d5c84a8d29e"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/magebreaker.json"
+hash = "8f7528b5670540609682e5a40561ddedf397cacc2693e2f7ba7f93e8f4f37d4a"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/mageseeker.json"
+hash = "56d843e338f975ea1a0caa9e44ff4fcec08c3cea5a32f9d0de5025ffe7213cd8"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/magus.json"
+hash = "d5b2224eb9dbea9ab593503af5652c81dfac42f34b44eb76fdbf1031b551e8b4"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/monkeyking.json"
+hash = "ec4de9de98c9c9e6038de3f48f881a134f448de4e30db3808940b01acc17f48c"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/omni.json"
+hash = "f5765810b04b00cb576ab12fc7651737cfe3b58a9fcee75b0310f757aaa577f7"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/orb.json"
+hash = "3216f31bd1d4379a82beaa46a0560ab843a38e3f7bb4133161708b0bdca1e7b2"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/root.json"
+hash = "f9fa7d960f0a67d21ea6eb060ad9389cf590ddeb31d7590d4b1e076726f2fbd0"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/specialblades.json"
+hash = "6ab415e689eacdc5b1bdf8ab376b026c0ad82c31f872bd977ecd80a2df3d2085"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/spellblade.json"
+hash = "1892638dac39ecd70b944dcc4cb7e941c4912b95291aefa85218c08c2db3d20c"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/starforge.json"
+hash = "37260fb4baf23fb206df4c3a498fd7d3e2b6425b3973821e39c0e969c021c9e7"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/data/spellbladenext/advancements/spellblades/voidforge.json"
+hash = "450c09fdcea49b2cdb3a5bdfb1b02c7b9baaebf0728acaff0f621d75c22c0907"
+
+[[files]]
+file = "config/paxi/datapacks/prominence-es-logros/pack.mcmeta"
+hash = "9ade09d2193b00d04181642538e38c7f0281b78a08b7be09c390af7d689027f3"
+
+[[files]]
 file = "config/paxi/datapacks/quiver_recipe_supplementaries-1.20.1_1.0.zip"
 hash = "57a76e4c6134cf3dbd29e5c71f82675618d242c6c862c8df571196368311c097"
 
@@ -3862,7 +4186,7 @@ hash = "0543c07a40f7c082225cf49ed072228e4cee6a089a467d1b8ee43818a6a57a63"
 
 [[files]]
 file = "config/puffish_skills/categories/apophis/category.json"
-hash = "0736f73ab0c548c3d4a18b936feb18a0d7ee99096164a8aa1528ce8134904f4d"
+hash = "65a667f05a9ffee73410380aab69c241d18adef28375bfe3a9208dd3950db6c6"
 
 [[files]]
 file = "config/puffish_skills/categories/apophis/connections.json"
@@ -3882,7 +4206,7 @@ hash = "d78240231b84107eb25dd6e117b6a138a16775d08e2b55590bd1c742aced4ae2"
 
 [[files]]
 file = "config/puffish_skills/categories/ashedar_essence/category.json"
-hash = "f3a4c57ad084d21bbf40390ccfaef73537bb7a5ac2d530f04818399640a2ff13"
+hash = "db09010bbe6b9ede7c190e5fa60b2c60a375ca0890d8a407c3a882c5fed1b2ff"
 
 [[files]]
 file = "config/puffish_skills/categories/ashedar_essence/connections.json"
@@ -3902,7 +4226,7 @@ hash = "bc5d4abe8cb5e39740927c03f3acc6b933b86629b3259ba7b229d6013adffc89"
 
 [[files]]
 file = "config/puffish_skills/categories/azhar/category.json"
-hash = "72798a2b89486c87c76d7c9c1ec5c2ef1483eaafee1b50325f5fdaaf30e540c8"
+hash = "2771b831ca320b9b8fb7f466dc399f61251d763630851b88e655e3de295a7975"
 
 [[files]]
 file = "config/puffish_skills/categories/azhar/connections.json"
@@ -3922,7 +4246,7 @@ hash = "88d3a8234a25814be79f330b300b40485bee000aeff05d852589ee7fa9235248"
 
 [[files]]
 file = "config/puffish_skills/categories/ekavar_staff/category.json"
-hash = "26fdb8a3d6b1d9ade9f4dc68259554a75e5479ef18a4be783d67767f1d3e1c75"
+hash = "532fa4fed8f47550ea70d030700de55572c4b15970e0e41e613a724fb1a618df"
 
 [[files]]
 file = "config/puffish_skills/categories/ekavar_staff/connections.json"
@@ -3942,7 +4266,7 @@ hash = "7b01be6338a82e6ca2f537e193a906bae7ef28ac585277a30559434bccda0ca2"
 
 [[files]]
 file = "config/puffish_skills/categories/frostmourne/category.json"
-hash = "2376329450719ba4a6e4212610f57df33445035ef20d821cde7eedecdb6c9fc7"
+hash = "066e6c2d2b44a068e762b4eed4bb46ecf55c3c71b91b0e5d6a3aa330f2c42d97"
 
 [[files]]
 file = "config/puffish_skills/categories/frostmourne/connections.json"
@@ -3962,7 +4286,7 @@ hash = "7fd0d9d069976694aceca606a9bf0866a8c4643b80d5ae01f53c7ffb784decb4"
 
 [[files]]
 file = "config/puffish_skills/categories/fury_of_a_thousand_fists/category.json"
-hash = "dac86d1d523d4402c2c3c2fdb85b40e94066cf7432d0819b3619937d8ee1881a"
+hash = "cb70ad207f0b0c77a320a54618d2e8b0639accd84e1e0be90a199e8b6409f965"
 
 [[files]]
 file = "config/puffish_skills/categories/fury_of_a_thousand_fists/connections.json"
@@ -3982,7 +4306,7 @@ hash = "b14a075339c542268fc2cb7bd820c1268756786a0ae74c7454accaee12b53c57"
 
 [[files]]
 file = "config/puffish_skills/categories/fyralath/category.json"
-hash = "4889af4a3a5f24c85aba5f2e8d2e8ed761b1498881143aca066339a799e3d55d"
+hash = "36e57e588553ff195f33f46e6884d539d04387c7f4c966850a8ed4b2f98b440c"
 
 [[files]]
 file = "config/puffish_skills/categories/fyralath/connections.json"
@@ -4002,7 +4326,7 @@ hash = "dfd87cd31f940c1ceec8bc9c6c0ccbb718334695224efb5910e7089760223ee8"
 
 [[files]]
 file = "config/puffish_skills/categories/ghaj/category.json"
-hash = "ca5a9e304c85f95027cc9299d3f301bb3fcc08d38152ba5595b54fe39d79d77d"
+hash = "3daeeb00aecd2e3de6bb37d9ab33304b79ec5a1590fee6b14dd69098ba76940e"
 
 [[files]]
 file = "config/puffish_skills/categories/ghaj/connections.json"
@@ -4022,7 +4346,7 @@ hash = "aba6c059da653a649475b2730abd5cacbe83578fd3f5f597870e15ab7aaea639"
 
 [[files]]
 file = "config/puffish_skills/categories/orion/category.json"
-hash = "f9f244842f73676d19303c46e8cd85fe2f2ca597a8881241cf305d41cee2df97"
+hash = "b3d7288b942d981a532f5e2954205d3f5adf8504b1214bcdf9b61712530739b6"
 
 [[files]]
 file = "config/puffish_skills/categories/orion/connections.json"
@@ -4042,7 +4366,7 @@ hash = "6a2e0c1cefc0891da47fc7c34843ffe806cb7ee2e814c60f3a73c6597cc02d78"
 
 [[files]]
 file = "config/puffish_skills/categories/prom/category.json"
-hash = "c46dd3c6a807731dd9c9ccf84a6c849dc0c02782773ae8e6ce909ba8efc3b222"
+hash = "6f1ec8e0af948d167eee6c7f7758137acb02f70b472f47650123539e8dc7a942"
 
 [[files]]
 file = "config/puffish_skills/categories/prom/connections.json"
@@ -4062,7 +4386,7 @@ hash = "c0bb1842dd2fb5311e32b3b8bfa08146ddd38312ba4dab538a7125a2c697462c"
 
 [[files]]
 file = "config/puffish_skills/categories/skillet/category.json"
-hash = "178f26afb3f97fa3fa308ab7f62364007ef9fd16a6d27ec31317279366f794d4"
+hash = "25c5bb55a8b31d4346b360fbd6274146b677d8794d5d735d60f4a5320313bfd5"
 
 [[files]]
 file = "config/puffish_skills/categories/skillet/connections.json"
@@ -4082,7 +4406,7 @@ hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
 
 [[files]]
 file = "config/puffish_skills/categories/supernova/category.json"
-hash = "0a4935455da4b4c8cce08e4317b667dfb3aa9e3c104f64ddaf008346f87c3fbd"
+hash = "70ec725a266b2e8d24dd896fd34e3c514d757639723a0a2043245cd6cc6510df"
 
 [[files]]
 file = "config/puffish_skills/categories/supernova/connections.json"
@@ -4102,7 +4426,7 @@ hash = "6cb58d4b0a3660c62895b620c40af96eb3b4e8cf998b9efe9a8958e0662a182a"
 
 [[files]]
 file = "config/puffish_skills/categories/thunderwrath/category.json"
-hash = "7df77f6011f8994369e5220c60d7facc6c51c774ae94cc18d39c4267ec7e0d8d"
+hash = "8c773b15b4390191179ecbe1b60c292ce3dea85c68f46d1ae7c506883db05c5a"
 
 [[files]]
 file = "config/puffish_skills/categories/thunderwrath/connections.json"
@@ -4122,7 +4446,7 @@ hash = "6161cff56b9bb771125d606b4d30b65efa8280efc67cdbb1e6f09b86c171c001"
 
 [[files]]
 file = "config/puffish_skills/categories/vaazkar/category.json"
-hash = "fed48877d421c5e1def802953cf17123287e13593ef4c2bf618c4cc3a3e8bc75"
+hash = "798af56b37119508dd44b5bddcdc359bb834a24a863b524cad6169e18dc34501"
 
 [[files]]
 file = "config/puffish_skills/categories/vaazkar/connections.json"

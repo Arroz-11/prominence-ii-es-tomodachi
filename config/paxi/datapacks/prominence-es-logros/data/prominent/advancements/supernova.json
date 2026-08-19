@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "prominent:supernova"
+    },
+    "title": "La Muerte de una Estrella",
+    "description": "Crea el artefacto cósmico Supernova",
+    "hidden": true,
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "prominent:molten_core",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "prominent:supernova"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

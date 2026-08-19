@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "prominent:molten_core"
+    },
+    "title": "Invasión del Vacío: Capítulo I",
+    "description": "Completa el Capítulo I de la Invasión del Vacío y reclama el Núcleo Fundido de S'kellak",
+    "hidden": true,
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "prominent:voids_invasion/killed_eye",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "rewards": {
+    "loot": [
+      "prominent:moltencore"
+    ]
+  }
+}

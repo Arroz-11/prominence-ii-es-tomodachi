@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "spellbladenext:arcane_blade"
+    },
+    "title": "Espadas Mágicas y Tal",
+    "description": "¿Es una espada o solo una varita afilada?",
+    "background": "minecraft:textures/block/chiseled_quartz_block.png",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "always": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

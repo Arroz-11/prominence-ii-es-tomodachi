@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "prominent:hourglass"
+    },
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "title": "Para ti, 1000 años después",
+    "description": "Un mundo dominado por los impíos.",
+    "hidden": true,
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  }
+}

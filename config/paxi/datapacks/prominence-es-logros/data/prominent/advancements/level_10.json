@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "prominent:knowledge_scroll"
+    },
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "title": "Expansión Desbloqueada: Invasión del Vacío",
+    "description": "Inicia la Invasión del Vacío, desbloqueando el Nivel 11-50.",
+    "hidden": true,
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  }
+}

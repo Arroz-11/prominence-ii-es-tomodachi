@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "spellbladenext:gleaming_head"
+    },
+    "title": "Pesada es la Cabeza",
+    "description": "Obtén una Corona de Destello",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "spellbladenext:spellblades/root",
+  "criteria": {
+    "arcane": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "spellbladenext:gleaming_head"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "arcane"
+    ]
+  ]
+}

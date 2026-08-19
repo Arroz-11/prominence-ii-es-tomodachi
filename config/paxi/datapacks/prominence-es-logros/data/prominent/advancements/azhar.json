@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "prominent:azhar"
+    },
+    "title": "El Traidor",
+    "description": "Crea el artefacto de almafuego A'zhar",
+    "hidden": true,
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "prominent:molten_core",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "prominent:azhar"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

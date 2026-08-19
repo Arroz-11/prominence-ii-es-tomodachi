@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "spellbladenext:frozen_head"
+    },
+    "title": "Sombrero con Estilo",
+    "description": "Obtén un Sombrero de Buscador de Magos",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "spellbladenext:spellblades/root",
+  "criteria": {
+    "arcane": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "spellbladenext:frozen_head"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "arcane"
+    ]
+  ]
+}

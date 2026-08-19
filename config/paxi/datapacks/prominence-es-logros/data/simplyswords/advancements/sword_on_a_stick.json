@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyswords:sword_on_a_stick"
+    },
+    "title": "Maravilla de la Ingeniería",
+    "description": "Obtén el arma única Espada en un palo.",
+    "hidden": true,
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "simplyswords:runic_weapon",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simplyswords:sword_on_a_stick"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

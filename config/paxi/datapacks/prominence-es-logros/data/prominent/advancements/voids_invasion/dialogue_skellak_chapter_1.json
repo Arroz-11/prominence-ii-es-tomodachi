@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "prominent:flameborn_stone"
+    },
+    "title": "Un Reencuentro Preocupante",
+    "description": "Reúnete con S'kellak para discutir los eventos recientes después de los Reyes Caídos.",
+    "hidden": true,
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "prominent:intro/welcome_to_vaaz",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  }
+}

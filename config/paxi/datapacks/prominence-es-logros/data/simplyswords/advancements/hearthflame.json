@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyswords:hearthflame"
+    },
+    "title": "Forjado en llamas",
+    "description": "Encuentra el arma única Llama del hogar.",
+    "hidden": true,
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "simplyswords:runic_weapon",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simplyswords:hearthflame"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

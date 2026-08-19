@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "spellbladenext:crystal_cutlass"
+    },
+    "title": "¿Machete? ¿Por qué haría eso?",
+    "description": "Obtén un Alfanje de Cristal",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "spellbladenext:spellblades/spellblade",
+  "criteria": {
+    "arcane": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "spellbladenext:crystal_cutlass"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "arcane"
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "spellbladenext:hexbladeitem"
+    },
+    "title": "Pandilla del Dinero del Mago de las Sombras",
+    "description": "Sé visitado por un Magister Hoja Encantada",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "spellbladenext:spellblades/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "effects": {
+          "spellbladenext:hexed": {}
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "requirement"
+    ]
+  ]
+}

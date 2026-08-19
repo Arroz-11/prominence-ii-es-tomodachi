@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "prominent:flameborn_stone"
+    },
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "title": "Una Misión de S'kellak",
+    "description": "Inicia el tutorial",
+    "hidden": true,
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1905,6 +1905,30 @@ file = "config/konkrete/locals/en_us.local"
 hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
 
 [[files]]
+file = "config/konkrete/locals/es_ar.local"
+hash = "3b3e1328547b164e817ce9d1d4516f4e50791ddc9c942b4eb7c2ae796255edda"
+
+[[files]]
+file = "config/konkrete/locals/es_cl.local"
+hash = "3b3e1328547b164e817ce9d1d4516f4e50791ddc9c942b4eb7c2ae796255edda"
+
+[[files]]
+file = "config/konkrete/locals/es_es.local"
+hash = "3b3e1328547b164e817ce9d1d4516f4e50791ddc9c942b4eb7c2ae796255edda"
+
+[[files]]
+file = "config/konkrete/locals/es_mx.local"
+hash = "3b3e1328547b164e817ce9d1d4516f4e50791ddc9c942b4eb7c2ae796255edda"
+
+[[files]]
+file = "config/konkrete/locals/es_uy.local"
+hash = "3b3e1328547b164e817ce9d1d4516f4e50791ddc9c942b4eb7c2ae796255edda"
+
+[[files]]
+file = "config/konkrete/locals/es_ve.local"
+hash = "3b3e1328547b164e817ce9d1d4516f4e50791ddc9c942b4eb7c2ae796255edda"
+
+[[files]]
 file = "config/konkrete/locals/pl_pl.local"
 hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
 
@@ -10414,27 +10438,27 @@ hash = "ec7929625e759708d74426cf224784c8bb62ab74704544a8ab3fa877a95375c1"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ad_astra_giselle_addon/lang/es_ar.json"
-hash = "ec7929625e759708d74426cf224784c8bb62ab74704544a8ab3fa877a95375c1"
+hash = "c78ebb2c9b7c1ed5d0d106eb3d164f193bc59a280d6dba7474cd220fa153fe5a"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ad_astra_giselle_addon/lang/es_cl.json"
-hash = "ec7929625e759708d74426cf224784c8bb62ab74704544a8ab3fa877a95375c1"
+hash = "c78ebb2c9b7c1ed5d0d106eb3d164f193bc59a280d6dba7474cd220fa153fe5a"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ad_astra_giselle_addon/lang/es_es.json"
-hash = "ec7929625e759708d74426cf224784c8bb62ab74704544a8ab3fa877a95375c1"
+hash = "c78ebb2c9b7c1ed5d0d106eb3d164f193bc59a280d6dba7474cd220fa153fe5a"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ad_astra_giselle_addon/lang/es_mx.json"
-hash = "ec7929625e759708d74426cf224784c8bb62ab74704544a8ab3fa877a95375c1"
+hash = "c78ebb2c9b7c1ed5d0d106eb3d164f193bc59a280d6dba7474cd220fa153fe5a"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ad_astra_giselle_addon/lang/es_uy.json"
-hash = "ec7929625e759708d74426cf224784c8bb62ab74704544a8ab3fa877a95375c1"
+hash = "c78ebb2c9b7c1ed5d0d106eb3d164f193bc59a280d6dba7474cd220fa153fe5a"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ad_astra_giselle_addon/lang/es_ve.json"
-hash = "ec7929625e759708d74426cf224784c8bb62ab74704544a8ab3fa877a95375c1"
+hash = "c78ebb2c9b7c1ed5d0d106eb3d164f193bc59a280d6dba7474cd220fa153fe5a"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/additionalentityattributes/lang/en_us.json"
@@ -11870,27 +11894,27 @@ hash = "67fec995708894dea91dfcdc22666e0b52383775901e8ddc73ec92f8205df840"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ae2/lang/es_ar.json"
-hash = "67fec995708894dea91dfcdc22666e0b52383775901e8ddc73ec92f8205df840"
+hash = "355b03fb9378211585834882cc2942c3eeda877ec87416835613265b6813dc94"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ae2/lang/es_cl.json"
-hash = "67fec995708894dea91dfcdc22666e0b52383775901e8ddc73ec92f8205df840"
+hash = "355b03fb9378211585834882cc2942c3eeda877ec87416835613265b6813dc94"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ae2/lang/es_es.json"
-hash = "67fec995708894dea91dfcdc22666e0b52383775901e8ddc73ec92f8205df840"
+hash = "355b03fb9378211585834882cc2942c3eeda877ec87416835613265b6813dc94"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ae2/lang/es_mx.json"
-hash = "67fec995708894dea91dfcdc22666e0b52383775901e8ddc73ec92f8205df840"
+hash = "355b03fb9378211585834882cc2942c3eeda877ec87416835613265b6813dc94"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ae2/lang/es_uy.json"
-hash = "67fec995708894dea91dfcdc22666e0b52383775901e8ddc73ec92f8205df840"
+hash = "355b03fb9378211585834882cc2942c3eeda877ec87416835613265b6813dc94"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ae2/lang/es_ve.json"
-hash = "67fec995708894dea91dfcdc22666e0b52383775901e8ddc73ec92f8205df840"
+hash = "355b03fb9378211585834882cc2942c3eeda877ec87416835613265b6813dc94"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ae2wtlib/lang/en_us.json"
@@ -30458,27 +30482,27 @@ hash = "9e4a36f0feab7063278f0a112c2ed5392735a28dfd863fa87a26ef60e186175d"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/forcemaster_rpg/lang/es_ar.json"
-hash = "9e4a36f0feab7063278f0a112c2ed5392735a28dfd863fa87a26ef60e186175d"
+hash = "15f79fb8b8e1847866d49e0d0c8bf447dbafae8d9b19ed1279d29f5e1e84aae7"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/forcemaster_rpg/lang/es_cl.json"
-hash = "9e4a36f0feab7063278f0a112c2ed5392735a28dfd863fa87a26ef60e186175d"
+hash = "15f79fb8b8e1847866d49e0d0c8bf447dbafae8d9b19ed1279d29f5e1e84aae7"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/forcemaster_rpg/lang/es_es.json"
-hash = "9e4a36f0feab7063278f0a112c2ed5392735a28dfd863fa87a26ef60e186175d"
+hash = "15f79fb8b8e1847866d49e0d0c8bf447dbafae8d9b19ed1279d29f5e1e84aae7"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/forcemaster_rpg/lang/es_mx.json"
-hash = "9e4a36f0feab7063278f0a112c2ed5392735a28dfd863fa87a26ef60e186175d"
+hash = "15f79fb8b8e1847866d49e0d0c8bf447dbafae8d9b19ed1279d29f5e1e84aae7"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/forcemaster_rpg/lang/es_uy.json"
-hash = "9e4a36f0feab7063278f0a112c2ed5392735a28dfd863fa87a26ef60e186175d"
+hash = "15f79fb8b8e1847866d49e0d0c8bf447dbafae8d9b19ed1279d29f5e1e84aae7"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/forcemaster_rpg/lang/es_ve.json"
-hash = "9e4a36f0feab7063278f0a112c2ed5392735a28dfd863fa87a26ef60e186175d"
+hash = "15f79fb8b8e1847866d49e0d0c8bf447dbafae8d9b19ed1279d29f5e1e84aae7"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/forgeconfigapiport/lang/en_us.json"
@@ -31263,30 +31287,6 @@ hash = "591445f7b09c77c69e5c8af858ab405fce41fdf0f7d0514b7b08dcc185d5cc9b"
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/justhammers/lang/es_ve.json"
 hash = "591445f7b09c77c69e5c8af858ab405fce41fdf0f7d0514b7b08dcc185d5cc9b"
-
-[[files]]
-file = "resourcepacks/Prominence-II-ES/assets/keksuccino/konkretelocals/es_ar.local"
-hash = "3b3e1328547b164e817ce9d1d4516f4e50791ddc9c942b4eb7c2ae796255edda"
-
-[[files]]
-file = "resourcepacks/Prominence-II-ES/assets/keksuccino/konkretelocals/es_cl.local"
-hash = "3b3e1328547b164e817ce9d1d4516f4e50791ddc9c942b4eb7c2ae796255edda"
-
-[[files]]
-file = "resourcepacks/Prominence-II-ES/assets/keksuccino/konkretelocals/es_es.local"
-hash = "3b3e1328547b164e817ce9d1d4516f4e50791ddc9c942b4eb7c2ae796255edda"
-
-[[files]]
-file = "resourcepacks/Prominence-II-ES/assets/keksuccino/konkretelocals/es_mx.local"
-hash = "3b3e1328547b164e817ce9d1d4516f4e50791ddc9c942b4eb7c2ae796255edda"
-
-[[files]]
-file = "resourcepacks/Prominence-II-ES/assets/keksuccino/konkretelocals/es_uy.local"
-hash = "3b3e1328547b164e817ce9d1d4516f4e50791ddc9c942b4eb7c2ae796255edda"
-
-[[files]]
-file = "resourcepacks/Prominence-II-ES/assets/keksuccino/konkretelocals/es_ve.local"
-hash = "3b3e1328547b164e817ce9d1d4516f4e50791ddc9c942b4eb7c2ae796255edda"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/kibe/lang/en_us.json"
@@ -39170,27 +39170,27 @@ hash = "9756da447b17dea832150edc0a3ee5dd265011e00404bfccc92872d22a539671"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/spellbladenext/lang/es_ar.json"
-hash = "ba444d5e14b148a90a9540352f256dd0ecb2eb5cd599c50d504e594c6899e5ca"
+hash = "d4a27d2ecc278b0cb28d5b11d9106dfeba6640a3823b95ace999c8457504e175"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/spellbladenext/lang/es_cl.json"
-hash = "ba444d5e14b148a90a9540352f256dd0ecb2eb5cd599c50d504e594c6899e5ca"
+hash = "d4a27d2ecc278b0cb28d5b11d9106dfeba6640a3823b95ace999c8457504e175"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/spellbladenext/lang/es_es.json"
-hash = "ba444d5e14b148a90a9540352f256dd0ecb2eb5cd599c50d504e594c6899e5ca"
+hash = "d4a27d2ecc278b0cb28d5b11d9106dfeba6640a3823b95ace999c8457504e175"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/spellbladenext/lang/es_mx.json"
-hash = "ba444d5e14b148a90a9540352f256dd0ecb2eb5cd599c50d504e594c6899e5ca"
+hash = "d4a27d2ecc278b0cb28d5b11d9106dfeba6640a3823b95ace999c8457504e175"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/spellbladenext/lang/es_uy.json"
-hash = "ba444d5e14b148a90a9540352f256dd0ecb2eb5cd599c50d504e594c6899e5ca"
+hash = "d4a27d2ecc278b0cb28d5b11d9106dfeba6640a3823b95ace999c8457504e175"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/spellbladenext/lang/es_ve.json"
-hash = "ba444d5e14b148a90a9540352f256dd0ecb2eb5cd599c50d504e594c6899e5ca"
+hash = "d4a27d2ecc278b0cb28d5b11d9106dfeba6640a3823b95ace999c8457504e175"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/stoneworks/lang/en_us.json"
@@ -40318,27 +40318,27 @@ hash = "01bb8bca0212f9165b570cf8140d86586bd736845421d7880f2d8009d5af6ecd"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/zenith/lang/es_ar.json"
-hash = "01bb8bca0212f9165b570cf8140d86586bd736845421d7880f2d8009d5af6ecd"
+hash = "264675710ff1849a268bc433ac4c7af9ee91ddc210d9e8375ace930f0270cc68"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/zenith/lang/es_cl.json"
-hash = "01bb8bca0212f9165b570cf8140d86586bd736845421d7880f2d8009d5af6ecd"
+hash = "264675710ff1849a268bc433ac4c7af9ee91ddc210d9e8375ace930f0270cc68"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/zenith/lang/es_es.json"
-hash = "01bb8bca0212f9165b570cf8140d86586bd736845421d7880f2d8009d5af6ecd"
+hash = "264675710ff1849a268bc433ac4c7af9ee91ddc210d9e8375ace930f0270cc68"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/zenith/lang/es_mx.json"
-hash = "01bb8bca0212f9165b570cf8140d86586bd736845421d7880f2d8009d5af6ecd"
+hash = "264675710ff1849a268bc433ac4c7af9ee91ddc210d9e8375ace930f0270cc68"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/zenith/lang/es_uy.json"
-hash = "01bb8bca0212f9165b570cf8140d86586bd736845421d7880f2d8009d5af6ecd"
+hash = "264675710ff1849a268bc433ac4c7af9ee91ddc210d9e8375ace930f0270cc68"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/zenith/lang/es_ve.json"
-hash = "01bb8bca0212f9165b570cf8140d86586bd736845421d7880f2d8009d5af6ecd"
+hash = "264675710ff1849a268bc433ac4c7af9ee91ddc210d9e8375ace930f0270cc68"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/zenith/patchouli_books/chronicle/es_ar/categories/adventure/adventure.json"

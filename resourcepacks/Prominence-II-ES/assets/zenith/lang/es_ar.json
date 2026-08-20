@@ -307,7 +307,7 @@
   "stat.zenith.no_ai.desc": "Las entidades generadas no tendrán IA",
   "stat.zenith.silent.desc": "Las entidades generadas no harán ruido.",
   "title.zenith.spawner": "Modificador de Spawner",
-  "info.zenith.spawner": "Los Spawners se pueden recoger con Toque de seda y se pueden modificar con varios Items.",
+  "info.zenith.spawner": "Los Spawners se pueden recoger con %s y se pueden modificar con varios objetos.",
   "info.zenith.spawner.no_silk": "Los Spawners se pueden modificar con varios Items, pero la recolección con Toque de seda está deshabilitada actualmente.",
   "info.zenith.spawner.always_drop": "Los Spawners se pueden modificar con varios Items y siempre caerán cuando se rompa.",
   "info.zenith.capturing": "El encantamiento de captura les da a los monstruos la oportunidad de dejar caer su huevo de spawn.\\n \\nDrop Rate: 0.4%% por nivel",

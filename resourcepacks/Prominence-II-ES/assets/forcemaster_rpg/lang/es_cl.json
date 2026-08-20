@@ -38,7 +38,7 @@
   "spell.forcemaster_rpg.barq_esna.name": "Baraqijal Esna",
   "spell.forcemaster_rpg.barq_esna.description": "Hace que un objetivo sea más vulnerable al daño de alma, debilita su ataque y aumenta tu probabilidad de asestar un golpe crítico contra él.",
   "spell.forcemaster_rpg.burstcrack.name": "Grieta explosiva",
-  "spell.forcemaster_rpg.burstcrack.description": "Golpea con fuerza el suelo, infligiendo {damage} de daño físico y lanzando por los aires a los objetivos. El lanzador obtiene 5 niveles de «Soul Overflow» al instante.",
+  "spell.forcemaster_rpg.burstcrack.description": "Golpea el suelo con fuerza, infligiendo {damage} de daño físico y lanzando por los aires a los objetivos. El lanzador obtiene 5 niveles de Desbordamiento de alma al instante.",
   "spell.forcemaster_rpg.belial_smashing.name": "Belial Smashing",
   "spell.forcemaster_rpg.belial_smashing.description": "Carga en una dirección, lanzando por los aires a los objetivos e infligiendo {damage_1} de daño arcano y {damage_2} de daño físico.",
   "spell.forcemaster_rpg.sonichand.name": "Mano sónica",

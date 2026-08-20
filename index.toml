@@ -3025,6 +3025,18 @@ file = "config/paxi/datapacks/tierify-prominence-tweaks-2.0.1.zip"
 hash = "7521ca8a8e6bb3a95e5e10c8ac7553c4ae37c1d2644083d80d92f1eec4174b3a"
 
 [[files]]
+file = "config/paxi/datapacks/tomodachi-fixes/data/the_bumblezone/bz_bee_queen_trades/revival/modded/regions_unexplored_oak_branch.json"
+hash = "1d073201f255816f75839e6a4f4a7e479d56f09ab283381fe7abe6ad33a093cd"
+
+[[files]]
+file = "config/paxi/datapacks/tomodachi-fixes/data/the_bumblezone/bz_bee_queen_trades/revival/modded/regions_unexplored_oak_shrub.json"
+hash = "a7269da76603a405364f3f6bf7b2801d767722402112f543ad254aa89139735b"
+
+[[files]]
+file = "config/paxi/datapacks/tomodachi-fixes/pack.mcmeta"
+hash = "f72d89375af5b01b4d2de9b0551e1b30df8c717c493a3b378e66526b2ef760d4"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 

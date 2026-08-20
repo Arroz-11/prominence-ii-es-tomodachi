@@ -200,5 +200,6 @@
   "screen.wands.rot_90": "90°",
   "wands.hud.count": "N",
   "wands.hud.p1": "P1",
-  "wands.hud.p2": "P2"
+  "wands.hud.p2": "P2",
+  "wands.instruction.line.set_end": "Establecer punto final"
 }

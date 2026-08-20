@@ -445,5 +445,9 @@
   "distanthorizons.config.enum.EDhApiGrassSideRendering.AS_DIRT": "Como tierra",
   "distanthorizons.config.enum.EDhApiRenderingEngine.AUTO": "Automático",
   "distanthorizons.config.enum.EDhApiRenderingEngine.OPEN_GL": "OpenGL",
-  "distanthorizons.config.enum.EDhApiRenderingEngine.BLAZE_3D": "Blaze3D"
+  "distanthorizons.config.enum.EDhApiRenderingEngine.BLAZE_3D": "Blaze3D",
+  "distanthorizons.config.client.advanced.graphics.fog.farFogEnd": "Fin de la niebla",
+  "distanthorizons.config.client.advanced.graphics.fog.heightFog.heightFogEnd": "Fin de la niebla de altura",
+  "distanthorizons.config.client.advanced.graphics.fog.farFogEnd.@tooltip": "¿Dónde debería terminar la niebla? \n\n  '0.0': La niebla termina en la posición del jugador.\n  '1.0': El círculo del fin de la niebla entra justo en el cuadrado de distancia de renderizado de LOD.\n'1.414': El cuadrado de distancia de renderizado de LOD entra justo en el círculo del fin de la niebla.\n",
+  "distanthorizons.config.client.advanced.graphics.fog.heightFog.heightFogEnd.@tooltip": "¿Cuánto debería desplazarse el fin de la niebla de altura? \n\n  '0.0': Fin de la niebla sin desplazamiento.\n  '1.0': Fin de la niebla desplazado toda la altura del mundo. (Incluye la profundidad)\n"
 }

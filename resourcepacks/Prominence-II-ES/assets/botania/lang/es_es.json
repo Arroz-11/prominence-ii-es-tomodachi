@@ -1394,5 +1394,7 @@
   "botania.roman10": "X",
   "botania.roman5": "V",
   "botaniamisc.monocle.comparator.compare": "≥",
-  "botaniamisc.monocle.comparator.subtract": "-"
+  "botaniamisc.monocle.comparator.subtract": "-",
+  "advancement.botania:luminizerRide": "World's End Dancehall",
+  "botania.page.enderAir1": "Se determinó «experimentalmente» que los gases del vacío del $(thing)End$(0), al mezclarse con aire común del $(thing)Overworld$(0), son bastante tóxicos para ciertos mobs del $(thing)Nether$(0) como el $(thing)Ghast$(0).$(p)Si bien la cantidad que guarda una $(item)Botella de aire del Fin$(0) es demasiado poca para causar daño real, sin duda sirve como irritante.$(p)Sobre todo si llega a entrar en los ojos."
 }

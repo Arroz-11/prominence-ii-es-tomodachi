@@ -524,5 +524,8 @@
   "book.minecells.entries.weapons.throwing_knife": "Un proyectil de un solo uso que aplica sangrado.",
   "death.attack.minecells.cursed.player": "%1$s Sucumbió a una Maldición",
   "options.minecells.screenshake": "Sacudida de Pantalla de Mine Cells",
-  "options.minecells.screenshake.tooltip": "Modifica la intensidad global de los eventos de sacudida de pantalla que agrega Mine Cells.\nLos eventos individuales se pueden ajustar en el archivo minecells-client.json5.\n0% desactiva todas las sacudidas de pantalla de Mine Cells."
+  "options.minecells.screenshake.tooltip": "Modifica la intensidad global de los eventos de sacudida de pantalla que agrega Mine Cells.\nLos eventos individuales se pueden ajustar en el archivo minecells-client.json5.\n0% desactiva todas las sacudidas de pantalla de Mine Cells.",
+  "block.minecells.rift.description": "Volver al Overworld",
+  "item.minecells.dimensional_rune.only_usable_in_overworld": "Solo puedes usar esta runa en el Overworld",
+  "item.minecells.dimensional_rune.tooltip": "Úsala en una Puerta del Overworld\npara cambiar su destino"
 }

@@ -2,5 +2,9 @@
   "welcomescreen.configuration.client": "cliente",
   "welcomescreen.configuration.example": "ejemplo",
   "example_mod.configuration.client": "cliente",
-  "example_mod.configuration.example": "ejemplo"
+  "example_mod.configuration.example": "ejemplo",
+  "death_knights.configuration.example": "ejemplo",
+  "death_knights.configuration.client": "cliente",
+  "opacpvp.configuration.client": "cliente",
+  "opacpvp.configuration.example": "ejemplo"
 }

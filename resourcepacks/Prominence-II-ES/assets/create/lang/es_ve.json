@@ -369,5 +369,6 @@
   "tag.item.create.valve_handles": "Manijas de válvula",
   "tag.item.create.vanilla_stripped_logs": "Troncos pelados de vainilla",
   "tag.item.create.vanilla_stripped_wood": "Madera pelada de vainilla",
-  "tag.recipe_serializer.create.automation_ignore": "No automatizable"
+  "tag.recipe_serializer.create.automation_ignore": "No automatizable",
+  "tag.block.create.movable_empty_collider": "Colisionadores Vacíos Desplazables"
 }

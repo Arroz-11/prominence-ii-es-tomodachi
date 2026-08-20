@@ -1010,5 +1010,6 @@
   "upgrade.betterend.plate_upgrade": "Revestimiento de Aeternium",
   "upgrade.betterend.terminite_upgrade": "Mejora de Terminita",
   "upgrade.betterend.thallasium_upgrade": "Mango de Espada de Talismanio",
-  "upgrade.betterend.tool_assembly": "Ensamblar Espada"
+  "upgrade.betterend.tool_assembly": "Ensamblar Espada",
+  "advancements.betterend.aeternium_anvil.title": "El fin de toda herrería"
 }

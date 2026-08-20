@@ -74,5 +74,6 @@
   "gui.comforts.config.dayWakeTimeOffset.name": "Desplazamiento de hora de despertar de noche a día",
   "gui.comforts.config.dayWakeTimeOffset.description": "La cantidad de tiempo, en ticks, para sumar o restar a la nueva hora después de dormir durante una noche.",
   "gui.comforts.config.nightWakeTimeOffset.name": "Desplazamiento de hora de despertar de día a noche",
-  "gui.comforts.config.nightWakeTimeOffset.description": "La cantidad de tiempo, en ticks, para sumar o restar a la nueva hora después de dormir durante un día."
+  "gui.comforts.config.nightWakeTimeOffset.description": "La cantidad de tiempo, en ticks, para sumar o restar a la nueva hora después de dormir durante un día.",
+  "block.comforts.hammock.missing_rope": "También debe haber una cuerda y un clavo en el otro extremo para colgar la hamaca"
 }

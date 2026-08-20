@@ -276,5 +276,6 @@
   "spell.spellbladenext.inexorable.description": "Mientras está activo, tu pasivo Postura Desafiante ya no tiene límite.",
   "effect.spellbladenext.collapse": "Colapso",
   "effect.spellbladenext.deathchill": "Frío Mortal",
-  "effect.spellbladenext.spellstrike": "Golpe de Hechizo"
+  "effect.spellbladenext.spellstrike": "Golpe de Hechizo",
+  "spell.spellbladenext.overpower.description": "Cargas hacia adelante, arrastrando a los enemigos cercanos por tu camino, causando {damage_1} de daño físico y {damage_2} de daño curativo al final del canalizado. Los objetivos alcanzados por el golpe final quedan Quebrantados durante seis segundos, perdiendo todas las estadísticas de armadura y quedando inmóviles."
 }

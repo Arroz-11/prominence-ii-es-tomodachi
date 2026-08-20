@@ -1,0 +1,19 @@
+general.width = Ancho
+general.height = Alto
+general.on = Sí
+general.off = No
+
+popup.done = Listo
+
+popup.yesno.confirm = Confirmar
+popup.yesno.cancel = Cancelar
+
+popup.notification.accept = Aceptar
+
+popup.choosefile.back = ATRÁS
+popup.choosefile.title = Elegir archivo
+popup.choosefile.choose = Elegir
+popup.choosefile.supported = Tipos de archivo admitidos:
+
+configscreen.boolean.enabled = Activado
+configscreen.boolean.disabled = Desactivado

@@ -256,5 +256,6 @@
   "enchantment.mcdw.void_strike.desc": "Probabilidad de causar daño multiplicativo basado en el nivel del encantamiento.",
   "enchantment.mcdw.void_shot.desc": "Probabilidad de causar daño multiplicativo basado en el nivel del encantamiento.",
   "enchantment.mcdw.weakening.desc": "Probabilidad de generar una nube de debilidad alrededor del objetivo.",
-  "enchantment.mcdw.wild_rage.desc": "Golpear a un enemigo tiene probabilidad de enfurecerlo, volviéndolo hostil hacia todos."
+  "enchantment.mcdw.wild_rage.desc": "Golpear a un enemigo tiene probabilidad de enfurecerlo, volviéndolo hostil hacia todos.",
+  "item.mcdw.dagger_the_end": "The End"
 }

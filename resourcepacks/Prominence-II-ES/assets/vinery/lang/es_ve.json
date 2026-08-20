@@ -181,5 +181,9 @@
   "tooltip.vinery.banner.thankyou_4": "Otorga Regeneración II en un radio de 8 bloques",
   "tooltip.vinery.next_upgrade": "Días restantes para mejorar la calidad: %s",
   "tooltip.vinery.fermentation_barrel.red_crimson_juice_with_percentage": "Jugo de uva carmesí: %s%%",
-  "tooltip.vinery.fermentation_barrel.white_warped_juice_with_percentage": "Jugo de uva blanca distorsionada: %s%%"
+  "tooltip.vinery.fermentation_barrel.white_warped_juice_with_percentage": "Jugo de uva blanca distorsionada: %s%%",
+  "advancement.vinery.juicy_success.desc": "Consigue cualquier variante de jugo de uvas.",
+  "advancement.vinery.nectar_of_life.desc": "Consigue todas las variantes de jugo de uvas.",
+  "advancement.vinery.purely_apple.desc": "Consigue jugo de manzana.",
+  "tooltip.vinery.fermentation_barrel.apple_juice_with_percentage": "Jugo de manzana: %s%%"
 }

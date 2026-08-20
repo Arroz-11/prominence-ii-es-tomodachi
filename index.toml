@@ -2501,10 +2501,6 @@ file = "config/paxi/datapacks/paladins_all_the_smites-1.20.1_1.0.zip"
 hash = "c323cd605e86e7269b4c8c2a1b482bf9b81cba344616254997b3cc583fd033f4"
 
 [[files]]
-file = "config/paxi/datapacks/prominence-es-carteles/assets/railways/ponder/coupler.nbt"
-hash = "226b6e41136877dc95711f48c2b05e72cf8869ab484d2747547a14f4c9a64c6b"
-
-[[files]]
 file = "config/paxi/datapacks/prominence-es-carteles/data/dungeons_arise/structures/aviary/aviary_part_5.nbt"
 hash = "319626c98aec95c577c8b666c0ea7dd027a9590aa8850dbe9d457843ec017ec8"
 
@@ -36439,6 +36435,10 @@ hash = "c74d1d6be3e6d79fc915c8230f99e3a30d8468f080b6163273e7da2c97cf8b9e"
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/railways/lang/es_ve.json"
 hash = "c74d1d6be3e6d79fc915c8230f99e3a30d8468f080b6163273e7da2c97cf8b9e"
+
+[[files]]
+file = "resourcepacks/Prominence-II-ES/assets/railways/ponder/coupler.nbt"
+hash = "226b6e41136877dc95711f48c2b05e72cf8869ab484d2747547a14f4c9a64c6b"
 
 [[files]]
 file = "resourcepacks/Prominence-II-ES/assets/ranged_weapon/lang/en_us.json"
